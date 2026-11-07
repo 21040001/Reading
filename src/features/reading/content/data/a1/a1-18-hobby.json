@@ -1,0 +1,182 @@
+{
+  "id": "a1-18-hobby",
+  "title": {
+    "uz": "Mening xobbim"
+  },
+  "en": "My Hobby",
+  "level": "A1",
+  "kind": "blog",
+  "tag": {
+    "uz": "Xobbi",
+    "en": "Hobbies"
+  },
+  "intro": {
+    "uz": "Bu — Kamolaning blogi. U sevimli mashgʻuloti haqida yozadi. Oʻqishdan oldin: sizning xobbingiz nima?"
+  },
+  "paragraphs": [
+    {
+      "en": "Hi, everyone! I'm Kamola, and this is my blog. I am fourteen and I live in Samarkand. Today I want to tell you about my hobby. My hobby is drawing.",
+      "uz": "Hammaga salom! Men Kamolaman, bu esa mening blogim. Men oʻn toʻrt yoshdaman va Samarqandda yashayman. Bugun sizga xobbim haqida aytib bermoqchiman. Mening xobbim — rasm chizish."
+    },
+    {
+      "en": "I draw every day after school. I usually draw people, cats and old buildings. Samarkand has many beautiful buildings, so I never get bored!",
+      "uz": "Men har kuni darsdan keyin rasm chizaman. Odatda odamlar, mushuklar va qadimiy binolarni chizaman. Samarqandda goʻzal binolar koʻp, shuning uchun hech qachon zerikmayman!"
+    },
+    {
+      "en": "I have a big box of pencils and a small sketchbook. I always carry my sketchbook in my bag. On Saturdays I go to an art club. Our teacher is very friendly.",
+      "uz": "Menda bir katta quti qalam va kichkina eskiz daftari bor. Eskiz daftarimni doim sumkamda olib yuraman. Shanba kunlari rasm toʻgaragiga boraman. Oʻqituvchimiz juda samimiy."
+    },
+    {
+      "en": "I also like reading and playing chess with my grandfather, but drawing is my favourite. What is your hobby? Write in the comments!",
+      "uz": "Men kitob oʻqishni va bobom bilan shaxmat oʻynashni ham yoqtiraman, lekin eng sevimli mashgʻulotim — rasm chizish. Sizning xobbingiz nima? Izohlarda yozing!"
+    }
+  ],
+  "glossary": [
+    {
+      "en": "hobby",
+      "uz": "xobbi, sevimli mashgʻulot"
+    },
+    {
+      "en": "draw",
+      "uz": "rasm chizmoq"
+    },
+    {
+      "en": "usually",
+      "uz": "odatda"
+    },
+    {
+      "en": "get bored",
+      "uz": "zerikmoq"
+    },
+    {
+      "en": "pencil",
+      "uz": "qalam"
+    },
+    {
+      "en": "sketchbook",
+      "uz": "eskiz daftari, rasm daftari"
+    },
+    {
+      "en": "carry",
+      "uz": "olib yurmoq"
+    },
+    {
+      "en": "art club",
+      "uz": "rasm toʻgaragi"
+    },
+    {
+      "en": "friendly",
+      "uz": "samimiy, xushmuomala"
+    },
+    {
+      "en": "chess",
+      "uz": "shaxmat"
+    },
+    {
+      "en": "comments",
+      "uz": "izohlar (internetda)"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "b08-like-ing",
+      "title": {
+        "uz": "like + -ing"
+      },
+      "example": "I also like reading and playing chess with my grandfather"
+    },
+    {
+      "topicId": "b42-hobbies-vocab",
+      "title": {
+        "uz": "Xobbi haqida: My hobby is …"
+      },
+      "example": "My hobby is drawing."
+    }
+  ],
+  "questions": [
+    {
+      "id": "a1-18-hobby-q1",
+      "type": "tfng",
+      "statement": "Kamola lives in Samarkand.",
+      "answer": "T",
+      "explain": {
+        "uz": "1-xatboshi: «I live in Samarkand.»"
+      },
+      "para": 0
+    },
+    {
+      "id": "a1-18-hobby-q2",
+      "type": "choice",
+      "prompt": "What is Kamola's favourite hobby?",
+      "options": [
+        "reading",
+        "drawing",
+        "playing chess"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«My hobby is drawing.» Kitob va shaxmatni ham yoqtiradi, lekin «drawing is my favourite»."
+      },
+      "para": 0
+    },
+    {
+      "id": "a1-18-hobby-q3",
+      "type": "choice",
+      "prompt": "When does Kamola draw?",
+      "options": [
+        "every day after school",
+        "only on Saturdays",
+        "only at night"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "«I draw every day after school.»"
+      },
+      "para": 1
+    },
+    {
+      "id": "a1-18-hobby-q4",
+      "type": "gap",
+      "prompt": "Kamola usually draws people, cats and old ___.",
+      "answers": [
+        "buildings"
+      ],
+      "explain": {
+        "uz": "«I usually draw people, cats and old buildings.»"
+      },
+      "para": 1
+    },
+    {
+      "id": "a1-18-hobby-q5",
+      "type": "tfng",
+      "statement": "Kamola often gets bored.",
+      "answer": "F",
+      "explain": {
+        "uz": "Samarqandda goʻzal binolar koʻp: «so I never get bored!»"
+      },
+      "para": 1
+    },
+    {
+      "id": "a1-18-hobby-q6",
+      "type": "gap",
+      "prompt": "Kamola always carries her ___ in her bag.",
+      "answers": [
+        "sketchbook"
+      ],
+      "explain": {
+        "uz": "«I always carry my sketchbook in my bag.»"
+      },
+      "para": 2
+    },
+    {
+      "id": "a1-18-hobby-q7",
+      "type": "tfng",
+      "statement": "Kamola plays chess with her grandfather.",
+      "answer": "T",
+      "explain": {
+        "uz": "«I also like reading and playing chess with my grandfather»."
+      },
+      "para": 3
+    }
+  ]
+}

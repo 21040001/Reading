@@ -1,0 +1,263 @@
+{
+  "id": "b2-16-sardoba",
+  "title": {
+    "uz": "Sardobalar — choʻldagi suv omborlari"
+  },
+  "en": "Sardobas: Water Stores of the Desert",
+  "level": "B2",
+  "kind": "exam",
+  "tag": {
+    "uz": "Tarix va meʼmorchilik",
+    "en": "History and architecture"
+  },
+  "intro": {
+    "uz": "Topshiriq: Summary va sentence completion (NO MORE THAN N WORDS). Maslahat: boʻshliqdan oldingi va keyingi soʻzlarga qarang — «a/the» yoki sifatdan keyin odatda ot, «to» yoki «will»dan keyin feʼl keladi. Avval qaysi soʻz turkumi kerakligini aniqlang, keyin matndan shu turdagi soʻzni qidiring."
+  },
+  "paragraphs": [
+    {
+      "en": "Travelling across the deserts of Central Asia was always a test of endurance. For merchants on the caravan routes, the greatest danger was not bandits or heat alone, but thirst. Wells were often deep, and their water could be salty. To solve this problem, builders in the region developed a remarkable structure known as the sardoba, a covered cistern designed to collect and store fresh water."
+    },
+    {
+      "en": "A typical sardoba consisted of two parts. Below ground was a large round reservoir, lined with fired bricks and sealed with a special mortar so that water would not leak away. Above it rose a dome, also made of brick, which could be seen from a great distance. For a tired traveller, the shape of a dome on the horizon was a welcome sign that water was near."
+    },
+    {
+      "en": "The water itself came mainly from nature. In winter and spring, rain and melting snow ran across the surrounding land and were directed into the reservoir through channels and small openings. In some places, the land around the cistern was shaped deliberately so that it sloped towards the cistern. During the dry summer months, when no rain fell for weeks, travellers and their animals depended on this stored supply."
+    },
+    {
+      "en": "The dome was far more than decoration. By keeping out direct sunlight, it reduced evaporation and kept the water cool even in extreme heat. It also protected the supply from sand, dust and animals, so the water stayed relatively clean. Small openings near the top allowed air to circulate, which is believed to have helped prevent the water from becoming stale. Steps led down from the entrance to the water level, so people could fill their containers by hand."
+    },
+    {
+      "en": "Sardobas were usually built along trade routes, often roughly a day's journey apart, and many stood next to caravanserais, the roadside inns where merchants rested. Building one required considerable money and skill, and historians believe that rulers and wealthy patrons often paid for them as a public service. A well-maintained cistern could serve travellers for generations."
+    },
+    {
+      "en": "Today, most of these structures have disappeared or survive only as ruins. A number of them, however, can still be seen in Uzbekistan, and some have been restored. Between Navoiy and Bukhara, for example, the Sardoba Malik stands close to the remains of the Rabati Malik caravanserai. For modern visitors, these quiet brick domes are a reminder of how earlier generations solved the problem of water with simple materials and careful engineering."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "endurance",
+      "uz": "chidamlilik, bardosh"
+    },
+    {
+      "en": "merchant",
+      "uz": "savdogar"
+    },
+    {
+      "en": "cistern",
+      "uz": "yopiq suv ombori, sardoba"
+    },
+    {
+      "en": "reservoir",
+      "uz": "suv havzasi, rezervuar"
+    },
+    {
+      "en": "dome",
+      "uz": "gumbaz"
+    },
+    {
+      "en": "mortar",
+      "uz": "qorishma"
+    },
+    {
+      "en": "leak away",
+      "uz": "sizib chiqib ketmoq"
+    },
+    {
+      "en": "evaporation",
+      "uz": "bugʻlanish"
+    },
+    {
+      "en": "deliberately",
+      "uz": "ataylab, qasddan"
+    },
+    {
+      "en": "slope",
+      "uz": "qiya boʻlmoq; qiyalik"
+    },
+    {
+      "en": "circulate",
+      "uz": "aylanmoq, harakatlanmoq"
+    },
+    {
+      "en": "stale",
+      "uz": "aynigan, eskirgan"
+    },
+    {
+      "en": "caravanserai",
+      "uz": "karvonsaroy"
+    },
+    {
+      "en": "patron",
+      "uz": "homiy"
+    },
+    {
+      "en": "ruins",
+      "uz": "xarobalar"
+    },
+    {
+      "en": "restore",
+      "uz": "taʼmirlamoq, tiklamoq"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "i64-so-that-in-order-to",
+      "title": {
+        "uz": "so that: maqsadni bildirish"
+      },
+      "example": "sealed with a special mortar so that water would not leak away"
+    },
+    {
+      "topicId": "i31-it-is-said",
+      "title": {
+        "uz": "is believed to have …"
+      },
+      "example": "which is believed to have helped prevent the water from becoming stale"
+    }
+  ],
+  "questions": [
+    {
+      "id": "b2-16-sardoba-q1",
+      "type": "gap",
+      "prompt": "For merchants crossing the desert, the biggest danger was ___.",
+      "answers": [
+        "thirst"
+      ],
+      "maxWords": 1,
+      "explain": {
+        "uz": "1-xatboshi: «the greatest danger was not bandits or heat alone, but thirst». «was»dan keyin ot kerak."
+      },
+      "para": 0
+    },
+    {
+      "id": "b2-16-sardoba-q2",
+      "type": "gap",
+      "prompt": "The underground reservoir was lined with ___.",
+      "answers": [
+        "fired bricks",
+        "bricks"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "2-xatboshi: «lined with fired bricks». «with»dan keyin ot (koʻplikda) keladi."
+      },
+      "para": 1
+    },
+    {
+      "id": "b2-16-sardoba-q3",
+      "type": "gap",
+      "prompt": "A special ___ was used so that the water would not escape.",
+      "answers": [
+        "mortar"
+      ],
+      "maxWords": 1,
+      "explain": {
+        "uz": "«sealed with a special mortar so that water would not leak away» — «a special»dan keyin birlikdagi ot."
+      },
+      "para": 1
+    },
+    {
+      "id": "b2-16-sardoba-q4",
+      "type": "gap",
+      "prompt": "The cistern was filled mainly by rain and ___.",
+      "answers": [
+        "melting snow",
+        "snow"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "3-xatboshi: «rain and melting snow ran across the surrounding land». «and» bir xil turdagi soʻzlarni bogʻlaydi — ot."
+      },
+      "para": 2
+    },
+    {
+      "id": "b2-16-sardoba-q5",
+      "type": "gap",
+      "prompt": "Because it kept out direct sunlight, the dome reduced ___.",
+      "answers": [
+        "evaporation"
+      ],
+      "maxWords": 1,
+      "explain": {
+        "uz": "4-xatboshi: «By keeping out direct sunlight, it reduced evaporation»."
+      },
+      "para": 3
+    },
+    {
+      "id": "b2-16-sardoba-q6",
+      "type": "gap",
+      "prompt": "Openings near the top of the dome allowed ___ to move around.",
+      "answers": [
+        "air"
+      ],
+      "maxWords": 1,
+      "explain": {
+        "uz": "«Small openings near the top allowed air to circulate» — «circulate» = «move around»."
+      },
+      "para": 3
+    },
+    {
+      "id": "b2-16-sardoba-q7",
+      "type": "gap",
+      "prompt": "Many sardobas were built beside ___, where merchants could rest.",
+      "answers": [
+        "caravanserais",
+        "roadside inns"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "5-xatboshi: «many stood next to caravanserais, the roadside inns where merchants rested». «beside» = «next to»."
+      },
+      "para": 4
+    },
+    {
+      "id": "b2-16-sardoba-q8",
+      "type": "tfng",
+      "statement": "The water in some desert wells had a high salt content.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "1-xatboshi: «their water could be salty» — tuzli boʻlishi mumkin edi."
+      },
+      "para": 0
+    },
+    {
+      "id": "b2-16-sardoba-q9",
+      "type": "tfng",
+      "statement": "The domes of sardobas were hard to notice from far away.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "2-xatboshi aksini aytadi: «could be seen from a great distance»."
+      },
+      "para": 1
+    },
+    {
+      "id": "b2-16-sardoba-q10",
+      "type": "tfng",
+      "statement": "Guards were employed to protect the water in sardobas.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "5-xatboshida kim qurish uchun pul toʻlagani aytilgan («rulers and wealthy patrons»), lekin suvni qoʻriqlovchilar haqida maʼlumot yoʻq."
+      },
+      "para": 4
+    },
+    {
+      "id": "b2-16-sardoba-q11",
+      "type": "choice",
+      "prompt": "Which statement about sardobas today is supported by the text?",
+      "options": [
+        "All of them have been fully restored.",
+        "Most have gone or are in ruins, but some can still be seen.",
+        "They are still used by caravans on trade routes.",
+        "They can be found only between Navoiy and Bukhara."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "6-xatboshi: «most of these structures have disappeared or survive only as ruins … some have been restored». Sardoba Malik faqat misol («for example»), «all» notoʻgʻri."
+      },
+      "para": 5
+    }
+  ]
+}

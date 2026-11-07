@@ -1,0 +1,262 @@
+{
+  "id": "b2-20-earthquakes",
+  "title": {
+    "uz": "Yer qimirlashi"
+  },
+  "en": "Earthquakes",
+  "level": "B2",
+  "kind": "exam",
+  "tag": {
+    "uz": "Fan va tarix",
+    "en": "Science and history"
+  },
+  "intro": {
+    "uz": "Topshiriq: Sentence completion. Maslahat: savollardagi raqamlar, sanalar va atoqli otlar (masalan, «1966», «Tashkent») matnda tez topiladigan «belgilar»dir. Ularni koʻz yugurtirib (scanning) toping, keyin shu gapni diqqat bilan oʻqib, boʻshliqqa mos soʻzni tanlang."
+  },
+  "paragraphs": [
+    {
+      "en": "The surface of the Earth may seem solid and still, but it is constantly, if very slowly, moving. The outer layer of the planet is broken into huge pieces called tectonic plates, which drift by a few centimetres a year. Where plates meet, they may push against each other, pull apart or slide past one another. Usually their edges are locked together by friction, and stress builds up over many years. When the rock finally breaks and moves suddenly, the stored energy is released as waves that shake the ground. This is an earthquake."
+    },
+    {
+      "en": "Central Asia is one of the regions where this process is active, largely because the land is being squeezed as the Indian plate pushes northwards into Asia. As a result, earthquakes are a familiar part of life in many parts of Uzbekistan and its neighbours. Most are small and pass almost unnoticed, but occasionally a stronger one causes serious damage."
+    },
+    {
+      "en": "The best-known example in the country's modern history is the Tashkent earthquake of 26 April 1966. It struck early in the morning, and its centre lay almost directly beneath the city at a shallow depth. Although the earthquake was not exceptionally powerful by world standards, its location meant that the shaking was intense in the centre. The number of deaths was relatively low, but a huge number of buildings, especially older houses made of mud brick, were destroyed or badly damaged, and many thousands of families lost their homes."
+    },
+    {
+      "en": "What followed is remembered as a remarkable example of solidarity. Builders, engineers and volunteers arrived from across the Soviet Union, and different republics took responsibility for constructing whole streets and neighbourhoods. Within a few years, large new residential districts had appeared, along with wide avenues, parks and public buildings. The rebuilding transformed the appearance of Tashkent, turning it into a much more modern city. A memorial in the city centre, known as the Courage monument, still commemorates the disaster and the people who rebuilt the city."
+    },
+    {
+      "en": "Since then, engineers have learned a great deal about how to make buildings safer. Earthquake-resistant structures are designed to bend slightly rather than break. They use reinforced concrete, strong connections between walls and floors, and foundations suited to the local ground. In areas at risk, building codes set minimum standards, although these rules are effective only if they are actually followed."
+    },
+    {
+      "en": "Individuals can also prepare. Experts advise fixing heavy furniture to walls and keeping a small emergency kit with water, a torch and basic medicines. During shaking, the usual recommendation is to drop to the ground, take cover under a sturdy table and hold on until the movement stops. Running outside while the ground is moving is generally considered more dangerous, since falling glass and bricks cause many injuries."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "tectonic plate",
+      "uz": "tektonik plita"
+    },
+    {
+      "en": "drift",
+      "uz": "siljimoq"
+    },
+    {
+      "en": "friction",
+      "uz": "ishqalanish"
+    },
+    {
+      "en": "stress",
+      "uz": "kuchlanish, zoʻriqish"
+    },
+    {
+      "en": "release",
+      "uz": "chiqarmoq, boʻshatmoq"
+    },
+    {
+      "en": "squeeze",
+      "uz": "siqmoq"
+    },
+    {
+      "en": "shallow",
+      "uz": "sayoz, chuqur boʻlmagan"
+    },
+    {
+      "en": "exceptionally",
+      "uz": "gʻoyat, favqulodda"
+    },
+    {
+      "en": "solidarity",
+      "uz": "birdamlik"
+    },
+    {
+      "en": "volunteer",
+      "uz": "koʻngilli"
+    },
+    {
+      "en": "residential district",
+      "uz": "turar-joy massivi, mavze"
+    },
+    {
+      "en": "commemorate",
+      "uz": "xotirasini abadiylashtirmoq"
+    },
+    {
+      "en": "reinforced concrete",
+      "uz": "temir-beton"
+    },
+    {
+      "en": "foundation",
+      "uz": "poydevor"
+    },
+    {
+      "en": "building code",
+      "uz": "qurilish meʼyorlari"
+    },
+    {
+      "en": "sturdy",
+      "uz": "mustahkam, pishiq"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "i30-passive-tenses",
+      "title": {
+        "uz": "Present Continuous Passive: is being squeezed"
+      },
+      "example": "the land is being squeezed"
+    },
+    {
+      "topicId": "i11-past-perfect",
+      "title": {
+        "uz": "Past Perfect: had appeared"
+      },
+      "example": "Within a few years, large new residential districts had appeared"
+    }
+  ],
+  "questions": [
+    {
+      "id": "b2-20-earthquakes-q1",
+      "type": "gap",
+      "prompt": "The edges of tectonic plates are usually held together by ___.",
+      "answers": [
+        "friction"
+      ],
+      "maxWords": 1,
+      "explain": {
+        "uz": "1-xatboshi: «their edges are locked together by friction». «held» = «locked»."
+      },
+      "para": 0
+    },
+    {
+      "id": "b2-20-earthquakes-q2",
+      "type": "gap",
+      "prompt": "When rock breaks, the stored energy travels as ___ that shake the ground.",
+      "answers": [
+        "waves"
+      ],
+      "maxWords": 1,
+      "explain": {
+        "uz": "«the stored energy is released as waves that shake the ground»."
+      },
+      "para": 0
+    },
+    {
+      "id": "b2-20-earthquakes-q3",
+      "type": "gap",
+      "prompt": "In 1966, the centre of the earthquake was at a ___ depth below Tashkent.",
+      "answers": [
+        "shallow"
+      ],
+      "maxWords": 1,
+      "explain": {
+        "uz": "3-xatboshi: «almost directly beneath the city at a shallow depth». «a … depth» oraligʻida sifat keladi."
+      },
+      "para": 2
+    },
+    {
+      "id": "b2-20-earthquakes-q4",
+      "type": "gap",
+      "prompt": "Many of the houses destroyed in 1966 were built of ___.",
+      "answers": [
+        "mud brick",
+        "mud bricks"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«older houses made of mud brick, were destroyed». Ikki soʻz."
+      },
+      "para": 2
+    },
+    {
+      "id": "b2-20-earthquakes-q5",
+      "type": "gap",
+      "prompt": "Earthquake-resistant buildings are designed to ___ instead of breaking.",
+      "answers": [
+        "bend slightly",
+        "bend"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "5-xatboshi: «designed to bend slightly rather than break». «to»dan keyin feʼl keladi."
+      },
+      "para": 4
+    },
+    {
+      "id": "b2-20-earthquakes-q6",
+      "type": "gap",
+      "prompt": "In areas at risk, minimum standards for buildings are set by ___.",
+      "answers": [
+        "building codes"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«building codes set minimum standards»."
+      },
+      "para": 4
+    },
+    {
+      "id": "b2-20-earthquakes-q7",
+      "type": "gap",
+      "prompt": "An emergency kit should contain water, basic medicines and a ___.",
+      "answers": [
+        "torch"
+      ],
+      "maxWords": 1,
+      "explain": {
+        "uz": "6-xatboshi: «a small emergency kit with water, a torch and basic medicines». «a»dan keyin birlikdagi ot."
+      },
+      "para": 5
+    },
+    {
+      "id": "b2-20-earthquakes-q8",
+      "type": "tfng",
+      "statement": "Most earthquakes in Uzbekistan cause serious damage.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "2-xatboshi: «Most are small and pass almost unnoticed» — koʻpchiligi kichik."
+      },
+      "para": 1
+    },
+    {
+      "id": "b2-20-earthquakes-q9",
+      "type": "tfng",
+      "statement": "The 1966 earthquake was one of the most powerful ever recorded in the world.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "3-xatboshi: «not exceptionally powerful by world standards» — kuchi jahon miqyosida unchalik katta emas edi."
+      },
+      "para": 2
+    },
+    {
+      "id": "b2-20-earthquakes-q10",
+      "type": "tfng",
+      "statement": "Most residents of Tashkent approved of the new design of the city.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "4-xatboshi shahar qiyofasi oʻzgarganini aytadi, lekin aholining fikri haqida maʼlumot yoʻq."
+      },
+      "para": 3
+    },
+    {
+      "id": "b2-20-earthquakes-q11",
+      "type": "choice",
+      "prompt": "What do experts recommend doing while the ground is shaking?",
+      "options": [
+        "running outside immediately",
+        "taking cover under a strong table",
+        "standing next to a window",
+        "fixing furniture to the walls"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "6-xatboshi: «take cover under a sturdy table and hold on». Mebelni mahkamlash — oldindan tayyorgarlik, tashqariga yugurish esa «more dangerous»."
+      },
+      "para": 5
+    }
+  ]
+}

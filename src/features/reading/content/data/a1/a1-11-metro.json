@@ -1,0 +1,184 @@
+{
+  "id": "a1-11-metro",
+  "title": {
+    "uz": "Toshkent metrosi"
+  },
+  "en": "The Tashkent Metro",
+  "level": "A1",
+  "kind": "blog",
+  "tag": {
+    "uz": "Transport",
+    "en": "Transport"
+  },
+  "intro": {
+    "uz": "Bekzod blogida Toshkent metrosi haqida yozadi. Oʻqishdan oldin: siz metroda yurganmisiz? Sizga qaysi bekat yoqadi?"
+  },
+  "paragraphs": [
+    {
+      "en": "Hi, I'm Bekzod. I live in Tashkent. Every day I go to college by metro. The metro is fast and cheap. It is not new. The first line is from 1977.",
+      "uz": "Salom, men Bekzodman. Men Toshkentda yashayman. Har kuni kollejga metroda boraman. Metro tez va arzon. U yangi emas. Birinchi liniya 1977-yilda ochilgan."
+    },
+    {
+      "en": "Today there are many lines. In the morning the trains are very full, so I always stand.",
+      "uz": "Hozir metroda koʻplab liniyalar bor. Ertalab poyezdlar juda gavjum boʻladi, shuning uchun men doim tik turaman."
+    },
+    {
+      "en": "The stations are very beautiful. My favourite station is Kosmonavtlar. It is blue, and there are pictures of cosmonauts on the walls. Alisher Navoi station is beautiful too.",
+      "uz": "Bekatlar juda chiroyli. Mening sevimli bekatim — «Kosmonavtlar». U koʻk rangda, devorlarida kosmonavtlarning suratlari bor. «Alisher Navoiy» bekati ham chiroyli."
+    },
+    {
+      "en": "Tips for visitors: buy a ticket at the station. Don't stand near the edge of the platform. And please give your seat to old people!",
+      "uz": "Mehmonlar uchun maslahatlar: chiptani bekatda sotib oling. Platforma chetiga yaqin turmang. Va iltimos, keksalarga joy bering!"
+    }
+  ],
+  "glossary": [
+    {
+      "en": "college",
+      "uz": "kollej"
+    },
+    {
+      "en": "fast",
+      "uz": "tez"
+    },
+    {
+      "en": "cheap",
+      "uz": "arzon"
+    },
+    {
+      "en": "line",
+      "uz": "liniya, yoʻnalish"
+    },
+    {
+      "en": "full",
+      "uz": "toʻla, gavjum"
+    },
+    {
+      "en": "station",
+      "uz": "bekat"
+    },
+    {
+      "en": "wall",
+      "uz": "devor"
+    },
+    {
+      "en": "visitor",
+      "uz": "mehmon, tashrif buyuruvchi"
+    },
+    {
+      "en": "ticket",
+      "uz": "chipta"
+    },
+    {
+      "en": "edge",
+      "uz": "chet, qirra"
+    },
+    {
+      "en": "seat",
+      "uz": "oʻrindiq, joy"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "b14-there-is",
+      "title": {
+        "uz": "there is / there are"
+      },
+      "example": "Today there are many lines."
+    },
+    {
+      "topicId": "b15-around-town",
+      "title": {
+        "uz": "Shaharda: go by metro"
+      },
+      "example": "Every day I go to college by metro."
+    }
+  ],
+  "questions": [
+    {
+      "id": "a1-11-metro-q1",
+      "type": "choice",
+      "prompt": "How does Bekzod go to college?",
+      "options": [
+        "by bus",
+        "by metro",
+        "by taxi"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«Every day I go to college by metro.»"
+      },
+      "para": 0
+    },
+    {
+      "id": "a1-11-metro-q2",
+      "type": "tfng",
+      "statement": "The first metro line is from 1977.",
+      "answer": "T",
+      "explain": {
+        "uz": "«The first line is from 1977.» — birinchi liniya 1977-yilda ochilgan."
+      },
+      "para": 0
+    },
+    {
+      "id": "a1-11-metro-q3",
+      "type": "tfng",
+      "statement": "The metro is slow and expensive.",
+      "answer": "F",
+      "explain": {
+        "uz": "Aksincha, metro tez va arzon: «The metro is fast and cheap.»"
+      },
+      "para": 0
+    },
+    {
+      "id": "a1-11-metro-q4",
+      "type": "tfng",
+      "statement": "In the morning Bekzod always sits on the train.",
+      "answer": "F",
+      "explain": {
+        "uz": "Ertalab poyezd gavjum, u doim tik turadi: «so I always stand»."
+      },
+      "para": 1
+    },
+    {
+      "id": "a1-11-metro-q5",
+      "type": "choice",
+      "prompt": "What is Bekzod's favourite station?",
+      "options": [
+        "Alisher Navoi",
+        "Chilonzor",
+        "Kosmonavtlar"
+      ],
+      "answer": 2,
+      "explain": {
+        "uz": "«My favourite station is Kosmonavtlar.» «Alisher Navoi» ham chiroyli, lekin sevimlisi emas."
+      },
+      "para": 2
+    },
+    {
+      "id": "a1-11-metro-q6",
+      "type": "gap",
+      "prompt": "At Kosmonavtlar there are pictures of ___ on the walls.",
+      "answers": [
+        "cosmonauts"
+      ],
+      "maxWords": 1,
+      "explain": {
+        "uz": "«there are pictures of cosmonauts on the walls»."
+      },
+      "para": 2
+    },
+    {
+      "id": "a1-11-metro-q7",
+      "type": "gap",
+      "prompt": "Please give your ___ to old people.",
+      "answers": [
+        "seat"
+      ],
+      "maxWords": 1,
+      "explain": {
+        "uz": "«please give your seat to old people!»"
+      },
+      "para": 3
+    }
+  ]
+}

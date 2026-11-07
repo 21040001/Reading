@@ -1,0 +1,226 @@
+{
+  "id": "b1-22-cv",
+  "title": {
+    "uz": "Rezyume qanday yoziladi"
+  },
+  "en": "How to Write a CV",
+  "level": "B1",
+  "kind": "article",
+  "tag": {
+    "uz": "Ish dunyosi",
+    "en": "The world of work"
+  },
+  "intro": {
+    "uz": "Bu maqolada yaxshi rezyume yozish boʻyicha maslahatlar berilgan. Oʻqishdan oldin oʻylab koʻring: rezyumeda qanday boʻlimlar boʻlishi kerak?"
+  },
+  "paragraphs": [
+    {
+      "en": "Your CV is often the first thing an employer learns about you. Employers who receive a lot of applications usually look at each CV only briefly at first, so yours needs to make a good impression quickly. Here are some tips that will help you write a CV that gets noticed."
+    },
+    {
+      "en": "A good CV usually has a few clear sections. At the top, write your name and contact details: your phone number, your email address and the city where you live. Next, add a short personal profile of two or three sentences that describes who you are and what you are looking for. After that come your work experience and your education, with the most recent first. Finally, list your skills, such as languages and computer programs you can use."
+    },
+    {
+      "en": "Keep it short. For most young people, one page is enough, and even experienced workers rarely need more than two. Use bullet points instead of long paragraphs, and choose a simple, clear font. A CV that is full of decoration may look creative, but it is often harder to read."
+    },
+    {
+      "en": "One of the most common mistakes is sending exactly the same CV to every company. Before you apply, read the job advertisement carefully and find out which skills the employer is looking for. Then change your CV so that these skills are easy to see. If a job asks for teamwork, for example, mention the volunteer project where you worked with a group of other students."
+    },
+    {
+      "en": "Before you send it, check your CV carefully for spelling and grammar mistakes. It is a good idea to ask a friend or a teacher to read it too, because it is easy to miss your own errors. Most importantly, be honest. If you say that you speak fluent German but you have only studied it for a few months, the truth will come out at the interview, and you will lose the employer's trust."
+    },
+    {
+      "en": "Writing a good CV takes time, but it is time well spent. Remember that the aim of a CV is not to get you the job. Its aim is to get you an interview, where you can show the employer who you really are."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "employer",
+      "uz": "ish beruvchi"
+    },
+    {
+      "en": "application",
+      "uz": "ariza"
+    },
+    {
+      "en": "make a good impression",
+      "uz": "yaxshi taassurot qoldirmoq"
+    },
+    {
+      "en": "contact details",
+      "uz": "aloqa maʼlumotlari"
+    },
+    {
+      "en": "personal profile",
+      "uz": "oʻzingiz haqingizda qisqa maʼlumot"
+    },
+    {
+      "en": "experience",
+      "uz": "tajriba"
+    },
+    {
+      "en": "skill",
+      "uz": "koʻnikma, malaka"
+    },
+    {
+      "en": "bullet point",
+      "uz": "roʻyxat belgisi, nuqtali band"
+    },
+    {
+      "en": "font",
+      "uz": "shrift"
+    },
+    {
+      "en": "job advertisement",
+      "uz": "ish eʼloni"
+    },
+    {
+      "en": "volunteer",
+      "uz": "koʻngilli"
+    },
+    {
+      "en": "spelling",
+      "uz": "imlo"
+    },
+    {
+      "en": "fluent",
+      "uz": "erkin, ravon"
+    },
+    {
+      "en": "trust",
+      "uz": "ishonch"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "i64-so-that-in-order-to",
+      "title": {
+        "uz": "Maqsad: so that …"
+      },
+      "example": "change your CV so that these skills are easy to see"
+    },
+    {
+      "topicId": "i54-whose-whom-where",
+      "title": {
+        "uz": "Nisbiy gap: where"
+      },
+      "example": "the volunteer project where you worked with a group of other students"
+    }
+  ],
+  "questions": [
+    {
+      "id": "b1-22-cv-q1",
+      "type": "tfng",
+      "statement": "The writer says the personal profile should be very long.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "Profil qisqa boʻlishi kerak: «a short personal profile of two or three sentences»."
+      },
+      "para": 1
+    },
+    {
+      "id": "b1-22-cv-q2",
+      "type": "tfng",
+      "statement": "The writer advises including a photo on your CV.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Matnda rasm haqida hech narsa aytilmagan — Not Given."
+      },
+      "para": 1
+    },
+    {
+      "id": "b1-22-cv-q3",
+      "type": "tfng",
+      "statement": "Experienced workers often need a CV of more than two pages.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«even experienced workers rarely need more than two» — kamdan-kam hollarda."
+      },
+      "para": 2
+    },
+    {
+      "id": "b1-22-cv-q4",
+      "type": "tfng",
+      "statement": "Other people may notice mistakes that you have missed.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«ask a friend or a teacher to read it too, because it is easy to miss your own errors»."
+      },
+      "para": 4
+    },
+    {
+      "id": "b1-22-cv-q5",
+      "type": "heading",
+      "para": 2,
+      "options": [
+        "Short and simple",
+        "Creative designs win",
+        "Your contact details"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "3-xatboshi qisqalik va soddalik haqida: «Keep it short», «a simple, clear font». Bezakli dizayn esa tavsiya qilinmaydi."
+      }
+    },
+    {
+      "id": "b1-22-cv-q6",
+      "type": "choice",
+      "prompt": "Why should you change your CV for each job?",
+      "options": [
+        "because employers prefer long CVs",
+        "so that the skills the employer needs are easy to see",
+        "because companies do not accept the same CV twice"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«change your CV so that these skills are easy to see»."
+      },
+      "para": 3
+    },
+    {
+      "id": "b1-22-cv-q7",
+      "type": "choice",
+      "prompt": "According to the writer, what is the main aim of a CV?",
+      "options": [
+        "to get you the job",
+        "to get you an interview",
+        "to show how creative you are"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«the aim of a CV is not to get you the job. Its aim is to get you an interview»."
+      },
+      "para": 5
+    },
+    {
+      "id": "b1-22-cv-q8",
+      "type": "gap",
+      "prompt": "Work experience and education should be listed with the most ___ first.",
+      "answers": [
+        "recent"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«with the most recent first» — eng oxirgisi birinchi."
+      },
+      "para": 1
+    },
+    {
+      "id": "b1-22-cv-q9",
+      "type": "gap",
+      "prompt": "If you are not honest, you will lose the employer's ___.",
+      "answers": [
+        "trust"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«you will lose the employer's trust» — ish beruvchining ishonchini yoʻqotasiz."
+      },
+      "para": 4
+    }
+  ]
+}

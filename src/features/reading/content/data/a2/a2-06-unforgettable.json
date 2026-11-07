@@ -1,0 +1,205 @@
+{
+  "id": "a2-06-unforgettable",
+  "title": {
+    "uz": "Unutilmas kun"
+  },
+  "en": "An Unforgettable Day",
+  "level": "A2",
+  "kind": "blog",
+  "tag": {
+    "uz": "Oila",
+    "en": "Family"
+  },
+  "intro": {
+    "uz": "Bu — Kamolaning blogi: u bobosining tugʻilgan kunida boʻlgan voqeani hikoya qiladi. Oʻqishdan oldin oʻylab koʻring: sizning hayotingizda unutilmas kun boʻlganmi?"
+  },
+  "paragraphs": [
+    {
+      "en": "Hello, readers! My name is Kamola, and today I want to tell you about an unforgettable day. It was last April, and it was my grandfather's eightieth birthday. All our relatives came to his house in Namangan.",
+      "uz": "Salom, oʻquvchilar! Mening ismim Kamola, bugun sizlarga bir unutilmas kun haqida aytib bermoqchiman. Bu oʻtgan aprel oyida, bobomning sakson yoshga toʻlgan kunida boʻlgan edi. Barcha qarindoshlarimiz uning Namangandagi uyiga yigʻildi."
+    },
+    {
+      "en": "We started early in the morning. My mother and my aunts cooked plov in a huge kazan, and my cousins and I put tables and chairs in the garden. By the afternoon, there were more than sixty guests. Everyone was happy and noisy.",
+      "uz": "Biz erta tongdan ishga kirishdik. Onam va xolalarim katta qozonda palov damlashdi, men esa amakivachchalarim bilan bogʻga stol va stullar qoʻydik. Tushdan keyin mehmonlar soni oltmishdan oshdi. Hamma xursand edi, atrof shovqinli edi."
+    },
+    {
+      "en": "But one person was not there: my uncle Rustam. He was in South Korea for work, and the last time we saw him was five years ago. When the guests sang songs for Grandfather, he smiled, but his eyes were sad.",
+      "uz": "Lekin bir kishi yoʻq edi — Rustam amakim. U Janubiy Koreyada ishlardi, biz uni oxirgi marta besh yil oldin koʻrgan edik. Mehmonlar bobomga qoʻshiq aytganda, u jilmaydi, lekin koʻzlarida gʻam bor edi."
+    },
+    {
+      "en": "Then, while Grandfather was cutting the cake, the gate opened slowly. A tall man came in with a big bag. It was Uncle Rustam! Grandfather dropped the knife and ran to his son. For a moment nobody spoke. Then everybody started to cry and laugh at the same time.",
+      "uz": "Keyin, bobom tortni kesayotganda, darvoza sekin ochildi. Katta sumka koʻtargan baland boʻyli bir kishi kirib keldi. Bu Rustam amakim edi! Bobom pichoqni tushirib yubordi va oʻgʻliga qarab yugurdi. Bir lahza hech kim gapirmadi. Soʻng hamma bir vaqtning oʻzida ham yigʻlab, ham kula boshladi."
+    },
+    {
+      "en": "Later, Uncle Rustam explained everything. He wanted to surprise his father, so he didn't tell anyone about his trip. I will never forget Grandfather's face that evening. Do you have an unforgettable day? Write about it in the comments!",
+      "uz": "Keyinroq Rustam amakim hammasini tushuntirdi. U otasini hayron qoldirmoqchi edi, shuning uchun safari haqida hech kimga aytmagan ekan. Bobomning oʻsha oqshomdagi yuzini hech qachon unutmayman. Sizning ham unutilmas kuningiz bormi? Bu haqda izohlarda yozing!"
+    }
+  ],
+  "glossary": [
+    {
+      "en": "unforgettable",
+      "uz": "unutilmas"
+    },
+    {
+      "en": "relatives",
+      "uz": "qarindoshlar"
+    },
+    {
+      "en": "huge",
+      "uz": "juda katta, ulkan"
+    },
+    {
+      "en": "cousin",
+      "uz": "amakivachcha, xolavachcha"
+    },
+    {
+      "en": "guest",
+      "uz": "mehmon"
+    },
+    {
+      "en": "noisy",
+      "uz": "shovqinli"
+    },
+    {
+      "en": "gate",
+      "uz": "darvoza"
+    },
+    {
+      "en": "drop",
+      "uz": "tushirib yubormoq"
+    },
+    {
+      "en": "at the same time",
+      "uz": "bir vaqtning oʻzida"
+    },
+    {
+      "en": "explain",
+      "uz": "tushuntirmoq"
+    },
+    {
+      "en": "surprise",
+      "uz": "hayron qoldirmoq; kutilmagan sovgʻa"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "e09-past-continuous",
+      "title": {
+        "uz": "Past Continuous: while … was cutting"
+      },
+      "example": "while Grandfather was cutting the cake, the gate opened slowly."
+    },
+    {
+      "topicId": "e53-and-but-so-because",
+      "title": {
+        "uz": "so — shuning uchun"
+      },
+      "example": "He wanted to surprise his father, so he didn't tell anyone about his trip."
+    }
+  ],
+  "questions": [
+    {
+      "id": "a2-06-unforgettable-q1",
+      "type": "tfng",
+      "statement": "The birthday party was at the grandfather's house in Namangan.",
+      "answer": "T",
+      "explain": {
+        "uz": "«All our relatives came to his house in Namangan.»"
+      },
+      "para": 0
+    },
+    {
+      "id": "a2-06-unforgettable-q2",
+      "type": "choice",
+      "prompt": "How old was the grandfather?",
+      "options": [
+        "seventy",
+        "eighty",
+        "sixty"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«my grandfather's eightieth birthday» — eightieth = saksoninchi. Oltmish — mehmonlar soni."
+      },
+      "para": 0
+    },
+    {
+      "id": "a2-06-unforgettable-q3",
+      "type": "tfng",
+      "statement": "Kamola and her cousins cooked the plov.",
+      "answer": "F",
+      "explain": {
+        "uz": "Palovni onasi va xolalari pishirdi: «My mother and my aunts cooked plov». Kamola stol va stullarni qoʻydi."
+      },
+      "para": 1
+    },
+    {
+      "id": "a2-06-unforgettable-q4",
+      "type": "gap",
+      "prompt": "By the afternoon, there were more than ___ guests.",
+      "answers": [
+        "sixty",
+        "60"
+      ],
+      "explain": {
+        "uz": "«there were more than sixty guests»."
+      },
+      "para": 1
+    },
+    {
+      "id": "a2-06-unforgettable-q5",
+      "type": "choice",
+      "prompt": "Where was Uncle Rustam before the party?",
+      "options": [
+        "in Russia",
+        "in South Korea",
+        "in Tashkent"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«He was in South Korea for work»."
+      },
+      "para": 2
+    },
+    {
+      "id": "a2-06-unforgettable-q6",
+      "type": "choice",
+      "prompt": "What was Grandfather doing when the gate opened?",
+      "options": [
+        "singing songs",
+        "cutting the cake",
+        "eating plov"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«while Grandfather was cutting the cake, the gate opened slowly»."
+      },
+      "para": 3
+    },
+    {
+      "id": "a2-06-unforgettable-q7",
+      "type": "tfng",
+      "statement": "Grandfather walked slowly to his son.",
+      "answer": "F",
+      "explain": {
+        "uz": "U yugurdi: «Grandfather dropped the knife and ran to his son.» Sekin ochilgan narsa — darvoza."
+      },
+      "para": 3
+    },
+    {
+      "id": "a2-06-unforgettable-q8",
+      "type": "choice",
+      "prompt": "Why didn't Uncle Rustam tell anyone about his trip?",
+      "options": [
+        "He wanted to surprise his father.",
+        "He forgot to call.",
+        "His phone was broken."
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "«He wanted to surprise his father, so he didn't tell anyone about his trip.»"
+      },
+      "para": 4
+    }
+  ]
+}

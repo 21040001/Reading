@@ -1,0 +1,225 @@
+{
+  "id": "b1-16-plastic",
+  "title": {
+    "uz": "Plastik muammosi"
+  },
+  "en": "The Plastic Problem",
+  "level": "B1",
+  "kind": "story",
+  "tag": {
+    "uz": "Atrof-muhit",
+    "en": "Environment"
+  },
+  "intro": {
+    "uz": "Bir maktab oʻquvchisi sinfi mahallada plastikka qarshi qanday aksiya oʻtkazganini hikoya qiladi. Oʻqishdan oldin oʻylab koʻring: sizning oilangiz bir haftada nechta plastik paket ishlatadi?"
+  },
+  "paragraphs": [
+    {
+      "en": "Last spring, our biology teacher, Mrs Rakhimova, brought a large bag into the classroom and emptied it onto her desk. It was full of plastic bottles, bags and food wrappers. “I collected all this in twenty minutes,” she said, “from the small river behind our school.” Nobody spoke. Most of us had walked past that river every day, but we had never really looked at it."
+    },
+    {
+      "en": "Mrs Rakhimova explained that most plastic does not simply disappear. It can take hundreds of years to break down, and even then it does not really go away. Instead, it slowly breaks into smaller and smaller pieces called microplastics. These tiny pieces have been found in rivers, in the sea, in soil and even inside fish and other animals. “If we keep using plastic like this,” she told us, “the problem will only get bigger.”"
+    },
+    {
+      "en": "We decided to do something. Our class started a campaign called “Less Plastic, Cleaner Mahalla”. First, we cleaned the riverbank on two Saturdays. Parents and neighbours joined us, and by the end we had filled more than forty bags with rubbish. Then we made posters for the shops near the school and asked people to bring their own cloth bags when they went shopping."
+    },
+    {
+      "en": "Reducing plastic turned out to be harder than cleaning it up. Some shopkeepers were not interested at first. One of them said that his customers would complain if he stopped giving them free bags. However, when an old woman from our street started sewing cloth bags from old curtains and selling them cheaply, more and more people began to use them."
+    },
+    {
+      "en": "We also learned that reusing things is often better than recycling them. Instead of buying a new bottle of water every day, most students in our class now bring a metal or glass bottle from home and fill it at school. If everyone in our school did this, we would save thousands of bottles a year. The river is not perfect yet, but it is cleaner than it used to be, and we have stopped looking away."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "empty",
+      "uz": "boʻshatmoq, toʻkib tashlamoq"
+    },
+    {
+      "en": "wrapper",
+      "uz": "oʻram, qadoq"
+    },
+    {
+      "en": "break down",
+      "uz": "parchalanmoq"
+    },
+    {
+      "en": "tiny",
+      "uz": "juda kichik, mitti"
+    },
+    {
+      "en": "soil",
+      "uz": "tuproq"
+    },
+    {
+      "en": "campaign",
+      "uz": "aksiya, kampaniya"
+    },
+    {
+      "en": "riverbank",
+      "uz": "daryo qirgʻogʻi"
+    },
+    {
+      "en": "rubbish",
+      "uz": "axlat, chiqindi"
+    },
+    {
+      "en": "turn out",
+      "uz": "boʻlib chiqmoq"
+    },
+    {
+      "en": "shopkeeper",
+      "uz": "doʻkondor"
+    },
+    {
+      "en": "complain",
+      "uz": "shikoyat qilmoq"
+    },
+    {
+      "en": "sew",
+      "uz": "tikmoq"
+    },
+    {
+      "en": "reuse",
+      "uz": "qayta foydalanmoq"
+    },
+    {
+      "en": "look away",
+      "uz": "koʻz yummoq, eʼtibor bermaslik"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "i30-passive-tenses",
+      "title": {
+        "uz": "Present Perfect majhul nisbat: have been found"
+      },
+      "example": "These tiny pieces have been found in rivers"
+    },
+    {
+      "topicId": "i26-second-conditional",
+      "title": {
+        "uz": "Ikkinchi shart gap: If everyone did …, we would …"
+      },
+      "example": "If everyone in our school did this, we would save thousands of bottles a year."
+    }
+  ],
+  "questions": [
+    {
+      "id": "b1-16-plastic-q1",
+      "type": "tfng",
+      "statement": "The teacher collected the rubbish near the school.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "1-xatboshi: «from the small river behind our school» — maktab orqasidagi daryodan."
+      },
+      "para": 0
+    },
+    {
+      "id": "b1-16-plastic-q2",
+      "type": "tfng",
+      "statement": "According to the teacher, plastic disappears completely after a few years.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "2-xatboshi: «It can take hundreds of years to break down, and even then it does not really go away»."
+      },
+      "para": 1
+    },
+    {
+      "id": "b1-16-plastic-q3",
+      "type": "tfng",
+      "statement": "The class won a prize for their campaign.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Matnda mukofot haqida hech narsa aytilmagan — Not Given."
+      },
+      "para": 2
+    },
+    {
+      "id": "b1-16-plastic-q4",
+      "type": "tfng",
+      "statement": "All the shopkeepers supported the campaign from the beginning.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "4-xatboshi: «Some shopkeepers were not interested at first» — hammasi emas."
+      },
+      "para": 3
+    },
+    {
+      "id": "b1-16-plastic-q5",
+      "type": "choice",
+      "prompt": "What is the text mainly about?",
+      "options": [
+        "how a class tried to reduce plastic in their area",
+        "how plastic is made in factories",
+        "why recycling is the only solution"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "Butun hikoya sinfning aksiyasi haqida: daryoni tozalash, plakatlar, mato sumkalar. Matn qayta ishlashni eng yaxshi yechim demaydi: «reusing things is often better than recycling them»."
+      },
+      "para": 2
+    },
+    {
+      "id": "b1-16-plastic-q6",
+      "type": "choice",
+      "prompt": "Why did more people start using cloth bags?",
+      "options": [
+        "The shops stopped selling plastic bags.",
+        "A local woman made cheap cloth bags from old curtains.",
+        "The teacher gave free bags to everyone."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "4-xatboshi: «an old woman … started sewing cloth bags from old curtains and selling them cheaply, more and more people began to use them»."
+      },
+      "para": 3
+    },
+    {
+      "id": "b1-16-plastic-q7",
+      "type": "choice",
+      "prompt": "What does the writer think about reusing things?",
+      "options": [
+        "It is often better than recycling.",
+        "It is too difficult for students.",
+        "It is less useful than cleaning rivers."
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "5-xatboshi: «reusing things is often better than recycling them»."
+      },
+      "para": 4
+    },
+    {
+      "id": "b1-16-plastic-q8",
+      "type": "gap",
+      "prompt": "Very small pieces of broken plastic are called ___.",
+      "answers": [
+        "microplastics"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "2-xatboshi: «smaller and smaller pieces called microplastics»."
+      },
+      "para": 1
+    },
+    {
+      "id": "b1-16-plastic-q9",
+      "type": "gap",
+      "prompt": "The students asked shoppers to bring their own ___.",
+      "answers": [
+        "cloth bags",
+        "bags"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "3-xatboshi: «asked people to bring their own cloth bags»."
+      },
+      "para": 2
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "id": "a1-21-train",
+  "title": {
+    "uz": "Samarqandga poyezdda"
+  },
+  "en": "To Samarkand by Train",
+  "level": "A1",
+  "kind": "story",
+  "tag": {
+    "uz": "Poyezd",
+    "en": "Train"
+  },
+  "intro": {
+    "uz": "Dilshod va Kamola tezyurar poyezdda Samarqandga boradi. Oʻqishdan oldin: siz qachon poyezdda yurgansiz?"
+  },
+  "paragraphs": [
+    {
+      "en": "It is Saturday morning. Dilshod and his sister Kamola are at the train station in Tashkent. They have two tickets for the Afrosiyob. It is a fast train.",
+      "uz": "Shanba kuni ertalab. Dilshod va uning singlisi Kamola Toshkentdagi temir yoʻl vokzalida. Ularda «Afrosiyob»ga ikkita chipta bor. Bu — tezyurar poyezd."
+    },
+    {
+      "en": "The train leaves at eight o'clock. Their seats are next to a big window. The trip is about two hours. Kamola reads a book, and Dilshod looks at the fields and small villages.",
+      "uz": "Poyezd soat sakkizda joʻnaydi. Ularning oʻrindiqlari katta derazaning yonida. Yoʻl taxminan ikki soat davom etadi. Kamola kitob oʻqiydi, Dilshod esa dalalar va kichik qishloqlarga qaraydi."
+    },
+    {
+      "en": "There is a small café on the train. Dilshod would like a cup of tea. Kamola would like some water and a sandwich.",
+      "uz": "Poyezdda kichik kafe bor. Dilshod bir piyola choy ichmoqchi. Kamola esa suv va sendvich olmoqchi."
+    },
+    {
+      "en": "In Samarkand, their uncle Jahongir is at the station. He says, \"Welcome to Samarkand!\" Tomorrow they want to see the Registan.",
+      "uz": "Samarqandda vokzalda ularni amakisi Jahongir kutib turibdi. U: «Samarqandga xush kelibsizlar!» — deydi. Ertaga ular Registonni koʻrmoqchi."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "train station",
+      "uz": "temir yoʻl vokzali"
+    },
+    {
+      "en": "ticket",
+      "uz": "chipta"
+    },
+    {
+      "en": "fast",
+      "uz": "tez, tezyurar"
+    },
+    {
+      "en": "leave",
+      "uz": "joʻnab ketmoq"
+    },
+    {
+      "en": "seat",
+      "uz": "oʻrindiq"
+    },
+    {
+      "en": "trip",
+      "uz": "safar, yoʻl"
+    },
+    {
+      "en": "about",
+      "uz": "taxminan"
+    },
+    {
+      "en": "field",
+      "uz": "dala"
+    },
+    {
+      "en": "village",
+      "uz": "qishloq"
+    },
+    {
+      "en": "would like",
+      "uz": "… xohlamoq (xushmuomala)"
+    },
+    {
+      "en": "uncle",
+      "uz": "amaki, togʻa"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "b20-telling-time",
+      "title": {
+        "uz": "Vaqt: at eight o'clock"
+      },
+      "example": "The train leaves at eight o'clock."
+    },
+    {
+      "topicId": "b44-would-like",
+      "title": {
+        "uz": "would like — xohlamoq"
+      },
+      "example": "Dilshod would like a cup of tea."
+    }
+  ],
+  "questions": [
+    {
+      "id": "a1-21-train-q1",
+      "type": "tfng",
+      "statement": "Dilshod and Kamola are at the station on Saturday morning.",
+      "answer": "T",
+      "explain": {
+        "uz": "1-xatboshi: «It is Saturday morning… are at the train station»."
+      },
+      "para": 0
+    },
+    {
+      "id": "a1-21-train-q2",
+      "type": "tfng",
+      "statement": "The Afrosiyob is a slow train.",
+      "answer": "F",
+      "explain": {
+        "uz": "Bu tezyurar poyezd: «It is a fast train.»"
+      },
+      "para": 0
+    },
+    {
+      "id": "a1-21-train-q3",
+      "type": "choice",
+      "prompt": "When does the train leave?",
+      "options": [
+        "at seven o'clock",
+        "at eight o'clock",
+        "at ten o'clock"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«The train leaves at eight o'clock.»"
+      },
+      "para": 1
+    },
+    {
+      "id": "a1-21-train-q4",
+      "type": "choice",
+      "prompt": "What does Kamola do on the train?",
+      "options": [
+        "She reads a book.",
+        "She sleeps.",
+        "She plays a game."
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "«Kamola reads a book» — dalalarga Dilshod qaraydi."
+      },
+      "para": 1
+    },
+    {
+      "id": "a1-21-train-q5",
+      "type": "gap",
+      "prompt": "The trip is about two ___.",
+      "answers": [
+        "hours"
+      ],
+      "explain": {
+        "uz": "«The trip is about two hours.»"
+      },
+      "para": 1
+    },
+    {
+      "id": "a1-21-train-q6",
+      "type": "choice",
+      "prompt": "What would Dilshod like?",
+      "options": [
+        "some water",
+        "a sandwich",
+        "a cup of tea"
+      ],
+      "answer": 2,
+      "explain": {
+        "uz": "«Dilshod would like a cup of tea.» Suv va sendvichni Kamola xohlaydi."
+      },
+      "para": 2
+    },
+    {
+      "id": "a1-21-train-q7",
+      "type": "tfng",
+      "statement": "Their uncle Jahongir is at the station in Samarkand.",
+      "answer": "T",
+      "explain": {
+        "uz": "«In Samarkand, their uncle Jahongir is at the station.»"
+      },
+      "para": 3
+    }
+  ]
+}

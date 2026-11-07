@@ -1,0 +1,225 @@
+{
+  "id": "b1-09-groundwater",
+  "title": {
+    "uz": "Yer osti suvlari"
+  },
+  "en": "Water Under Our Feet",
+  "level": "B1",
+  "kind": "article",
+  "tag": {
+    "uz": "Atrof-muhit",
+    "en": "Environment"
+  },
+  "intro": {
+    "uz": "Bu maqola yer osti suvlari, quduqlar va qadimiy korizlar haqida. Oʻqishdan oldin oʻylab koʻring: quduqdagi suv qayerdan keladi?"
+  },
+  "paragraphs": [
+    {
+      "en": "When we think of fresh water, we usually picture rivers, lakes and mountain snow. However, a huge amount of the world's fresh water is hidden under our feet. It is called groundwater, and in many dry regions, including large parts of Central Asia, people have depended on it for thousands of years."
+    },
+    {
+      "en": "Groundwater begins as rain or melting snow. Some of this water runs off into rivers, and some evaporates, but a part of it slowly soaks into the ground. It moves down through the soil and fills the tiny spaces between grains of sand and gravel, as well as cracks in rock. A layer of rock or sand that holds a lot of water and lets it flow is called an aquifer. Contrary to what many people imagine, most groundwater is not stored in underground lakes but in these small spaces, a bit like water in a sponge."
+    },
+    {
+      "en": "To reach this water, people dig or drill wells. In the past, wells were dug by hand and water was lifted with a bucket. Today, electric pumps can bring up water from much deeper aquifers. In Central Asia and neighbouring regions, people also built an ingenious system called the kariz. A kariz is an underground canal that carries water from the foothills to villages and fields. Because the water flows gently downhill by gravity, no pump is needed. A line of vertical shafts, which workers used to dig the tunnel and to remove soil, can often be seen on the surface. And because the water travels underground, less of it is lost to evaporation in the hot summer."
+    },
+    {
+      "en": "Groundwater is valuable, but it is not endless. Rain can refill an aquifer, but this may take many years, and for some deep aquifers it takes thousands of years. If water is pumped out faster than nature can replace it, the water table, the top level of groundwater, falls. Old wells dry up, and farmers have to drill deeper and deeper, which costs more money and energy. In some places, the ground has even sunk because so much water has been removed from beneath it."
+    },
+    {
+      "en": "Groundwater can also be polluted by chemicals from farms, factories and rubbish. Once this happens, cleaning it is very difficult. For this reason, experts say that we should use groundwater carefully, water crops in more efficient ways, such as drip irrigation, and protect the land above aquifers. Water that we cannot see still needs our care."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "picture",
+      "uz": "koʻz oldiga keltirmoq, tasavvur qilmoq"
+    },
+    {
+      "en": "groundwater",
+      "uz": "yer osti suvi"
+    },
+    {
+      "en": "soak into",
+      "uz": "… ga singmoq"
+    },
+    {
+      "en": "grain",
+      "uz": "donacha, zarra"
+    },
+    {
+      "en": "gravel",
+      "uz": "shagʻal"
+    },
+    {
+      "en": "crack",
+      "uz": "yoriq, darz"
+    },
+    {
+      "en": "aquifer",
+      "uz": "suvli qatlam, akvifer"
+    },
+    {
+      "en": "sponge",
+      "uz": "shimgich, gubka"
+    },
+    {
+      "en": "drill",
+      "uz": "burgʻulamoq"
+    },
+    {
+      "en": "ingenious",
+      "uz": "mohirona oʻylab topilgan, zukko"
+    },
+    {
+      "en": "gravity",
+      "uz": "tortishish kuchi"
+    },
+    {
+      "en": "shaft",
+      "uz": "vertikal quduq, shaxta"
+    },
+    {
+      "en": "water table",
+      "uz": "yer osti suvi sathi"
+    },
+    {
+      "en": "drip irrigation",
+      "uz": "tomchilatib sugʻorish"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "i29-passive-basics",
+      "title": {
+        "uz": "Majhul nisbat: were dug, was lifted"
+      },
+      "example": "wells were dug by hand and water was lifted with a bucket"
+    },
+    {
+      "topicId": "i55-non-defining",
+      "title": {
+        "uz": "Ajratuvchi ergash gap: …, which workers used …, …"
+      },
+      "example": "A line of vertical shafts, which workers used to dig the tunnel and to remove soil, can often be seen on the surface."
+    }
+  ],
+  "questions": [
+    {
+      "id": "b1-09-groundwater-q1",
+      "type": "tfng",
+      "statement": "Most groundwater is stored in large underground lakes.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«most groundwater is not stored in underground lakes but in these small spaces»."
+      },
+      "para": 1
+    },
+    {
+      "id": "b1-09-groundwater-q2",
+      "type": "tfng",
+      "statement": "A kariz does not need a pump because the water flows downhill.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«Because the water flows gently downhill by gravity, no pump is needed.»"
+      },
+      "para": 2
+    },
+    {
+      "id": "b1-09-groundwater-q3",
+      "type": "tfng",
+      "statement": "The first kariz in Central Asia was built about a thousand years ago.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Korizlar qurilgani aytilgan, lekin birinchisi qachon qurilgani haqida matnda maʼlumot yoʻq."
+      },
+      "para": 2
+    },
+    {
+      "id": "b1-09-groundwater-q4",
+      "type": "tfng",
+      "statement": "Refilling some deep aquifers can take thousands of years.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«for some deep aquifers it takes thousands of years»."
+      },
+      "para": 3
+    },
+    {
+      "id": "b1-09-groundwater-q5",
+      "type": "choice",
+      "prompt": "What is an aquifer?",
+      "options": [
+        "a deep well dug by hand",
+        "a layer of rock or sand that holds water and lets it flow",
+        "an underground lake"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«A layer of rock or sand that holds a lot of water and lets it flow is called an aquifer.»"
+      },
+      "para": 1
+    },
+    {
+      "id": "b1-09-groundwater-q6",
+      "type": "choice",
+      "prompt": "According to the text, why is less water lost from a kariz in hot summers?",
+      "options": [
+        "because the water travels underground",
+        "because the water moves very fast",
+        "because the canal is cleaned often"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "«because the water travels underground, less of it is lost to evaporation»."
+      },
+      "para": 2
+    },
+    {
+      "id": "b1-09-groundwater-q7",
+      "type": "choice",
+      "prompt": "What happens when water is pumped out faster than nature can replace it?",
+      "options": [
+        "The water table rises.",
+        "The water table falls and old wells may dry up.",
+        "The groundwater becomes cleaner."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«the water table … falls. Old wells dry up»."
+      },
+      "para": 3
+    },
+    {
+      "id": "b1-09-groundwater-q8",
+      "type": "heading",
+      "para": 4,
+      "options": [
+        "Pollution and protection",
+        "How wells are dug",
+        "Why rain falls"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "Oxirgi xatboshi: yer osti suvi ifloslanishi va uni qanday asrash kerakligi haqida."
+      }
+    },
+    {
+      "id": "b1-09-groundwater-q9",
+      "type": "gap",
+      "prompt": "Experts suggest watering crops in more efficient ways, such as ___.",
+      "answers": [
+        "drip irrigation"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«water crops in more efficient ways, such as drip irrigation»."
+      },
+      "para": 4
+    }
+  ]
+}

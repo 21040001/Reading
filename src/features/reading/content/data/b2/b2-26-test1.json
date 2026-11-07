@@ -1,0 +1,303 @@
+{
+  "id": "b2-26-test1",
+  "title": {
+    "uz": "1-test: Qogʻoz yoʻli"
+  },
+  "en": "The Paper Road",
+  "level": "B2",
+  "kind": "exam",
+  "tag": {
+    "uz": "Tarix",
+    "en": "History"
+  },
+  "intro": {
+    "uz": "Toʻliq mashq testi: qogʻozning Xitoydan Samarqand orqali dunyoga tarqalishi haqidagi matn. Haqiqiy imtihondagidek bitta matnga 13 ta savol va bir nechta topshiriq turi beriladi: Matching headings, True/False/Not Given, boʻshliq toʻldirish va test savollari. Taxminan 20 daqiqa ajrating: avval matnga tez koʻz yugurtirib sarlavhalarni moslang, keyin TFNG va boʻshliqlarni bajaring, test savollarini esa oxiriga qoldiring."
+  },
+  "paragraphs": [
+    {
+      "en": "Paper is so ordinary today that few people stop to think about where it came from. Yet the material we use for notebooks, books and packaging made a remarkable journey before it reached every corner of the world. That journey began in China, lasted more than a thousand years and passed through the heart of Central Asia. Its story shows how a simple invention can change the way knowledge is stored and shared."
+    },
+    {
+      "en": "Chinese tradition credits a court official named Cai Lun with improving the method of papermaking at the beginning of the second century, although older fragments found by archaeologists suggest that simpler forms of paper existed before him. Early papermakers did not rely only on fresh plants. Alongside tree bark and hemp, they used old rags and even worn fishing nets, which were soaked, beaten into a pulp and spread thinly to dry."
+    },
+    {
+      "en": "For centuries, the technique remained largely unknown outside East Asia. According to a famous tradition, it reached Samarkand after the Battle of Talas in 751, when Chinese prisoners of war are said to have taught local craftsmen their skills. Many historians treat this story with caution. They point out that knowledge often travelled quietly along trade routes, and papermaking may have arrived earlier and more gradually. Whatever the exact route, Samarkand soon became an important centre of production."
+    },
+    {
+      "en": "Samarkand paper gained a reputation that spread far beyond the city. It was valued for being smooth, strong and light in colour, and writers in the wider Islamic world praised its quality. Copyists and scholars, who needed a reliable surface for long texts, were among its most enthusiastic users. One reason was careful finishing: the sheets were often polished with a smooth stone so that ink would not spread into the fibres. The streams and canals around the city also supplied the clean water that the process required."
+    },
+    {
+      "en": "From Central Asia, the craft moved steadily westward. It is generally believed that Baghdad had its own paper mills by the end of the eighth century, and production later developed in Damascus, Cairo and across North Africa. Paper was far cheaper than parchment made from animal skin, so it became much easier to copy books, keep government records and share scientific ideas. Europe adopted the material considerably later, first in Spain and Italy, and the printing presses of later centuries would have been almost useless without it."
+    },
+    {
+      "en": "In Samarkand itself, however, the craft did not survive. As cheaper paper produced in factories became widely available, handmade sheets could no longer compete, and by the nineteenth century the local tradition had largely died out. For many years, Samarkand paper existed only in museums and old manuscripts, and few people knew exactly how it had been made."
+    },
+    {
+      "en": "In recent decades, craftsmen in the village of Konigil, near Samarkand, have revived the art using the bark of mulberry trees, which are common in the region because their leaves have long been used to feed silkworms. Young branches are cut, the bark is stripped and boiled for hours, and the softened fibres are beaten by a water-powered hammer. Visitors can now watch every stage and leave with a sheet of paper made much as it was centuries ago. For many, it is a rare chance to see history being made by hand."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "remarkable",
+      "uz": "ajoyib, eʼtiborga loyiq"
+    },
+    {
+      "en": "credit with",
+      "uz": "… ga nisbat bermoq, … ni u qildi deb hisoblamoq"
+    },
+    {
+      "en": "fragment",
+      "uz": "parcha, boʻlak"
+    },
+    {
+      "en": "rag",
+      "uz": "latta"
+    },
+    {
+      "en": "pulp",
+      "uz": "boʻtqa, massa"
+    },
+    {
+      "en": "prisoner of war",
+      "uz": "harbiy asir"
+    },
+    {
+      "en": "treat with caution",
+      "uz": "ehtiyotkorlik bilan qaramoq"
+    },
+    {
+      "en": "gradually",
+      "uz": "asta-sekin"
+    },
+    {
+      "en": "reputation",
+      "uz": "obroʻ, nom"
+    },
+    {
+      "en": "polish",
+      "uz": "jilolamoq, silliqlamoq"
+    },
+    {
+      "en": "parchment",
+      "uz": "pergament (teridan qilingan yozuv materiali)"
+    },
+    {
+      "en": "adopt",
+      "uz": "qabul qilmoq, oʻzlashtirmoq"
+    },
+    {
+      "en": "compete",
+      "uz": "raqobatlashmoq"
+    },
+    {
+      "en": "revive",
+      "uz": "qayta tiklamoq"
+    },
+    {
+      "en": "mulberry",
+      "uz": "tut daraxti"
+    },
+    {
+      "en": "strip",
+      "uz": "shilmoq, archmoq"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "i31-it-is-said",
+      "title": {
+        "uz": "Majhul nisbat bilan xabar: are said to have taught / It is generally believed"
+      },
+      "example": "Chinese prisoners of war are said to have taught local craftsmen their skills"
+    },
+    {
+      "topicId": "i11-past-perfect",
+      "title": {
+        "uz": "Past Perfect: had largely died out"
+      },
+      "example": "by the nineteenth century the local tradition had largely died out"
+    }
+  ],
+  "questions": [
+    {
+      "id": "b2-26-test1-q1",
+      "type": "heading",
+      "para": 2,
+      "options": [
+        "A story that historians question",
+        "What made the sheets special",
+        "Westward across the Islamic world and beyond",
+        "An old craft brought back to life",
+        "A battle that changed trade routes",
+        "Why paper became more expensive"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "Xatboshi C: Talas jangi haqidagi rivoyat — «Many historians treat this story with caution». «A battle that changed trade routes» chalgʻitadi: jang tilga olinadi, lekin savdo yoʻllari oʻzgargani aytilmaydi."
+      }
+    },
+    {
+      "id": "b2-26-test1-q2",
+      "type": "heading",
+      "para": 3,
+      "options": [
+        "A story that historians question",
+        "What made the sheets special",
+        "Westward across the Islamic world and beyond",
+        "An old craft brought back to life",
+        "A battle that changed trade routes",
+        "Why paper became more expensive"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "Xatboshi D: Samarqand qogʻozi nega mashhur boʻlgani — silliq, mustahkam, tosh bilan jilolangan."
+      }
+    },
+    {
+      "id": "b2-26-test1-q3",
+      "type": "heading",
+      "para": 4,
+      "options": [
+        "A story that historians question",
+        "What made the sheets special",
+        "Westward across the Islamic world and beyond",
+        "An old craft brought back to life",
+        "A battle that changed trade routes",
+        "Why paper became more expensive"
+      ],
+      "answer": 2,
+      "explain": {
+        "uz": "Xatboshi E: hunar Bagʻdod, Damashq, Qohira, Shimoliy Afrika, keyin Ispaniya va Italiyaga — gʻarbga tarqalgan."
+      }
+    },
+    {
+      "id": "b2-26-test1-q4",
+      "type": "heading",
+      "para": 6,
+      "options": [
+        "A story that historians question",
+        "What made the sheets special",
+        "Westward across the Islamic world and beyond",
+        "An old craft brought back to life",
+        "A battle that changed trade routes",
+        "Why paper became more expensive"
+      ],
+      "answer": 3,
+      "explain": {
+        "uz": "Xatboshi G: Konigilda hunar qayta tiklangan — «have revived the art»."
+      }
+    },
+    {
+      "id": "b2-26-test1-q5",
+      "type": "tfng",
+      "statement": "Early Chinese papermakers made paper only from fresh plant material.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "Aksincha: «did not rely only on fresh plants» — eski latta va baliq toʻrlari ham ishlatilgan."
+      },
+      "para": 1
+    },
+    {
+      "id": "b2-26-test1-q6",
+      "type": "tfng",
+      "statement": "All historians accept that prisoners from the Battle of Talas brought papermaking to Samarkand.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«Many historians treat this story with caution» — hamma ham qabul qilmaydi."
+      },
+      "para": 2
+    },
+    {
+      "id": "b2-26-test1-q7",
+      "type": "tfng",
+      "statement": "Samarkand paper was sold at a higher price than paper from China.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Samarqand qogʻozining sifati maqtalgan, lekin narxini Xitoy qogʻozi bilan solishtirish yoʻq."
+      },
+      "para": 3
+    },
+    {
+      "id": "b2-26-test1-q8",
+      "type": "tfng",
+      "statement": "The use of paper made it simpler to keep official documents.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«it became much easier to … keep government records» — paraphrase."
+      },
+      "para": 4
+    },
+    {
+      "id": "b2-26-test1-q9",
+      "type": "tfng",
+      "statement": "Most of the paper made in Konigil today is sold to other countries.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Mehmonlar qogʻoz olib ketishi mumkin, lekin eksport haqida maʼlumot yoʻq."
+      },
+      "para": 6
+    },
+    {
+      "id": "b2-26-test1-q10",
+      "type": "gap",
+      "prompt": "To stop ink spreading, sheets of Samarkand paper were polished with a smooth ___.",
+      "answers": [
+        "stone"
+      ],
+      "maxWords": 1,
+      "explain": {
+        "uz": "«the sheets were often polished with a smooth stone so that ink would not spread»."
+      },
+      "para": 3
+    },
+    {
+      "id": "b2-26-test1-q11",
+      "type": "gap",
+      "prompt": "In Konigil, the ___ is stripped from young mulberry branches and boiled for hours.",
+      "answers": [
+        "bark"
+      ],
+      "maxWords": 1,
+      "explain": {
+        "uz": "«Young branches are cut, the bark is stripped and boiled for hours»."
+      },
+      "para": 6
+    },
+    {
+      "id": "b2-26-test1-q12",
+      "type": "choice",
+      "prompt": "According to the writer, why did handmade paper disappear from Samarkand?",
+      "options": [
+        "Mulberry trees became rare in the region.",
+        "Cheaper factory-made paper replaced it.",
+        "The city lost its supply of clean water.",
+        "Parchment became popular again."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«As cheaper paper produced in factories became widely available, handmade sheets could no longer compete». Tut daraxti, toza suv matnda bor, lekin sabab sifatida emas."
+      },
+      "para": 5
+    },
+    {
+      "id": "b2-26-test1-q13",
+      "type": "choice",
+      "prompt": "Why are mulberry trees common around Samarkand?",
+      "options": [
+        "Their bark has always been used for paper.",
+        "Their leaves are used to feed silkworms.",
+        "They grow well beside canals."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«because their leaves have long been used to feed silkworms». Qogʻoz uchun poʻstloq yaqinda qayta ishlatila boshlangan."
+      },
+      "para": 6
+    }
+  ]
+}

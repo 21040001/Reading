@@ -1,0 +1,232 @@
+{
+  "id": "b2-01-aral",
+  "title": {
+    "uz": "Orol dengizi qaytadimi?"
+  },
+  "en": "The Aral Sea: Can a Lost Sea Return?",
+  "level": "B2",
+  "kind": "exam",
+  "tag": {
+    "uz": "Atrof-muhit",
+    "en": "Environment"
+  },
+  "intro": {
+    "uz": "Topshiriq: True / False / Not Given. TRUE — matn shuni aytadi; FALSE — matn buning aksini aytadi; NOT GIVEN — matnda bu haqda maʼlumot yoʻq. Oʻz bilimingizga emas, faqat matnga tayaning!"
+  },
+  "paragraphs": [
+    {
+      "en": "In 1960, the Aral Sea was the fourth-largest lake in the world. Fishing villages lined its shores, and the port of Muynak, in Karakalpakstan, sent fish to every corner of the Soviet Union. Today, visitors to Muynak find rusting ships sitting on sand, many kilometres from the nearest water."
+    },
+    {
+      "en": "The cause of the disaster is well known. From the 1960s, water from the region's two great rivers, the Amu Darya and the Syr Darya, was diverted to irrigate huge cotton fields. With far less fresh water flowing in, the sea began to shrink and its water became saltier. By the late 1980s, it had split into two separate parts."
+    },
+    {
+      "en": "The consequences went far beyond the loss of fish. As the water disappeared, it left behind a new desert, now often called the Aralkum. Strong winds lift salt and dust from the dry seabed and carry them hundreds of kilometres, damaging crops and, according to doctors in the region, contributing to breathing problems."
+    },
+    {
+      "en": "Yet the story is not entirely hopeless. In 2005, Kazakhstan completed a dam that separates the small northern part of the sea from the south. Water levels behind the dam rose, the water became less salty, and fish returned. Some local fishermen have gone back to work."
+    },
+    {
+      "en": "Recovering the much larger southern part is a different challenge. Instead of trying to bring the water back, Uzbekistan has focused on planting drought-resistant plants such as saxaul on the dry seabed. Their roots hold the soil in place and reduce dust storms. Scientists say this will not restore the sea, but it may make the region a healthier place to live."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "line the shores",
+      "uz": "qirgʻoq boʻylab joylashmoq"
+    },
+    {
+      "en": "rusting",
+      "uz": "zanglayotgan"
+    },
+    {
+      "en": "divert",
+      "uz": "(suvni) boshqa tomonga burmoq"
+    },
+    {
+      "en": "irrigate",
+      "uz": "sugʻormoq"
+    },
+    {
+      "en": "shrink",
+      "uz": "kichraymoq, qisqarmoq"
+    },
+    {
+      "en": "split",
+      "uz": "boʻlinmoq"
+    },
+    {
+      "en": "consequence",
+      "uz": "oqibat"
+    },
+    {
+      "en": "seabed",
+      "uz": "dengiz tubi"
+    },
+    {
+      "en": "contribute to",
+      "uz": "… ga sabab boʻlmoq, hissa qoʻshmoq"
+    },
+    {
+      "en": "dam",
+      "uz": "toʻgʻon"
+    },
+    {
+      "en": "drought-resistant",
+      "uz": "qurgʻoqchilikka chidamli"
+    },
+    {
+      "en": "saxaul",
+      "uz": "saksovul"
+    },
+    {
+      "en": "restore",
+      "uz": "tiklamoq"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "i11-past-perfect",
+      "title": {
+        "uz": "Past Perfect: had split"
+      },
+      "example": "By the late 1980s, it had split into two separate parts."
+    },
+    {
+      "topicId": "i29-passive-basics",
+      "title": {
+        "uz": "Majhul nisbat: was diverted"
+      },
+      "example": "Water … was diverted to irrigate huge cotton fields."
+    }
+  ],
+  "questions": [
+    {
+      "id": "b2-01-aral-q1",
+      "type": "tfng",
+      "statement": "The Aral Sea was once among the five largest lakes in the world.",
+      "answer": "T",
+      "explain": {
+        "uz": "«the fourth-largest lake in the world» — toʻrtinchi, demak beshtalikda."
+      },
+      "para": 0
+    },
+    {
+      "id": "b2-01-aral-q2",
+      "type": "tfng",
+      "statement": "Muynak is still an important fishing port today.",
+      "answer": "F",
+      "explain": {
+        "uz": "Bugun kemalar qum ustida, suv kilometrlab uzoqda — port emas."
+      },
+      "para": 0
+    },
+    {
+      "id": "b2-01-aral-q3",
+      "type": "tfng",
+      "statement": "Water used for cotton farming would otherwise have flowed into the sea.",
+      "answer": "T",
+      "explain": {
+        "uz": "Daryolar suvi paxta dalalariga burilgani uchun dengizga kamroq suv kelgan (2-xatboshi)."
+      },
+      "para": 1
+    },
+    {
+      "id": "b2-01-aral-q4",
+      "type": "tfng",
+      "statement": "In the 1980s, the Soviet government made a plan to save the sea.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Matnda hukumat rejasi haqida hech narsa aytilmagan — Not Given."
+      },
+      "para": 1
+    },
+    {
+      "id": "b2-01-aral-q5",
+      "type": "tfng",
+      "statement": "Dust from the dry seabed affects places far away from the sea.",
+      "answer": "T",
+      "explain": {
+        "uz": "«carry them hundreds of kilometres» — yuzlab kilometrga yetadi."
+      },
+      "para": 2
+    },
+    {
+      "id": "b2-01-aral-q6",
+      "type": "tfng",
+      "statement": "Kazakhstan paid for the dam without any help from other countries.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Toʻgʻonni Qozogʻiston qurgani aytilgan, kim pul toʻlagani haqida maʼlumot yoʻq."
+      },
+      "para": 3
+    },
+    {
+      "id": "b2-01-aral-q7",
+      "type": "tfng",
+      "statement": "After 2005, fish disappeared again from the northern part of the sea.",
+      "answer": "F",
+      "explain": {
+        "uz": "Aksincha: «fish returned» — baliqlar qaytgan."
+      },
+      "para": 3
+    },
+    {
+      "id": "b2-01-aral-q8",
+      "type": "heading",
+      "para": 2,
+      "options": [
+        "Effects beyond fishing",
+        "A plan from the government",
+        "Life in Muynak today"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "3-xatboshi baliqdan tashqari oqibatlar haqida: yangi choʻl, chang, sogʻliq."
+      }
+    },
+    {
+      "id": "b2-01-aral-q9",
+      "type": "gap",
+      "prompt": "Uzbekistan is planting drought-resistant plants such as ___ on the dry seabed.",
+      "answers": [
+        "saxaul"
+      ],
+      "maxWords": 1,
+      "explain": {
+        "uz": "5-xatboshi: «plants such as saxaul»."
+      },
+      "para": 4
+    },
+    {
+      "id": "b2-01-aral-q10",
+      "type": "gap",
+      "prompt": "The roots of these plants help to reduce ___.",
+      "answers": [
+        "dust storms",
+        "dust"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«Their roots hold the soil in place and reduce dust storms.»"
+      },
+      "para": 4
+    },
+    {
+      "id": "b2-01-aral-q11",
+      "type": "gap",
+      "prompt": "Scientists believe that the planting will not ___ the sea.",
+      "answers": [
+        "restore",
+        "bring back"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«this will not restore the sea» — dengizni tiklamaydi, lekin hududni sogʻlomroq qiladi."
+      },
+      "para": 4
+    }
+  ]
+}

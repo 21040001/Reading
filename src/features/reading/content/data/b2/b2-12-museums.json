@@ -1,0 +1,280 @@
+{
+  "id": "b2-12-museums",
+  "title": {
+    "uz": "Muzeylar kelajagi"
+  },
+  "en": "The Future of Museums",
+  "level": "B2",
+  "kind": "exam",
+  "tag": {
+    "uz": "Madaniyat",
+    "en": "Culture"
+  },
+  "intro": {
+    "uz": "Topshiriq: Matching headings, True/False/Not Given va gap. Avval eng oson xatboshilardan boshlang va ishlatilgan sarlavhalarni chizib qoʻying: qiyin xatboshilarga yetganda tanlov kamayadi. Har bir sarlavha faqat bir marta ishlatiladi."
+  },
+  "paragraphs": [
+    {
+      "en": "For most of the last two centuries, the typical museum followed a familiar model. Valuable objects were displayed behind glass in quiet halls, visitors walked slowly from room to room reading small labels, and signs reminded everyone not to touch anything. This model has not disappeared, but it is under pressure. Younger audiences expect to take part rather than simply look, and museums now compete for attention with countless other forms of entertainment."
+    },
+    {
+      "en": "One of the biggest changes has taken place behind the scenes. Many museums are photographing and scanning their collections and publishing the images in online catalogues. Only a small proportion of what a large museum owns is ever on display at one time, so digitisation allows researchers and curious members of the public to examine objects that would otherwise stay in storage. A detailed digital record can also be valuable if an original is damaged by fire, flood or simply the passage of time."
+    },
+    {
+      "en": "Virtual tours have taken this idea further. Using a computer or phone, a person in a small village can now walk through the galleries of a famous museum on another continent, zooming in on paintings in a way that would be impossible in a crowded room. Such tours became especially popular when many buildings were forced to close their doors for long periods. Critics, however, argue that a screen can never reproduce the experience of standing in front of the real thing."
+    },
+    {
+      "en": "Inside the buildings themselves, interactive exhibits are becoming common. Touch screens allow visitors to explore the history of an object, sound and light recreate the atmosphere of a past era, and hands-on displays invite children to build, test and experiment. Supporters say that people remember what they do far better than what they read. Some curators worry, though, that visitors may become so absorbed in the technology that they hardly notice the objects the exhibition was designed to show."
+    },
+    {
+      "en": "Museums are also facing difficult questions about the objects they hold. A number of famous collections include items that were taken from other countries during periods of colonial rule or war, sometimes without the agreement of the communities they came from. Some institutions have returned such objects or begun discussions with the countries concerned, while others argue that keeping them allows a global audience to see them. The debate is unlikely to be settled soon."
+    },
+    {
+      "en": "Museums in Uzbekistan face many of the same challenges and opportunities. Collections in cities such as Tashkent, Samarkand and Bukhara contain manuscripts, ceramics, textiles and jewellery of great historical importance, and work is under way in several places to modernise displays and make collections more accessible. Many experts believe that the museum of the future will combine both worlds: a building where people can meet original objects face to face, supported by digital tools that extend its reach far beyond its walls."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "display",
+      "uz": "namoyish qilmoq; ekspozitsiya"
+    },
+    {
+      "en": "label",
+      "uz": "yorliq, tavsif yozuvi"
+    },
+    {
+      "en": "audience",
+      "uz": "tomoshabinlar, auditoriya"
+    },
+    {
+      "en": "compete",
+      "uz": "raqobatlashmoq"
+    },
+    {
+      "en": "scan",
+      "uz": "skanerlamoq"
+    },
+    {
+      "en": "proportion",
+      "uz": "ulush, qism"
+    },
+    {
+      "en": "digitisation",
+      "uz": "raqamlashtirish"
+    },
+    {
+      "en": "storage",
+      "uz": "ombor, saqlash joyi"
+    },
+    {
+      "en": "reproduce",
+      "uz": "aynan takrorlamoq"
+    },
+    {
+      "en": "interactive",
+      "uz": "interaktiv"
+    },
+    {
+      "en": "atmosphere",
+      "uz": "muhit, ruh"
+    },
+    {
+      "en": "curator",
+      "uz": "kurator, muzey xodimi"
+    },
+    {
+      "en": "absorbed in",
+      "uz": "… ga berilib ketgan"
+    },
+    {
+      "en": "colonial",
+      "uz": "mustamlakachilik davriga oid"
+    },
+    {
+      "en": "manuscript",
+      "uz": "qoʻlyozma"
+    },
+    {
+      "en": "accessible",
+      "uz": "ochiq, foydalanish oson"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "c34-participle-clauses",
+      "title": {
+        "uz": "Ravishdosh oborot: Using a computer…"
+      },
+      "example": "Using a computer or phone, a person in a small village can now walk through the galleries"
+    },
+    {
+      "topicId": "c52-but-for-otherwise",
+      "title": {
+        "uz": "otherwise — «aks holda»"
+      },
+      "example": "objects that would otherwise stay in storage"
+    }
+  ],
+  "questions": [
+    {
+      "id": "b2-12-museums-q1",
+      "type": "heading",
+      "para": 0,
+      "options": [
+        "Damage caused by large crowds",
+        "Who should keep the treasures?",
+        "Hidden collections brought into view",
+        "A traditional model under challenge",
+        "Visiting from a distance",
+        "Learning through activity",
+        "Why children prefer screens to objects",
+        "Rich national collections and a blended future"
+      ],
+      "answer": 3,
+      "explain": {
+        "uz": "Xatboshi A: oynavand vitrinalar, sukunat, «tegmang» — anʼanaviy model endi bosim ostida."
+      }
+    },
+    {
+      "id": "b2-12-museums-q2",
+      "type": "heading",
+      "para": 1,
+      "options": [
+        "Damage caused by large crowds",
+        "Who should keep the treasures?",
+        "Hidden collections brought into view",
+        "A traditional model under challenge",
+        "Visiting from a distance",
+        "Learning through activity",
+        "Why children prefer screens to objects",
+        "Rich national collections and a blended future"
+      ],
+      "answer": 2,
+      "explain": {
+        "uz": "Xatboshi B: omborda yotgan buyumlar raqamlashtirilib, onlayn katalog orqali hammaga koʻrinadi. «Damage caused by large crowds» — «damaged» soʻzi bor, lekin olomon haqida emas."
+      }
+    },
+    {
+      "id": "b2-12-museums-q3",
+      "type": "heading",
+      "para": 2,
+      "options": [
+        "Damage caused by large crowds",
+        "Who should keep the treasures?",
+        "Hidden collections brought into view",
+        "A traditional model under challenge",
+        "Visiting from a distance",
+        "Learning through activity",
+        "Why children prefer screens to objects",
+        "Rich national collections and a blended future"
+      ],
+      "answer": 4,
+      "explain": {
+        "uz": "Xatboshi C: virtual sayohat — boshqa qitʼadagi muzeyni uydan turib koʻrish."
+      }
+    },
+    {
+      "id": "b2-12-museums-q4",
+      "type": "heading",
+      "para": 3,
+      "options": [
+        "Damage caused by large crowds",
+        "Who should keep the treasures?",
+        "Hidden collections brought into view",
+        "A traditional model under challenge",
+        "Visiting from a distance",
+        "Learning through activity",
+        "Why children prefer screens to objects",
+        "Rich national collections and a blended future"
+      ],
+      "answer": 5,
+      "explain": {
+        "uz": "Xatboshi D: interaktiv eksponatlar: «people remember what they do» — harakat orqali oʻrganish. «Why children prefer screens…» — bolalar tilga olingan, lekin bunday fikr yoʻq."
+      }
+    },
+    {
+      "id": "b2-12-museums-q5",
+      "type": "heading",
+      "para": 4,
+      "options": [
+        "Damage caused by large crowds",
+        "Who should keep the treasures?",
+        "Hidden collections brought into view",
+        "A traditional model under challenge",
+        "Visiting from a distance",
+        "Learning through activity",
+        "Why children prefer screens to objects",
+        "Rich national collections and a blended future"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "Xatboshi E: boshqa mamlakatlardan olib ketilgan buyumlar kimda qolishi kerak — egalik masalasi."
+      }
+    },
+    {
+      "id": "b2-12-museums-q6",
+      "type": "heading",
+      "para": 5,
+      "options": [
+        "Damage caused by large crowds",
+        "Who should keep the treasures?",
+        "Hidden collections brought into view",
+        "A traditional model under challenge",
+        "Visiting from a distance",
+        "Learning through activity",
+        "Why children prefer screens to objects",
+        "Rich national collections and a blended future"
+      ],
+      "answer": 7,
+      "explain": {
+        "uz": "Xatboshi F: Oʻzbekiston muzeylaridagi boy meros hamda haqiqiy va raqamli dunyoni birlashtirgan kelajak muzeyi. «Hidden collections…» emas — bu B xatboshining asosiy gʻoyasi."
+      }
+    },
+    {
+      "id": "b2-12-museums-q7",
+      "type": "tfng",
+      "statement": "At any given time, most of the objects owned by a large museum are on display.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«Only a small proportion … is ever on display» — faqat kichik qismi koʻrsatiladi."
+      },
+      "para": 1
+    },
+    {
+      "id": "b2-12-museums-q8",
+      "type": "tfng",
+      "statement": "Virtual tours now attract more people than visits to museum buildings.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Virtual sayohatlar mashhur boʻlgani aytilgan, lekin binolarga tashrif bilan solishtirilmagan."
+      },
+      "para": 2
+    },
+    {
+      "id": "b2-12-museums-q9",
+      "type": "gap",
+      "prompt": "Supporters of interactive exhibits claim that people remember what they ___ far better than what they read.",
+      "answers": [
+        "do"
+      ],
+      "maxWords": 1,
+      "explain": {
+        "uz": "«people remember what they do far better than what they read»."
+      },
+      "para": 3
+    },
+    {
+      "id": "b2-12-museums-q10",
+      "type": "tfng",
+      "statement": "Some museums think that keeping disputed objects benefits visitors from around the world.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«others argue that keeping them allows a global audience to see them»."
+      },
+      "para": 4
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "id": "b2-07-bilingual-brain",
+  "title": {
+    "uz": "Ikki tilli miya"
+  },
+  "en": "The Bilingual Brain",
+  "level": "B2",
+  "kind": "exam",
+  "tag": {
+    "uz": "Fan va til",
+    "en": "Science and language"
+  },
+  "intro": {
+    "uz": "Topshiriq: True / False / Not Given. FALSE va NOT GIVEN farqini shunday tekshiring: matnda gapga zid jumlani barmogʻingiz bilan koʻrsata olasizmi? Koʻrsata olsangiz — FALSE; bunday jumla umuman boʻlmasa — NOT GIVEN."
+  },
+  "paragraphs": [
+    {
+      "en": "For much of the twentieth century, many parents and teachers worried that learning two languages in early childhood might confuse children or slow down their development. Today, most specialists reject this view. Children who grow up with two languages sometimes mix words from both in a single sentence, but this is generally regarded as a normal stage rather than a sign of a problem."
+    },
+    {
+      "en": "One question that has long interested researchers is how bilingual people keep their languages apart. Studies suggest that both languages remain active in the mind even when only one of them is being used. A bilingual speaker reading in English, for example, may unconsciously activate similar words in her other language. Many researchers believe that, for a person to speak fluently, the brain has to select one language and hold back the other, a process that happens so quickly that the speaker rarely notices it."
+    },
+    {
+      "en": "Switching between languages, then, is not a sign of weakness. Many bilinguals change language in the middle of a conversation, depending on the topic or the person they are talking to. Linguists point out that this kind of switching usually follows regular patterns and often requires considerable skill. Speakers may switch to express an idea that feels more natural in one language, or to show that they belong to a particular group."
+    },
+    {
+      "en": "Because bilinguals constantly practise controlling two languages, some scientists have proposed that they may develop stronger executive control, the set of mental abilities that help us focus attention, ignore distractions and move between tasks. Early experiments appeared to support this idea, and it quickly became popular in newspapers and magazines. It was an attractive idea, since it suggested that an everyday experience could have hidden benefits for the mind."
+    },
+    {
+      "en": "However, the picture has since become less clear. Several later studies, often with larger groups of participants, failed to find the same advantage, and some researchers now argue that the effect is small or may not exist at all. Others reply that bilingualism takes many forms and that results may depend on how often people use each language. The debate is far from settled."
+    },
+    {
+      "en": "What is not disputed is that knowing two languages brings practical and cultural benefits, from wider career opportunities to closer contact with family and community. Whether or not it also trains the brain, for a large part of the world's population, living with two languages is simply ordinary life."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "confuse",
+      "uz": "chalkashtirmoq"
+    },
+    {
+      "en": "reject",
+      "uz": "rad etmoq"
+    },
+    {
+      "en": "regard as",
+      "uz": "… deb hisoblamoq"
+    },
+    {
+      "en": "remain",
+      "uz": "qolmoq"
+    },
+    {
+      "en": "unconsciously",
+      "uz": "ongsiz ravishda"
+    },
+    {
+      "en": "fluently",
+      "uz": "ravon"
+    },
+    {
+      "en": "hold back",
+      "uz": "tiyib turmoq, bosib turmoq"
+    },
+    {
+      "en": "considerable",
+      "uz": "katta, salmoqli"
+    },
+    {
+      "en": "propose",
+      "uz": "taklif qilmoq, ilgari surmoq"
+    },
+    {
+      "en": "executive control",
+      "uz": "ijro nazorati (diqqatni boshqarish)"
+    },
+    {
+      "en": "distraction",
+      "uz": "chalgʻituvchi narsa"
+    },
+    {
+      "en": "participant",
+      "uz": "ishtirokchi"
+    },
+    {
+      "en": "advantage",
+      "uz": "ustunlik"
+    },
+    {
+      "en": "settled",
+      "uz": "hal qilingan"
+    },
+    {
+      "en": "dispute",
+      "uz": "bahslashmoq, shubha ostiga olmoq"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "c09-probability-deduction",
+      "title": {
+        "uz": "Ehtimollik: may develop, may not exist"
+      },
+      "example": "the effect is small or may not exist at all"
+    },
+    {
+      "topicId": "i30-passive-tenses",
+      "title": {
+        "uz": "Majhul nisbat: is being used"
+      },
+      "example": "even when only one of them is being used"
+    }
+  ],
+  "questions": [
+    {
+      "id": "b2-07-bilingual-brain-q1",
+      "type": "tfng",
+      "statement": "In the past, it was widely believed that growing up with two languages could harm a child.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«many parents and teachers worried that learning two languages … might confuse children or slow down their development» — harm = confuse / slow down."
+      },
+      "para": 0
+    },
+    {
+      "id": "b2-07-bilingual-brain-q2",
+      "type": "tfng",
+      "statement": "Children who mix two languages in one sentence are now thought to have a language disorder.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«regarded as a normal stage rather than a sign of a problem» — muammo belgisi emas, normal bosqich."
+      },
+      "para": 0
+    },
+    {
+      "id": "b2-07-bilingual-brain-q3",
+      "type": "tfng",
+      "statement": "Bilingual children usually learn to read earlier than other children.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Matnda oʻqishni qachon oʻrganish haqida hech narsa yoʻq. Bunday daʼvo na tasdiqlangan, na rad etilgan."
+      },
+      "para": 0
+    },
+    {
+      "id": "b2-07-bilingual-brain-q4",
+      "type": "tfng",
+      "statement": "When a bilingual person uses one language, the other one is completely switched off.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«both languages remain active in the mind even when only one of them is being used»."
+      },
+      "para": 1
+    },
+    {
+      "id": "b2-07-bilingual-brain-q5",
+      "type": "tfng",
+      "statement": "Bilingual speakers are normally aware of the effort of suppressing one of their languages.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«a process that happens so quickly that the speaker rarely notices it» — odatda sezmaydi."
+      },
+      "para": 1
+    },
+    {
+      "id": "b2-07-bilingual-brain-q6",
+      "type": "tfng",
+      "statement": "The choice of language in a conversation can depend on who the listener is.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«depending on the topic or the person they are talking to»."
+      },
+      "para": 2
+    },
+    {
+      "id": "b2-07-bilingual-brain-q7",
+      "type": "tfng",
+      "statement": "The first experiments on executive control in bilinguals were carried out with elderly people.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "«Early experiments» haqida faqat ular gʻoyani qoʻllab-quvvatlagani aytilgan; ishtirokchilar yoshi haqida maʼlumot yoʻq."
+      },
+      "para": 3
+    },
+    {
+      "id": "b2-07-bilingual-brain-q8",
+      "type": "tfng",
+      "statement": "Some researchers think that how often bilinguals use each language may affect the results.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«results may depend on how often people use each language»."
+      },
+      "para": 4
+    },
+    {
+      "id": "b2-07-bilingual-brain-q9",
+      "type": "gap",
+      "prompt": "The mental abilities that help us focus and move between tasks are called ___.",
+      "answers": [
+        "executive control"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«executive control, the set of mental abilities that help us focus attention …»."
+      },
+      "para": 3
+    },
+    {
+      "id": "b2-07-bilingual-brain-q10",
+      "type": "gap",
+      "prompt": "According to linguists, switching languages usually follows regular ___.",
+      "answers": [
+        "patterns"
+      ],
+      "maxWords": 1,
+      "explain": {
+        "uz": "«this kind of switching usually follows regular patterns»."
+      },
+      "para": 2
+    },
+    {
+      "id": "b2-07-bilingual-brain-q11",
+      "type": "choice",
+      "prompt": "What is the writer's view of the idea that bilingualism improves executive control?",
+      "options": [
+        "It has been clearly proved by later studies.",
+        "It is still uncertain and being debated.",
+        "It was invented by newspapers and magazines.",
+        "It has been completely rejected by scientists."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«The debate is far from settled» — hali hal boʻlmagan. Gazetalar gʻoyani faqat ommalashtirgan, oʻylab topmagan; «some researchers» rad etadi, lekin hammasi emas."
+      },
+      "para": 4
+    }
+  ]
+}

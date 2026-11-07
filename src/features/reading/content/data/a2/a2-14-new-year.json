@@ -1,0 +1,201 @@
+{
+  "id": "a2-14-new-year",
+  "title": {
+    "uz": "Yangi yil"
+  },
+  "en": "New Year",
+  "level": "A2",
+  "kind": "email",
+  "tag": {
+    "uz": "Bayramlar",
+    "en": "Holidays"
+  },
+  "intro": {
+    "uz": "Dilshod chet ellik doʻsti Tomga Yangi yil rejalari haqida xat yozadi. Oʻqishdan oldin oʻylab koʻring: siz Yangi yilni qayerda kutib olasiz?"
+  },
+  "paragraphs": [
+    {
+      "en": "Hi Tom, Thanks for your email. You asked about New Year in Uzbekistan. It is a very popular holiday here, and 1 January is a day off. Children love it because they get presents.",
+      "uz": "Salom, Tom! Xating uchun rahmat. Sen Oʻzbekistondagi Yangi yil haqida soʻragan eding. Bu yerda u juda mashhur bayram, 1-yanvar esa dam olish kuni. Bolalar uni yaxshi koʻradi, chunki ular sovgʻa oladi."
+    },
+    {
+      "en": "On 31 December, we are going to celebrate at my grandparents' house. My mother and my aunt are going to cook a lot of food. We always have a big family dinner with salads, meat and fruit. At midnight, everybody is going to say Happy New Year to each other.",
+      "uz": "31-dekabrda biz bobom va buvimnikida bayram qilamiz. Onam va xolam juda koʻp ovqat pishirishadi. Bizda doim salatlar, goʻsht va mevalar bilan toʻla katta dasturxon boʻladi. Yarim tunda hamma bir-birini Yangi yil bilan tabriklaydi."
+    },
+    {
+      "en": "Before the holiday, the streets in Tashkent look beautiful. There are big New Year trees and bright lights in the squares. At midnight, there are fireworks in the sky.",
+      "uz": "Bayramdan oldin Toshkent koʻchalari chiroyli koʻrinadi. Maydonlarda katta archalar va yorqin chiroqlar boʻladi. Yarim tunda osmonda mushaklar otiladi."
+    },
+    {
+      "en": "I am going to give my little sister a toy and my parents a photo book. I hope they will give me a new phone! What are your plans for New Year? Write soon, Dilshod",
+      "uz": "Men singlimga oʻyinchoq, ota-onamga esa fotoalbom sovgʻa qilmoqchiman. Umid qilamanki, ular menga yangi telefon sovgʻa qilishadi! Sening Yangi yil rejalaring qanday? Tezroq javob yoz. Dilshod"
+    }
+  ],
+  "glossary": [
+    {
+      "en": "popular",
+      "uz": "mashhur, ommabop"
+    },
+    {
+      "en": "day off",
+      "uz": "dam olish kuni"
+    },
+    {
+      "en": "present",
+      "uz": "sovgʻa"
+    },
+    {
+      "en": "grandparents",
+      "uz": "buvi va bobo"
+    },
+    {
+      "en": "midnight",
+      "uz": "yarim tun"
+    },
+    {
+      "en": "each other",
+      "uz": "bir-birini"
+    },
+    {
+      "en": "New Year tree",
+      "uz": "archa (Yangi yil archasi)"
+    },
+    {
+      "en": "bright",
+      "uz": "yorqin"
+    },
+    {
+      "en": "square",
+      "uz": "maydon"
+    },
+    {
+      "en": "fireworks",
+      "uz": "mushak, feyerverk"
+    },
+    {
+      "en": "toy",
+      "uz": "oʻyinchoq"
+    },
+    {
+      "en": "plans",
+      "uz": "rejalar"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "e22-going-to",
+      "title": {
+        "uz": "be going to — reja va niyat"
+      },
+      "example": "My mother and my aunt are going to cook a lot of food."
+    },
+    {
+      "topicId": "e49-at-on-in-time",
+      "title": {
+        "uz": "Vaqt predloglari: on 31 December, at midnight"
+      },
+      "example": "At midnight, there are fireworks in the sky."
+    }
+  ],
+  "questions": [
+    {
+      "id": "a2-14-new-year-q1",
+      "type": "tfng",
+      "statement": "1 January is a day off in Uzbekistan.",
+      "answer": "T",
+      "explain": {
+        "uz": "«1 January is a day off»."
+      },
+      "para": 0
+    },
+    {
+      "id": "a2-14-new-year-q2",
+      "type": "choice",
+      "prompt": "Why do children love New Year?",
+      "options": [
+        "They get presents.",
+        "They go to school.",
+        "They cook food."
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "«Children love it because they get presents.»"
+      },
+      "para": 0
+    },
+    {
+      "id": "a2-14-new-year-q3",
+      "type": "choice",
+      "prompt": "Where is Dilshod's family going to celebrate?",
+      "options": [
+        "at a restaurant",
+        "at a friend's house",
+        "at his grandparents' house"
+      ],
+      "answer": 2,
+      "explain": {
+        "uz": "«we are going to celebrate at my grandparents' house»."
+      },
+      "para": 1
+    },
+    {
+      "id": "a2-14-new-year-q4",
+      "type": "tfng",
+      "statement": "Dilshod is going to cook the food.",
+      "answer": "F",
+      "explain": {
+        "uz": "Ovqatni onasi va xolasi pishiradi: «My mother and my aunt are going to cook a lot of food.»"
+      },
+      "para": 1
+    },
+    {
+      "id": "a2-14-new-year-q5",
+      "type": "gap",
+      "prompt": "There are big New Year trees and bright lights in the ___.",
+      "answers": [
+        "squares"
+      ],
+      "explain": {
+        "uz": "«There are big New Year trees and bright lights in the squares.»"
+      },
+      "para": 2
+    },
+    {
+      "id": "a2-14-new-year-q6",
+      "type": "tfng",
+      "statement": "There are fireworks at midnight.",
+      "answer": "T",
+      "explain": {
+        "uz": "«At midnight, there are fireworks in the sky.»"
+      },
+      "para": 2
+    },
+    {
+      "id": "a2-14-new-year-q7",
+      "type": "gap",
+      "prompt": "Dilshod is going to give his little sister a ___.",
+      "answers": [
+        "toy"
+      ],
+      "explain": {
+        "uz": "«I am going to give my little sister a toy»."
+      },
+      "para": 3
+    },
+    {
+      "id": "a2-14-new-year-q8",
+      "type": "choice",
+      "prompt": "What does Dilshod hope to get?",
+      "options": [
+        "a toy",
+        "a photo book",
+        "a new phone"
+      ],
+      "answer": 2,
+      "explain": {
+        "uz": "«I hope they will give me a new phone!» Fotoalbomni u ota-onasiga beradi."
+      },
+      "para": 3
+    }
+  ]
+}

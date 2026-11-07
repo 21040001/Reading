@@ -1,0 +1,263 @@
+{
+  "id": "b2-18-cycling-cities",
+  "title": {
+    "uz": "Velosiped shaharlari"
+  },
+  "en": "Cycling Cities",
+  "level": "B2",
+  "kind": "exam",
+  "tag": {
+    "uz": "Shahar hayoti",
+    "en": "City life"
+  },
+  "intro": {
+    "uz": "Topshiriq: Summary va sentence completion. Maslahat: savoldagi soʻzlar matnda koʻpincha sinonim bilan berilgan (masalan, «help» oʻrniga «encourage»). Avval sinonimni topib, kerakli joyni aniqlang, javobni esa matndan aynan koʻchiring — oʻz soʻzingiz bilan almashtirmang."
+  },
+  "paragraphs": [
+    {
+      "en": "In many cities around the world, planners are asking a question that few of their predecessors took seriously: how can we persuade more people to leave their cars at home and travel by bicycle? The reasons are easy to understand. Bicycles produce no exhaust fumes, take up little space and give riders regular exercise. For short journeys in crowded streets, they are often faster than cars."
+    },
+    {
+      "en": "Cities such as Amsterdam and Copenhagen are frequently mentioned as models. In both places, cycling is not a hobby for enthusiasts but an ordinary way of getting to work, school and the shops. This did not happen by accident. Over several decades, these cities invested steadily in infrastructure, built networks of connected routes and gave cyclists priority at many junctions."
+    },
+    {
+      "en": "Experts generally agree that the most important factor is safety. Many people say they would cycle more if they did not feel threatened by heavy traffic. Painted lines on the road offer limited protection, so cities that are serious about cycling build separated lanes, divided from cars by kerbs or barriers. Lower speed limits in residential streets and secure places to park bicycles also encourage newcomers to try."
+    },
+    {
+      "en": "Bike-sharing schemes have spread rapidly in recent years. Users can unlock a bicycle at one station, ride it across town and leave it at another, paying a small fee. Such schemes are particularly useful for people who do not own a bicycle or who want to combine cycling with public transport, for example by riding from a metro station to the office. However, they work well only if the bicycles are maintained and distributed sensibly around the city."
+    },
+    {
+      "en": "Climate presents a different challenge. In northern Europe, cyclists mainly have to cope with rain, wind and cold. In hot, dry cities, including many in Central Asia, the problem is the opposite: in summer, cycling in the middle of the day can be exhausting and even dangerous. Planners in such places are experimenting with tree-lined routes that provide shade, and some suggest that electric bicycles could reduce the physical effort needed."
+    },
+    {
+      "en": "Critics point out that not every city can copy the Dutch or Danish model. Hills, long distances and a strong car culture can make change slow and sometimes unpopular. Even so, the experience of cycling cities suggests that when safe and convenient routes exist, people tend to use them. In other words, good infrastructure often creates its own demand."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "persuade",
+      "uz": "koʻndirmoq"
+    },
+    {
+      "en": "exhaust fumes",
+      "uz": "chiqindi gazlar"
+    },
+    {
+      "en": "enthusiast",
+      "uz": "ishqiboz, havaskor"
+    },
+    {
+      "en": "infrastructure",
+      "uz": "infratuzilma"
+    },
+    {
+      "en": "priority",
+      "uz": "ustuvorlik, birinchi navbat huquqi"
+    },
+    {
+      "en": "junction",
+      "uz": "chorraha"
+    },
+    {
+      "en": "threatened",
+      "uz": "xavf ostida qolgan, tahdid his qilgan"
+    },
+    {
+      "en": "kerb",
+      "uz": "yoʻl chetidagi baland tosh, bordyur"
+    },
+    {
+      "en": "residential",
+      "uz": "turar-joy (hududi)"
+    },
+    {
+      "en": "scheme",
+      "uz": "tizim, dastur"
+    },
+    {
+      "en": "distribute",
+      "uz": "taqsimlamoq"
+    },
+    {
+      "en": "cope with",
+      "uz": "uddalamoq, bardosh bermoq"
+    },
+    {
+      "en": "exhausting",
+      "uz": "charchatuvchi"
+    },
+    {
+      "en": "shade",
+      "uz": "soya"
+    },
+    {
+      "en": "critic",
+      "uz": "tanqidchi"
+    },
+    {
+      "en": "demand",
+      "uz": "talab"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "i26-second-conditional",
+      "title": {
+        "uz": "Second conditional: would … if …"
+      },
+      "example": "Many people say they would cycle more if they did not feel threatened by heavy traffic"
+    },
+    {
+      "topicId": "i39-want-somebody-to",
+      "title": {
+        "uz": "persuade somebody to do"
+      },
+      "example": "persuade more people to leave their cars at home"
+    }
+  ],
+  "questions": [
+    {
+      "id": "b2-18-cycling-cities-q1",
+      "type": "gap",
+      "prompt": "One environmental advantage of bicycles is that they produce no ___.",
+      "answers": [
+        "exhaust fumes",
+        "fumes"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "1-xatboshi: «Bicycles produce no exhaust fumes». Ikki soʻz."
+      },
+      "para": 0
+    },
+    {
+      "id": "b2-18-cycling-cities-q2",
+      "type": "gap",
+      "prompt": "In Amsterdam and Copenhagen, cyclists were given ___ at many junctions.",
+      "answers": [
+        "priority"
+      ],
+      "maxWords": 1,
+      "explain": {
+        "uz": "2-xatboshi: «gave cyclists priority at many junctions»."
+      },
+      "para": 1
+    },
+    {
+      "id": "b2-18-cycling-cities-q3",
+      "type": "gap",
+      "prompt": "Cities that take cycling seriously build ___ lanes, which are divided from cars.",
+      "answers": [
+        "separated"
+      ],
+      "maxWords": 1,
+      "explain": {
+        "uz": "3-xatboshi: «build separated lanes, divided from cars by kerbs or barriers». «lanes» oldidan sifat kerak."
+      },
+      "para": 2
+    },
+    {
+      "id": "b2-18-cycling-cities-q4",
+      "type": "gap",
+      "prompt": "Reduced ___ in residential streets also encourage people to start cycling.",
+      "answers": [
+        "speed limits"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«Lower speed limits in residential streets … also encourage newcomers to try». «Reduced» = «Lower», «start» = «try»."
+      },
+      "para": 2
+    },
+    {
+      "id": "b2-18-cycling-cities-q5",
+      "type": "gap",
+      "prompt": "Users of bike-sharing schemes pay a ___ for each ride.",
+      "answers": [
+        "small fee",
+        "fee"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "4-xatboshi: «paying a small fee». «a»dan keyin birlikdagi ot."
+      },
+      "para": 3
+    },
+    {
+      "id": "b2-18-cycling-cities-q6",
+      "type": "gap",
+      "prompt": "In hot cities, planners are testing routes lined with trees that give ___.",
+      "answers": [
+        "shade"
+      ],
+      "maxWords": 1,
+      "explain": {
+        "uz": "5-xatboshi: «tree-lined routes that provide shade». «give» = «provide»."
+      },
+      "para": 4
+    },
+    {
+      "id": "b2-18-cycling-cities-q7",
+      "type": "gap",
+      "prompt": "Electric bicycles might lower the ___ that riders need.",
+      "answers": [
+        "physical effort",
+        "effort"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«electric bicycles could reduce the physical effort needed». «lower» = «reduce»."
+      },
+      "para": 4
+    },
+    {
+      "id": "b2-18-cycling-cities-q8",
+      "type": "tfng",
+      "statement": "High levels of cycling in Amsterdam and Copenhagen were the result of long-term investment.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "2-xatboshi: «This did not happen by accident. Over several decades, these cities invested steadily…»."
+      },
+      "para": 1
+    },
+    {
+      "id": "b2-18-cycling-cities-q9",
+      "type": "tfng",
+      "statement": "Lines painted on the road are considered enough to protect cyclists.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "3-xatboshi: «Painted lines on the road offer limited protection» — yetarli emas."
+      },
+      "para": 2
+    },
+    {
+      "id": "b2-18-cycling-cities-q10",
+      "type": "tfng",
+      "statement": "Bike-sharing schemes cost cities less to run than bus services.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "4-xatboshida ijara tizimlari va jamoat transporti bogʻlanadi, lekin xarajatlar solishtirilmagan."
+      },
+      "para": 3
+    },
+    {
+      "id": "b2-18-cycling-cities-q11",
+      "type": "choice",
+      "prompt": "What is the main point of the final paragraph?",
+      "options": [
+        "Every city should copy the Dutch model exactly.",
+        "Change can be hard in some cities, but safe routes usually attract cyclists.",
+        "Hills and long distances make cycling impossible.",
+        "Cycling cities have become unpopular with drivers."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "6-xatboshi: qiyinchiliklar bor («change slow and sometimes unpopular»), lekin «when safe and convenient routes exist, people tend to use them». «impossible» va «unpopular with drivers» matnda yoʻq."
+      },
+      "para": 5
+    }
+  ]
+}

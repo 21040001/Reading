@@ -1,0 +1,246 @@
+{
+  "id": "b2-06-tea",
+  "title": {
+    "uz": "Choy tarixi"
+  },
+  "en": "The Story of Tea",
+  "level": "B2",
+  "kind": "exam",
+  "tag": {
+    "uz": "Madaniyat va tarix",
+    "en": "Culture and history"
+  },
+  "intro": {
+    "uz": "Topshiriq: True / False / Not Given. TFNG savollari odatda matndagi tartib bilan keladi: bitta savolning javobini topgach, keyingisini shu joydan keyin qidiring. Agar ikki savol orasida javob topilmasa, ehtimol u NOT GIVEN."
+  },
+  "paragraphs": [
+    {
+      "en": "Few drinks have travelled as far as tea. The tea plant is thought to come from south-western China, and according to Chinese tradition, people there were drinking an infusion of its leaves thousands of years ago, at first mainly as a medicine rather than for pleasure. Over many centuries, the habit spread across the country, and tea gradually became part of everyday life, served in homes, at markets and during ceremonies."
+    },
+    {
+      "en": "From China, tea moved outwards along trade routes. Merchants carried it by land through Central Asia and by sea to other parts of Asia. Because the leaves were light and kept well when dried or pressed into blocks, they were an ideal product for long journeys. In some regions, pressed tea was so valued that it was even used in place of money. Much later, sea traders brought tea to Europe, where it was at first an expensive luxury enjoyed only by the wealthy."
+    },
+    {
+      "en": "In Central Asia, tea became far more than a drink. In Uzbekistan, green tea is the most common choice, although black tea is also popular in some places. Tea is offered to every guest, often before any serious conversation begins, and refusing it may be seen as impolite."
+    },
+    {
+      "en": "The traditional place for drinking tea outside the home is the choyxona, or teahouse. Often built near water and shaded by trees, it has wide raised platforms covered with carpets, where visitors sit, talk and share food for hours. For many communities, the choyxona has long served as a meeting place where news is exchanged and local matters are discussed."
+    },
+    {
+      "en": "Tea is normally served from a single teapot and shared by everyone at the table. The host pours, usually filling each small bowl, known as a piyola, only partly, so that the tea stays hot and the host has a reason to keep returning to the guest. A full bowl, in fact, is sometimes said to be a polite hint that the visitor should leave. Before serving, many hosts pour tea into a bowl and return it to the pot two or three times. This custom, called qaytarish, helps the leaves brew evenly and is said to make the flavour stronger."
+    },
+    {
+      "en": "Today, tea bags and modern cafes are common in Central Asian cities, and some younger people prefer coffee in certain situations. Yet the teapot on the table remains a symbol of hospitality, and for many families no meal feels complete without it."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "infusion",
+      "uz": "damlama, qaynoq suvda dimlangan ichimlik"
+    },
+    {
+      "en": "gradually",
+      "uz": "asta-sekin"
+    },
+    {
+      "en": "trade route",
+      "uz": "savdo yoʻli"
+    },
+    {
+      "en": "merchant",
+      "uz": "savdogar"
+    },
+    {
+      "en": "pressed",
+      "uz": "presslangan, siqilgan"
+    },
+    {
+      "en": "in place of",
+      "uz": "oʻrniga"
+    },
+    {
+      "en": "luxury",
+      "uz": "hashamat, qimmatbaho narsa"
+    },
+    {
+      "en": "the wealthy",
+      "uz": "boylar"
+    },
+    {
+      "en": "impolite",
+      "uz": "odobsiz, beadab"
+    },
+    {
+      "en": "platform",
+      "uz": "soʻri, supa"
+    },
+    {
+      "en": "exchange",
+      "uz": "almashmoq"
+    },
+    {
+      "en": "hint",
+      "uz": "ishora"
+    },
+    {
+      "en": "brew",
+      "uz": "damlanmoq"
+    },
+    {
+      "en": "evenly",
+      "uz": "bir tekis"
+    },
+    {
+      "en": "hospitality",
+      "uz": "mehmondoʻstlik"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "i29-passive-basics",
+      "title": {
+        "uz": "Majhul nisbat: is offered, may be seen"
+      },
+      "example": "Tea is offered to every guest"
+    },
+    {
+      "topicId": "i64-so-that-in-order-to",
+      "title": {
+        "uz": "Maqsad: so that"
+      },
+      "example": "so that the tea stays hot"
+    }
+  ],
+  "questions": [
+    {
+      "id": "b2-06-tea-q1",
+      "type": "tfng",
+      "statement": "In early China, tea was valued more for its effect on health than for its taste.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«at first mainly as a medicine rather than for pleasure» — avval dori sifatida, zavq uchun emas."
+      },
+      "para": 0
+    },
+    {
+      "id": "b2-06-tea-q2",
+      "type": "tfng",
+      "statement": "Tea was suitable for long-distance trade partly because it did not spoil easily.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«kept well when dried or pressed into blocks … an ideal product for long journeys» — «kept well» = tez buzilmagan."
+      },
+      "para": 1
+    },
+    {
+      "id": "b2-06-tea-q3",
+      "type": "tfng",
+      "statement": "Merchants who carried tea by land earned more than those who transported it by sea.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Quruqlik va dengiz yoʻllari tilga olingan, lekin savdogarlarning daromadi solishtirilmagan. Tuzoq: matndagi soʻzlar (merchants, by land, by sea) bor, ammo daromad haqida maʼlumot yoʻq."
+      },
+      "para": 1
+    },
+    {
+      "id": "b2-06-tea-q4",
+      "type": "tfng",
+      "statement": "When tea first arrived in Europe, it was drunk by people of all social classes.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«an expensive luxury enjoyed only by the wealthy» — faqat boylar ichgan, hamma emas."
+      },
+      "para": 1
+    },
+    {
+      "id": "b2-06-tea-q5",
+      "type": "tfng",
+      "statement": "Black tea is never drunk in Uzbekistan.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«although black tea is also popular in some places» — baʼzi joylarda qora choy ham mashhur."
+      },
+      "para": 2
+    },
+    {
+      "id": "b2-06-tea-q6",
+      "type": "tfng",
+      "statement": "Turning down tea that is offered can be considered rude.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«refusing it may be seen as impolite» — turning down = refusing, rude = impolite."
+      },
+      "para": 2
+    },
+    {
+      "id": "b2-06-tea-q7",
+      "type": "tfng",
+      "statement": "The number of choyxonas in Central Asia has fallen in recent years.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Choyxona qanday joy ekani tasvirlangan, lekin ularning soni kamaygani yoki koʻpaygani haqida hech narsa yoʻq. Oxirgi xatboshidagi «modern cafes» ham choyxonalar soni haqida emas."
+      },
+      "para": 3
+    },
+    {
+      "id": "b2-06-tea-q8",
+      "type": "tfng",
+      "statement": "A host who fills a guest's bowl to the top may be suggesting that the visit should end.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«A full bowl … is sometimes said to be a polite hint that the visitor should leave» — «may be suggesting» ham ehtiyotkor ifoda."
+      },
+      "para": 4
+    },
+    {
+      "id": "b2-06-tea-q9",
+      "type": "gap",
+      "prompt": "In Uzbekistan, tea is drunk from a small bowl called a ___.",
+      "answers": [
+        "piyola"
+      ],
+      "maxWords": 1,
+      "explain": {
+        "uz": "«each small bowl, known as a piyola»."
+      },
+      "para": 4
+    },
+    {
+      "id": "b2-06-tea-q10",
+      "type": "gap",
+      "prompt": "Pouring tea into a bowl and back into the pot several times is known as ___.",
+      "answers": [
+        "qaytarish"
+      ],
+      "maxWords": 1,
+      "explain": {
+        "uz": "«This custom, called qaytarish»."
+      },
+      "para": 4
+    },
+    {
+      "id": "b2-06-tea-q11",
+      "type": "choice",
+      "prompt": "Why does the host usually fill the bowl only partly?",
+      "options": [
+        "to save tea for other guests",
+        "to keep the tea hot and have a reason to return to the guest",
+        "because the bowls are too small",
+        "to make the flavour stronger"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«so that the tea stays hot and the host has a reason to keep returning to the guest». «flavour stronger» qaytarish odatiga tegishli, kosani toʻla quymaslikka emas."
+      },
+      "para": 4
+    }
+  ]
+}

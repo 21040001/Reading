@@ -1,0 +1,278 @@
+{
+  "id": "b2-04-online-learning",
+  "title": {
+    "uz": "Masofaviy taʼlim"
+  },
+  "en": "Online Learning: Promise and Limits",
+  "level": "B2",
+  "kind": "exam",
+  "tag": {
+    "uz": "Taʼlim",
+    "en": "Education"
+  },
+  "intro": {
+    "uz": "Topshiriq: Multiple choice. Har bir savol uchun bitta toʻgʻri javobni tanlang. Maslahat: avval savolni oʻqib, matndan kerakli joyni toping, keyin har bir variantni matn bilan solishtiring — matndagi soʻzlarni aynan takrorlagan variant koʻpincha tuzoq boʻladi. Muallif fikri haqidagi savollarda «yet», «however», «then» kabi soʻzlarga eʼtibor bering."
+  },
+  "paragraphs": [
+    {
+      "en": "Not long ago, studying for a degree meant moving to a university town, attending lectures in person and borrowing books from a library. Today, a student in a small village can follow a course taught hundreds of kilometres away, watch recorded lectures at midnight and submit assignments without leaving home. Distance learning is hardly new, since courses by post existed long before the internet, but digital technology has transformed both its scale and its reputation."
+    },
+    {
+      "en": "The most obvious advantage is access. Online courses can reach people who would otherwise be excluded from education: those living far from cities, parents with young children, people with disabilities and adults who need to keep working while they study. Flexibility is another attraction. Learners can usually choose when to study, replay difficult explanations as many times as they need and move faster through material they already understand."
+    },
+    {
+      "en": "Yet flexibility comes at a price. Without a fixed timetable and a teacher in the room, it is surprisingly easy to fall behind. Many teachers report that the students who do well online are those who are already organised and motivated, while those who struggle with self-discipline may quietly drop out. In other words, the freedom that makes online study attractive can also make it fragile."
+    },
+    {
+      "en": "There are practical limits, too. A reliable internet connection and a suitable device are still not available to everyone, and studying on a small phone screen for hours is tiring. Some subjects are also harder to teach at a distance. A chemistry student needs a laboratory, and a future surgeon or mechanic needs hands-on practice that no video can fully replace. Even in theoretical subjects, something is lost when discussion happens only in written comments rather than in face-to-face conversation."
+    },
+    {
+      "en": "For these reasons, many educators now favour blended learning, which combines online and classroom study. In a typical blended course, students might watch short lectures and complete exercises at home, then use class time for discussion, group projects and practical work. Supporters argue that this approach makes better use of the teacher, who spends less time repeating information and more time responding to students' questions."
+    },
+    {
+      "en": "It would be a mistake, then, to see online learning either as a miracle or as a second-rate substitute for traditional education. Its value depends largely on how a course is designed and on who is using it. A well-planned course with regular deadlines, active tasks and contact with a tutor can be highly effective, whereas a collection of uploaded videos rarely is. The real question is not whether to study online, but how to do it well."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "submit",
+      "uz": "topshirmoq"
+    },
+    {
+      "en": "assignment",
+      "uz": "vazifa, topshiriq"
+    },
+    {
+      "en": "transform",
+      "uz": "tubdan oʻzgartirmoq"
+    },
+    {
+      "en": "reputation",
+      "uz": "obroʻ, nom"
+    },
+    {
+      "en": "access",
+      "uz": "foydalanish imkoniyati"
+    },
+    {
+      "en": "exclude",
+      "uz": "chetlatmoq, chetda qoldirmoq"
+    },
+    {
+      "en": "flexibility",
+      "uz": "moslashuvchanlik"
+    },
+    {
+      "en": "timetable",
+      "uz": "dars jadvali"
+    },
+    {
+      "en": "self-discipline",
+      "uz": "oʻzini oʻzi intizomga sola olish"
+    },
+    {
+      "en": "drop out",
+      "uz": "(oʻqishni) tashlab ketmoq"
+    },
+    {
+      "en": "fragile",
+      "uz": "moʻrt, oson buziladigan"
+    },
+    {
+      "en": "reliable",
+      "uz": "ishonchli"
+    },
+    {
+      "en": "hands-on",
+      "uz": "amaliy"
+    },
+    {
+      "en": "blended learning",
+      "uz": "aralash (onlayn + sinf) taʼlim"
+    },
+    {
+      "en": "substitute",
+      "uz": "oʻrnini bosuvchi narsa"
+    },
+    {
+      "en": "deadline",
+      "uz": "muddat, oxirgi sana"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "c52-but-for-otherwise",
+      "title": {
+        "uz": "otherwise: aks holda"
+      },
+      "example": "people who would otherwise be excluded from education"
+    },
+    {
+      "topicId": "i53-who-which-that",
+      "title": {
+        "uz": "Nisbiy olmosh: those who …"
+      },
+      "example": "the students who do well online are those who are already organised and motivated"
+    }
+  ],
+  "questions": [
+    {
+      "id": "b2-04-online-learning-q1",
+      "type": "choice",
+      "prompt": "What is the main purpose of the passage?",
+      "options": [
+        "to persuade readers to choose online courses",
+        "to give a balanced view of the strengths and weaknesses of online learning",
+        "to describe the history of distance learning",
+        "to prove that online learning cannot replace classrooms"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "Muallif afzalliklar (B), kamchiliklar (C, D) va yechim (E)ni koʻrsatib, «It would be a mistake … to see online learning either as a miracle or as a second-rate substitute» degan muvozanatli xulosaga keladi. Tarix faqat A xatboshida qisqa tilga olingan."
+      },
+      "para": 5
+    },
+    {
+      "id": "b2-04-online-learning-q2",
+      "type": "choice",
+      "prompt": "According to the writer, what has digital technology changed about distance learning?",
+      "options": [
+        "It has created distance learning for the first time.",
+        "It has changed how widely it is used and how it is viewed.",
+        "It has made library books unnecessary.",
+        "It has made courses by post more popular."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«transformed both its scale and its reputation» — koʻlami va obroʻsi. Birinchi variant notoʻgʻri: «courses by post existed long before the internet»."
+      },
+      "para": 0
+    },
+    {
+      "id": "b2-04-online-learning-q3",
+      "type": "choice",
+      "prompt": "Which group is NOT mentioned as benefiting from online courses?",
+      "options": [
+        "people living far from cities",
+        "adults who work while studying",
+        "parents with young children",
+        "retired people"
+      ],
+      "answer": 3,
+      "explain": {
+        "uz": "2-xatboshida qolgan uch guruh sanab oʻtilgan, nafaqaxoʻrlar haqida gap yoʻq."
+      },
+      "para": 1
+    },
+    {
+      "id": "b2-04-online-learning-q4",
+      "type": "choice",
+      "prompt": "What can be inferred about students who lack self-discipline?",
+      "options": [
+        "They usually prefer online study.",
+        "They may leave a course without anyone noticing.",
+        "Their teachers give them extra help.",
+        "They move faster through the material."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«may quietly drop out» — «quietly» jimgina, hech kim sezmasdan tashlab ketishini bildiradi. Qolgan variantlar haqida matnda maʼlumot yoʻq yoki ular yaxshi oʻqiydiganlarga tegishli."
+      },
+      "para": 2
+    },
+    {
+      "id": "b2-04-online-learning-q5",
+      "type": "choice",
+      "prompt": "The word \"fragile\" in paragraph C is closest in meaning to",
+      "options": [
+        "easily damaged or weakened",
+        "very expensive",
+        "popular with young people",
+        "difficult to understand"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "Erkinlik onlayn taʼlimni jozibali qiladi, lekin uni «fragile» — oson buziladigan, moʻrt ham qiladi."
+      },
+      "para": 2
+    },
+    {
+      "id": "b2-04-online-learning-q6",
+      "type": "choice",
+      "prompt": "Why does the writer mention a chemistry student and a future surgeon?",
+      "options": [
+        "to show that some skills require practical training",
+        "to suggest that science is the most popular online subject",
+        "to compare the difficulty of different careers",
+        "to argue that videos are better than laboratories"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "«hands-on practice that no video can fully replace» — bu misollar amaliy mashgʻulot zarurligini koʻrsatadi."
+      },
+      "para": 3
+    },
+    {
+      "id": "b2-04-online-learning-q7",
+      "type": "choice",
+      "prompt": "What is the writer's opinion of courses that consist only of uploaded videos?",
+      "options": [
+        "They are the most effective type of online course.",
+        "They are rarely effective.",
+        "They are useful for practical subjects.",
+        "They should include more written comments."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "6-xatboshi: «a collection of uploaded videos rarely is» — yaʼni kamdan-kam samarali."
+      },
+      "para": 5
+    },
+    {
+      "id": "b2-04-online-learning-q8",
+      "type": "tfng",
+      "statement": "Some form of distance learning existed before the internet.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "1-xatboshi: «courses by post existed long before the internet»."
+      },
+      "para": 0
+    },
+    {
+      "id": "b2-04-online-learning-q9",
+      "type": "tfng",
+      "statement": "Online students generally get higher marks than students in classrooms.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Matnda baholar solishtirilmagan — faqat kim muvaffaqiyatli boʻlishi haqida gap bor."
+      },
+      "para": 2
+    },
+    {
+      "id": "b2-04-online-learning-q10",
+      "type": "tfng",
+      "statement": "In blended learning, students complete all of their work at home.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "5-xatboshi: uyda maʼruza va mashqlar, sinfda esa muhokama va amaliy ish — hammasi uyda emas."
+      },
+      "para": 4
+    },
+    {
+      "id": "b2-04-online-learning-q11",
+      "type": "gap",
+      "prompt": "Supporters believe blended learning makes better use of the ___.",
+      "answers": [
+        "teacher"
+      ],
+      "maxWords": 1,
+      "explain": {
+        "uz": "«this approach makes better use of the teacher» — oʻqituvchi takrorlashga emas, savollarga koʻproq vaqt ajratadi."
+      },
+      "para": 4
+    }
+  ]
+}

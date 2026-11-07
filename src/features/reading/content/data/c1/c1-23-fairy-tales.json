@@ -1,0 +1,353 @@
+{
+  "id": "c1-23-fairy-tales",
+  "title": {
+    "uz": "Ertaklar nimani oʻrgatadi"
+  },
+  "en": "What Fairy Tales Teach",
+  "level": "C1",
+  "kind": "exam",
+  "tag": {
+    "uz": "Folklor",
+    "en": "Folklore"
+  },
+  "intro": {
+    "uz": "Akademik matn: xalq ertaklarining vazifalari, ogʻzaki anʼana va Markaziy Osiyo ertaklari. Asosiy topshiriq — Matching headings: B–H xatboshilari uchun 9 ta sarlavhadan mosini tanlang (2 tasi ortiqcha; A xatboshisi uchun savol yoʻq). Taxminan 20 daqiqa: har bir xatboshining birinchi va oxirgi gapini diqqat bilan oʻqing, asosiy gʻoyani oʻz soʻzingiz bilan ifodalang, soʻngra sarlavhani tanlang. Matndagi soʻz bilan bir xil soʻz qatnashgan sarlavha koʻpincha tuzoq boʻladi."
+  },
+  "paragraphs": [
+    {
+      "en": "Folk tales are often dismissed as entertainment for small children, stories to be told at bedtime and forgotten by adolescence. Folklorists, anthropologists and psychologists have long taken a different view. For them, the tales that communities pass down across generations constitute a remarkably rich archive of collective experience, recording what societies feared, valued and hoped for. To ask what fairy tales teach is therefore to ask how cultures have educated their young before, and alongside, any formal system of schooling."
+    },
+    {
+      "en": "The most obvious function of such stories is moral instruction. Kindness is rewarded and cruelty punished; the generous hero receives help from unexpected quarters, while the greedy brother returns home empty-handed. A well-known Uzbek tale contrasts a hardworking girl with her idle stepsister, and the fortune of each mirrors the way she has behaved. Yet the moral universe of folk tales is less straightforward than this suggests. Tricksters frequently prosper through deception, and cunning is celebrated at least as often as honesty. What the tales seem to value above all is resourcefulness, the capacity to survive in a world that is rarely fair."
+    },
+    {
+      "en": "A second function concerns fear. Fairy tales are full of menace: giants and monsters, wicked stepmothers, dark forests and abandoned children. It might seem strange to expose young listeners to such material, but one influential line of thought holds that this is precisely the point. By presenting terrifying situations within a reassuring framework, in which the danger is eventually overcome, tales may allow children to confront their anxieties at a safe distance. Critics have objected that this argument is difficult to test and has sometimes been overstated, yet the observation that children often request the most frightening stories again and again lends it a certain plausibility."
+    },
+    {
+      "en": "Tales also transmit social norms, frequently in ways their tellers would not have articulated. Stories reinforce expectations about hospitality, obedience to parents and respect for elders, and they often reflect assumptions about the roles considered appropriate for men and women. In this respect they are not neutral. A tale in which the heroine's only reward is marriage to a prince carries an implicit message about what a girl's life should aim at. It is partly for this reason that many contemporary writers have produced revised versions in which familiar plots are reworked to reflect different values."
+    },
+    {
+      "en": "Crucially, folk tales were for most of their history oral rather than written, and this shaped them profoundly. A storyteller would adapt a tale to the audience in front of them, lengthening a passage that drew laughter, omitting an episode unsuitable for the occasion, or substituting local landmarks for distant ones. As a result, there is rarely a single authentic version of any tale. Folklorists have compiled extensive catalogues of tale types, demonstrating that remarkably similar plots appear in regions separated by thousands of kilometres. Whether such similarities reflect migration, trade or simply common human concerns remains a subject of debate."
+    },
+    {
+      "en": "The tales of Central Asia display many features found elsewhere, alongside elements distinctly their own. Devs, monstrous beings of enormous strength, threaten heroes, while peris, beautiful supernatural figures, may help or hinder them. The youngest of three brothers, dismissed by his elders as foolish, often proves the most capable. Animals speak, horses carry their riders across impossible distances, and journeys frequently involve tests of patience and loyalty. Traditionally, such tales were told during long winter evenings, when families gathered and skilled storytellers could hold an audience for hours."
+    },
+    {
+      "en": "No figure in the region's humorous tradition is better known than Afandi, the character known in other countries as Nasreddin Hodja. Anecdotes about him circulate from Turkey and the Balkans to Central Asia and beyond, and several places claim him as their own. In Uzbek tradition he is often associated with Bukhara. Afandi is at once fool and sage: he may ride his donkey backwards or appear to misunderstand a simple question, yet his apparent foolishness repeatedly exposes the vanity of rulers, the greed of judges and the pomposity of the learned. His stories teach, in short, that wisdom does not always look the way authority expects."
+    },
+    {
+      "en": "Why, then, do such tales endure in an age of screens and streaming? Part of the answer may lie in their flexibility. Because they were never fixed, they lend themselves to endless retelling in new media, from animated films to picture books. More fundamentally, the questions they address, how to behave, how to face danger and how to find one's place among others, have not been resolved by technological change. As long as those questions remain, it seems likely that people will continue to answer them, at least in part, through stories."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "dismiss as",
+      "uz": "… deb eʼtiborsiz qoldirmoq"
+    },
+    {
+      "en": "constitute",
+      "uz": "tashkil etmoq, … boʻlmoq"
+    },
+    {
+      "en": "archive",
+      "uz": "arxiv, xazina"
+    },
+    {
+      "en": "from unexpected quarters",
+      "uz": "kutilmagan tomondan"
+    },
+    {
+      "en": "prosper",
+      "uz": "gullab-yashnamoq, muvaffaqiyat qozonmoq"
+    },
+    {
+      "en": "cunning",
+      "uz": "ayyorlik, makr"
+    },
+    {
+      "en": "resourcefulness",
+      "uz": "topqirlik, uddaburonlik"
+    },
+    {
+      "en": "menace",
+      "uz": "xavf, tahdid"
+    },
+    {
+      "en": "plausibility",
+      "uz": "ishonarlilik, haqiqatga yaqinlik"
+    },
+    {
+      "en": "articulate",
+      "uz": "aniq ifodalamoq"
+    },
+    {
+      "en": "implicit",
+      "uz": "yashirin, bilvosita"
+    },
+    {
+      "en": "profoundly",
+      "uz": "chuqur, tubdan"
+    },
+    {
+      "en": "authentic",
+      "uz": "asl, haqiqiy"
+    },
+    {
+      "en": "hinder",
+      "uz": "toʻsqinlik qilmoq"
+    },
+    {
+      "en": "sage",
+      "uz": "donishmand"
+    },
+    {
+      "en": "vanity",
+      "uz": "kibr, shuhratparastlik"
+    },
+    {
+      "en": "pomposity",
+      "uz": "dimogʻdorlik, oʻzini katta tutish"
+    },
+    {
+      "en": "endure",
+      "uz": "saqlanib qolmoq, yashab qolmoq"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "c34-participle-clauses",
+      "title": {
+        "uz": "Sifatdosh oborot (-ed): dismissed by his elders as foolish"
+      },
+      "example": "The youngest of three brothers, dismissed by his elders as foolish, often proves the most capable"
+    },
+    {
+      "topicId": "c33-relative-advanced",
+      "title": {
+        "uz": "Predlogli nisbiy gap: in which"
+      },
+      "example": "within a reassuring framework, in which the danger is eventually overcome"
+    }
+  ],
+  "questions": [
+    {
+      "id": "c1-23-fairy-tales-q1",
+      "type": "heading",
+      "para": 1,
+      "options": [
+        "Why written collections replaced storytellers",
+        "Cleverness prized alongside virtue",
+        "Lessons about society that go unspoken",
+        "A wise fool who deflates the powerful",
+        "Proof that tales reduce childhood anxiety",
+        "Facing danger from a position of safety",
+        "Familiar figures of a regional tradition",
+        "A story that changes with every telling",
+        "Reasons for an enduring appeal"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "Xatboshi B: ertaklar yaxshilikni mukofotlaydi, lekin «cunning is celebrated at least as often as honesty» — ayyorlik/topqirlik ezgulik bilan teng qadrlanadi."
+      }
+    },
+    {
+      "id": "c1-23-fairy-tales-q2",
+      "type": "heading",
+      "para": 2,
+      "options": [
+        "Why written collections replaced storytellers",
+        "Cleverness prized alongside virtue",
+        "Lessons about society that go unspoken",
+        "A wise fool who deflates the powerful",
+        "Proof that tales reduce childhood anxiety",
+        "Facing danger from a position of safety",
+        "Familiar figures of a regional tradition",
+        "A story that changes with every telling",
+        "Reasons for an enduring appeal"
+      ],
+      "answer": 5,
+      "explain": {
+        "uz": "Xatboshi C: qoʻrqinchli voqealar «within a reassuring framework» beriladi — bola xavfga «at a safe distance» duch keladi. «Proof that tales reduce childhood anxiety» — tuzoq: matnda bu gʻoyani «difficult to test» deyilgan, isbot yoʻq."
+      }
+    },
+    {
+      "id": "c1-23-fairy-tales-q3",
+      "type": "heading",
+      "para": 3,
+      "options": [
+        "Why written collections replaced storytellers",
+        "Cleverness prized alongside virtue",
+        "Lessons about society that go unspoken",
+        "A wise fool who deflates the powerful",
+        "Proof that tales reduce childhood anxiety",
+        "Facing danger from a position of safety",
+        "Familiar figures of a regional tradition",
+        "A story that changes with every telling",
+        "Reasons for an enduring appeal"
+      ],
+      "answer": 2,
+      "explain": {
+        "uz": "Xatboshi D: ertaklar ijtimoiy meʼyorlarni «in ways their tellers would not have articulated» — ochiq aytilmagan holda yetkazadi; «implicit message»."
+      }
+    },
+    {
+      "id": "c1-23-fairy-tales-q4",
+      "type": "heading",
+      "para": 4,
+      "options": [
+        "Why written collections replaced storytellers",
+        "Cleverness prized alongside virtue",
+        "Lessons about society that go unspoken",
+        "A wise fool who deflates the powerful",
+        "Proof that tales reduce childhood anxiety",
+        "Facing danger from a position of safety",
+        "Familiar figures of a regional tradition",
+        "A story that changes with every telling",
+        "Reasons for an enduring appeal"
+      ],
+      "answer": 7,
+      "explain": {
+        "uz": "Xatboshi E: ertakchi har safar ertakni tinglovchiga moslab oʻzgartirgan — «there is rarely a single authentic version». «Why written collections replaced storytellers» — tuzoq: yozma toʻplamlar haqida gap yoʻq."
+      }
+    },
+    {
+      "id": "c1-23-fairy-tales-q5",
+      "type": "heading",
+      "para": 5,
+      "options": [
+        "Why written collections replaced storytellers",
+        "Cleverness prized alongside virtue",
+        "Lessons about society that go unspoken",
+        "A wise fool who deflates the powerful",
+        "Proof that tales reduce childhood anxiety",
+        "Facing danger from a position of safety",
+        "Familiar figures of a regional tradition",
+        "A story that changes with every telling",
+        "Reasons for an enduring appeal"
+      ],
+      "answer": 6,
+      "explain": {
+        "uz": "Xatboshi F: Markaziy Osiyo ertaklarining tanish qahramonlari — devlar, parilar, kenja aka-uka, gapiradigan hayvonlar."
+      }
+    },
+    {
+      "id": "c1-23-fairy-tales-q6",
+      "type": "heading",
+      "para": 6,
+      "options": [
+        "Why written collections replaced storytellers",
+        "Cleverness prized alongside virtue",
+        "Lessons about society that go unspoken",
+        "A wise fool who deflates the powerful",
+        "Proof that tales reduce childhood anxiety",
+        "Facing danger from a position of safety",
+        "Familiar figures of a regional tradition",
+        "A story that changes with every telling",
+        "Reasons for an enduring appeal"
+      ],
+      "answer": 3,
+      "explain": {
+        "uz": "Xatboshi G: Afandi — «at once fool and sage», hukmdorlar, qozilar va olimlarning kibrini fosh qiladi."
+      }
+    },
+    {
+      "id": "c1-23-fairy-tales-q7",
+      "type": "heading",
+      "para": 7,
+      "options": [
+        "Why written collections replaced storytellers",
+        "Cleverness prized alongside virtue",
+        "Lessons about society that go unspoken",
+        "A wise fool who deflates the powerful",
+        "Proof that tales reduce childhood anxiety",
+        "Facing danger from a position of safety",
+        "Familiar figures of a regional tradition",
+        "A story that changes with every telling",
+        "Reasons for an enduring appeal"
+      ],
+      "answer": 8,
+      "explain": {
+        "uz": "Xatboshi H: «Why, then, do such tales endure …?» — moslashuvchanlik va abadiy savollar ertaklarning uzoq yashashiga sabab."
+      }
+    },
+    {
+      "id": "c1-23-fairy-tales-q8",
+      "type": "tfng",
+      "statement": "According to the writer, folk tales consistently reward honesty rather than cunning.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«Tricksters frequently prosper through deception, and cunning is celebrated at least as often as honesty» — doimo halollik ustun emas."
+      },
+      "para": 1
+    },
+    {
+      "id": "c1-23-fairy-tales-q9",
+      "type": "tfng",
+      "statement": "Children tend to avoid frightening stories once they have heard them.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«children often request the most frightening stories again and again» — aksincha, qayta-qayta soʻraydi."
+      },
+      "para": 2
+    },
+    {
+      "id": "c1-23-fairy-tales-q10",
+      "type": "tfng",
+      "statement": "Most Afandi anecdotes were first written down in Bukhara.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Afandi oʻzbek anʼanasida Buxoro bilan bogʻlanishi aytilgan, lekin latifalar qayerda birinchi yozib olingani haqida maʼlumot yoʻq."
+      },
+      "para": 6
+    },
+    {
+      "id": "c1-23-fairy-tales-q11",
+      "type": "choice",
+      "prompt": "What does the writer suggest about tales in which the heroine is rewarded only with marriage?",
+      "options": [
+        "They were invented by contemporary writers.",
+        "They quietly promote a particular view of what girls should aspire to.",
+        "They are the most popular type of tale among children.",
+        "They show that folk tales are morally neutral."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«carries an implicit message about what a girl's life should aim at»; «In this respect they are not neutral» — shuning uchun D variant notoʻgʻri."
+      },
+      "para": 3
+    },
+    {
+      "id": "c1-23-fairy-tales-q12",
+      "type": "choice",
+      "prompt": "According to paragraph E, why is there rarely a single authentic version of a tale?",
+      "options": [
+        "because folklorists have changed the tales when cataloguing them",
+        "because tellers adapted each tale to their listeners and circumstances",
+        "because tales were translated many times as they travelled",
+        "because similar plots were invented independently in different regions"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«A storyteller would adapt a tale to the audience … As a result, there is rarely a single authentic version» — «As a result» sababni koʻrsatadi."
+      },
+      "para": 4
+    },
+    {
+      "id": "c1-23-fairy-tales-q13",
+      "type": "gap",
+      "prompt": "Folklorists' catalogues show that similar plots appear in regions separated by thousands of ___.",
+      "answers": [
+        "kilometres",
+        "kilometers"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«remarkably similar plots appear in regions separated by thousands of kilometres»."
+      },
+      "para": 4
+    }
+  ]
+}

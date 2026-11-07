@@ -1,0 +1,280 @@
+{
+  "id": "b2-13-insomnia",
+  "title": {
+    "uz": "Uyqusizlik"
+  },
+  "en": "Insomnia",
+  "level": "B2",
+  "kind": "exam",
+  "tag": {
+    "uz": "Sogʻliq",
+    "en": "Health"
+  },
+  "intro": {
+    "uz": "Topshiriq: Matching headings, True/False/Not Given va gap. Xatboshidagi soʻzni aynan takrorlaydigan sarlavhadan ehtiyot boʻling — u koʻpincha tuzoq. Toʻgʻri sarlavha odatda xatboshining gʻoyasini boshqa soʻzlar bilan ifodalaydi."
+  },
+  "paragraphs": [
+    {
+      "en": "Almost everyone has experienced a night when sleep simply would not come. Insomnia, however, is more than an occasional bad night. Doctors use the term to describe persistent difficulty falling asleep, staying asleep or waking far too early, even when a person has the time and opportunity to rest. Crucially, it also affects the following day, leaving people tired, irritable or unable to concentrate. Short episodes are very common, but when the problem continues for months it is usually described as chronic."
+    },
+    {
+      "en": "There is rarely a single cause. Stress is among the most frequent triggers, whether it comes from exams, work, money or relationships, and a major life change can disrupt sleep for weeks. The environment matters too: a noisy street, a bright room or a bedroom that is too warm can all make rest harder. Irregular working hours, such as night shifts, confuse the body's internal clock, while caffeine taken late in the day may keep the brain alert long after the last cup."
+    },
+    {
+      "en": "Many researchers believe that modern evening habits play a part as well. Phones, tablets and computers give off bright light at a time when the body would naturally be preparing for sleep. Perhaps more importantly, the content on them is designed to hold attention. Reading messages, watching one more video or checking the news can keep the mind active, so that a person who intended to sleep at eleven may still be scrolling an hour later."
+    },
+    {
+      "en": "To counter these influences, specialists often recommend a set of simple habits, sometimes called sleep hygiene. Going to bed and getting up at roughly the same time every day, including weekends, helps to stabilise the internal clock. The bedroom should ideally be dark, quiet and cool, and used mainly for sleep. Regular physical activity during the day tends to improve sleep, although intense exercise just before bed may have the opposite effect. Heavy meals late in the evening are also best avoided."
+    },
+    {
+      "en": "Ironically, one of the strongest forces keeping people awake can be anxiety about sleep itself. After several difficult nights, a person may start to dread going to bed, and this tension makes sleep even less likely. Watching the clock and calculating how few hours remain only adds to the pressure. A common piece of advice, therefore, is to get up after lying awake for a long time and do something calm in dim light until sleepiness returns."
+    },
+    {
+      "en": "Occasional poor sleep is normal and usually improves on its own. However, it is sensible to see a doctor if the problem lasts for several weeks, if it seriously affects work, study or mood, or if a partner notices loud snoring or pauses in breathing during the night. A doctor can look for underlying causes and suggest suitable treatment. Talking therapies that focus on thoughts and habits around sleep are widely recommended and have helped many people."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "occasional",
+      "uz": "vaqti-vaqti bilan boʻladigan"
+    },
+    {
+      "en": "persistent",
+      "uz": "uzoq davom etadigan, surunkali"
+    },
+    {
+      "en": "irritable",
+      "uz": "jahldor, asabiy"
+    },
+    {
+      "en": "concentrate",
+      "uz": "diqqatni jamlamoq"
+    },
+    {
+      "en": "chronic",
+      "uz": "surunkali"
+    },
+    {
+      "en": "trigger",
+      "uz": "qoʻzgʻatuvchi sabab"
+    },
+    {
+      "en": "disrupt",
+      "uz": "buzmoq, izdan chiqarmoq"
+    },
+    {
+      "en": "internal clock",
+      "uz": "ichki (biologik) soat"
+    },
+    {
+      "en": "alert",
+      "uz": "hushyor, sergak"
+    },
+    {
+      "en": "stabilise",
+      "uz": "barqarorlashtirmoq"
+    },
+    {
+      "en": "intense",
+      "uz": "jadal, kuchli"
+    },
+    {
+      "en": "ironically",
+      "uz": "ajablanarlisi shundaki"
+    },
+    {
+      "en": "dread",
+      "uz": "qoʻrqmoq, xavotir bilan kutmoq"
+    },
+    {
+      "en": "dim",
+      "uz": "xira (yorugʻlik)"
+    },
+    {
+      "en": "underlying",
+      "uz": "asosiy, yashirin (sabab)"
+    },
+    {
+      "en": "sensible",
+      "uz": "oqilona"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "i37-verb-ing",
+      "title": {
+        "uz": "-ing shakli ega vazifasida: Going to bed … helps"
+      },
+      "example": "Going to bed and getting up at roughly the same time every day, including weekends, helps"
+    },
+    {
+      "topicId": "i61-although-despite",
+      "title": {
+        "uz": "although — «garchi … boʻlsa ham»"
+      },
+      "example": "although intense exercise just before bed may have the opposite effect"
+    }
+  ],
+  "questions": [
+    {
+      "id": "b2-13-insomnia-q1",
+      "type": "heading",
+      "para": 0,
+      "options": [
+        "Why some people need less sleep",
+        "When poor sleep becomes a real condition",
+        "Signs that professional advice is needed",
+        "Daily routines that support rest",
+        "Screens that help the mind relax",
+        "Caught in a circle of worry",
+        "A range of possible triggers",
+        "The pull of the glowing screen"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "Xatboshi A: uyqusizlik — bitta yomon kecha emas («more than an occasional bad night»): u uzoq davom etadi va ertasi kunga ham taʼsir qiladi, yaʼni haqiqiy muammoga aylanadi."
+      }
+    },
+    {
+      "id": "b2-13-insomnia-q2",
+      "type": "heading",
+      "para": 1,
+      "options": [
+        "Why some people need less sleep",
+        "When poor sleep becomes a real condition",
+        "Signs that professional advice is needed",
+        "Daily routines that support rest",
+        "Screens that help the mind relax",
+        "Caught in a circle of worry",
+        "A range of possible triggers",
+        "The pull of the glowing screen"
+      ],
+      "answer": 6,
+      "explain": {
+        "uz": "Xatboshi B: «There is rarely a single cause» — stress, muhit, ish tartibi, kofein: turli sabablar."
+      }
+    },
+    {
+      "id": "b2-13-insomnia-q3",
+      "type": "heading",
+      "para": 2,
+      "options": [
+        "Why some people need less sleep",
+        "When poor sleep becomes a real condition",
+        "Signs that professional advice is needed",
+        "Daily routines that support rest",
+        "Screens that help the mind relax",
+        "Caught in a circle of worry",
+        "A range of possible triggers",
+        "The pull of the glowing screen"
+      ],
+      "answer": 7,
+      "explain": {
+        "uz": "Xatboshi C: kechki ekran yorugʻligi va diqqatni tortadigan kontent. «Screens that help the mind relax» — ekran bor, lekin matn aksini aytadi."
+      }
+    },
+    {
+      "id": "b2-13-insomnia-q4",
+      "type": "heading",
+      "para": 3,
+      "options": [
+        "Why some people need less sleep",
+        "When poor sleep becomes a real condition",
+        "Signs that professional advice is needed",
+        "Daily routines that support rest",
+        "Screens that help the mind relax",
+        "Caught in a circle of worry",
+        "A range of possible triggers",
+        "The pull of the glowing screen"
+      ],
+      "answer": 3,
+      "explain": {
+        "uz": "Xatboshi D: «sleep hygiene» — muntazam vaqt, qorongʻi xona, kunduzgi harakat."
+      }
+    },
+    {
+      "id": "b2-13-insomnia-q5",
+      "type": "heading",
+      "para": 4,
+      "options": [
+        "Why some people need less sleep",
+        "When poor sleep becomes a real condition",
+        "Signs that professional advice is needed",
+        "Daily routines that support rest",
+        "Screens that help the mind relax",
+        "Caught in a circle of worry",
+        "A range of possible triggers",
+        "The pull of the glowing screen"
+      ],
+      "answer": 5,
+      "explain": {
+        "uz": "Xatboshi E: uyqu haqidagi xavotirning oʻzi uyqusizlikni kuchaytiradi — yopiq doira."
+      }
+    },
+    {
+      "id": "b2-13-insomnia-q6",
+      "type": "heading",
+      "para": 5,
+      "options": [
+        "Why some people need less sleep",
+        "When poor sleep becomes a real condition",
+        "Signs that professional advice is needed",
+        "Daily routines that support rest",
+        "Screens that help the mind relax",
+        "Caught in a circle of worry",
+        "A range of possible triggers",
+        "The pull of the glowing screen"
+      ],
+      "answer": 2,
+      "explain": {
+        "uz": "Xatboshi F: qachon shifokorga borish kerak: bir necha hafta davom etsa, kayfiyatga taʼsir qilsa va hokazo."
+      }
+    },
+    {
+      "id": "b2-13-insomnia-q7",
+      "type": "tfng",
+      "statement": "Short periods of insomnia are rare.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«Short episodes are very common» — qisqa davrlar juda koʻp uchraydi."
+      },
+      "para": 0
+    },
+    {
+      "id": "b2-13-insomnia-q8",
+      "type": "tfng",
+      "statement": "Insomnia is more common among people who live in cities than in the countryside.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Shovqinli koʻcha tilga olingan, lekin shahar va qishloq solishtirilmagan."
+      },
+      "para": 1
+    },
+    {
+      "id": "b2-13-insomnia-q9",
+      "type": "gap",
+      "prompt": "Specialists advise keeping the bedroom dark, quiet and ___.",
+      "answers": [
+        "cool"
+      ],
+      "maxWords": 1,
+      "explain": {
+        "uz": "«The bedroom should ideally be dark, quiet and cool»."
+      },
+      "para": 3
+    },
+    {
+      "id": "b2-13-insomnia-q10",
+      "type": "tfng",
+      "statement": "Checking the time repeatedly during the night can make sleeping more difficult.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«Watching the clock … only adds to the pressure» — bosimni oshiradi."
+      },
+      "para": 4
+    }
+  ]
+}

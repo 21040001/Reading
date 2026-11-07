@@ -1,0 +1,230 @@
+{
+  "id": "b1-12-navoi",
+  "title": {
+    "uz": "Alisher Navoiy"
+  },
+  "en": "Alisher Navoi",
+  "level": "B1",
+  "kind": "biography",
+  "tag": {
+    "uz": "Tarix va madaniyat",
+    "en": "History and culture"
+  },
+  "intro": {
+    "uz": "Bu matn — Alisher Navoiyning qisqacha tarjimai holi. Oʻqishdan oldin oʻylab koʻring: Navoiyning qaysi asarlarini bilasiz va nega u bugun ham shunchalik hurmat qilinadi?"
+  },
+  "paragraphs": [
+    {
+      "en": "Alisher Navoi is often called the father of Uzbek literature. Almost every city in Uzbekistan has a street, a park or a school named after him, and his portrait hangs in many libraries and classrooms. But who was this man, and why is he still so loved more than five hundred years after his death?"
+    },
+    {
+      "en": "Alisher was born in 1441 in Herat, a city which is now in Afghanistan. His family was close to the ruling Timurid family, and as a boy he studied together with Husayn Bayqara, a young prince who became his lifelong friend. Alisher loved poetry from an early age. According to old stories, he had already learned many long poems by heart when he was still a child."
+    },
+    {
+      "en": "In 1469, Husayn Bayqara became the ruler of Herat and invited his old friend to his court. Navoi served as a high official, and for a time he was one of the most powerful men in the state. However, he used his wealth to help others. He paid for the building of schools, hospitals, mosques and bridges, and he supported many young poets, artists and scholars."
+    },
+    {
+      "en": "In Navoi's time, most serious poetry in the region was written in Persian. Navoi wrote in Persian too, but he believed that his own Turkic language, known today as Chagatai, was just as rich and beautiful. Near the end of his life, he wrote a book called Muhokamat ul-lughatayn, which means The Judgement of Two Languages. In it, he compared the two languages and argued that Turkic poets should not be ashamed of writing in their mother tongue."
+    },
+    {
+      "en": "His most famous work is the Khamsa, a collection of five long poems. Earlier poets had written their own Khamsas in Persian, but Navoi was the first to write a complete one in Turkic. Its stories of love, friendship and wisdom, such as Farhod and Shirin and Layli and Majnun, are still read and performed today."
+    },
+    {
+      "en": "Navoi died in Herat in 1501. Today he is considered the national poet of Uzbekistan. A region and its capital city, the National Library and the opera theatre in Tashkent all carry his name. If you want to understand Uzbek culture, a few lines of Navoi are a good place to start."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "literature",
+      "uz": "adabiyot"
+    },
+    {
+      "en": "named after",
+      "uz": "… nomi bilan atalgan"
+    },
+    {
+      "en": "portrait",
+      "uz": "portret, surat"
+    },
+    {
+      "en": "lifelong",
+      "uz": "umrbod"
+    },
+    {
+      "en": "learn by heart",
+      "uz": "yod olmoq"
+    },
+    {
+      "en": "court",
+      "uz": "saroy"
+    },
+    {
+      "en": "official",
+      "uz": "amaldor, davlat arbobi"
+    },
+    {
+      "en": "wealth",
+      "uz": "boylik"
+    },
+    {
+      "en": "scholar",
+      "uz": "olim"
+    },
+    {
+      "en": "argue",
+      "uz": "isbotlashga harakat qilmoq, daʼvo qilmoq"
+    },
+    {
+      "en": "be ashamed of",
+      "uz": "… dan uyalmoq"
+    },
+    {
+      "en": "mother tongue",
+      "uz": "ona tili"
+    },
+    {
+      "en": "collection",
+      "uz": "toʻplam"
+    },
+    {
+      "en": "wisdom",
+      "uz": "donolik, hikmat"
+    },
+    {
+      "en": "perform",
+      "uz": "sahnalashtirmoq, ijro etmoq"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "i11-past-perfect",
+      "title": {
+        "uz": "Past Perfect: he had already learned"
+      },
+      "example": "he had already learned many long poems by heart"
+    },
+    {
+      "topicId": "i29-passive-basics",
+      "title": {
+        "uz": "Majhul nisbat: was written, is considered"
+      },
+      "example": "most serious poetry in the region was written in Persian"
+    }
+  ],
+  "questions": [
+    {
+      "id": "b1-12-navoi-q1",
+      "type": "tfng",
+      "statement": "Navoi was born in the city of Herat.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«Alisher was born in 1441 in Herat»."
+      },
+      "para": 1
+    },
+    {
+      "id": "b1-12-navoi-q2",
+      "type": "tfng",
+      "statement": "Navoi and Husayn Bayqara met for the first time at the court in 1469.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "Ular bolalikdan tanish: «as a boy he studied together with Husayn Bayqara»."
+      },
+      "para": 1
+    },
+    {
+      "id": "b1-12-navoi-q3",
+      "type": "tfng",
+      "statement": "Navoi's father was also a famous poet.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Matnda faqat oilasi temuriylarga yaqin boʻlgani aytilgan; otasi shoir boʻlganmi — maʼlumot yoʻq."
+      },
+      "para": 1
+    },
+    {
+      "id": "b1-12-navoi-q4",
+      "type": "tfng",
+      "statement": "Navoi was the first poet in history to write a Khamsa.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«Earlier poets had written their own Khamsas in Persian» — u turkiy tilda toʻliq «Xamsa» yozgan birinchi shoir, umuman birinchi emas."
+      },
+      "para": 4
+    },
+    {
+      "id": "b1-12-navoi-q5",
+      "type": "heading",
+      "para": 2,
+      "options": [
+        "A powerful man who helped others",
+        "A childhood in Herat",
+        "A new language for poetry"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "3-xatboshi: Navoiy yuqori lavozimda boʻlgan va boyligini maktab, shifoxona, koʻpriklar qurishga sarflagan."
+      }
+    },
+    {
+      "id": "b1-12-navoi-q6",
+      "type": "choice",
+      "prompt": "Why did Navoi write Muhokamat ul-lughatayn?",
+      "options": [
+        "to teach Persian to Turkic children",
+        "to show that Turkic was as good a language for poetry as Persian",
+        "to tell the story of his friendship with Husayn Bayqara"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "U ikki tilni solishtirib, turkiy shoirlar ona tilida yozishdan uyalmasligi kerak, deb taʼkidlagan: «should not be ashamed of writing in their mother tongue»."
+      },
+      "para": 3
+    },
+    {
+      "id": "b1-12-navoi-q7",
+      "type": "choice",
+      "prompt": "Which sentence best describes Navoi as a statesman?",
+      "options": [
+        "He kept his money and lived a quiet life.",
+        "He used his position and money to support people and build useful places.",
+        "He left the court because he did not like politics."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«he used his wealth to help others. He paid for the building of schools, hospitals…»."
+      },
+      "para": 2
+    },
+    {
+      "id": "b1-12-navoi-q8",
+      "type": "gap",
+      "prompt": "Navoi believed his Turkic language was rich and beautiful; today this language is known as ___.",
+      "answers": [
+        "Chagatai"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«his own Turkic language, known today as Chagatai»."
+      },
+      "para": 3
+    },
+    {
+      "id": "b1-12-navoi-q9",
+      "type": "gap",
+      "prompt": "The Khamsa is a collection of five long ___.",
+      "answers": [
+        "poems"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«the Khamsa, a collection of five long poems»."
+      },
+      "para": 4
+    }
+  ]
+}

@@ -1,0 +1,267 @@
+{
+  "id": "b2-22-tourism",
+  "title": {
+    "uz": "Turizm: foyda va zarar"
+  },
+  "en": "Tourism: Gift or Burden?",
+  "level": "B2",
+  "kind": "exam",
+  "tag": {
+    "uz": "Jamiyat va iqtisod",
+    "en": "Society and economy"
+  },
+  "intro": {
+    "uz": "Topshiriq: Multiple choice (asosiy gʻoya va maqsad). Ikki tomonni koʻrsatadigan matnda muallifning xulosasi odatda oxirgi xatboshida boʻladi — avval birinchi va oxirgi xatboshini diqqat bilan oʻqing. «however», «yet», «none of this means» kabi soʻzlardan keyin fikr burilishiga eʼtibor bering. Ikkinchi qism: True / False / Not Given — bu matnda TRUE = muallif shu fikrga qoʻshiladi (YES), FALSE = muallif fikri bunga zid (NO), NOT GIVEN = muallif bu haqda oʻz fikrini bildirmagan."
+  },
+  "paragraphs": [
+    {
+      "en": "For many cities, tourism looks like an obvious gift. Visitors arrive, spend money and leave, and the local economy grows. In Uzbekistan, the historic centres of Samarkand, Bukhara and Khiva have welcomed growing numbers of foreign and domestic travellers in recent years, and new hotels, cafés and guesthouses have opened to serve them. Yet experience from popular destinations around the world suggests that the gift comes with conditions."
+    },
+    {
+      "en": "The benefits are real and should not be underestimated. Tourism creates jobs not only in hotels and restaurants but also for drivers, guides, craftspeople and the farmers who supply food. A potter or a carpet weaver who once sold only to neighbours may now find buyers from the other side of the world. Income from visitors can also pay for the restoration of old buildings that might otherwise fall into ruin."
+    },
+    {
+      "en": "Tourism can even help to keep traditions alive. When travellers show interest in a local craft, young people are more likely to see it as a career rather than an old-fashioned hobby. In this sense, the attention of outsiders can strengthen a community's pride in its own culture. Skills that might have disappeared within a generation are, in some places, being passed on once again."
+    },
+    {
+      "en": "The problems, however, tend to appear gradually, which makes them easy to ignore. In some famous European cities, residents complain that the historic centre has turned into a kind of museum: the shops sell souvenirs instead of bread, rents rise beyond what local families can afford, and narrow streets are crowded from morning till night. Old buildings, too, can suffer when thousands of feet walk across the same stones every day."
+    },
+    {
+      "en": "There is also a quieter danger, which might be called the loss of authenticity. When a tradition is performed mainly for visitors, it can slowly change to match what tourists expect to see. A wedding dance shortened to five minutes for a hotel stage is still beautiful, but it is no longer quite the same thing."
+    },
+    {
+      "en": "None of this means that tourism should be discouraged. It means that it needs to be planned. Limiting the number of large tour groups at the busiest sites, encouraging visitors to explore less famous towns, and making sure that local people share in the income are all measures that destinations have tried. The aim should be a city that welcomes guests without ceasing to be a home for those who live there."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "obvious",
+      "uz": "aniq, ravshan"
+    },
+    {
+      "en": "destination",
+      "uz": "manzil (sayohat)"
+    },
+    {
+      "en": "underestimate",
+      "uz": "yetarlicha baholamaslik"
+    },
+    {
+      "en": "craftspeople",
+      "uz": "hunarmandlar"
+    },
+    {
+      "en": "supply",
+      "uz": "yetkazib bermoq"
+    },
+    {
+      "en": "restoration",
+      "uz": "taʼmirlash, tiklash"
+    },
+    {
+      "en": "fall into ruin",
+      "uz": "vayron boʻlmoq"
+    },
+    {
+      "en": "strengthen",
+      "uz": "mustahkamlamoq"
+    },
+    {
+      "en": "resident",
+      "uz": "doimiy aholi"
+    },
+    {
+      "en": "souvenir",
+      "uz": "esdalik buyum"
+    },
+    {
+      "en": "afford",
+      "uz": "(pulga) qurbi yetmoq"
+    },
+    {
+      "en": "authenticity",
+      "uz": "asllik, haqiqiylik"
+    },
+    {
+      "en": "perform",
+      "uz": "ijro etmoq"
+    },
+    {
+      "en": "discourage",
+      "uz": "toʻsqinlik qilmoq, ragʻbatlantirmaslik"
+    },
+    {
+      "en": "cease",
+      "uz": "toʻxtamoq"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "i30-passive-tenses",
+      "title": {
+        "uz": "Modal + majhul: should not be underestimated"
+      },
+      "example": "The benefits are real and should not be underestimated."
+    },
+    {
+      "topicId": "i56-ing-ed-clauses",
+      "title": {
+        "uz": "-ed qoʻshimchali ergash qism: shortened to …"
+      },
+      "example": "A wedding dance shortened to five minutes for a hotel stage is still beautiful"
+    }
+  ],
+  "questions": [
+    {
+      "id": "b2-22-tourism-q1",
+      "type": "choice",
+      "prompt": "What is the main purpose of the passage?",
+      "options": [
+        "to persuade readers to visit Samarkand, Bukhara and Khiva",
+        "to argue that tourism brings real benefits but must be carefully managed",
+        "to show that tourism destroys historic cities",
+        "to compare Uzbek cities with European ones"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "Foyda (B, C) va zarar (D, E) koʻrsatiladi, xulosa F da: «None of this means that tourism should be discouraged. It means that it needs to be planned.»"
+      },
+      "para": 5
+    },
+    {
+      "id": "b2-22-tourism-q2",
+      "type": "choice",
+      "prompt": "What does the writer mean by «the gift comes with conditions»?",
+      "options": [
+        "Visitors must follow strict local rules.",
+        "The advantages of tourism bring problems that have to be dealt with.",
+        "Cities have to pay to attract tourists."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«Gift» = turizm foydasi; «conditions» — keyingi xatboshilarda tasvirlangan muammolar. Qoidalar yoki pul toʻlash haqida gap yoʻq."
+      },
+      "para": 0
+    },
+    {
+      "id": "b2-22-tourism-q3",
+      "type": "choice",
+      "prompt": "Why does the writer include paragraph C?",
+      "options": [
+        "to show a cultural benefit of tourism that is less obvious than money",
+        "to criticise young people for losing interest in crafts",
+        "to explain how traditions change to please tourists"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "C: turistlarning qiziqishi yoshlarni hunarga qaytaradi va «pride in its own culture»ni kuchaytiradi. Anʼanalarning oʻzgarishi — E xatboshidagi xavf."
+      },
+      "para": 2
+    },
+    {
+      "id": "b2-22-tourism-q4",
+      "type": "choice",
+      "prompt": "In paragraph D, «the historic centre has turned into a kind of museum» suggests that the centre",
+      "options": [
+        "contains many interesting museums",
+        "is very well protected and preserved",
+        "no longer meets the everyday needs of the people who live there"
+      ],
+      "answer": 2,
+      "explain": {
+        "uz": "Keyingi tafsilotlar: non oʻrniga suvenir, ijara qimmat, koʻchalar gavjum — aholi uchun yashash joyi emas, tomosha joyiga aylangan."
+      },
+      "para": 3
+    },
+    {
+      "id": "b2-22-tourism-q5",
+      "type": "choice",
+      "prompt": "What can be inferred from the example of the wedding dance?",
+      "options": [
+        "Performances for tourists are usually of poor quality.",
+        "A tradition shown to visitors may lose part of its original character.",
+        "Hotels should not organise cultural shows."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«still beautiful, but … no longer quite the same thing» — sifat yomon emas, lekin asl koʻrinishi oʻzgaradi."
+      },
+      "para": 4
+    },
+    {
+      "id": "b2-22-tourism-q6",
+      "type": "choice",
+      "prompt": "Which best describes the writer's overall attitude to tourism?",
+      "options": [
+        "enthusiastic and uncritical",
+        "cautiously positive",
+        "strongly opposed",
+        "uninterested"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "Foydani tan oladi («should not be underestimated»), lekin rejalashtirishni talab qiladi — ehtiyotkor ijobiy munosabat."
+      },
+      "para": 5
+    },
+    {
+      "id": "b2-22-tourism-q7",
+      "type": "choice",
+      "prompt": "Which statement would the writer most likely agree with?",
+      "options": [
+        "Local people should receive a fair share of the money tourism brings.",
+        "Visitors should only be allowed to see the most famous sites.",
+        "Large tour groups should be banned everywhere."
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "«making sure that local people share in the income». Muallif aksincha kamroq mashhur shaharlarni tavsiya qiladi; guruhlarni taqiqlash emas, faqat «limiting… at the busiest sites»."
+      },
+      "para": 5
+    },
+    {
+      "id": "b2-22-tourism-q8",
+      "type": "tfng",
+      "statement": "Only people who work in hotels gain from tourism.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "FALSE: «not only in hotels and restaurants but also for drivers, guides, craftspeople and the farmers»."
+      },
+      "para": 1
+    },
+    {
+      "id": "b2-22-tourism-q9",
+      "type": "tfng",
+      "statement": "Interest from visitors can make young people value traditional crafts more.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "TRUE (muallif qoʻshiladi): «young people are more likely to see it as a career rather than an old-fashioned hobby»."
+      },
+      "para": 2
+    },
+    {
+      "id": "b2-22-tourism-q10",
+      "type": "tfng",
+      "statement": "The problems caused by tourism are usually noticed straight away.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "FALSE: «tend to appear gradually, which makes them easy to ignore»."
+      },
+      "para": 3
+    },
+    {
+      "id": "b2-22-tourism-q11",
+      "type": "tfng",
+      "statement": "Foreign tourists are more welcome in historic cities than domestic ones.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "NOT GIVEN: chet ellik va mahalliy sayyohlar faqat tilga olingan; muallif ularni solishtirmaydi."
+      },
+      "para": 0
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "id": "a1-08-weekend",
+  "title": {
+    "uz": "Dam olish kuni"
+  },
+  "en": "My Weekend",
+  "level": "A1",
+  "kind": "email",
+  "tag": {
+    "uz": "Dam olish",
+    "en": "Free time"
+  },
+  "intro": {
+    "uz": "Bu — Nodiraning dugonasi Sevaraga yozgan xati. Oʻqishdan oldin: siz dam olish kunlari nima qilasiz?"
+  },
+  "paragraphs": [
+    {
+      "en": "Hi Sevara, How are you? I am in a small village near Samarkand. My grandparents live here, and I visit them every month. It is very quiet here. There is a big garden with apple trees.",
+      "uz": "Salom, Sevara! Qalaysan? Men Samarqand yaqinidagi kichik bir qishloqdaman. Bu yerda buvim va bobom yashaydi, men ularni har oy koʻrgani kelaman. Bu yer juda tinch. Bu yerda olma daraxtlari oʻsadigan katta bogʻ bor."
+    },
+    {
+      "en": "On Saturday, my grandfather and I go to the river. He likes fishing, but I don't. I read a book under a tree. On Sunday morning, my grandmother bakes bread in the tandir. It smells wonderful!",
+      "uz": "Shanba kuni bobom bilan daryoga boramiz. U baliq tutishni yoqtiradi, men esa yoqtirmayman. Men daraxt tagida kitob oʻqiyman. Yakshanba kuni ertalab buvim tandirda non yopadi. Uning hidi ajoyib!"
+    },
+    {
+      "en": "I can't use the internet here, but I don't mind. I come back to Tashkent on Monday. Can we meet on Tuesday after school? Write soon! Love, Nodira",
+      "uz": "Bu yerda internetdan foydalana olmayman, lekin bu meni bezovta qilmaydi. Dushanba kuni Toshkentga qaytaman. Seshanba kuni darsdan keyin uchrasha olamizmi? Tezroq javob yoz! Mehr bilan, Nodira"
+    }
+  ],
+  "glossary": [
+    {
+      "en": "village",
+      "uz": "qishloq"
+    },
+    {
+      "en": "grandparents",
+      "uz": "buvi va bobo"
+    },
+    {
+      "en": "visit",
+      "uz": "koʻrgani bormoq, mehmon boʻlmoq"
+    },
+    {
+      "en": "quiet",
+      "uz": "tinch, sokin"
+    },
+    {
+      "en": "river",
+      "uz": "daryo"
+    },
+    {
+      "en": "fishing",
+      "uz": "baliq tutish"
+    },
+    {
+      "en": "under",
+      "uz": "tagida, ostida"
+    },
+    {
+      "en": "bake",
+      "uz": "(non) yopmoq, pishirmoq"
+    },
+    {
+      "en": "smell",
+      "uz": "hid taratmoq, hidi kelmoq"
+    },
+    {
+      "en": "come back",
+      "uz": "qaytib kelmoq"
+    },
+    {
+      "en": "Write soon!",
+      "uz": "Tezroq javob yoz!"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "b14-there-is",
+      "title": {
+        "uz": "there is / there are"
+      },
+      "example": "There is a big garden with apple trees."
+    },
+    {
+      "topicId": "b10-likes-dislikes",
+      "title": {
+        "uz": "like + -ing: yoqtirmoq"
+      },
+      "example": "He likes fishing, but I don't."
+    }
+  ],
+  "questions": [
+    {
+      "id": "a1-08-weekend-q1",
+      "type": "tfng",
+      "statement": "Nodira writes from Tashkent.",
+      "answer": "F",
+      "explain": {
+        "uz": "U Samarqand yaqinidagi qishloqda: «I am in a small village near Samarkand.»"
+      },
+      "para": 0
+    },
+    {
+      "id": "a1-08-weekend-q2",
+      "type": "choice",
+      "prompt": "How often does Nodira visit her grandparents?",
+      "options": [
+        "every week",
+        "every month",
+        "every year"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«I visit them every month.»"
+      },
+      "para": 0
+    },
+    {
+      "id": "a1-08-weekend-q3",
+      "type": "tfng",
+      "statement": "Nodira likes fishing.",
+      "answer": "F",
+      "explain": {
+        "uz": "Baliq tutishni bobosi yoqtiradi, Nodira emas: «He likes fishing, but I don't.»"
+      },
+      "para": 1
+    },
+    {
+      "id": "a1-08-weekend-q4",
+      "type": "gap",
+      "prompt": "Nodira reads a book under a ___.",
+      "answers": [
+        "tree"
+      ],
+      "explain": {
+        "uz": "«I read a book under a tree.»"
+      },
+      "para": 1
+    },
+    {
+      "id": "a1-08-weekend-q5",
+      "type": "choice",
+      "prompt": "Who bakes bread?",
+      "options": [
+        "Nodira",
+        "her grandfather",
+        "her grandmother"
+      ],
+      "answer": 2,
+      "explain": {
+        "uz": "«my grandmother bakes bread in the tandir»."
+      },
+      "para": 1
+    },
+    {
+      "id": "a1-08-weekend-q6",
+      "type": "tfng",
+      "statement": "Nodira can use the internet in the village.",
+      "answer": "F",
+      "explain": {
+        "uz": "«I can't use the internet here»."
+      },
+      "para": 2
+    },
+    {
+      "id": "a1-08-weekend-q7",
+      "type": "gap",
+      "prompt": "Nodira wants to meet Sevara on ___.",
+      "answers": [
+        "Tuesday"
+      ],
+      "explain": {
+        "uz": "«Can we meet on Tuesday after school?» Dushanba — qaytish kuni."
+      },
+      "para": 2
+    }
+  ]
+}

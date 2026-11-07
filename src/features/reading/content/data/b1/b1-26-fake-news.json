@@ -1,0 +1,225 @@
+{
+  "id": "b1-26-fake-news",
+  "title": {
+    "uz": "Yolgʻon yangiliklarni tanish"
+  },
+  "en": "How to Spot False News",
+  "level": "B1",
+  "kind": "article",
+  "tag": {
+    "uz": "Media savodxonligi",
+    "en": "Media literacy"
+  },
+  "intro": {
+    "uz": "Bu maqola internetdagi yolgʻon yangiliklarni qanday tanish haqida. Oʻqishdan oldin oʻylab koʻring: siz biror xabarni boshqalarga yuborishdan oldin uni tekshirasizmi?"
+  },
+  "paragraphs": [
+    {
+      "en": "Every day, millions of messages, photos and videos are shared online. Many of them are useful, but some are simply not true. False news can spread very quickly, because people often share a surprising story before they check it. The good news is that you do not need to be an expert to protect yourself. A few simple questions can help you decide whether a story deserves your trust."
+    },
+    {
+      "en": "First, look at the source. Who has published the story? A well-known newspaper or television channel usually has editors who check the facts before they publish anything. An unknown website with a strange name, or a message that was forwarded to you by a friend of a friend, should make you more careful. If you cannot find out who wrote the story, that is already a warning sign."
+    },
+    {
+      "en": "Second, check the date. Sometimes an old story is shared again as if it had just happened. A photo of a flood from ten years ago, for example, may suddenly appear with a new caption about this week's weather. It is also a good idea to search for the same news on other websites. If a really important event has taken place, several different news outlets will be reporting it. If only one website mentions it, you should wait before you believe it."
+    },
+    {
+      "en": "Third, pay attention to your feelings. False stories are often written to make readers angry, scared or excited. Headlines in capital letters with lots of exclamation marks, or words such as shocking and unbelievable, are designed to make you click and share quickly. When a headline makes you feel very emotional, stop for a moment and read the whole article calmly."
+    },
+    {
+      "en": "Finally, remember that pictures can be edited too. Modern software makes it easy to change a photo or to put a person into a place where they have never been. Look for strange shadows, unclear edges, or hands and faces that look unnatural. If you are not sure, it is better not to share the story at all. Each of us can help to stop false news simply by thinking before we press the share button."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "spread",
+      "uz": "tarqalmoq"
+    },
+    {
+      "en": "deserve",
+      "uz": "loyiq boʻlmoq, arzimoq"
+    },
+    {
+      "en": "source",
+      "uz": "manba"
+    },
+    {
+      "en": "publish",
+      "uz": "chop etmoq, eʼlon qilmoq"
+    },
+    {
+      "en": "editor",
+      "uz": "muharrir"
+    },
+    {
+      "en": "forward",
+      "uz": "(xabarni) boshqaga joʻnatmoq"
+    },
+    {
+      "en": "warning sign",
+      "uz": "ogohlantiruvchi belgi"
+    },
+    {
+      "en": "caption",
+      "uz": "rasm ostidagi yozuv"
+    },
+    {
+      "en": "news outlet",
+      "uz": "axborot vositasi, yangilik nashri"
+    },
+    {
+      "en": "headline",
+      "uz": "sarlavha"
+    },
+    {
+      "en": "be designed to",
+      "uz": "… uchun moʻljallangan boʻlmoq"
+    },
+    {
+      "en": "calmly",
+      "uz": "xotirjam, shoshilmasdan"
+    },
+    {
+      "en": "edit",
+      "uz": "tahrirlamoq, oʻzgartirmoq"
+    },
+    {
+      "en": "unnatural",
+      "uz": "gʻayritabiiy, sunʼiy"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "i29-passive-basics",
+      "title": {
+        "uz": "Majhul nisbat: are shared, can be edited"
+      },
+      "example": "Every day, millions of messages, photos and videos are shared online."
+    },
+    {
+      "topicId": "i05-present-perfect",
+      "title": {
+        "uz": "Present Perfect: has taken place"
+      },
+      "example": "If a really important event has taken place"
+    }
+  ],
+  "questions": [
+    {
+      "id": "b1-26-fake-news-q1",
+      "type": "tfng",
+      "statement": "According to the writer, only experts can protect themselves from false news.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "Aksincha: «you do not need to be an expert» — mutaxassis boʻlish shart emas."
+      },
+      "para": 0
+    },
+    {
+      "id": "b1-26-fake-news-q2",
+      "type": "tfng",
+      "statement": "Well-known newspapers usually have people who check facts before publishing.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«usually has editors who check the facts before they publish anything»."
+      },
+      "para": 1
+    },
+    {
+      "id": "b1-26-fake-news-q3",
+      "type": "tfng",
+      "statement": "The writer once worked as an editor at a newspaper.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Matnda muharrirlar haqida umumiy gap bor, lekin muallifning oʻzi qayerda ishlagani aytilmagan."
+      },
+      "para": 1
+    },
+    {
+      "id": "b1-26-fake-news-q4",
+      "type": "tfng",
+      "statement": "If only one website reports an important event, you can believe it immediately.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«If only one website mentions it, you should wait before you believe it» — kutish kerak."
+      },
+      "para": 2
+    },
+    {
+      "id": "b1-26-fake-news-q5",
+      "type": "choice",
+      "prompt": "What is the main purpose of the article?",
+      "options": [
+        "to explain how journalists make false news",
+        "to give readers simple ways to check a story",
+        "to tell readers to stop using the internet"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "1-xatboshi: «A few simple questions can help you decide whether a story deserves your trust» — maqola oddiy tekshirish usullarini beradi."
+      },
+      "para": 0
+    },
+    {
+      "id": "b1-26-fake-news-q6",
+      "type": "choice",
+      "prompt": "In paragraph 3, the word «outlets» is closest in meaning to …",
+      "options": [
+        "shops that sell newspapers",
+        "organisations that publish news",
+        "electric sockets in a wall"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«several different news outlets will be reporting it» — bu yerda yangilik tarqatuvchi tashkilotlar nazarda tutilgan."
+      },
+      "para": 2
+    },
+    {
+      "id": "b1-26-fake-news-q7",
+      "type": "choice",
+      "prompt": "Why do some headlines use capital letters and exclamation marks?",
+      "options": [
+        "to make readers click and share quickly",
+        "to make the text easier to read",
+        "to show that editors have checked them"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "«are designed to make you click and share quickly»."
+      },
+      "para": 3
+    },
+    {
+      "id": "b1-26-fake-news-q8",
+      "type": "gap",
+      "prompt": "If a headline makes you very emotional, you should stop and read the whole article ___.",
+      "answers": [
+        "calmly"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«stop for a moment and read the whole article calmly»."
+      },
+      "para": 3
+    },
+    {
+      "id": "b1-26-fake-news-q9",
+      "type": "heading",
+      "para": 4,
+      "options": [
+        "Checking photos carefully",
+        "How to take better pictures",
+        "Why we should never go online"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "5-xatboshi tahrirlangan rasmlarni qanday aniqlash haqida: «pictures can be edited too»."
+      }
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "id": "b1-03-two-languages",
+  "title": {
+    "uz": "Ikki tilda oʻsish"
+  },
+  "en": "Growing Up with Two Languages",
+  "level": "B1",
+  "kind": "dialogue",
+  "tag": {
+    "uz": "Til va oila",
+    "en": "Language and family"
+  },
+  "intro": {
+    "uz": "Maktab radiosida boshlovchi Madina ikki tilda — oʻzbek va rus tillarida soʻzlashib oʻsgan oʻquvchi Temur bilan suhbatlashadi. Oʻqishdan oldin oʻylab koʻring: bolalikdan ikki tilni bilishning qanday foydasi bor?"
+  },
+  "paragraphs": [
+    {
+      "en": "Madina: Today on our school radio we are talking to Timur, a tenth-grade student who grew up with two languages. Timur, which languages do you speak at home? Timur: Both Uzbek and Russian. My father's family is Uzbek, and my mother grew up in a Russian-speaking family in Tashkent. When I was born, my parents decided that each of them would speak to me only in their own language. So my father always spoke Uzbek to me, and my mother always spoke Russian."
+    },
+    {
+      "en": "Madina: Did that ever confuse you? Timur: My parents say that I mixed the two languages a lot when I was three or four. I used to start a sentence in Uzbek and finish it in Russian. They were a bit worried, but our doctor told them that this was normal for children who learn two languages and that it usually happens less as they grow older. She was right. By the time I started school, I could keep the languages apart."
+    },
+    {
+      "en": "Madina: What is the best thing about being bilingual? Timur: For me, it is that I can talk to everyone in my family. My grandmother on my father's side lives in a village near Andijan and speaks only Uzbek, while my mother's parents prefer Russian. At family celebrations, I often translate jokes from one side of the table to the other. Some jokes are impossible to translate, but people laugh anyway!"
+    },
+    {
+      "en": "Madina: Have there been any difficulties? Timur: Yes. For a few years, my Uzbek writing was weaker than my Russian, because I had read more books in Russian. When I was in the sixth grade, I got a bad mark for an Uzbek essay, and I felt really embarrassed. After that, my father and I started reading Uzbek stories together every weekend. Now I write well in both languages, and I am learning English as my third language."
+    },
+    {
+      "en": "Madina: What would you say to parents who want to raise bilingual children? Timur: Be patient and be consistent. Children need to hear each language every day, in real conversations, not only in lessons. And never make a child feel ashamed of mixing languages. If my parents had laughed at me when I was small, I might have stopped speaking one of the languages completely."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "bilingual",
+      "uz": "ikki tilli, ikki tilda soʻzlashuvchi"
+    },
+    {
+      "en": "decide",
+      "uz": "qaror qilmoq"
+    },
+    {
+      "en": "confuse",
+      "uz": "chalkashtirmoq, adashtirmoq"
+    },
+    {
+      "en": "mix",
+      "uz": "aralashtirmoq"
+    },
+    {
+      "en": "keep apart",
+      "uz": "bir-biridan ajratib turmoq"
+    },
+    {
+      "en": "prefer",
+      "uz": "afzal koʻrmoq"
+    },
+    {
+      "en": "celebration",
+      "uz": "bayram, tantana"
+    },
+    {
+      "en": "translate",
+      "uz": "tarjima qilmoq"
+    },
+    {
+      "en": "impossible",
+      "uz": "imkonsiz"
+    },
+    {
+      "en": "mark",
+      "uz": "baho"
+    },
+    {
+      "en": "embarrassed",
+      "uz": "xijolat boʻlgan, uyalgan"
+    },
+    {
+      "en": "raise",
+      "uz": "(bolani) tarbiyalamoq, oʻstirmoq"
+    },
+    {
+      "en": "consistent",
+      "uz": "izchil, bir xil tartibda"
+    },
+    {
+      "en": "ashamed",
+      "uz": "uyalgan, sharmanda boʻlgan"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "i12-used-to-would",
+      "title": {
+        "uz": "used to: oʻtmishdagi odat"
+      },
+      "example": "I used to start a sentence in Uzbek and finish it in Russian"
+    },
+    {
+      "topicId": "i27-third-conditional",
+      "title": {
+        "uz": "Uchinchi shart gap: If … had laughed, I might have stopped"
+      },
+      "example": "If my parents had laughed at me when I was small, I might have stopped speaking one of the languages completely"
+    }
+  ],
+  "questions": [
+    {
+      "id": "b1-03-two-languages-q1",
+      "type": "tfng",
+      "statement": "Timur's mother grew up in a Russian-speaking family.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«my mother grew up in a Russian-speaking family in Tashkent»."
+      },
+      "para": 0
+    },
+    {
+      "id": "b1-03-two-languages-q2",
+      "type": "tfng",
+      "statement": "When Timur was a baby, each parent spoke both languages to him.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "Har biri faqat oʻz tilida gapirgan: «each of them would speak to me only in their own language»."
+      },
+      "para": 0
+    },
+    {
+      "id": "b1-03-two-languages-q3",
+      "type": "tfng",
+      "statement": "Timur's mother can speak Uzbek well.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Onasi Timurga rus tilida gapirgani aytilgan, lekin u oʻzbek tilini bilish-bilmasligi haqida maʼlumot yoʻq."
+      },
+      "para": 0
+    },
+    {
+      "id": "b1-03-two-languages-q4",
+      "type": "tfng",
+      "statement": "Timur had stopped mixing the two languages before he started school.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«By the time I started school, I could keep the languages apart»."
+      },
+      "para": 1
+    },
+    {
+      "id": "b1-03-two-languages-q5",
+      "type": "choice",
+      "prompt": "In paragraph 2, «keep the languages apart» means …",
+      "options": [
+        "use each language separately, without mixing",
+        "forget one of the languages",
+        "speak only one language at school"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "Avval tillarni aralashtirgan, keyin esa ularni ajrata olgan — yaʼni aralashtirmasdan ishlatgan."
+      },
+      "para": 1
+    },
+    {
+      "id": "b1-03-two-languages-q6",
+      "type": "gap",
+      "prompt": "At family celebrations, Timur often translates ___ from one side of the table to the other.",
+      "answers": [
+        "jokes"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«I often translate jokes from one side of the table to the other»."
+      },
+      "para": 2
+    },
+    {
+      "id": "b1-03-two-languages-q7",
+      "type": "choice",
+      "prompt": "Why was Timur's Uzbek writing weaker for a few years?",
+      "options": [
+        "He had read more books in Russian.",
+        "His Uzbek teacher was very strict.",
+        "Nobody spoke Uzbek at home."
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "«because I had read more books in Russian»."
+      },
+      "para": 3
+    },
+    {
+      "id": "b1-03-two-languages-q8",
+      "type": "gap",
+      "prompt": "After the bad mark, Timur and his father read Uzbek stories together every ___.",
+      "answers": [
+        "weekend"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«my father and I started reading Uzbek stories together every weekend»."
+      },
+      "para": 3
+    },
+    {
+      "id": "b1-03-two-languages-q9",
+      "type": "choice",
+      "prompt": "What is the main idea of Timur's advice to parents?",
+      "options": [
+        "Send children to language lessons as early as possible.",
+        "Use both languages every day, be patient and do not shame children for mixing.",
+        "Speak only one language at home to avoid confusion."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "5-xatboshi: «Be patient and be consistent … every day, in real conversations … never make a child feel ashamed»."
+      },
+      "para": 4
+    }
+  ]
+}

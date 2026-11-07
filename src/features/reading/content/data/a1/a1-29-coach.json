@@ -1,0 +1,180 @@
+{
+  "id": "a1-29-coach",
+  "title": {
+    "uz": "Suzish murabbiyi"
+  },
+  "en": "The Swimming Coach",
+  "level": "A1",
+  "kind": "biography",
+  "tag": {
+    "uz": "Kasblar",
+    "en": "Jobs"
+  },
+  "intro": {
+    "uz": "Bu — suzish murabbiyi Feruza haqida qisqa tarjimai hol. Oʻqishdan oldin: sizning sevimli sport turingiz qaysi?"
+  },
+  "paragraphs": [
+    {
+      "en": "Feruza Aliyeva is a swimming coach. She is thirty-five years old and she lives in Namangan. She works at the city sports centre.",
+      "uz": "Feruza Aliyeva — suzish murabbiyi. U oʻttiz besh yoshda va Namanganda yashaydi. U shahar sport markazida ishlaydi."
+    },
+    {
+      "en": "Feruza loves water. At the age of seven, she could swim very well. Now she has got forty students. They are from six to sixty years old!",
+      "uz": "Feruza suvni yaxshi koʻradi. Yetti yoshidayoq u juda yaxshi suza olardi. Hozir uning qirqta shogirdi bor. Ular olti yoshdan oltmish yoshgacha!"
+    },
+    {
+      "en": "Feruza's day starts early. She gets up at five and runs in the park. Her first lesson is at seven. She has lunch at one and finishes work at six.",
+      "uz": "Feruzaning kuni erta boshlanadi. U soat beshda turadi va bogʻda yuguradi. Birinchi darsi soat yettida. U soat birda tushlik qiladi va ishni soat oltida tugatadi."
+    },
+    {
+      "en": "Feruza is a kind but strict coach. She always tells her students: never swim alone, and always drink water after a lesson.",
+      "uz": "Feruza mehribon, lekin talabchan murabbiy. U shogirdlariga doim aytadi: hech qachon yolgʻiz suzmang va darsdan keyin doim suv iching."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "coach",
+      "uz": "murabbiy"
+    },
+    {
+      "en": "swimming",
+      "uz": "suzish"
+    },
+    {
+      "en": "sports centre",
+      "uz": "sport markazi"
+    },
+    {
+      "en": "student",
+      "uz": "shogird, oʻquvchi"
+    },
+    {
+      "en": "early",
+      "uz": "erta"
+    },
+    {
+      "en": "lesson",
+      "uz": "dars, mashgʻulot"
+    },
+    {
+      "en": "lunch",
+      "uz": "tushlik"
+    },
+    {
+      "en": "finish",
+      "uz": "tugatmoq"
+    },
+    {
+      "en": "strict",
+      "uz": "talabchan, qattiqqoʻl"
+    },
+    {
+      "en": "alone",
+      "uz": "yolgʻiz"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "b41-can-could",
+      "title": {
+        "uz": "could — oʻtmishda qila olardi"
+      },
+      "example": "At the age of seven, she could swim very well."
+    },
+    {
+      "topicId": "b19-my-day",
+      "title": {
+        "uz": "Present Simple: she gets up"
+      },
+      "example": "She gets up at five and runs in the park."
+    }
+  ],
+  "questions": [
+    {
+      "id": "a1-29-coach-q1",
+      "type": "choice",
+      "prompt": "Where does Feruza live?",
+      "options": [
+        "in Namangan",
+        "in Tashkent",
+        "in Fergana"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "«she lives in Namangan»."
+      },
+      "para": 0
+    },
+    {
+      "id": "a1-29-coach-q2",
+      "type": "tfng",
+      "statement": "Feruza works at a school.",
+      "answer": "F",
+      "explain": {
+        "uz": "U sport markazida ishlaydi: «She works at the city sports centre.»"
+      },
+      "para": 0
+    },
+    {
+      "id": "a1-29-coach-q3",
+      "type": "gap",
+      "prompt": "At the age of ___, Feruza could swim very well.",
+      "answers": [
+        "seven",
+        "7"
+      ],
+      "explain": {
+        "uz": "«At the age of seven, she could swim very well.»"
+      },
+      "para": 1
+    },
+    {
+      "id": "a1-29-coach-q4",
+      "type": "choice",
+      "prompt": "How many students has Feruza got?",
+      "options": [
+        "thirty-five",
+        "forty",
+        "sixty"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«Now she has got forty students.» Oʻttiz besh — uning yoshi."
+      },
+      "para": 1
+    },
+    {
+      "id": "a1-29-coach-q5",
+      "type": "tfng",
+      "statement": "Feruza runs in the park in the morning.",
+      "answer": "T",
+      "explain": {
+        "uz": "«She gets up at five and runs in the park.»"
+      },
+      "para": 2
+    },
+    {
+      "id": "a1-29-coach-q6",
+      "type": "gap",
+      "prompt": "Feruza finishes work at ___.",
+      "answers": [
+        "six",
+        "6"
+      ],
+      "explain": {
+        "uz": "«She has lunch at one and finishes work at six.»"
+      },
+      "para": 2
+    },
+    {
+      "id": "a1-29-coach-q7",
+      "type": "tfng",
+      "statement": "Feruza says her students can swim alone.",
+      "answer": "F",
+      "explain": {
+        "uz": "Aksincha: «never swim alone»."
+      },
+      "para": 3
+    }
+  ]
+}

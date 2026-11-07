@@ -1,0 +1,192 @@
+{
+  "id": "a1-17-cinema",
+  "title": {
+    "uz": "Kino kechasi"
+  },
+  "en": "Movie Night",
+  "level": "A1",
+  "kind": "dialogue",
+  "tag": {
+    "uz": "Kino",
+    "en": "Cinema"
+  },
+  "intro": {
+    "uz": "Zarina va Malika shanba kuni kinoga borishni rejalashtirmoqda. Oʻqishdan oldin: siz kinoga kim bilan borasiz?"
+  },
+  "paragraphs": [
+    {
+      "en": "Zarina: Hi, Malika! Are you free on Saturday evening? Malika: Yes, I am. Why?",
+      "uz": "Zarina: Salom, Malika! Shanba kuni kechqurun boʻshmisan? Malika: Ha, boʻshman. Nima edi?"
+    },
+    {
+      "en": "Zarina: Let's go to the cinema! There is a new cartoon about a little camel. Malika: Great idea! I love cartoons. What time does it start?",
+      "uz": "Zarina: Yur, kinoga boraylik! Kichkina tuyacha haqida yangi multfilm chiqibdi. Malika: Zoʻr fikr! Men multfilmlarni juda yaxshi koʻraman. U soat nechada boshlanadi?"
+    },
+    {
+      "en": "Zarina: It starts at 7 o'clock. A ticket costs 40,000 sum. Malika: OK. Would you like to eat something first?",
+      "uz": "Zarina: Soat 7 da boshlanadi. Bitta chipta 40 000 soʻm turadi. Malika: Mayli. Avval biror narsa yeyishni xohlaysanmi?"
+    },
+    {
+      "en": "Zarina: Yes! There is a nice cafe near the cinema. Let's meet there at 6 o'clock.",
+      "uz": "Zarina: Ha! Kinoteatr yaqinida yaxshi kafe bor. Oʻsha yerda soat 6 da uchrashaylik."
+    },
+    {
+      "en": "Malika: Perfect. Can my brother come too? He is nine. Zarina: Of course! See you on Saturday!",
+      "uz": "Malika: Ajoyib. Ukam ham kelsa boʻladimi? U toʻqqiz yoshda. Zarina: Albatta! Shanba kuni koʻrishguncha!"
+    }
+  ],
+  "glossary": [
+    {
+      "en": "free",
+      "uz": "boʻsh (vaqti bor)"
+    },
+    {
+      "en": "evening",
+      "uz": "kechqurun"
+    },
+    {
+      "en": "cinema",
+      "uz": "kinoteatr, kino"
+    },
+    {
+      "en": "cartoon",
+      "uz": "multfilm"
+    },
+    {
+      "en": "camel",
+      "uz": "tuya"
+    },
+    {
+      "en": "start",
+      "uz": "boshlanmoq"
+    },
+    {
+      "en": "ticket",
+      "uz": "chipta"
+    },
+    {
+      "en": "would you like",
+      "uz": "… ni xohlaysizmi?"
+    },
+    {
+      "en": "cafe",
+      "uz": "kafe"
+    },
+    {
+      "en": "near",
+      "uz": "yaqinida"
+    },
+    {
+      "en": "of course",
+      "uz": "albatta"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "b39-suggestions",
+      "title": {
+        "uz": "Taklif: Let's …"
+      },
+      "example": "Let's go to the cinema!"
+    },
+    {
+      "topicId": "b44-would-like",
+      "title": {
+        "uz": "would like — xohlamoq"
+      },
+      "example": "Would you like to eat something first?"
+    }
+  ],
+  "questions": [
+    {
+      "id": "a1-17-cinema-q1",
+      "type": "tfng",
+      "statement": "Malika is free on Saturday evening.",
+      "answer": "T",
+      "explain": {
+        "uz": "Zarina soʻraydi, Malika javob beradi: «Yes, I am.»"
+      },
+      "para": 0
+    },
+    {
+      "id": "a1-17-cinema-q2",
+      "type": "choice",
+      "prompt": "What film do the girls want to see?",
+      "options": [
+        "an action film",
+        "a cartoon",
+        "a comedy"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«There is a new cartoon about a little camel.»"
+      },
+      "para": 1
+    },
+    {
+      "id": "a1-17-cinema-q3",
+      "type": "gap",
+      "prompt": "The film starts at ___ o'clock.",
+      "answers": [
+        "7",
+        "seven"
+      ],
+      "explain": {
+        "uz": "3-xatboshi: «It starts at 7 o'clock.» Soat 6 — kafedagi uchrashuv vaqti."
+      },
+      "para": 2
+    },
+    {
+      "id": "a1-17-cinema-q4",
+      "type": "choice",
+      "prompt": "How much is a ticket?",
+      "options": [
+        "40,000 sum",
+        "14,000 sum",
+        "4,000 sum"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "«A ticket costs 40,000 sum.»"
+      },
+      "para": 2
+    },
+    {
+      "id": "a1-17-cinema-q5",
+      "type": "tfng",
+      "statement": "The girls meet at the cafe at 7 o'clock.",
+      "answer": "F",
+      "explain": {
+        "uz": "Ular kafeda soat 6 da uchrashadi: «Let's meet there at 6 o'clock.» Soat 7 da film boshlanadi."
+      },
+      "para": 3
+    },
+    {
+      "id": "a1-17-cinema-q6",
+      "type": "gap",
+      "prompt": "There is a nice ___ near the cinema.",
+      "answers": [
+        "cafe"
+      ],
+      "explain": {
+        "uz": "«There is a nice cafe near the cinema.»"
+      },
+      "para": 3
+    },
+    {
+      "id": "a1-17-cinema-q7",
+      "type": "choice",
+      "prompt": "Who can come with the girls too?",
+      "options": [
+        "Malika's sister",
+        "Zarina's mother",
+        "Malika's brother"
+      ],
+      "answer": 2,
+      "explain": {
+        "uz": "Malika soʻraydi: «Can my brother come too?» Zarina: «Of course!»"
+      },
+      "para": 4
+    }
+  ]
+}

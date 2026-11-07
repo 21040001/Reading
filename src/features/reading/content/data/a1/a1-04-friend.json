@@ -1,0 +1,181 @@
+{
+  "id": "a1-04-friend",
+  "title": {
+    "uz": "Eng yaqin doʻstim"
+  },
+  "en": "My Best Friend",
+  "level": "A1",
+  "kind": "story",
+  "tag": {
+    "uz": "Doʻstlar",
+    "en": "Friends"
+  },
+  "intro": {
+    "uz": "Aziz eng yaqin doʻsti Temur haqida yozadi. Oʻqishdan oldin: doʻstingiz qanday odam?"
+  },
+  "paragraphs": [
+    {
+      "en": "My name is Aziz. My best friend is Timur. We are in the same class. Timur is tall and thin. He has short black hair and brown eyes. He always wears a blue cap.",
+      "uz": "Mening ismim Aziz. Eng yaqin doʻstim — Temur. Biz bir sinfda oʻqiymiz. Temur baland boʻyli va ozgʻin. Uning sochi kalta va qora, koʻzlari jigarrang. U doim koʻk kepka kiyib yuradi."
+    },
+    {
+      "en": "Timur is very good at maths, but he isn't good at English. I help him with his English homework, and he helps me with maths.",
+      "uz": "Temur matematikani juda yaxshi biladi, lekin ingliz tilini yaxshi bilmaydi. Men unga ingliz tili uy vazifasida yordam beraman, u esa menga matematikada yordam beradi."
+    },
+    {
+      "en": "After school, we often play football in the park. At the weekend, we sometimes go to the cinema. Timur likes action films, and I like comedies.",
+      "uz": "Darsdan keyin biz tez-tez bogʻda futbol oʻynaymiz. Dam olish kunlari baʼzan kinoga boramiz. Temur jangari filmlarni yoqtiradi, men esa komediyalarni."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "best friend",
+      "uz": "eng yaqin doʻst"
+    },
+    {
+      "en": "same",
+      "uz": "bir xil; bitta"
+    },
+    {
+      "en": "tall",
+      "uz": "baland boʻyli"
+    },
+    {
+      "en": "thin",
+      "uz": "ozgʻin"
+    },
+    {
+      "en": "cap",
+      "uz": "kepka"
+    },
+    {
+      "en": "be good at",
+      "uz": "… ni yaxshi bilmoq, … ga usta boʻlmoq"
+    },
+    {
+      "en": "homework",
+      "uz": "uy vazifasi"
+    },
+    {
+      "en": "at the weekend",
+      "uz": "dam olish kunlari"
+    },
+    {
+      "en": "sometimes",
+      "uz": "baʼzan"
+    },
+    {
+      "en": "action film",
+      "uz": "jangari film"
+    },
+    {
+      "en": "comedy",
+      "uz": "komediya"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "b45-appearance",
+      "title": {
+        "uz": "Tashqi koʻrinish: He has short black hair"
+      },
+      "example": "He has short black hair and brown eyes."
+    },
+    {
+      "topicId": "b24-frequency",
+      "title": {
+        "uz": "always, often, sometimes"
+      },
+      "example": "We often play football in the park."
+    }
+  ],
+  "questions": [
+    {
+      "id": "a1-04-friend-q1",
+      "type": "tfng",
+      "statement": "Timur and Aziz are in the same class.",
+      "answer": "T",
+      "explain": {
+        "uz": "«We are in the same class.»"
+      },
+      "para": 0
+    },
+    {
+      "id": "a1-04-friend-q2",
+      "type": "choice",
+      "prompt": "What does Timur always wear?",
+      "options": [
+        "a blue cap",
+        "a red T-shirt",
+        "glasses"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "«He always wears a blue cap.»"
+      },
+      "para": 0
+    },
+    {
+      "id": "a1-04-friend-q3",
+      "type": "tfng",
+      "statement": "Timur is good at English.",
+      "answer": "F",
+      "explain": {
+        "uz": "«he isn't good at English» — ingliz tilini yaxshi bilmaydi."
+      },
+      "para": 1
+    },
+    {
+      "id": "a1-04-friend-q4",
+      "type": "choice",
+      "prompt": "Who helps Timur with his English homework?",
+      "options": [
+        "his teacher",
+        "Aziz",
+        "his brother"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«My name is Aziz… I help him with his English homework» — yordam beradigan Aziz."
+      },
+      "para": 1
+    },
+    {
+      "id": "a1-04-friend-q5",
+      "type": "tfng",
+      "statement": "The boys often play football after school.",
+      "answer": "T",
+      "explain": {
+        "uz": "«After school, we often play football in the park.»"
+      },
+      "para": 2
+    },
+    {
+      "id": "a1-04-friend-q6",
+      "type": "gap",
+      "prompt": "At the weekend, the boys sometimes go to the ___.",
+      "answers": [
+        "cinema"
+      ],
+      "explain": {
+        "uz": "«we sometimes go to the cinema»."
+      },
+      "para": 2
+    },
+    {
+      "id": "a1-04-friend-q7",
+      "type": "choice",
+      "prompt": "What films does Timur like?",
+      "options": [
+        "comedies",
+        "cartoons",
+        "action films"
+      ],
+      "answer": 2,
+      "explain": {
+        "uz": "Temur — jangari filmlar; komediyalarni Aziz yoqtiradi."
+      },
+      "para": 2
+    }
+  ]
+}

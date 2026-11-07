@@ -1,0 +1,207 @@
+{
+  "id": "a2-24-sleep",
+  "title": {
+    "uz": "Uyqu nega muhim?"
+  },
+  "en": "Why Is Sleep Important?",
+  "level": "A2",
+  "kind": "article",
+  "tag": {
+    "uz": "Sogʻliq",
+    "en": "Health"
+  },
+  "intro": {
+    "uz": "Bu maqola uyqu tanamiz va miyamiz uchun nima uchun kerakligini tushuntiradi. Oʻqishdan oldin: siz yaxshi uxlamasangiz, ertasi kuni oʻzingizni qanday his qilasiz?"
+  },
+  "paragraphs": [
+    {
+      "en": "Why do we sleep? Scientists still have many questions, but they agree on one thing: sleep is very important for our health. We spend about one third of our lives asleep!",
+      "uz": "Biz nega uxlaymiz? Olimlarda hali ham koʻp savollar bor, lekin ular bir narsada hamfikr: uyqu sogʻligʻimiz uchun juda muhim. Biz umrimizning taxminan uchdan bir qismini uyquda oʻtkazamiz!"
+    },
+    {
+      "en": "While we sleep, the body rests and repairs itself. The brain is busy too. It sorts the things that we learned during the day and helps us remember them. That is why a good night's sleep before an exam is better than studying all night.",
+      "uz": "Biz uxlayotganimizda tana dam oladi va oʻzini tiklaydi. Miya ham band boʻladi. U kun davomida oʻrgangan narsalarimizni tartibga soladi va ularni eslab qolishimizga yordam beradi. Shuning uchun imtihondan oldin yaxshilab uxlash tun boʻyi oʻqishdan yaxshiroq."
+    },
+    {
+      "en": "How much sleep do we need? Most adults need seven to nine hours. Children and teenagers need more, because their bodies are still growing. For example, teenagers need about eight to ten hours a night. But many teenagers sleep only six or seven hours on school nights.",
+      "uz": "Bizga qancha uyqu kerak? Koʻpchilik kattalarga yetti-toʻqqiz soat kerak. Bolalar va oʻsmirlarga koʻproq kerak, chunki ularning tanasi hali oʻsyapti. Masalan, oʻsmirlarga bir kechada taxminan sakkiz-oʻn soat uyqu kerak. Lekin koʻp oʻsmirlar ertasi kuni dars bor kechalari atigi olti-yetti soat uxlaydi."
+    },
+    {
+      "en": "What happens if we don't sleep enough? We feel tired and get angry more easily, and it is harder to concentrate. Over a long time, too little sleep can also make people ill more often.",
+      "uz": "Agar yetarlicha uxlamasak, nima boʻladi? Charchaymiz, tezroq jahlimiz chiqadi va diqqatni jamlash qiyinroq boʻladi. Uzoq vaqt davomida kam uxlash odamlarning tez-tez kasal boʻlishiga ham sabab boʻlishi mumkin."
+    },
+    {
+      "en": "Here are some simple tips. Go to bed and get up at the same time every day. Don't drink tea or coffee in the evening. Keep your bedroom dark and quiet, and put your phone away at least half an hour before bed.",
+      "uz": "Mana bir nechta oddiy maslahat. Har kuni bir xil vaqtda yoting va turing. Kechqurun choy yoki qahva ichmang. Yotoq xonangizni qorongʻi va tinch tuting, telefoningizni esa uxlashdan kamida yarim soat oldin olib qoʻying."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "health",
+      "uz": "sogʻliq"
+    },
+    {
+      "en": "spend",
+      "uz": "(vaqt) oʻtkazmoq"
+    },
+    {
+      "en": "asleep",
+      "uz": "uxlayotgan, uyquda"
+    },
+    {
+      "en": "repair",
+      "uz": "tuzatmoq, tiklamoq"
+    },
+    {
+      "en": "brain",
+      "uz": "miya"
+    },
+    {
+      "en": "remember",
+      "uz": "eslab qolmoq"
+    },
+    {
+      "en": "adult",
+      "uz": "katta yoshli odam"
+    },
+    {
+      "en": "grow",
+      "uz": "oʻsmoq"
+    },
+    {
+      "en": "concentrate",
+      "uz": "diqqatni jamlamoq"
+    },
+    {
+      "en": "ill",
+      "uz": "kasal"
+    },
+    {
+      "en": "tip",
+      "uz": "maslahat"
+    },
+    {
+      "en": "dark",
+      "uz": "qorongʻi"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "e48-enough-too",
+      "title": {
+        "uz": "enough / too — yetarli / haddan ortiq"
+      },
+      "example": "What happens if we don't sleep enough?"
+    },
+    {
+      "topicId": "e55-who-which-that",
+      "title": {
+        "uz": "that — aniqlovchi ergash gap"
+      },
+      "example": "the things that we learned during the day"
+    }
+  ],
+  "questions": [
+    {
+      "id": "a2-24-sleep-q1",
+      "type": "tfng",
+      "statement": "Scientists know everything about sleep.",
+      "answer": "F",
+      "explain": {
+        "uz": "«Scientists still have many questions» — hali savollar koʻp."
+      },
+      "para": 0
+    },
+    {
+      "id": "a2-24-sleep-q2",
+      "type": "gap",
+      "prompt": "We spend about one ___ of our lives asleep.",
+      "answers": [
+        "third"
+      ],
+      "maxWords": 1,
+      "explain": {
+        "uz": "«We spend about one third of our lives asleep!» — uchdan bir qism."
+      },
+      "para": 0
+    },
+    {
+      "id": "a2-24-sleep-q3",
+      "type": "choice",
+      "prompt": "What does the brain do while we sleep?",
+      "options": [
+        "It stops working.",
+        "It helps us remember what we learned.",
+        "It grows bigger."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«It sorts the things that we learned during the day and helps us remember them.»"
+      },
+      "para": 1
+    },
+    {
+      "id": "a2-24-sleep-q4",
+      "type": "tfng",
+      "statement": "The text says it is better to study all night before an exam.",
+      "answer": "F",
+      "explain": {
+        "uz": "Aksincha: «a good night's sleep before an exam is better than studying all night»."
+      },
+      "para": 1
+    },
+    {
+      "id": "a2-24-sleep-q5",
+      "type": "choice",
+      "prompt": "How much sleep do most adults need?",
+      "options": [
+        "five to six hours",
+        "seven to nine hours",
+        "ten to twelve hours"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«Most adults need seven to nine hours.»"
+      },
+      "para": 2
+    },
+    {
+      "id": "a2-24-sleep-q6",
+      "type": "tfng",
+      "statement": "Teenagers need more sleep than adults.",
+      "answer": "T",
+      "explain": {
+        "uz": "«Children and teenagers need more, because their bodies are still growing.»"
+      },
+      "para": 2
+    },
+    {
+      "id": "a2-24-sleep-q7",
+      "type": "gap",
+      "prompt": "Without enough sleep, it is harder to ___.",
+      "answers": [
+        "concentrate"
+      ],
+      "maxWords": 1,
+      "explain": {
+        "uz": "«it is harder to concentrate» — diqqatni jamlash qiyinroq."
+      },
+      "para": 3
+    },
+    {
+      "id": "a2-24-sleep-q8",
+      "type": "choice",
+      "prompt": "Which tip is in the text?",
+      "options": [
+        "Drink tea in the evening.",
+        "Keep your bedroom dark and quiet.",
+        "Use your phone in bed."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«Keep your bedroom dark and quiet». Kechqurun choy ichmaslik, telefonni esa olib qoʻyish kerak."
+      },
+      "para": 4
+    }
+  ]
+}

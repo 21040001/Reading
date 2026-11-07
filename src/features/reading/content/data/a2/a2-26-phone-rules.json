@@ -1,0 +1,206 @@
+{
+  "id": "a2-26-phone-rules",
+  "title": {
+    "uz": "Smartfon qoidalari"
+  },
+  "en": "Phone Rules at School",
+  "level": "A2",
+  "kind": "notice",
+  "tag": {
+    "uz": "Texnologiya",
+    "en": "Technology"
+  },
+  "intro": {
+    "uz": "Bu — maktabning telefonlar haqidagi yangi qoidalari toʻgʻrisidagi eʼloni. Oʻqishdan oldin oʻylab koʻring: sizning maktabingizda darsda telefondan foydalanish mumkinmi?"
+  },
+  "paragraphs": [
+    {
+      "en": "Notice for all students of School Number 21, Namangan. From 1 November, our school is going to have new phone rules. Please read them carefully and share them with your parents.",
+      "uz": "Namangandagi 21-maktabning barcha oʻquvchilari uchun eʼlon. 1-noyabrdan boshlab maktabimizda telefonlar boʻyicha yangi qoidalar amal qiladi. Iltimos, ularni diqqat bilan oʻqing va ota-onangizga ham aytib bering."
+    },
+    {
+      "en": "During lessons, phones must be switched off and kept in your bags. You mustn't use your phone in the corridors or in the canteen either. If a teacher sees a phone in a lesson, he or she will take it to the office. Your parents will have to collect it.",
+      "uz": "Dars paytida telefonlar oʻchirilgan va sumkangizda boʻlishi shart. Telefoningizdan yoʻlaklarda yoki oshxonada ham foydalanmasligingiz kerak. Agar oʻqituvchi darsda telefonni koʻrsa, uni idoraga olib ketadi. Uni ota-onangiz kelib olib ketishi kerak boʻladi."
+    },
+    {
+      "en": "You can use your phone before 8:00 and after the last lesson. In an emergency, you can call home from the school office at any time. You needn't bring a phone to school at all if you don't need one.",
+      "uz": "Telefoningizdan soat 8:00 gacha va oxirgi darsdan keyin foydalanishingiz mumkin. Favqulodda holatda istalgan vaqtda maktab idorasidan uyga qoʻngʻiroq qilishingiz mumkin. Agar telefon kerak boʻlmasa, uni maktabga umuman olib kelmasangiz ham boʻladi."
+    },
+    {
+      "en": "Why have we made these rules? Many students have told us that they can't stop checking messages. Some have become more tired and less active at break. We want breaks to be fun and friendly again, with more games and real conversations.",
+      "uz": "Nega bu qoidalarni joriy qildik? Koʻplab oʻquvchilar bizga xabarlarni tekshirishni toʻxtata olmasliklarini aytishdi. Baʼzilari tanaffusda koʻproq charchaydigan va kamroq harakat qiladigan boʻlib qolgan. Biz tanaffuslar yana qiziqarli va samimiy, koʻproq oʻyinlar va jonli suhbatlar bilan oʻtishini xohlaymiz."
+    },
+    {
+      "en": "Phones are useful, of course. In IT lessons, your teacher might ask you to use one for a project. Then it will be allowed. Any questions? Talk to Mr Yusupov in Room 14.",
+      "uz": "Albatta, telefonlar foydali. Informatika darslarida oʻqituvchingiz loyiha uchun telefondan foydalanishni soʻrashi mumkin. Unda bunga ruxsat beriladi. Savollaringiz bormi? 14-xonadagi Yusupov domlaga murojaat qiling."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "notice",
+      "uz": "eʼlon"
+    },
+    {
+      "en": "rule",
+      "uz": "qoida"
+    },
+    {
+      "en": "carefully",
+      "uz": "diqqat bilan"
+    },
+    {
+      "en": "switch off",
+      "uz": "oʻchirmoq"
+    },
+    {
+      "en": "corridor",
+      "uz": "yoʻlak, koridor"
+    },
+    {
+      "en": "canteen",
+      "uz": "oshxona (maktab, ishxonada)"
+    },
+    {
+      "en": "collect",
+      "uz": "olib ketmoq; yigʻmoq"
+    },
+    {
+      "en": "emergency",
+      "uz": "favqulodda holat"
+    },
+    {
+      "en": "check messages",
+      "uz": "xabarlarni tekshirmoq"
+    },
+    {
+      "en": "tired",
+      "uz": "charchagan"
+    },
+    {
+      "en": "break",
+      "uz": "tanaffus"
+    },
+    {
+      "en": "allowed",
+      "uz": "ruxsat etilgan"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "e27-must-mustnt-neednt",
+      "title": {
+        "uz": "must / mustn't / needn't"
+      },
+      "example": "You mustn't use your phone in the corridors"
+    },
+    {
+      "topicId": "e54-when-if",
+      "title": {
+        "uz": "Birinchi shart gap: If … will"
+      },
+      "example": "If a teacher sees a phone in a lesson, he or she will take it to the office."
+    }
+  ],
+  "questions": [
+    {
+      "id": "a2-26-phone-rules-q1",
+      "type": "tfng",
+      "statement": "The new rules start in November.",
+      "answer": "T",
+      "explain": {
+        "uz": "«From 1 November, our school is going to have new phone rules.»"
+      },
+      "para": 0
+    },
+    {
+      "id": "a2-26-phone-rules-q2",
+      "type": "tfng",
+      "statement": "Students can use their phones in the canteen.",
+      "answer": "F",
+      "explain": {
+        "uz": "Oshxonada ham mumkin emas: «You mustn't use your phone in the corridors or in the canteen either.»"
+      },
+      "para": 1
+    },
+    {
+      "id": "a2-26-phone-rules-q3",
+      "type": "choice",
+      "prompt": "What happens if a teacher sees a phone in a lesson?",
+      "options": [
+        "The student must leave the lesson.",
+        "The teacher takes it to the office.",
+        "The teacher calls the student's parents in the lesson."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«he or she will take it to the office» — telefon idoraga olib ketiladi."
+      },
+      "para": 1
+    },
+    {
+      "id": "a2-26-phone-rules-q4",
+      "type": "tfng",
+      "statement": "Parents have to come to school to get the phone back.",
+      "answer": "T",
+      "explain": {
+        "uz": "«Your parents will have to collect it.» — telefonni ota-ona olib ketadi."
+      },
+      "para": 1
+    },
+    {
+      "id": "a2-26-phone-rules-q5",
+      "type": "choice",
+      "prompt": "In an emergency, a student can …",
+      "options": [
+        "use their own phone in the lesson",
+        "call home from the school office",
+        "go home without asking"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«In an emergency, you can call home from the school office at any time.»"
+      },
+      "para": 2
+    },
+    {
+      "id": "a2-26-phone-rules-q6",
+      "type": "gap",
+      "prompt": "Students needn't bring a ___ to school if they don't need one.",
+      "answers": [
+        "phone"
+      ],
+      "explain": {
+        "uz": "«You needn't bring a phone to school at all if you don't need one.»"
+      },
+      "para": 2
+    },
+    {
+      "id": "a2-26-phone-rules-q7",
+      "type": "choice",
+      "prompt": "Why has the school made the new rules?",
+      "options": [
+        "Phones are too expensive for many families.",
+        "Students check messages too much and are less active.",
+        "Parents asked the school to make them."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«they can't stop checking messages… more tired and less active at break» — sabab shu."
+      },
+      "para": 3
+    },
+    {
+      "id": "a2-26-phone-rules-q8",
+      "type": "gap",
+      "prompt": "Students with questions should go to Room ___.",
+      "answers": [
+        "14",
+        "fourteen"
+      ],
+      "explain": {
+        "uz": "«Talk to Mr Yusupov in Room 14.»"
+      },
+      "para": 4
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "id": "a1-15-park",
+  "title": {
+    "uz": "Bogʻda sayr"
+  },
+  "en": "A Walk in the Park",
+  "level": "A1",
+  "kind": "story",
+  "tag": {
+    "uz": "Dam olish",
+    "en": "Free time"
+  },
+  "intro": {
+    "uz": "Sardor bobosi bilan bogʻda sayr qiladi. Oʻqishdan oldin: siz dam olish kunlari qayerda sayr qilasiz?"
+  },
+  "paragraphs": [
+    {
+      "en": "My name is Sardor. I live in Namangan, the city of flowers. Every Sunday morning, I walk in the park with my grandfather. The park is near our house. It is big and green.",
+      "uz": "Mening ismim Sardor. Men gullar shahri Namanganda yashayman. Har yakshanba ertalab bobom bilan bogʻda sayr qilaman. Bogʻ uyimiz yaqinida. U katta va yam-yashil."
+    },
+    {
+      "en": "There are tall trees, flowers and a small lake. There are ducks on the lake. We always bring bread for them.",
+      "uz": "U yerda baland daraxtlar, gullar va kichik koʻl bor. Koʻlda oʻrdaklar bor. Biz ularga doim non olib boramiz."
+    },
+    {
+      "en": "My grandfather likes chess. Old men play chess under the trees. He often plays with his friend Hamid aka. I watch them and learn.",
+      "uz": "Bobom shaxmatni yaxshi koʻradi. Keksalar daraxtlar tagida shaxmat oʻynashadi. U tez-tez doʻsti Hamid aka bilan oʻynaydi. Men ularni tomosha qilaman va oʻrganaman."
+    },
+    {
+      "en": "After the game, we buy ice cream and sit on a bench. Then Grandfather says, \"Let's go home! A walk is good for you.\"",
+      "uz": "Oʻyindan keyin biz muzqaymoq sotib olamiz va oʻrindiqda oʻtiramiz. Keyin bobom aytadi: «Qani, uyga ketdik! Sayr sogʻliq uchun foydali.»"
+    }
+  ],
+  "glossary": [
+    {
+      "en": "flower",
+      "uz": "gul"
+    },
+    {
+      "en": "walk",
+      "uz": "sayr qilmoq; sayr"
+    },
+    {
+      "en": "grandfather",
+      "uz": "bobo"
+    },
+    {
+      "en": "near",
+      "uz": "yaqinida"
+    },
+    {
+      "en": "tree",
+      "uz": "daraxt"
+    },
+    {
+      "en": "lake",
+      "uz": "koʻl"
+    },
+    {
+      "en": "duck",
+      "uz": "oʻrdak"
+    },
+    {
+      "en": "chess",
+      "uz": "shaxmat"
+    },
+    {
+      "en": "under",
+      "uz": "tagida, ostida"
+    },
+    {
+      "en": "ice cream",
+      "uz": "muzqaymoq"
+    },
+    {
+      "en": "bench",
+      "uz": "oʻrindiq, skameyka"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "b14-there-is",
+      "title": {
+        "uz": "there is / there are"
+      },
+      "example": "There are ducks on the lake."
+    },
+    {
+      "topicId": "b39-suggestions",
+      "title": {
+        "uz": "Taklif: Letʼs …"
+      },
+      "example": "Let's go home!"
+    }
+  ],
+  "questions": [
+    {
+      "id": "a1-15-park-q1",
+      "type": "tfng",
+      "statement": "Sardor walks in the park every Sunday morning.",
+      "answer": "T",
+      "explain": {
+        "uz": "«Every Sunday morning, I walk in the park with my grandfather.»"
+      },
+      "para": 0
+    },
+    {
+      "id": "a1-15-park-q2",
+      "type": "tfng",
+      "statement": "The park is far from their house.",
+      "answer": "F",
+      "explain": {
+        "uz": "«The park is near our house.»"
+      },
+      "para": 0
+    },
+    {
+      "id": "a1-15-park-q3",
+      "type": "choice",
+      "prompt": "What is on the lake?",
+      "options": [
+        "boats",
+        "ducks",
+        "fish"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«There are ducks on the lake.»"
+      },
+      "para": 1
+    },
+    {
+      "id": "a1-15-park-q4",
+      "type": "gap",
+      "prompt": "Sardor and his grandfather always bring ___ for the ducks.",
+      "answers": [
+        "bread"
+      ],
+      "maxWords": 1,
+      "explain": {
+        "uz": "«We always bring bread for them.»"
+      },
+      "para": 1
+    },
+    {
+      "id": "a1-15-park-q5",
+      "type": "choice",
+      "prompt": "What game does the grandfather like?",
+      "options": [
+        "football",
+        "chess",
+        "cards"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«My grandfather likes chess.»"
+      },
+      "para": 2
+    },
+    {
+      "id": "a1-15-park-q6",
+      "type": "tfng",
+      "statement": "Sardor plays chess with Hamid aka.",
+      "answer": "F",
+      "explain": {
+        "uz": "Hamid aka bilan bobosi oʻynaydi, Sardor esa tomosha qiladi: «I watch them and learn.»"
+      },
+      "para": 2
+    },
+    {
+      "id": "a1-15-park-q7",
+      "type": "choice",
+      "prompt": "What do they do after the game?",
+      "options": [
+        "They go home.",
+        "They buy ice cream.",
+        "They feed the ducks."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«After the game, we buy ice cream and sit on a bench.»"
+      },
+      "para": 3
+    }
+  ]
+}

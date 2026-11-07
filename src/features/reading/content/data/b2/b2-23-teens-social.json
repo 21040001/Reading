@@ -1,0 +1,266 @@
+{
+  "id": "b2-23-teens-social",
+  "title": {
+    "uz": "Ijtimoiy tarmoqlar va oʻsmirlar"
+  },
+  "en": "Teenagers and Social Media",
+  "level": "B2",
+  "kind": "exam",
+  "tag": {
+    "uz": "Texnologiya va jamiyat",
+    "en": "Technology and society"
+  },
+  "intro": {
+    "uz": "Topshiriq: Multiple choice (iboraning matndagi maʼnosi). Iboraning soʻzma-soʻz maʼnosini tanlashga shoshilmang: oldingi va keyingi jumlani qayta oʻqing, soʻng har bir variantni iboraning oʻrniga qoʻyib koʻring — qaysi biri bilan jumla mantiqli boʻlsa, oʻsha javob. Ikkinchi qism: True / False / Not Given — bu matnda TRUE = muallif shu fikrga qoʻshiladi (YES), FALSE = muallif fikri bunga zid (NO), NOT GIVEN = muallif bu haqda oʻz fikrini bildirmagan."
+  },
+  "paragraphs": [
+    {
+      "en": "Few inventions have entered teenage life as quickly as social media. In a single generation, the phone has become a diary, a meeting place and a stage. Parents who grew up writing letters or waiting by the home telephone often watch their children's constant scrolling with a mixture of confusion and alarm. But is their worry justified?"
+    },
+    {
+      "en": "Many psychologists believe there are genuine reasons for concern. Platforms are designed to hold attention, and the endless stream of photos, short videos and notifications can make it hard to put the phone down. Late-night use is widely thought to reduce sleep, which in turn affects mood and concentration at school. Perhaps most worrying is comparison: teenagers see carefully edited images of their peers' lives and may conclude that everyone else is happier, more attractive or more successful."
+    },
+    {
+      "en": "Cruelty, too, has moved online. Unkind remarks that once stayed in the school yard can now follow a young person home and be seen by hundreds of people. Because the attacker is often hidden behind a screen, it may be harder for adults to notice what is happening. Some teenagers, it seems, prefer to suffer in silence rather than tell an adult, perhaps fearing that their phones will be taken away."
+    },
+    {
+      "en": "And yet the picture is not entirely dark. For a teenager who feels isolated, perhaps because of an unusual hobby or a difficult situation at home, an online community can offer friendship and understanding that are hard to find nearby. Young people use social networks to organise volunteering, to share their music and drawings, and to learn skills that their schools do not teach. For many, staying in touch with relatives who have moved abroad would be far more difficult without them."
+    },
+    {
+      "en": "Researchers are increasingly cautious about simple conclusions. How a teenager uses social media seems to matter more than how many hours they spend on it. Chatting with real friends or creating something is likely to have very different effects from passively scrolling through strangers' photographs late at night."
+    },
+    {
+      "en": "If this is correct, banning phones entirely may be less useful than teaching young people to use them wisely. Agreeing on phone-free times, such as meals and the hour before sleep, talking openly about what children see online, and setting a good example are approaches that many families find helpful. After all, adults are not always the best models of healthy screen habits themselves."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "scroll",
+      "uz": "(ekranni) varaqlamoq"
+    },
+    {
+      "en": "alarm",
+      "uz": "xavotir"
+    },
+    {
+      "en": "justified",
+      "uz": "asosli"
+    },
+    {
+      "en": "genuine",
+      "uz": "haqiqiy, chin"
+    },
+    {
+      "en": "notification",
+      "uz": "bildirishnoma"
+    },
+    {
+      "en": "concentration",
+      "uz": "diqqatni jamlash"
+    },
+    {
+      "en": "edited",
+      "uz": "tahrirlangan"
+    },
+    {
+      "en": "peer",
+      "uz": "tengdosh"
+    },
+    {
+      "en": "cruelty",
+      "uz": "shafqatsizlik"
+    },
+    {
+      "en": "isolated",
+      "uz": "yolgʻiz, ajralib qolgan"
+    },
+    {
+      "en": "volunteering",
+      "uz": "koʻngillilik"
+    },
+    {
+      "en": "cautious",
+      "uz": "ehtiyotkor"
+    },
+    {
+      "en": "conclusion",
+      "uz": "xulosa"
+    },
+    {
+      "en": "passively",
+      "uz": "sust, faol boʻlmagan holda"
+    },
+    {
+      "en": "approach",
+      "uz": "yondashuv"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "i31-it-is-said",
+      "title": {
+        "uz": "is thought to: …deb hisoblanadi"
+      },
+      "example": "Late-night use is widely thought to reduce sleep"
+    },
+    {
+      "topicId": "c09-probability-deduction",
+      "title": {
+        "uz": "Ehtimollik: is likely to"
+      },
+      "example": "is likely to have very different effects"
+    }
+  ],
+  "questions": [
+    {
+      "id": "b2-23-teens-social-q1",
+      "type": "choice",
+      "prompt": "What is the main idea of the passage?",
+      "options": [
+        "Social media is mainly harmful to teenagers.",
+        "The effects of social media depend largely on how it is used.",
+        "Parents should ban phones at home.",
+        "Teenagers use social media less than adults think."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«How a teenager uses social media seems to matter more than how many hours they spend on it.» Taqiqlash haqida muallif aksincha: «may be less useful»."
+      },
+      "para": 4
+    },
+    {
+      "id": "b2-23-teens-social-q2",
+      "type": "choice",
+      "prompt": "What does the writer mean when saying the phone has become «a diary, a meeting place and a stage»?",
+      "options": [
+        "Teenagers use phones mainly to write about their day.",
+        "The phone now serves many personal and social purposes for teenagers.",
+        "Teenagers want to become actors."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "Uch metafora: shaxsiy yozuvlar, doʻstlar bilan uchrashish, oʻzini koʻrsatish — telefon koʻp vazifani bajaradi. Soʻzma-soʻz maʼno emas."
+      },
+      "para": 0
+    },
+    {
+      "id": "b2-23-teens-social-q3",
+      "type": "choice",
+      "prompt": "Why does the writer mention parents who grew up «writing letters or waiting by the home telephone»?",
+      "options": [
+        "to explain why many parents find their children's habits hard to understand",
+        "to show that older forms of communication were better",
+        "to suggest that parents should write more letters"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "Ular boshqacha muhitda katta boʻlgani uchun «confusion and alarm» his qiladi. Muallif eski usullarni maqtamaydi."
+      },
+      "para": 0
+    },
+    {
+      "id": "b2-23-teens-social-q4",
+      "type": "choice",
+      "prompt": "According to paragraph C, why might online cruelty be hard for adults to notice?",
+      "options": [
+        "because it happens only at school",
+        "because the person responsible is often not visible",
+        "because teenagers enjoy it"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«the attacker is often hidden behind a screen». Aksincha, endi u maktabdan tashqariga ham chiqadi."
+      },
+      "para": 2
+    },
+    {
+      "id": "b2-23-teens-social-q5",
+      "type": "choice",
+      "prompt": "What is the purpose of paragraph D?",
+      "options": [
+        "to present the positive side of social media",
+        "to warn about strangers online",
+        "to describe problems at home"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "«And yet the picture is not entirely dark» — burilish: doʻstlik, koʻngillilik, ijod, qarindoshlar bilan aloqa."
+      },
+      "para": 3
+    },
+    {
+      "id": "b2-23-teens-social-q6",
+      "type": "choice",
+      "prompt": "What does the final sentence of the passage suggest?",
+      "options": [
+        "Adults use phones less than teenagers.",
+        "Parents should also think about their own screen habits.",
+        "Teenagers should teach adults how to use phones."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«adults are not always the best models» — ota-onalar ham oʻz odatlariga qarashi kerak; «setting a good example» bilan bogʻliq."
+      },
+      "para": 5
+    },
+    {
+      "id": "b2-23-teens-social-q7",
+      "type": "choice",
+      "prompt": "Which statement would the writer most likely agree with?",
+      "options": [
+        "An hour spent chatting with close friends is probably different in effect from an hour of scrolling strangers' photos at night.",
+        "The total number of hours online is the only thing that matters.",
+        "All online communities are dangerous for young people."
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "«Chatting with real friends … is likely to have very different effects from passively scrolling»."
+      },
+      "para": 4
+    },
+    {
+      "id": "b2-23-teens-social-q8",
+      "type": "tfng",
+      "statement": "Parents' worries about social media have no basis at all.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "FALSE: muallif psixologlar fikrini keltiradi («genuine reasons for concern») va oʻzi ham «Perhaps most worrying is comparison» deydi; D xatboshidagi «the picture is not entirely dark» ham salbiy tomon borligini tan oladi."
+      },
+      "para": 1
+    },
+    {
+      "id": "b2-23-teens-social-q9",
+      "type": "tfng",
+      "statement": "An online community can help a lonely teenager find understanding.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "TRUE (muallif qoʻshiladi): «an online community can offer friendship and understanding that are hard to find nearby»."
+      },
+      "para": 3
+    },
+    {
+      "id": "b2-23-teens-social-q10",
+      "type": "tfng",
+      "statement": "The amount of time spent online is the most important factor.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "FALSE: qanday foydalanish «seems to matter more than how many hours»."
+      },
+      "para": 4
+    },
+    {
+      "id": "b2-23-teens-social-q11",
+      "type": "tfng",
+      "statement": "Schools should teach a separate subject about social media.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "NOT GIVEN: muallif oilalardagi yondashuvlar haqida yozadi; maktabda alohida fan haqida fikr yoʻq."
+      },
+      "para": 5
+    }
+  ]
+}

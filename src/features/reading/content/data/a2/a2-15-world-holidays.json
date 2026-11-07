@@ -1,0 +1,201 @@
+{
+  "id": "a2-15-world-holidays",
+  "title": {
+    "uz": "Boshqa mamlakatlarda bayramlar"
+  },
+  "en": "Holidays Around the World",
+  "level": "A2",
+  "kind": "dialogue",
+  "tag": {
+    "uz": "Dunyo",
+    "en": "The world"
+  },
+  "intro": {
+    "uz": "Ingliz tili darsida oʻqituvchi va oʻquvchilar boshqa mamlakatlarning bayramlari haqida gaplashadi. Oʻqishdan oldin oʻylab koʻring: siz qaysi xorijiy bayramlarni bilasiz?"
+  },
+  "paragraphs": [
+    {
+      "en": "Ms Rahimova: Today we are talking about holidays in other countries. Sardor, what do you know about Chinese New Year? Sardor: It is the biggest holiday in China. The date changes every year because it follows the lunar calendar.",
+      "uz": "Rahimova xonim: Bugun boshqa mamlakatlardagi bayramlar haqida gaplashamiz. Sardor, Xitoy Yangi yili haqida nimalarni bilasan? Sardor: Bu Xitoydagi eng katta bayram. Uning sanasi har yili oʻzgaradi, chunki u oy taqvimiga asoslanadi."
+    },
+    {
+      "en": "Ms Rahimova: That's right. It usually comes in January or February. How do people decorate their homes? Sardor: They use a lot of red, because red is a lucky colour. Children often get money in red envelopes.",
+      "uz": "Rahimova xonim: Toʻgʻri. U odatda yanvar yoki fevralga toʻgʻri keladi. Odamlar uylarini qanday bezaydi? Sardor: Ular qizil rangdan koʻp foydalanadi, chunki qizil — omadli rang. Bolalar koʻpincha qizil konvertlarda pul oladi."
+    },
+    {
+      "en": "Ms Rahimova: Very good. Laylo, can you tell us about Diwali? Laylo: Yes. Diwali is the festival of lights in India. People light small lamps and candles in their homes, and they wear new clothes and share sweets.",
+      "uz": "Rahimova xonim: Juda yaxshi. Laylo, bizga Divali haqida aytib bera olasanmi? Laylo: Ha. Divali — Hindistondagi chiroqlar bayrami. Odamlar uylarida kichik chiroqlar va shamlar yoqadi, yangi kiyim kiyadi va shirinliklar ulashadi."
+    },
+    {
+      "en": "Ms Rahimova: Excellent. And what about Thanksgiving? Laylo: It is a holiday in the USA. It is on the fourth Thursday of November. Families have a big dinner together, and they often eat turkey.",
+      "uz": "Rahimova xonim: Ajoyib. Minnatdorchilik kuni-chi? Laylo: Bu AQShdagi bayram. U noyabrning toʻrtinchi payshanbasida nishonlanadi. Oilalar katta kechki ovqatga yigʻiladi va koʻpincha kurka goʻshti yeyishadi."
+    },
+    {
+      "en": "Ms Rahimova: Great. So every country has its own holidays, but people everywhere enjoy them with their families.",
+      "uz": "Rahimova xonim: Zoʻr. Demak, har bir mamlakatning oʻz bayramlari bor, lekin hamma joyda odamlar bayramlarni oilasi bilan birga quvonib nishonlaydi."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "lunar calendar",
+      "uz": "oy taqvimi"
+    },
+    {
+      "en": "decorate",
+      "uz": "bezamoq"
+    },
+    {
+      "en": "lucky",
+      "uz": "omadli"
+    },
+    {
+      "en": "envelope",
+      "uz": "konvert"
+    },
+    {
+      "en": "festival",
+      "uz": "bayram, festival"
+    },
+    {
+      "en": "light",
+      "uz": "yoqmoq; chiroq, yorugʻlik"
+    },
+    {
+      "en": "lamp",
+      "uz": "chiroq"
+    },
+    {
+      "en": "candle",
+      "uz": "sham"
+    },
+    {
+      "en": "Thanksgiving",
+      "uz": "Minnatdorchilik kuni (AQSh bayrami)"
+    },
+    {
+      "en": "turkey",
+      "uz": "kurka"
+    },
+    {
+      "en": "own",
+      "uz": "oʻz, shaxsiy"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "e46-superlatives",
+      "title": {
+        "uz": "Orttirma daraja: the biggest"
+      },
+      "example": "It is the biggest holiday in China."
+    },
+    {
+      "topicId": "e53-and-but-so-because",
+      "title": {
+        "uz": "because — chunki"
+      },
+      "example": "They use a lot of red, because red is a lucky colour."
+    }
+  ],
+  "questions": [
+    {
+      "id": "a2-15-world-holidays-q1",
+      "type": "tfng",
+      "statement": "Chinese New Year is on the same date every year.",
+      "answer": "F",
+      "explain": {
+        "uz": "Sana har yili oʻzgaradi: «The date changes every year because it follows the lunar calendar.»"
+      },
+      "para": 0
+    },
+    {
+      "id": "a2-15-world-holidays-q2",
+      "type": "choice",
+      "prompt": "When does Chinese New Year usually come?",
+      "options": [
+        "in January or February",
+        "in March",
+        "in November"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "«It usually comes in January or February.»"
+      },
+      "para": 1
+    },
+    {
+      "id": "a2-15-world-holidays-q3",
+      "type": "choice",
+      "prompt": "Why do people in China use a lot of red?",
+      "options": [
+        "It is cheap.",
+        "It is a lucky colour.",
+        "It is the colour of winter."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«because red is a lucky colour»."
+      },
+      "para": 1
+    },
+    {
+      "id": "a2-15-world-holidays-q4",
+      "type": "gap",
+      "prompt": "Children often get money in red ___.",
+      "answers": [
+        "envelopes"
+      ],
+      "explain": {
+        "uz": "«Children often get money in red envelopes.»"
+      },
+      "para": 1
+    },
+    {
+      "id": "a2-15-world-holidays-q5",
+      "type": "tfng",
+      "statement": "Diwali is the festival of lights in India.",
+      "answer": "T",
+      "explain": {
+        "uz": "«Diwali is the festival of lights in India.»"
+      },
+      "para": 2
+    },
+    {
+      "id": "a2-15-world-holidays-q6",
+      "type": "gap",
+      "prompt": "During Diwali, people light small lamps and ___ in their homes.",
+      "answers": [
+        "candles"
+      ],
+      "explain": {
+        "uz": "«People light small lamps and candles in their homes»."
+      },
+      "para": 2
+    },
+    {
+      "id": "a2-15-world-holidays-q7",
+      "type": "tfng",
+      "statement": "Thanksgiving is in December.",
+      "answer": "F",
+      "explain": {
+        "uz": "U noyabrda: «It is on the fourth Thursday of November.»"
+      },
+      "para": 3
+    },
+    {
+      "id": "a2-15-world-holidays-q8",
+      "type": "choice",
+      "prompt": "What do American families often eat at Thanksgiving?",
+      "options": [
+        "plov",
+        "turkey",
+        "sumalak"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«Families have a big dinner together, and they often eat turkey.»"
+      },
+      "para": 3
+    }
+  ]
+}

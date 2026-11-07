@@ -1,0 +1,205 @@
+{
+  "id": "a2-28-robot-vacuum",
+  "title": {
+    "uz": "Robot-changyutgich"
+  },
+  "en": "The Robot Vacuum",
+  "level": "A2",
+  "kind": "story",
+  "tag": {
+    "uz": "Texnologiya",
+    "en": "Technology"
+  },
+  "intro": {
+    "uz": "Farruxning oilasi uyga robot-changyutgich olib keladi. Buvisi esa unga ishonmaydi. Oʻqishdan oldin: sizningcha, robotlar uy ishlarini odamlardan yaxshiroq bajara oladimi?"
+  },
+  "paragraphs": [
+    {
+      "en": "Last month, Farrukh's family in Jizzakh bought a robot vacuum cleaner. It is round and flat, and it moves around the house by itself. Farrukh's little sister Zarina called it Pishak, because it is grey like a cat.",
+      "uz": "Oʻtgan oy Jizzaxdagi Farruxning oilasi robot-changyutgich sotib oldi. U yumaloq va yassi boʻlib, uy boʻylab oʻzi harakatlanadi. Farruxning singlisi Zarina unga Pishak deb ism qoʻydi, chunki u mushukka oʻxshab kulrang."
+    },
+    {
+      "en": "At first, Grandma didn't trust the robot. \"This machine will never clean better than me,\" she said. But every morning at nine, the robot cleaned the floors while the family were at work and school. When it finished, it went back to its charger.",
+      "uz": "Avvaliga buvi robotga ishonmadi. «Bu mashina hech qachon mendan yaxshiroq tozalay olmaydi», dedi u. Lekin har kuni ertalab soat toʻqqizda, oila ishda va maktabda boʻlganida, robot pollarni tozalardi. Ishini tugatgach, quvvatlagichiga qaytib borardi."
+    },
+    {
+      "en": "There have been some problems too. One day, the robot ate one of Zarina's socks and stopped. Another time, it got stuck under the sofa for two hours. And it can't go up the stairs to the bedrooms.",
+      "uz": "Baʼzi muammolar ham boʻldi. Bir kuni robot Zarinaning paypogʻini yutib yubordi va toʻxtab qoldi. Yana bir safar u ikki soat divan tagida tiqilib qoldi. Bundan tashqari, u zinadan yotoq xonalariga chiqa olmaydi."
+    },
+    {
+      "en": "Now Grandma likes Pishak more than anyone expected. She has learned to start it with the app on her phone. \"It is quieter than the old vacuum cleaner,\" she says, \"and I have more time for my garden.\" But she still cleans the corners herself, because the robot misses them.",
+      "uz": "Endi buvi Pishakni hech kim kutmaganidan ham koʻproq yaxshi koʻradi. U telefonidagi ilova orqali uni ishga tushirishni oʻrganib oldi. «U eski changyutgichdan jimroq, — deydi u, — tomorqamga ham koʻproq vaqtim qoladi». Lekin burchaklarni hali ham oʻzi tozalaydi, chunki robot ularni tozalamay oʻtib ketadi."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "vacuum cleaner",
+      "uz": "changyutgich"
+    },
+    {
+      "en": "round",
+      "uz": "yumaloq"
+    },
+    {
+      "en": "flat",
+      "uz": "yassi"
+    },
+    {
+      "en": "by itself",
+      "uz": "oʻzi, mustaqil"
+    },
+    {
+      "en": "trust",
+      "uz": "ishonmoq"
+    },
+    {
+      "en": "charger",
+      "uz": "quvvatlagich"
+    },
+    {
+      "en": "stuck",
+      "uz": "tiqilib qolgan (get stuck — tiqilib qolmoq)"
+    },
+    {
+      "en": "stairs",
+      "uz": "zina"
+    },
+    {
+      "en": "expect",
+      "uz": "kutmoq (umid qilmoq)"
+    },
+    {
+      "en": "quiet",
+      "uz": "jim, shovqinsiz"
+    },
+    {
+      "en": "corner",
+      "uz": "burchak"
+    },
+    {
+      "en": "miss",
+      "uz": "oʻtkazib yubormoq"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "e23-will",
+      "title": {
+        "uz": "will — kelajak haqida fikr"
+      },
+      "example": "This machine will never clean better than me."
+    },
+    {
+      "topicId": "e45-comparatives",
+      "title": {
+        "uz": "Qiyosiy daraja: quieter than"
+      },
+      "example": "It is quieter than the old vacuum cleaner"
+    }
+  ],
+  "questions": [
+    {
+      "id": "a2-28-robot-vacuum-q1",
+      "type": "tfng",
+      "statement": "The robot is called Pishak because it is grey like a cat.",
+      "answer": "T",
+      "explain": {
+        "uz": "«called it Pishak, because it is grey like a cat»."
+      },
+      "para": 0
+    },
+    {
+      "id": "a2-28-robot-vacuum-q2",
+      "type": "choice",
+      "prompt": "Who gave the robot its name?",
+      "options": [
+        "Farrukh",
+        "Zarina",
+        "Grandma"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«Farrukh's little sister Zarina called it Pishak»."
+      },
+      "para": 0
+    },
+    {
+      "id": "a2-28-robot-vacuum-q3",
+      "type": "tfng",
+      "statement": "At first, Grandma liked the robot very much.",
+      "answer": "F",
+      "explain": {
+        "uz": "«At first, Grandma didn't trust the robot.»"
+      },
+      "para": 1
+    },
+    {
+      "id": "a2-28-robot-vacuum-q4",
+      "type": "gap",
+      "prompt": "Every morning at ___, the robot cleaned the floors.",
+      "answers": [
+        "nine",
+        "9"
+      ],
+      "explain": {
+        "uz": "«every morning at nine, the robot cleaned the floors»."
+      },
+      "para": 1
+    },
+    {
+      "id": "a2-28-robot-vacuum-q5",
+      "type": "choice",
+      "prompt": "Why did the robot stop one day?",
+      "options": [
+        "Its battery was empty.",
+        "It ate a sock.",
+        "Grandma switched it off."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«the robot ate one of Zarina's socks and stopped»."
+      },
+      "para": 2
+    },
+    {
+      "id": "a2-28-robot-vacuum-q6",
+      "type": "tfng",
+      "statement": "The robot can clean the bedrooms upstairs.",
+      "answer": "F",
+      "explain": {
+        "uz": "«it can't go up the stairs to the bedrooms» — yuqoridagi yotoq xonalariga chiqa olmaydi."
+      },
+      "para": 2
+    },
+    {
+      "id": "a2-28-robot-vacuum-q7",
+      "type": "choice",
+      "prompt": "What does Grandma do with her free time now?",
+      "options": [
+        "She watches TV.",
+        "She works in her garden.",
+        "She cooks plov."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«I have more time for my garden» — boʻsh vaqtini tomorqaga sarflaydi."
+      },
+      "para": 3
+    },
+    {
+      "id": "a2-28-robot-vacuum-q8",
+      "type": "choice",
+      "prompt": "Why does Grandma still clean the corners?",
+      "options": [
+        "She doesn't understand the app.",
+        "The robot misses them.",
+        "The robot is too loud."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«because the robot misses them»."
+      },
+      "para": 3
+    }
+  ]
+}

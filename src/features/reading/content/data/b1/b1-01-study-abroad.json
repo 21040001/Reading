@@ -1,0 +1,225 @@
+{
+  "id": "b1-01-study-abroad",
+  "title": {
+    "uz": "Chet elda oʻqish"
+  },
+  "en": "My First Months Abroad",
+  "level": "B1",
+  "kind": "story",
+  "tag": {
+    "uz": "Taʼlim",
+    "en": "Education"
+  },
+  "intro": {
+    "uz": "Nodira ismli talaba chet elda oʻqishning birinchi oylari haqida hikoya qiladi. Oʻqishdan oldin oʻylab koʻring: uydan uzoqda yashashning eng qiyin tomoni nima deb oʻylaysiz?"
+  },
+  "paragraphs": [
+    {
+      "en": "My name is Nodira, and when I received my letter from the university, I was so happy that I cried. I had dreamed about studying abroad since I was fifteen, and now I was going to study computer science in a small university town in England. My parents were proud of me, but my mother was also worried. She asked me who would cook for me. I laughed and told her that I would be fine."
+    },
+    {
+      "en": "The first weeks were much harder than I had expected. Although I had studied English for years, people spoke very fast, and I often could not understand jokes or local expressions. In lectures, I recorded everything on my phone and listened again in the evening. The food was another problem. Everything seemed to taste the same, and I missed my mother's plov more than I can say. I even tried to cook it myself, but without the right rice it was a disaster."
+    },
+    {
+      "en": "The hardest part, however, was homesickness. In November, the days became short and grey, and I often sat alone in my room. I called my family every evening, but after each call I felt even lonelier. One day my flatmate, a girl from Brazil, knocked on my door and invited me to a meeting of the international students' club. I did not want to go, but she would not take no for an answer."
+    },
+    {
+      "en": "That evening changed everything. I met students from more than twenty countries, and many of them were having the same problems as me. We started to cook dinner together every Friday. Each week, someone prepared a dish from their home country. When it was my turn, I made somsa, and everyone asked for the recipe. For the first time, I felt proud to share my culture instead of just missing it."
+    },
+    {
+      "en": "Now I am in my second year, and I have learned a lot, not only about computers. I have learned that it is normal to feel lost at first and that asking for help is not a weakness. If a friend asked me for advice before going abroad, I would tell them three things: practise listening, not only speaking; learn to cook a few simple dishes; and say yes to invitations, even when you would prefer to stay at home."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "receive",
+      "uz": "olmoq, qabul qilmoq"
+    },
+    {
+      "en": "abroad",
+      "uz": "chet elda, xorijda"
+    },
+    {
+      "en": "be proud of",
+      "uz": "… bilan faxrlanmoq"
+    },
+    {
+      "en": "expect",
+      "uz": "kutmoq, taxmin qilmoq"
+    },
+    {
+      "en": "local expressions",
+      "uz": "mahalliy iboralar"
+    },
+    {
+      "en": "lecture",
+      "uz": "maʼruza"
+    },
+    {
+      "en": "homesickness",
+      "uz": "uyni (vatanni) sogʻinish"
+    },
+    {
+      "en": "lonely",
+      "uz": "yolgʻiz, tanho"
+    },
+    {
+      "en": "flatmate",
+      "uz": "kvartiradosh"
+    },
+    {
+      "en": "take no for an answer",
+      "uz": "«yoʻq» javobini qabul qilmoq (koʻpincha inkorda: koʻndirmaguncha qoʻymaslik)"
+    },
+    {
+      "en": "turn",
+      "uz": "navbat"
+    },
+    {
+      "en": "recipe",
+      "uz": "retsept, tayyorlash usuli"
+    },
+    {
+      "en": "weakness",
+      "uz": "zaiflik, ojizlik"
+    },
+    {
+      "en": "invitation",
+      "uz": "taklif"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "i11-past-perfect",
+      "title": {
+        "uz": "Past Perfect: had dreamed, had expected"
+      },
+      "example": "I had dreamed about studying abroad since I was fifteen"
+    },
+    {
+      "topicId": "i26-second-conditional",
+      "title": {
+        "uz": "Ikkinchi shart gap: If a friend asked …, I would tell …"
+      },
+      "example": "If a friend asked me for advice before going abroad, I would tell them three things"
+    }
+  ],
+  "questions": [
+    {
+      "id": "b1-01-study-abroad-q1",
+      "type": "tfng",
+      "statement": "Nodira had wanted to study abroad since she was a teenager.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«I had dreamed about studying abroad since I was fifteen» — 15 yoshidan beri orzu qilgan."
+      },
+      "para": 0
+    },
+    {
+      "id": "b1-01-study-abroad-q2",
+      "type": "tfng",
+      "statement": "From the start, Nodira found it easy to understand people in England.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "Aksincha: «people spoke very fast, and I often could not understand jokes or local expressions»."
+      },
+      "para": 1
+    },
+    {
+      "id": "b1-01-study-abroad-q3",
+      "type": "tfng",
+      "statement": "Nodira's flatmate was also studying computer science.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Kvartiradoshi Braziliyadan ekani aytilgan, lekin u nima oʻqishi haqida maʼlumot yoʻq."
+      },
+      "para": 2
+    },
+    {
+      "id": "b1-01-study-abroad-q4",
+      "type": "tfng",
+      "statement": "Nodira phoned her family every evening.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«I called my family every evening» — har kuni kechqurun qoʻngʻiroq qilgan."
+      },
+      "para": 2
+    },
+    {
+      "id": "b1-01-study-abroad-q5",
+      "type": "choice",
+      "prompt": "Why did Nodira record her lectures?",
+      "options": [
+        "to send them to her family",
+        "because she could not always understand fast speech",
+        "because her teachers asked her to"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "2-xatboshi: odamlar juda tez gapirgan va u ularni har doim ham tushunmagan, shuning uchun «I recorded everything on my phone and listened again in the evening»."
+      },
+      "para": 1
+    },
+    {
+      "id": "b1-01-study-abroad-q6",
+      "type": "choice",
+      "prompt": "What does «she would not take no for an answer» mean in paragraph 3?",
+      "options": [
+        "She accepted my answer quickly.",
+        "She insisted that I should come.",
+        "She did not ask me anything."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "Nodira borishni xohlamagan, lekin kvartiradoshi «yoʻq» javobini qabul qilmagan — yaʼni qatʼiy turib olgan."
+      },
+      "para": 2
+    },
+    {
+      "id": "b1-01-study-abroad-q7",
+      "type": "heading",
+      "para": 3,
+      "options": [
+        "A dinner that went wrong",
+        "Finding people who understood",
+        "Learning to cook plov"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "4-xatboshi: Nodira «many of them were having the same problems as me» — oʻzini tushunadigan odamlarni topgan."
+      }
+    },
+    {
+      "id": "b1-01-study-abroad-q8",
+      "type": "gap",
+      "prompt": "Nodira tried to cook plov, but without the right ___ it was a disaster.",
+      "answers": [
+        "rice"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«without the right rice it was a disaster»."
+      },
+      "para": 1
+    },
+    {
+      "id": "b1-01-study-abroad-q9",
+      "type": "choice",
+      "prompt": "Which piece of advice does Nodira give?",
+      "options": [
+        "Speak as much as possible and do not worry about listening.",
+        "Practise listening and accept invitations.",
+        "Stay at home and focus only on studying."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "5-xatboshi: «practise listening, not only speaking … say yes to invitations»."
+      },
+      "para": 4
+    }
+  ]
+}

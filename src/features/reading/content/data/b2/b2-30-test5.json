@@ -1,0 +1,300 @@
+{
+  "id": "b2-30-test5",
+  "title": {
+    "uz": "5-test: Qoʻlda yozish kuchi"
+  },
+  "en": "The Power of Handwriting",
+  "level": "B2",
+  "kind": "exam",
+  "tag": {
+    "uz": "Taʼlim",
+    "en": "Education"
+  },
+  "intro": {
+    "uz": "Toʻliq mashq testi: qoʻlda yozish va klaviaturada yozishning oʻqishga taʼsiri haqidagi matn. Haqiqiy imtihondagidek bitta matnga 13 ta savol va bir nechta topshiriq turi beriladi: Matching headings, True/False/Not Given, boʻshliq toʻldirish va test savollari. Taxminan 20 daqiqa ajrating: avval matnga tez koʻz yugurtirib sarlavhalarni moslang, keyin TFNG va boʻshliqlarni bajaring, test savollarini esa oxiriga qoldiring."
+  },
+  "paragraphs": [
+    {
+      "en": "In many classrooms and lecture halls, the sound of pens on paper is being replaced by the quiet tapping of keyboards. Students take notes on laptops, teachers set assignments online, and some schools spend less time than before teaching children to write neatly. This shift raises an interesting question: does it matter whether we learn with a pen or a keyboard? For teachers and parents alike, the answer has practical consequences."
+    },
+    {
+      "en": "At first sight, the keyboard seems to win easily. Most people type considerably faster than they can write by hand, so students using laptops can record far more of what a lecturer says. Some are able to produce notes that are almost a word-for-word copy of the lecture. For anyone who fears missing an important detail, this can feel reassuring. Typed notes are also easier to read later than hurried handwriting."
+    },
+    {
+      "en": "Yet some researchers suggest that this speed may come at a price. Because writing by hand is slower, students cannot write down everything they hear. Instead, they are forced to listen, select the key points and summarise ideas in their own words. According to this view, it is precisely this extra mental effort that helps information to be understood and remembered. Not every study has reached the same conclusion, however, and the debate is far from settled."
+    },
+    {
+      "en": "A related line of research concerns young children. Some experts believe that forming letters by hand helps children to recognise them more easily, perhaps because the movement of the hand gives the brain an additional way of storing the shape of each letter. How strong this effect is, and whether it lasts into adulthood, remains a matter of discussion. Even so, many teachers of young pupils still consider handwriting practice an important part of early education."
+    },
+    {
+      "en": "In Central Asia, the value of careful writing has long been recognised. In cities such as Samarkand and Bukhara, skilled calligraphers copied manuscripts with a pen cut from reed, and their work was admired as a form of art. Beautifully written books were often decorated with fine patterns and treasured by their owners for generations. Training usually lasted many years, and students were expected to develop not only a steady hand but also patience and deep concentration. Calligraphy is still taught in Uzbekistan today, and many people see it as an important part of the national heritage."
+    },
+    {
+      "en": "None of this means that keyboards are harmful. Typed work is easy to edit, share and search, which saves a great deal of time when writing long essays or reports. For students who find handwriting physically difficult, a keyboard can make learning far more accessible. In many modern jobs, fast and accurate typing is simply an essential skill."
+    },
+    {
+      "en": "The most sensible conclusion may be that each tool suits different purposes. When the goal is to understand and remember new material, writing by hand could be worth the extra time. When the task involves long drafts, frequent changes or collaboration, a keyboard is likely to be more practical. Rather than choosing one and abandoning the other, learners may benefit most from knowing when to use each."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "assignment",
+      "uz": "topshiriq, vazifa"
+    },
+    {
+      "en": "shift",
+      "uz": "oʻzgarish, siljish"
+    },
+    {
+      "en": "considerably",
+      "uz": "ancha, sezilarli darajada"
+    },
+    {
+      "en": "reassuring",
+      "uz": "xotirjam qiladigan"
+    },
+    {
+      "en": "summarise",
+      "uz": "qisqacha bayon qilmoq"
+    },
+    {
+      "en": "settled",
+      "uz": "hal boʻlgan"
+    },
+    {
+      "en": "recognise",
+      "uz": "tanimoq, eʼtirof etmoq"
+    },
+    {
+      "en": "adulthood",
+      "uz": "kattalik davri"
+    },
+    {
+      "en": "manuscript",
+      "uz": "qoʻlyozma"
+    },
+    {
+      "en": "reed",
+      "uz": "qamish"
+    },
+    {
+      "en": "concentration",
+      "uz": "diqqatni jamlash"
+    },
+    {
+      "en": "heritage",
+      "uz": "meros"
+    },
+    {
+      "en": "accessible",
+      "uz": "qulay, foydalanish mumkin boʻlgan"
+    },
+    {
+      "en": "collaboration",
+      "uz": "hamkorlik"
+    },
+    {
+      "en": "abandon",
+      "uz": "voz kechmoq, tashlab ketmoq"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "i30-passive-tenses",
+      "title": {
+        "uz": "Majhul nisbat (Present Continuous): is being replaced"
+      },
+      "example": "the sound of pens on paper is being replaced by the quiet tapping of keyboards"
+    },
+    {
+      "topicId": "c57-cleft-sentences",
+      "title": {
+        "uz": "Taʼkidli gap: it is … that"
+      },
+      "example": "it is precisely this extra mental effort that helps information to be understood and remembered"
+    }
+  ],
+  "questions": [
+    {
+      "id": "b2-30-test5-q1",
+      "type": "heading",
+      "para": 1,
+      "options": [
+        "The advantage of speed",
+        "Why slower may be better",
+        "An art of patience",
+        "Practical strengths beyond note-taking",
+        "The end of handwriting in schools",
+        "Teaching children to type"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "Xatboshi B: klaviatura tezroq — koʻproq yozib olish mumkin."
+      }
+    },
+    {
+      "id": "b2-30-test5-q2",
+      "type": "heading",
+      "para": 2,
+      "options": [
+        "The advantage of speed",
+        "Why slower may be better",
+        "An art of patience",
+        "Practical strengths beyond note-taking",
+        "The end of handwriting in schools",
+        "Teaching children to type"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "Xatboshi C: sekin yozish tanlash va oʻz soʻzi bilan ifodalashga majbur qiladi — bu oʻrganishga yordam berishi mumkin."
+      }
+    },
+    {
+      "id": "b2-30-test5-q3",
+      "type": "heading",
+      "para": 4,
+      "options": [
+        "The advantage of speed",
+        "Why slower may be better",
+        "An art of patience",
+        "Practical strengths beyond note-taking",
+        "The end of handwriting in schools",
+        "Teaching children to type"
+      ],
+      "answer": 2,
+      "explain": {
+        "uz": "Xatboshi E: xattotlik — yillab oʻqish, sabr va diqqat talab qiladigan sanʼat."
+      }
+    },
+    {
+      "id": "b2-30-test5-q4",
+      "type": "heading",
+      "para": 5,
+      "options": [
+        "The advantage of speed",
+        "Why slower may be better",
+        "An art of patience",
+        "Practical strengths beyond note-taking",
+        "The end of handwriting in schools",
+        "Teaching children to type"
+      ],
+      "answer": 3,
+      "explain": {
+        "uz": "Xatboshi F: klaviaturaning konspektdan tashqari afzalliklari — tahrir, ulashish, qidirish, qulaylik, kasbiy koʻnikma. «The end of handwriting in schools» chalgʻitadi: A xatboshida faqat kamroq vaqt ajratilishi aytilgan."
+      }
+    },
+    {
+      "id": "b2-30-test5-q5",
+      "type": "tfng",
+      "statement": "Students who type their notes can usually record more of a lecture.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«students using laptops can record far more of what a lecturer says»."
+      },
+      "para": 1
+    },
+    {
+      "id": "b2-30-test5-q6",
+      "type": "tfng",
+      "statement": "All studies agree that taking notes by hand helps students remember more.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«Not every study has reached the same conclusion» — demak, hamma tadqiqotlar bir xil xulosaga kelmagan."
+      },
+      "para": 2
+    },
+    {
+      "id": "b2-30-test5-q7",
+      "type": "tfng",
+      "statement": "Calligraphers in the past usually trained for only a few months.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«Training usually lasted many years»."
+      },
+      "para": 4
+    },
+    {
+      "id": "b2-30-test5-q8",
+      "type": "tfng",
+      "statement": "Most universities in Uzbekistan now require exams to be written by hand.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Xattotlik oʻqitilishi aytilgan, imtihonlar haqida maʼlumot yoʻq."
+      },
+      "para": 4
+    },
+    {
+      "id": "b2-30-test5-q9",
+      "type": "tfng",
+      "statement": "A keyboard can make learning easier for students who struggle physically with handwriting.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«a keyboard can make learning far more accessible» — paraphrase."
+      },
+      "para": 5
+    },
+    {
+      "id": "b2-30-test5-q10",
+      "type": "gap",
+      "prompt": "Traditional calligraphers wrote with a pen cut from ___.",
+      "answers": [
+        "reed"
+      ],
+      "maxWords": 1,
+      "explain": {
+        "uz": "«with a pen cut from reed»."
+      },
+      "para": 4
+    },
+    {
+      "id": "b2-30-test5-q11",
+      "type": "gap",
+      "prompt": "Writing by hand forces students to ___ ideas in their own words.",
+      "answers": [
+        "summarise",
+        "summarize"
+      ],
+      "maxWords": 1,
+      "explain": {
+        "uz": "«they are forced to … summarise ideas in their own words»."
+      },
+      "para": 2
+    },
+    {
+      "id": "b2-30-test5-q12",
+      "type": "choice",
+      "prompt": "What does the writer say about the effect of handwriting on young children?",
+      "options": [
+        "It has been shown to last into adulthood.",
+        "It may help them recognise letters.",
+        "It makes them write faster than adults."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«forming letters by hand helps children to recognise them more easily» — lekin kattalikda saqlanishi hali bahsli."
+      },
+      "para": 3
+    },
+    {
+      "id": "b2-30-test5-q13",
+      "type": "choice",
+      "prompt": "What is the writer's overall opinion?",
+      "options": [
+        "Keyboards should be removed from classrooms.",
+        "Handwriting is no longer a useful skill.",
+        "Learners should choose the tool that suits the task.",
+        "Calligraphy should replace typing in schools."
+      ],
+      "answer": 2,
+      "explain": {
+        "uz": "«each tool suits different purposes … knowing when to use each»."
+      },
+      "para": 6
+    }
+  ]
+}

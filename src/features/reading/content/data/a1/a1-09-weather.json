@@ -1,0 +1,183 @@
+{
+  "id": "a1-09-weather",
+  "title": {
+    "uz": "Bugun ob-havo qanday?"
+  },
+  "en": "What's the Weather Like Today?",
+  "level": "A1",
+  "kind": "dialogue",
+  "tag": {
+    "uz": "Ob-havo",
+    "en": "Weather"
+  },
+  "intro": {
+    "uz": "Aziza Moskvada yashaydigan akasi Jamshid bilan telefonda gaplashadi. Oʻqishdan oldin: bugun sizning shahringizda ob-havo qanday?"
+  },
+  "paragraphs": [
+    {
+      "en": "Aziza: Hello, Jamshid! How are you? How is Moscow? Jamshid: Hi, Aziza! I am fine, but it is very cold here. It is minus ten degrees today, and it is snowing.",
+      "uz": "Aziza: Salom, Jamshid! Qalaysiz? Moskva qalay? Jamshid: Salom, Aziza! Yaxshiman, lekin bu yer juda sovuq. Bugun havo minus oʻn daraja, qor yogʻyapti."
+    },
+    {
+      "en": "Aziza: Here in Tashkent it is cold too, but it is sunny. It is five degrees. Jamshid: Five degrees? That is warm for me! What are you wearing?",
+      "uz": "Aziza: Bu yerda, Toshkentda ham sovuq, lekin quyoshli. Havo besh daraja. Jamshid: Besh daraja? Men uchun bu iliq-ku! Ustingda nima bor?"
+    },
+    {
+      "en": "Aziza: I am wearing a coat and a hat. Jamshid: I am wearing a warm jacket, a scarf and gloves. I never go out without my gloves in winter.",
+      "uz": "Aziza: Men palto va shapka kiyib olganman. Jamshid: Men issiq kurtka, sharf va qoʻlqop kiyib olganman. Qishda hech qachon qoʻlqopsiz koʻchaga chiqmayman."
+    },
+    {
+      "en": "Aziza: Be careful! Jamshid: Don't worry. I like the snow. Bye!",
+      "uz": "Aziza: Ehtiyot boʻling! Jamshid: Xavotir olma. Men qorni yaxshi koʻraman. Xayr!"
+    }
+  ],
+  "glossary": [
+    {
+      "en": "cold",
+      "uz": "sovuq"
+    },
+    {
+      "en": "degree",
+      "uz": "daraja"
+    },
+    {
+      "en": "minus",
+      "uz": "minus, noldan past"
+    },
+    {
+      "en": "snow",
+      "uz": "qor; qor yogʻmoq"
+    },
+    {
+      "en": "sunny",
+      "uz": "quyoshli"
+    },
+    {
+      "en": "warm",
+      "uz": "iliq; issiq"
+    },
+    {
+      "en": "wear",
+      "uz": "kiymoq, kiyib yurmoq"
+    },
+    {
+      "en": "coat",
+      "uz": "palto"
+    },
+    {
+      "en": "scarf",
+      "uz": "sharf"
+    },
+    {
+      "en": "gloves",
+      "uz": "qoʻlqop"
+    },
+    {
+      "en": "be careful",
+      "uz": "ehtiyot boʻlmoq"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "b37-talking-weather",
+      "title": {
+        "uz": "Ob-havo: it is cold, it is snowing"
+      },
+      "example": "It is minus ten degrees today, and it is snowing."
+    },
+    {
+      "topicId": "b35-wearing-now",
+      "title": {
+        "uz": "Hozir kiyib turgan narsa: I am wearing"
+      },
+      "example": "I am wearing a coat and a hat."
+    }
+  ],
+  "questions": [
+    {
+      "id": "a1-09-weather-q1",
+      "type": "tfng",
+      "statement": "Jamshid is in Moscow.",
+      "answer": "T",
+      "explain": {
+        "uz": "Aziza soʻraydi: «How is Moscow?» Jamshid: «it is very cold here»."
+      },
+      "para": 0
+    },
+    {
+      "id": "a1-09-weather-q2",
+      "type": "choice",
+      "prompt": "What is the weather like in Moscow today?",
+      "options": [
+        "sunny and warm",
+        "cold and snowing",
+        "rainy and windy"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«it is very cold here… and it is snowing»."
+      },
+      "para": 0
+    },
+    {
+      "id": "a1-09-weather-q3",
+      "type": "gap",
+      "prompt": "In Moscow, it is minus ___ degrees.",
+      "answers": [
+        "ten",
+        "10"
+      ],
+      "explain": {
+        "uz": "«It is minus ten degrees today»."
+      },
+      "para": 0
+    },
+    {
+      "id": "a1-09-weather-q4",
+      "type": "tfng",
+      "statement": "It is snowing in Tashkent.",
+      "answer": "F",
+      "explain": {
+        "uz": "Toshkentda sovuq, lekin quyoshli: «it is cold too, but it is sunny»."
+      },
+      "para": 1
+    },
+    {
+      "id": "a1-09-weather-q5",
+      "type": "choice",
+      "prompt": "What is Aziza wearing?",
+      "options": [
+        "a coat and a hat",
+        "a jacket and gloves",
+        "a scarf and a hat"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "«I am wearing a coat and a hat.» Kurtka va qoʻlqop — Jamshidda."
+      },
+      "para": 2
+    },
+    {
+      "id": "a1-09-weather-q6",
+      "type": "tfng",
+      "statement": "Jamshid sometimes goes out without his gloves in winter.",
+      "answer": "F",
+      "explain": {
+        "uz": "«I never go out without my gloves in winter.» — never = hech qachon."
+      },
+      "para": 2
+    },
+    {
+      "id": "a1-09-weather-q7",
+      "type": "gap",
+      "prompt": "Jamshid likes the ___.",
+      "answers": [
+        "snow"
+      ],
+      "explain": {
+        "uz": "«Don't worry. I like the snow.»"
+      },
+      "para": 3
+    }
+  ]
+}

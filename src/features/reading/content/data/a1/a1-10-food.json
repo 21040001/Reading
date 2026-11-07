@@ -1,0 +1,188 @@
+{
+  "id": "a1-10-food",
+  "title": {
+    "uz": "Sevimli taomim"
+  },
+  "en": "My Favourite Food",
+  "level": "A1",
+  "kind": "blog",
+  "tag": {
+    "uz": "Taomlar",
+    "en": "Food"
+  },
+  "intro": {
+    "uz": "Bu — Sardorning ovqat haqidagi blogi. Oʻqishdan oldin: sizning sevimli taomingiz qaysi?"
+  },
+  "paragraphs": [
+    {
+      "en": "Hello, everyone! Welcome to my food blog. My name is Sardor, and I am from Samarkand. Today I want to write about my favourite food. It is plov!",
+      "uz": "Hammaga salom! Ovqat haqidagi blogimga xush kelibsiz. Mening ismim Sardor, men samarqandlikman. Bugun sevimli taomim haqida yozmoqchiman. Bu — palov!"
+    },
+    {
+      "en": "We make plov with rice, meat, carrots and onions. My father always cooks it in a big kazan. There is a lot of oil in it, so it is not very healthy, but it is delicious!",
+      "uz": "Biz palovni guruch, goʻsht, sabzi va piyozdan tayyorlaymiz. Otam uni doim katta qozonda pishiradi. Unda yogʻ koʻp, shuning uchun u unchalik foydali emas, lekin juda mazali!"
+    },
+    {
+      "en": "We usually eat plov on Sundays. My mother makes a fresh salad with tomatoes and onions. We drink green tea with it. I never eat sweets after plov. I am always full!",
+      "uz": "Biz odatda yakshanba kunlari palov yeymiz. Onam pomidor va piyozdan yangi salat qiladi. Palov bilan koʻk choy ichamiz. Palovdan keyin hech qachon shirinlik yemayman. Doim toʻyib qolaman!"
+    },
+    {
+      "en": "What is your favourite food? Write in the comments!",
+      "uz": "Sizning sevimli taomingiz qaysi? Izohlarda yozing!"
+    }
+  ],
+  "glossary": [
+    {
+      "en": "favourite",
+      "uz": "sevimli"
+    },
+    {
+      "en": "rice",
+      "uz": "guruch"
+    },
+    {
+      "en": "meat",
+      "uz": "goʻsht"
+    },
+    {
+      "en": "carrot",
+      "uz": "sabzi"
+    },
+    {
+      "en": "onion",
+      "uz": "piyoz"
+    },
+    {
+      "en": "oil",
+      "uz": "yogʻ (oʻsimlik yogʻi)"
+    },
+    {
+      "en": "healthy",
+      "uz": "sogʻlom, foydali"
+    },
+    {
+      "en": "delicious",
+      "uz": "mazali"
+    },
+    {
+      "en": "fresh",
+      "uz": "yangi, toza"
+    },
+    {
+      "en": "sweets",
+      "uz": "shirinliklar"
+    },
+    {
+      "en": "full",
+      "uz": "toʻq"
+    },
+    {
+      "en": "comments",
+      "uz": "izohlar"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "b30-food-drink",
+      "title": {
+        "uz": "Taom va ichimliklar"
+      },
+      "example": "We make plov with rice, meat, carrots and onions."
+    },
+    {
+      "topicId": "b31-countable",
+      "title": {
+        "uz": "Sanalmaydigan otlar: a lot of oil"
+      },
+      "example": "There is a lot of oil in it"
+    }
+  ],
+  "questions": [
+    {
+      "id": "a1-10-food-q1",
+      "type": "tfng",
+      "statement": "Sardor is from Bukhara.",
+      "answer": "F",
+      "explain": {
+        "uz": "U Samarqanddan: «I am from Samarkand»."
+      },
+      "para": 0
+    },
+    {
+      "id": "a1-10-food-q2",
+      "type": "choice",
+      "prompt": "What is Sardor's favourite food?",
+      "options": [
+        "shashlik",
+        "plov",
+        "manti"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«my favourite food. It is plov!»"
+      },
+      "para": 0
+    },
+    {
+      "id": "a1-10-food-q3",
+      "type": "choice",
+      "prompt": "Who cooks the plov?",
+      "options": [
+        "Sardor",
+        "his mother",
+        "his father"
+      ],
+      "answer": 2,
+      "explain": {
+        "uz": "«My father always cooks it in a big kazan.»"
+      },
+      "para": 1
+    },
+    {
+      "id": "a1-10-food-q4",
+      "type": "gap",
+      "prompt": "Sardor's father cooks plov in a big ___.",
+      "answers": [
+        "kazan",
+        "qozon"
+      ],
+      "explain": {
+        "uz": "«in a big kazan» — kazan = qozon."
+      },
+      "para": 1
+    },
+    {
+      "id": "a1-10-food-q5",
+      "type": "tfng",
+      "statement": "Sardor says plov is very healthy.",
+      "answer": "F",
+      "explain": {
+        "uz": "«it is not very healthy, but it is delicious!»"
+      },
+      "para": 1
+    },
+    {
+      "id": "a1-10-food-q6",
+      "type": "gap",
+      "prompt": "The family usually eats plov on ___.",
+      "answers": [
+        "Sundays",
+        "Sunday"
+      ],
+      "explain": {
+        "uz": "«We usually eat plov on Sundays.»"
+      },
+      "para": 2
+    },
+    {
+      "id": "a1-10-food-q7",
+      "type": "tfng",
+      "statement": "The family drinks green tea with plov.",
+      "answer": "T",
+      "explain": {
+        "uz": "«We drink green tea with it.»"
+      },
+      "para": 2
+    }
+  ]
+}

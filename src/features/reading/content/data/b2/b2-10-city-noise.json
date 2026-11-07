@@ -1,0 +1,246 @@
+{
+  "id": "b2-10-city-noise",
+  "title": {
+    "uz": "Shaharlar shovqini"
+  },
+  "en": "The Noise of the City",
+  "level": "B2",
+  "kind": "exam",
+  "tag": {
+    "uz": "Shahar hayoti va sogʻliq",
+    "en": "City life and health"
+  },
+  "intro": {
+    "uz": "Topshiriq: True / False / Not Given. Ehtiyotkor soʻzlarga qarang: matnda «may», «some studies suggest», «possible» kabi soʻzlar boʻlsa, savoldagi qatʼiy daʼvo («proved», «always», «causes») koʻpincha FALSE boʻladi."
+  },
+  "paragraphs": [
+    {
+      "en": "For most people who live in cities, noise is so constant that they hardly notice it: traffic, building work, aircraft overhead, music from neighbouring flats. Yet noise is increasingly treated as a form of pollution, alongside dirty air and water, and many health organisations now regard it as a genuine environmental problem rather than a mere annoyance. Unlike smoke, however, noise leaves no visible trace, which may be one reason why it was ignored for so long."
+    },
+    {
+      "en": "One of the clearest concerns is sleep. Even when people do not wake up, loud sounds at night can disturb the quality of their sleep, and those who live near busy roads or airports often report feeling tired during the day. Over time, poor sleep may affect concentration, mood and general well-being. Children and older people may be especially sensitive to these effects."
+    },
+    {
+      "en": "Researchers have also linked long-term exposure to noise with stress. Unwanted sound can trigger the body's stress response, raising the heart rate even while a person is asleep. Some studies suggest a possible connection between constant traffic noise and heart problems, although scientists point out that other factors, such as diet and the air pollution that often accompanies traffic, make such a link difficult to prove."
+    },
+    {
+      "en": "Cities have responded in different ways. Some have created quiet zones, areas such as parks or residential streets where noisy activities are restricted, and have introduced rules limiting building work at night. In many places, residents can also report excessive noise to local authorities. Maps showing the noise levels of different streets can help planners decide where new schools and hospitals should be placed."
+    },
+    {
+      "en": "Physical solutions are also widely used. Walls along motorways reflect or absorb sound before it reaches nearby homes. Trees and bushes are often planted for the same purpose, but a narrow row of trees reduces noise less than many people imagine. Wide, dense belts of vegetation work better, and greenery can also make a place feel calmer, which may change how loud it seems."
+    },
+    {
+      "en": "Since much traffic noise comes from tyres rolling on the road, engineers have developed quieter road surfaces that contain more air spaces to absorb some of the sound. Their disadvantage is that they may wear out faster and need replacing more often. Electric vehicles are quieter at low speeds, but at higher speeds tyre noise dominates, so they alone will not solve the problem."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "constant",
+      "uz": "doimiy"
+    },
+    {
+      "en": "overhead",
+      "uz": "tepada, bosh ustida"
+    },
+    {
+      "en": "increasingly",
+      "uz": "tobora koʻproq"
+    },
+    {
+      "en": "genuine",
+      "uz": "haqiqiy, jiddiy"
+    },
+    {
+      "en": "annoyance",
+      "uz": "gʻashga tegadigan narsa"
+    },
+    {
+      "en": "disturb",
+      "uz": "buzmoq, bezovta qilmoq"
+    },
+    {
+      "en": "well-being",
+      "uz": "farovonlik, umumiy holat"
+    },
+    {
+      "en": "exposure",
+      "uz": "taʼsirida boʻlish"
+    },
+    {
+      "en": "trigger",
+      "uz": "qoʻzgʻatmoq"
+    },
+    {
+      "en": "accompany",
+      "uz": "hamroh boʻlmoq, birga kelmoq"
+    },
+    {
+      "en": "restrict",
+      "uz": "cheklamoq"
+    },
+    {
+      "en": "reflect",
+      "uz": "qaytarmoq (aks ettirmoq)"
+    },
+    {
+      "en": "dense",
+      "uz": "zich, qalin"
+    },
+    {
+      "en": "wear out",
+      "uz": "yeyilmoq, eskirmoq"
+    },
+    {
+      "en": "dominate",
+      "uz": "ustun boʻlmoq"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "c44-adjective-patterns",
+      "title": {
+        "uz": "Sifat + to-infinitive: difficult to prove"
+      },
+      "example": "make such a link difficult to prove"
+    },
+    {
+      "topicId": "i56-ing-ed-clauses",
+      "title": {
+        "uz": "-ing qoʻshimchali ibora: showing …"
+      },
+      "example": "Maps showing the noise levels of different streets"
+    }
+  ],
+  "questions": [
+    {
+      "id": "b2-10-city-noise-q1",
+      "type": "tfng",
+      "statement": "Many city residents are barely aware of the noise around them.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«noise is so constant that they hardly notice it» — barely aware = hardly notice, deyarli sezmaydi."
+      },
+      "para": 0
+    },
+    {
+      "id": "b2-10-city-noise-q2",
+      "type": "tfng",
+      "statement": "Noise is now regarded as a more serious problem than air pollution.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "«alongside dirty air and water» — yonma-yon, teng qatorda; qaysi biri jiddiyroq ekani taqqoslanmagan."
+      },
+      "para": 0
+    },
+    {
+      "id": "b2-10-city-noise-q3",
+      "type": "tfng",
+      "statement": "Noise at night only harms sleep if it actually wakes people up.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«Even when people do not wake up, loud sounds at night can disturb the quality of their sleep»."
+      },
+      "para": 1
+    },
+    {
+      "id": "b2-10-city-noise-q4",
+      "type": "tfng",
+      "statement": "Scientists have proved that traffic noise causes heart disease.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«Some studies suggest a possible connection … make such a link difficult to prove» — isbotlanmagan."
+      },
+      "para": 2
+    },
+    {
+      "id": "b2-10-city-noise-q5",
+      "type": "tfng",
+      "statement": "Quiet zones were first introduced in European cities.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Quiet zones tasvirlangan, lekin qayerda birinchi paydo boʻlgani aytilmagan."
+      },
+      "para": 3
+    },
+    {
+      "id": "b2-10-city-noise-q6",
+      "type": "tfng",
+      "statement": "Noise maps can be helpful when choosing locations for new hospitals.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«Maps showing the noise levels … can help planners decide where new schools and hospitals should be placed»."
+      },
+      "para": 3
+    },
+    {
+      "id": "b2-10-city-noise-q7",
+      "type": "tfng",
+      "statement": "A single narrow line of trees is a very effective barrier against noise.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«a narrow row of trees reduces noise less than many people imagine»."
+      },
+      "para": 4
+    },
+    {
+      "id": "b2-10-city-noise-q8",
+      "type": "tfng",
+      "statement": "Most cities have already replaced their ordinary roads with quieter surfaces.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Muhandislar jim yoʻl qoplamalarini ishlab chiqqani va ularning kamchiligi aytilgan, lekin qancha shahar ulardan foydalanishi haqida maʼlumot yoʻq."
+      },
+      "para": 5
+    },
+    {
+      "id": "b2-10-city-noise-q9",
+      "type": "gap",
+      "prompt": "Unwanted sound can activate the body's ___, even during sleep.",
+      "answers": [
+        "stress response"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«trigger the body's stress response, raising the heart rate even while a person is asleep»."
+      },
+      "para": 2
+    },
+    {
+      "id": "b2-10-city-noise-q10",
+      "type": "gap",
+      "prompt": "Quieter road surfaces contain more ___ that absorb some of the sound.",
+      "answers": [
+        "air spaces"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«quieter road surfaces that contain more air spaces to absorb some of the sound»."
+      },
+      "para": 5
+    },
+    {
+      "id": "b2-10-city-noise-q11",
+      "type": "choice",
+      "prompt": "Why will electric vehicles alone not solve the problem of traffic noise?",
+      "options": [
+        "They are louder than ordinary cars at low speeds.",
+        "At higher speeds, most noise comes from the tyres.",
+        "They wear out road surfaces faster.",
+        "There are too few of them in cities."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«at higher speeds tyre noise dominates». Past tezlikda ular aksincha jimroq; yoʻlni tez yeyish jim yoʻl qoplamalariga tegishli; soni haqida gap yoʻq."
+      },
+      "para": 5
+    }
+  ]
+}

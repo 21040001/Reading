@@ -1,0 +1,180 @@
+{
+  "id": "a1-06-morning",
+  "title": {
+    "uz": "Mening kunim"
+  },
+  "en": "My Day",
+  "level": "A1",
+  "kind": "story",
+  "tag": {
+    "uz": "Kundalik hayot",
+    "en": "Daily life"
+  },
+  "intro": {
+    "uz": "Bekzod oddiy bir kunini tasvirlaydi. Oʻqishdan oldin oʻylab koʻring: siz ertalab soat nechada turasiz?"
+  },
+  "paragraphs": [
+    {
+      "en": "My name is Bekzod. I live in Fergana. On weekdays, I get up at half past six. I wash my face and get dressed. Then I have breakfast with my family. We usually eat bread and eggs and drink green tea.",
+      "uz": "Mening ismim Bekzod. Men Fargʻonada yashayman. Ish kunlari soat olti yarimda turaman. Yuzimni yuvaman va kiyinaman. Keyin oilam bilan nonushta qilaman. Biz odatda non va tuxum yeymiz, koʻk choy ichamiz."
+    },
+    {
+      "en": "School starts at eight o'clock. I go to school by bus. It takes twenty minutes. I have six lessons every day. I never sleep in class!",
+      "uz": "Maktab soat sakkizda boshlanadi. Men maktabga avtobusda boraman. Yoʻlga yigirma daqiqa ketadi. Har kuni oltita darsim bor. Men darsda hech qachon uxlamayman!"
+    },
+    {
+      "en": "I come home at two. After lunch, I do my homework. In the evening, I sometimes help my father in the garden. We have dinner at seven. I go to bed at ten.",
+      "uz": "Uyga soat ikkida kelaman. Tushlikdan keyin uy vazifamni bajaraman. Kechqurun baʼzan otamga bogʻda yordam beraman. Soat yettida kechki ovqat yeymiz. Soat oʻnda uxlashga yotaman."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "get up",
+      "uz": "oʻrnidan turmoq"
+    },
+    {
+      "en": "wash",
+      "uz": "yuvmoq"
+    },
+    {
+      "en": "get dressed",
+      "uz": "kiyinmoq"
+    },
+    {
+      "en": "breakfast",
+      "uz": "nonushta"
+    },
+    {
+      "en": "usually",
+      "uz": "odatda"
+    },
+    {
+      "en": "lesson",
+      "uz": "dars"
+    },
+    {
+      "en": "never",
+      "uz": "hech qachon"
+    },
+    {
+      "en": "homework",
+      "uz": "uy vazifasi"
+    },
+    {
+      "en": "sometimes",
+      "uz": "baʼzan"
+    },
+    {
+      "en": "garden",
+      "uz": "bogʻ, tomorqa"
+    },
+    {
+      "en": "go to bed",
+      "uz": "uxlashga yotmoq"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "b19-my-day",
+      "title": {
+        "uz": "Present Simple: kundalik ishlar"
+      },
+      "example": "I get up at half past six."
+    },
+    {
+      "topicId": "b24-frequency",
+      "title": {
+        "uz": "usually, sometimes, never"
+      },
+      "example": "We usually eat bread and eggs"
+    }
+  ],
+  "questions": [
+    {
+      "id": "a1-06-morning-q1",
+      "type": "tfng",
+      "statement": "Bekzod lives in Tashkent.",
+      "answer": "F",
+      "explain": {
+        "uz": "U Fargʻonada yashaydi: «I live in Fergana.»"
+      },
+      "para": 0
+    },
+    {
+      "id": "a1-06-morning-q2",
+      "type": "choice",
+      "prompt": "What time does Bekzod get up on weekdays?",
+      "options": [
+        "at six",
+        "at half past six",
+        "at seven"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«On weekdays, I get up at half past six.» — half past six = olti yarim (6:30)."
+      },
+      "para": 0
+    },
+    {
+      "id": "a1-06-morning-q3",
+      "type": "tfng",
+      "statement": "Bekzod drinks green tea at breakfast.",
+      "answer": "T",
+      "explain": {
+        "uz": "Nonushtada: «We usually eat bread and eggs and drink green tea.»"
+      },
+      "para": 0
+    },
+    {
+      "id": "a1-06-morning-q4",
+      "type": "choice",
+      "prompt": "How does Bekzod go to school?",
+      "options": [
+        "on foot",
+        "by car",
+        "by bus"
+      ],
+      "answer": 2,
+      "explain": {
+        "uz": "«I go to school by bus.»"
+      },
+      "para": 1
+    },
+    {
+      "id": "a1-06-morning-q5",
+      "type": "gap",
+      "prompt": "School starts at ___ o'clock.",
+      "answers": [
+        "eight",
+        "8"
+      ],
+      "explain": {
+        "uz": "Maktab soat sakkizda boshlanadi: «School starts at eight»."
+      },
+      "para": 1
+    },
+    {
+      "id": "a1-06-morning-q6",
+      "type": "tfng",
+      "statement": "Bekzod does his homework before lunch.",
+      "answer": "F",
+      "explain": {
+        "uz": "Tushlikdan keyin: «After lunch, I do my homework.»"
+      },
+      "para": 2
+    },
+    {
+      "id": "a1-06-morning-q7",
+      "type": "gap",
+      "prompt": "Bekzod goes to bed at ___.",
+      "answers": [
+        "ten",
+        "10"
+      ],
+      "explain": {
+        "uz": "«I go to bed at ten.» Soat yettida esa kechki ovqat yeyishadi."
+      },
+      "para": 2
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "id": "b1-21-formal-letter",
+  "title": {
+    "uz": "Rasmiy xat"
+  },
+  "en": "A Letter of Complaint",
+  "level": "B1",
+  "kind": "email",
+  "tag": {
+    "uz": "Ish dunyosi",
+    "en": "The world of work"
+  },
+  "intro": {
+    "uz": "Bu — internet-doʻkonga yozilgan rasmiy shikoyat xati. Oʻqishdan oldin oʻylab koʻring: buyurtmangiz kechiksa, nima qilasiz?"
+  },
+  "paragraphs": [
+    {
+      "en": "Dear Sir or Madam, I am writing to complain about order number 40215, which I placed on your website on 3 September. I ordered a wooden desk and a chair for my son, who has just started secondary school. When I paid for the order, the website said that it would be delivered within five working days."
+    },
+    {
+      "en": "Unfortunately, the delivery did not arrive on time. I have contacted your customer service twice by phone. The first time, I was told that the desk was still in the warehouse and would be sent the next day. The second time, nobody could tell me where my order was. I waited at home for two whole days, but no one came."
+    },
+    {
+      "en": "The desk finally arrived on 21 September, almost three weeks after I had placed the order. However, when I opened the box, I found that one of the legs was broken, and the chair was missing. As a result, my son has had to do his homework at the kitchen table for almost a month."
+    },
+    {
+      "en": "I have been a customer of your shop for three years, and until now I have always been satisfied with your service. That is why this experience has been so disappointing. I understand that delays can happen, but I would have expected someone to inform me about the problem."
+    },
+    {
+      "en": "I would therefore be grateful if you could replace the broken desk and send the missing chair as soon as possible. I would also like a partial refund of the delivery fee, as the service was clearly not what I had paid for. I have attached photos of the damaged desk and a copy of my receipt."
+    },
+    {
+      "en": "I look forward to hearing from you within seven days. If I do not receive a reply, I will have to take further action. Yours faithfully, Nodira Karimova"
+    }
+  ],
+  "glossary": [
+    {
+      "en": "complain about",
+      "uz": "… dan shikoyat qilmoq"
+    },
+    {
+      "en": "place an order",
+      "uz": "buyurtma bermoq"
+    },
+    {
+      "en": "deliver",
+      "uz": "yetkazib bermoq"
+    },
+    {
+      "en": "working days",
+      "uz": "ish kunlari"
+    },
+    {
+      "en": "unfortunately",
+      "uz": "afsuski"
+    },
+    {
+      "en": "warehouse",
+      "uz": "ombor"
+    },
+    {
+      "en": "missing",
+      "uz": "yetishmayotgan, yoʻq"
+    },
+    {
+      "en": "satisfied",
+      "uz": "mamnun, qoniqqan"
+    },
+    {
+      "en": "disappointing",
+      "uz": "hafsalani pir qiladigan, koʻngilni qoldiradigan"
+    },
+    {
+      "en": "inform",
+      "uz": "xabardor qilmoq"
+    },
+    {
+      "en": "replace",
+      "uz": "almashtirib bermoq"
+    },
+    {
+      "en": "refund",
+      "uz": "pulni qaytarish"
+    },
+    {
+      "en": "receipt",
+      "uz": "chek, kvitansiya"
+    },
+    {
+      "en": "look forward to",
+      "uz": "… ni intiqlik bilan kutmoq"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "i33-reported-speech",
+      "title": {
+        "uz": "Oʻzlashtirma gap: said that it would …"
+      },
+      "example": "the website said that it would be delivered within five working days"
+    },
+    {
+      "topicId": "i05-present-perfect",
+      "title": {
+        "uz": "Present Perfect: I have contacted …"
+      },
+      "example": "I have contacted your customer service twice by phone."
+    }
+  ],
+  "questions": [
+    {
+      "id": "b1-21-formal-letter-q1",
+      "type": "tfng",
+      "statement": "The writer placed the order by phone.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "Buyurtma saytda berilgan: «an order that I placed on your website». Telefon orqali faqat mijozlar xizmatiga qoʻngʻiroq qilgan."
+      },
+      "para": 0
+    },
+    {
+      "id": "b1-21-formal-letter-q2",
+      "type": "tfng",
+      "statement": "The writer contacted customer service more than once.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«I have contacted your customer service twice by phone» — ikki marta."
+      },
+      "para": 1
+    },
+    {
+      "id": "b1-21-formal-letter-q3",
+      "type": "tfng",
+      "statement": "The delivery driver apologised when the desk arrived.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Haydovchi uzr soʻragani yoki soʻramagani haqida matnda hech narsa yoʻq."
+      },
+      "para": 2
+    },
+    {
+      "id": "b1-21-formal-letter-q4",
+      "type": "tfng",
+      "statement": "The writer has bought things from this shop before.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«I have been a customer of your shop for three years» — uch yildan beri xaridor."
+      },
+      "para": 3
+    },
+    {
+      "id": "b1-21-formal-letter-q5",
+      "type": "choice",
+      "prompt": "What is the main purpose of the letter?",
+      "options": [
+        "to order some new furniture",
+        "to complain and ask the company to solve the problem",
+        "to thank the company for its service"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "Xat «I am writing to complain» bilan boshlanadi va 5-xatboshida aniq talablar bor: almashtirish, stulni yuborish, pulni qaytarish."
+      },
+      "para": 0
+    },
+    {
+      "id": "b1-21-formal-letter-q6",
+      "type": "choice",
+      "prompt": "What does the writer say about delays?",
+      "options": [
+        "They are never acceptable.",
+        "They can happen, but the company should have told her.",
+        "They are always the fault of the driver."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«I understand that delays can happen, but I would have expected someone to inform me» — kechikish boʻlishi mumkin, lekin xabar berish kerak edi."
+      },
+      "para": 3
+    },
+    {
+      "id": "b1-21-formal-letter-q7",
+      "type": "choice",
+      "prompt": "In paragraph 5, a «partial refund» means getting …",
+      "options": [
+        "all of the money back",
+        "some of the money back",
+        "a new order for free"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«partial» — qisman. Muallif faqat yetkazib berish haqining bir qismini qaytarishni soʻraydi: «a partial refund of the delivery fee»."
+      },
+      "para": 4
+    },
+    {
+      "id": "b1-21-formal-letter-q8",
+      "type": "gap",
+      "prompt": "The writer has attached photos of the damaged desk and a copy of her ___.",
+      "answers": [
+        "receipt"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«a copy of my receipt» — chekning nusxasi."
+      },
+      "para": 4
+    },
+    {
+      "id": "b1-21-formal-letter-q9",
+      "type": "gap",
+      "prompt": "The writer expects a reply within ___.",
+      "answers": [
+        "seven days",
+        "7 days"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«I look forward to hearing from you within seven days.»"
+      },
+      "para": 5
+    }
+  ]
+}

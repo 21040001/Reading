@@ -1,0 +1,227 @@
+{
+  "id": "b1-30-screen-time",
+  "title": {
+    "uz": "Ekran vaqti"
+  },
+  "en": "Screen Time",
+  "level": "B1",
+  "kind": "dialogue",
+  "tag": {
+    "uz": "Raqamli hayot",
+    "en": "Digital life"
+  },
+  "intro": {
+    "uz": "Bu suhbatda bir oila telefon va ekranlardan foydalanish qoidalarini muhokama qiladi. Oʻqishdan oldin oʻylab koʻring: sizning uyingizda telefon uchun qoidalar bormi?"
+  },
+  "paragraphs": [
+    {
+      "en": "Gulnora: Aziz, it is almost midnight and I can still see light under your door. Have you been on your phone all evening? Aziz: Not all evening, Mum. I finished my homework first, and then I was just watching a few videos. Everyone in my class does it."
+    },
+    {
+      "en": "Gulnora: That is exactly what worries me. You were very tired this morning, and your teacher told me that you had fallen asleep in class last week. Doctors say that using a bright screen late at night can make it harder to fall asleep. Aziz: But I need my phone. We talk about homework in our class group, and I use it to learn English too."
+    },
+    {
+      "en": "Akmal: You are both right, in a way. Screens are not bad in themselves. Aziz learns a lot online, and I use a computer for work all day. The problem starts when we cannot stop. Gulnora: And it is not only about sleep. Have you noticed that he cannot read a book for ten minutes without checking his messages? Many teachers say that constant notifications make it difficult to concentrate."
+    },
+    {
+      "en": "Aziz: But Dad checks his phone at dinner all the time! Akmal: That is true, and I am not proud of it. So perhaps we need rules for the whole family, not only for you. If we all agreed on some rules, it would be fairer. What do you think?"
+    },
+    {
+      "en": "Gulnora: All right. First, no phones at the dinner table, for anyone. Second, all phones stay in the kitchen after ten o'clock at night. Aziz: And on Saturdays, can I play games for longer if I have finished my homework? Akmal: Yes, as long as you also spend some time outside. We could go cycling together on Sunday mornings."
+    },
+    {
+      "en": "Aziz: Fine. But if Dad breaks a rule, he has to wash the dishes for a week. Gulnora: Agreed! Let's try it for a month and then talk again about what works and what does not."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "almost",
+      "uz": "deyarli"
+    },
+    {
+      "en": "worry",
+      "uz": "xavotirga solmoq, tashvishlantirmoq"
+    },
+    {
+      "en": "fall asleep",
+      "uz": "uxlab qolmoq"
+    },
+    {
+      "en": "bright",
+      "uz": "yorqin"
+    },
+    {
+      "en": "in a way",
+      "uz": "maʼlum maʼnoda"
+    },
+    {
+      "en": "in themselves",
+      "uz": "oʻz-oʻzidan, aslida"
+    },
+    {
+      "en": "constant",
+      "uz": "doimiy, toʻxtovsiz"
+    },
+    {
+      "en": "notification",
+      "uz": "bildirishnoma"
+    },
+    {
+      "en": "concentrate",
+      "uz": "diqqatni jamlamoq"
+    },
+    {
+      "en": "be proud of",
+      "uz": "… bilan faxrlanmoq"
+    },
+    {
+      "en": "agree on",
+      "uz": "… ga kelishmoq"
+    },
+    {
+      "en": "fair",
+      "uz": "adolatli"
+    },
+    {
+      "en": "as long as",
+      "uz": "… sharti bilan, faqat … boʻlsa"
+    },
+    {
+      "en": "break a rule",
+      "uz": "qoidani buzmoq"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "i26-second-conditional",
+      "title": {
+        "uz": "Ikkinchi shart gap: If we agreed…, it would be…"
+      },
+      "example": "If we all agreed on some rules, it would be fairer."
+    },
+    {
+      "topicId": "i62-unless-as-long-as",
+      "title": {
+        "uz": "as long as — shart bilan"
+      },
+      "example": "as long as you also spend some time outside"
+    }
+  ],
+  "questions": [
+    {
+      "id": "b1-30-screen-time-q1",
+      "type": "tfng",
+      "statement": "Aziz did his homework before he started watching videos.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«I finished my homework first, and then I was just watching a few videos»."
+      },
+      "para": 0
+    },
+    {
+      "id": "b1-30-screen-time-q2",
+      "type": "tfng",
+      "statement": "Aziz has never fallen asleep at school.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "Oʻqituvchi aytgan: «you had fallen asleep in class last week»."
+      },
+      "para": 1
+    },
+    {
+      "id": "b1-30-screen-time-q3",
+      "type": "tfng",
+      "statement": "Akmal thinks that screens are bad in themselves.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "Akmal aksini aytadi: «Screens are not bad in themselves»."
+      },
+      "para": 2
+    },
+    {
+      "id": "b1-30-screen-time-q4",
+      "type": "tfng",
+      "statement": "Aziz has his own laptop.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Aziz telefon ishlatishi aytilgan; uning shaxsiy noutbuki bor-yoʻqligi haqida maʼlumot yoʻq."
+      },
+      "para": 2
+    },
+    {
+      "id": "b1-30-screen-time-q5",
+      "type": "choice",
+      "prompt": "Which sentence best describes Akmal's opinion about screens?",
+      "options": [
+        "Screens should not be used at home at all.",
+        "Screens are useful, but the problem is when we cannot stop using them.",
+        "Teenagers need more time on their phones."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«Screens are not bad in themselves… The problem starts when we cannot stop»."
+      },
+      "para": 2
+    },
+    {
+      "id": "b1-30-screen-time-q6",
+      "type": "choice",
+      "prompt": "Why does Akmal suggest rules for the whole family?",
+      "options": [
+        "because Aziz asked for them",
+        "because he also uses his phone too much at dinner",
+        "because the school told him to"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "Aziz: «Dad checks his phone at dinner all the time!» Akmal: «That is true… So perhaps we need rules for the whole family»."
+      },
+      "para": 3
+    },
+    {
+      "id": "b1-30-screen-time-q7",
+      "type": "choice",
+      "prompt": "What will happen if Aziz's father breaks a rule?",
+      "options": [
+        "He will lose his phone for a week.",
+        "He will wash the dishes for a week.",
+        "He will cook dinner on Sunday."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«if Dad breaks a rule, he has to wash the dishes for a week»."
+      },
+      "para": 5
+    },
+    {
+      "id": "b1-30-screen-time-q8",
+      "type": "gap",
+      "prompt": "After ten o'clock at night, all phones stay in the ___.",
+      "answers": [
+        "kitchen"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«all phones stay in the kitchen after ten o'clock at night»."
+      },
+      "para": 4
+    },
+    {
+      "id": "b1-30-screen-time-q9",
+      "type": "gap",
+      "prompt": "Aziz can play games for longer on Saturdays as long as he also spends some time ___.",
+      "answers": [
+        "outside"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«as long as you also spend some time outside»."
+      },
+      "para": 4
+    }
+  ]
+}

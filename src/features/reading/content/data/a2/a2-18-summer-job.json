@@ -1,0 +1,206 @@
+{
+  "id": "a2-18-summer-job",
+  "title": {
+    "uz": "Yozgi ish"
+  },
+  "en": "A Summer Job at the Bakery",
+  "level": "A2",
+  "kind": "story",
+  "tag": {
+    "uz": "Ish va oʻqish",
+    "en": "Work and study"
+  },
+  "intro": {
+    "uz": "Sardor yozda novvoyxonada ishlaydi. Oʻqishdan oldin: siz yozgi taʼtilda ishlab koʻrganmisiz?"
+  },
+  "paragraphs": [
+    {
+      "en": "Last summer, Sardor was seventeen. He wanted to buy a new laptop, but his parents couldn't give him the money. So he decided to find a summer job.",
+      "uz": "Oʻtgan yozda Sardor oʻn yetti yoshda edi. U yangi noutbuk sotib olmoqchi edi, lekin ota-onasi unga pul bera olmadi. Shuning uchun u yozgi ish topishga qaror qildi."
+    },
+    {
+      "en": "His neighbour, Mr Hamidov, has a small bakery in Bukhara. He needed a helper, and Sardor got the job. He had to start work at five o'clock in the morning, because people buy fresh bread very early.",
+      "uz": "Qoʻshnisi Hamidovning Buxoroda kichik novvoyxonasi bor. Unga yordamchi kerak edi va Sardor shu ishga kirdi. U ishni ertalab soat beshda boshlashi kerak edi, chunki odamlar yangi nonni juda erta sotib olishadi."
+    },
+    {
+      "en": "The first week was difficult. Sardor was always tired, and once he burned forty loaves of bread! Mr Hamidov wasn't angry. He just laughed and said, \"Be more careful next time.\"",
+      "uz": "Birinchi hafta qiyin boʻldi. Sardor doim charchagan edi, bir safar esa qirqta nonni kuydirib qoʻydi! Hamidovning jahli chiqmadi. U shunchaki kuldi va: «Keyingi safar ehtiyotkorroq boʻl», — dedi."
+    },
+    {
+      "en": "Slowly, Sardor learned a lot. He could make dough, use the big oven and talk to customers. By the end of August, he had enough money for his laptop.",
+      "uz": "Asta-sekin Sardor koʻp narsani oʻrgandi. U xamir qora olar, katta tandirdan foydalana olar va xaridorlar bilan gaplasha olardi. Avgust oxiriga kelib, noutbuk uchun yetarli pulga ega boʻldi."
+    },
+    {
+      "en": "Now Sardor is back at school, but he still visits the bakery on Sundays. He says that the job taught him two things: to get up early and to work hard. Next summer, he is going to work there again.",
+      "uz": "Hozir Sardor yana maktabda oʻqiyapti, lekin yakshanba kunlari hamon novvoyxonaga boradi. Uning aytishicha, bu ish unga ikki narsani oʻrgatdi: erta turishni va qattiq mehnat qilishni. Kelasi yozda u yana oʻsha yerda ishlamoqchi."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "decide",
+      "uz": "qaror qilmoq"
+    },
+    {
+      "en": "neighbour",
+      "uz": "qoʻshni"
+    },
+    {
+      "en": "bakery",
+      "uz": "novvoyxona"
+    },
+    {
+      "en": "helper",
+      "uz": "yordamchi"
+    },
+    {
+      "en": "fresh",
+      "uz": "yangi, yangi uzilgan/pishgan"
+    },
+    {
+      "en": "tired",
+      "uz": "charchagan"
+    },
+    {
+      "en": "burn",
+      "uz": "kuydirmoq"
+    },
+    {
+      "en": "loaf / loaves",
+      "uz": "bir dona non / nonlar"
+    },
+    {
+      "en": "careful",
+      "uz": "ehtiyotkor"
+    },
+    {
+      "en": "dough",
+      "uz": "xamir"
+    },
+    {
+      "en": "oven",
+      "uz": "tandir, pech"
+    },
+    {
+      "en": "customer",
+      "uz": "xaridor, mijoz"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "e28-have-to",
+      "title": {
+        "uz": "had to — oʻtgan zamonda majburiyat"
+      },
+      "example": "He had to start work at five o'clock in the morning"
+    },
+    {
+      "topicId": "e22-going-to",
+      "title": {
+        "uz": "going to — reja"
+      },
+      "example": "he is going to work there again"
+    }
+  ],
+  "questions": [
+    {
+      "id": "a2-18-summer-job-q1",
+      "type": "choice",
+      "prompt": "Why did Sardor look for a summer job?",
+      "options": [
+        "He wanted to buy a laptop.",
+        "He wanted to leave school.",
+        "His teacher asked him to."
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "«He wanted to buy a new laptop, but his parents couldn't give him the money.»"
+      },
+      "para": 0
+    },
+    {
+      "id": "a2-18-summer-job-q2",
+      "type": "tfng",
+      "statement": "Sardor started work very early in the morning.",
+      "answer": "T",
+      "explain": {
+        "uz": "«He had to start work at five o'clock in the morning»."
+      },
+      "para": 1
+    },
+    {
+      "id": "a2-18-summer-job-q3",
+      "type": "choice",
+      "prompt": "Why did Sardor have to start work so early?",
+      "options": [
+        "because it is very hot in the afternoon",
+        "because people buy fresh bread very early",
+        "because he had lessons later"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«because people buy fresh bread very early»."
+      },
+      "para": 1
+    },
+    {
+      "id": "a2-18-summer-job-q4",
+      "type": "gap",
+      "prompt": "Once Sardor burned ___ loaves of bread.",
+      "answers": [
+        "forty",
+        "40"
+      ],
+      "explain": {
+        "uz": "«once he burned forty loaves of bread!»"
+      },
+      "para": 2
+    },
+    {
+      "id": "a2-18-summer-job-q5",
+      "type": "tfng",
+      "statement": "Mr Hamidov was angry about the burned bread.",
+      "answer": "F",
+      "explain": {
+        "uz": "«Mr Hamidov wasn't angry. He just laughed»."
+      },
+      "para": 2
+    },
+    {
+      "id": "a2-18-summer-job-q6",
+      "type": "tfng",
+      "statement": "Sardor earned enough money for the laptop.",
+      "answer": "T",
+      "explain": {
+        "uz": "«By the end of August, he had enough money for his laptop.»"
+      },
+      "para": 3
+    },
+    {
+      "id": "a2-18-summer-job-q7",
+      "type": "gap",
+      "prompt": "Now Sardor visits the bakery on ___.",
+      "answers": [
+        "Sundays"
+      ],
+      "explain": {
+        "uz": "«he still visits the bakery on Sundays»."
+      },
+      "para": 4
+    },
+    {
+      "id": "a2-18-summer-job-q8",
+      "type": "choice",
+      "prompt": "What is Sardor going to do next summer?",
+      "options": [
+        "travel to Tashkent",
+        "work at the bakery again",
+        "open his own bakery"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«Next summer, he is going to work there again.»"
+      },
+      "para": 4
+    }
+  ]
+}

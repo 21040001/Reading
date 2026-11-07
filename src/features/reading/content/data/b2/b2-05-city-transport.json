@@ -1,0 +1,254 @@
+{
+  "id": "b2-05-city-transport",
+  "title": {
+    "uz": "Shahar transporti"
+  },
+  "en": "Moving the City",
+  "level": "B2",
+  "kind": "exam",
+  "tag": {
+    "uz": "Shahar hayoti",
+    "en": "City life"
+  },
+  "intro": {
+    "uz": "Topshiriq: aralash — Matching headings, True / False / Not Given va qisqa javobli savollar. Haqiqiy imtihonda bitta matnga bir necha xil topshiriq beriladi. Maslahat: avval sarlavhalarni moslang — bu butun matn tuzilishini tushunishga yordam beradi va keyingi savollarda kerakli xatboshini tezroq topasiz."
+  },
+  "paragraphs": [
+    {
+      "en": "Anyone who has sat in a traffic jam knows that big cities have a transport problem. As urban populations grow and more families buy cars, roads that once seemed wide enough become crowded for much of the day. The result is not only lost time but also noise, air pollution and stress. City authorities around the world are therefore looking for ways to move more people while putting fewer vehicles on the streets."
+    },
+    {
+      "en": "For many large cities, the backbone of the solution is an underground railway. A metro can carry enormous numbers of passengers quickly, and because it runs beneath the streets, it is not affected by the traffic above. The drawback is cost: building tunnels and stations is extremely expensive and can take many years, which is why new lines are often planned decades in advance."
+    },
+    {
+      "en": "Buses are cheaper and more flexible, since routes can be changed without major construction. However, a bus stuck in traffic is no faster than a car. To deal with this, some cities have introduced dedicated bus lanes, and a few have built rapid bus systems in which buses run on separate roads and passengers pay before boarding, so that the service works rather like a metro above ground."
+    },
+    {
+      "en": "Cycling is also receiving more attention. In several European cities, a large share of daily journeys is made by bicycle, largely because safe, separated cycle paths have been built over many years. Planners have learned that painting a line on a busy road is not enough: people will only cycle in large numbers if they feel protected from cars. Bike-sharing schemes, which allow users to rent a bicycle for a short trip, have spread to many countries."
+    },
+    {
+      "en": "A more controversial approach is to make driving itself more expensive. A number of cities, including London, Stockholm and Singapore, charge drivers a fee for entering busy central areas or using the most crowded roads at certain times. Supporters point out that such congestion charges reduce traffic and raise money that can be spent on public transport. Critics argue that they are unfair to people on low incomes who have no real alternative to driving."
+    },
+    {
+      "en": "Tashkent offers an interesting example of a city adapting to rapid growth. Its metro, which opened in 1977, was the first in Central Asia, and its stations are famous for their richly decorated halls. In recent years the network has been expanded considerably, including a new line that runs above ground around parts of the city, and many old buses have been replaced with newer ones. As in other growing cities, the challenge is to make public transport attractive enough that residents choose it over their cars."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "traffic jam",
+      "uz": "tirbandlik"
+    },
+    {
+      "en": "urban",
+      "uz": "shahar(ga oid)"
+    },
+    {
+      "en": "pollution",
+      "uz": "ifloslanish"
+    },
+    {
+      "en": "authorities",
+      "uz": "hokimiyat, mutasaddi idoralar"
+    },
+    {
+      "en": "backbone",
+      "uz": "asos, tayanch"
+    },
+    {
+      "en": "drawback",
+      "uz": "kamchilik"
+    },
+    {
+      "en": "flexible",
+      "uz": "moslashuvchan"
+    },
+    {
+      "en": "dedicated",
+      "uz": "maxsus ajratilgan"
+    },
+    {
+      "en": "board",
+      "uz": "(transportga) chiqmoq"
+    },
+    {
+      "en": "separated",
+      "uz": "ajratilgan"
+    },
+    {
+      "en": "scheme",
+      "uz": "tizim, dastur"
+    },
+    {
+      "en": "controversial",
+      "uz": "bahsli"
+    },
+    {
+      "en": "congestion",
+      "uz": "tirbandlik, gavjumlik"
+    },
+    {
+      "en": "alternative",
+      "uz": "muqobil"
+    },
+    {
+      "en": "adapt to",
+      "uz": "… ga moslashmoq"
+    },
+    {
+      "en": "expand",
+      "uz": "kengaytirmoq"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "i55-non-defining",
+      "title": {
+        "uz": "Aniqlovchi boʻlmagan ergash gap: , which …,"
+      },
+      "example": "Its metro, which opened in 1977, was the first in Central Asia"
+    },
+    {
+      "topicId": "i30-passive-tenses",
+      "title": {
+        "uz": "Majhul nisbat (Present Perfect): has been expanded"
+      },
+      "example": "the network has been expanded considerably"
+    }
+  ],
+  "questions": [
+    {
+      "id": "b2-05-city-transport-q1",
+      "type": "heading",
+      "para": 1,
+      "options": [
+        "Paying to use the busiest roads",
+        "Going underground to escape the traffic",
+        "Feeling safe is what gets people cycling",
+        "Cheaper tickets for metro passengers",
+        "Painting new lines on city roads"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "B xatboshi: metro koʻchalar ostida yuradi va tirbandlikka bogʻliq emas. «Cheaper tickets» notoʻgʻri — aksincha, metro qimmat ekani aytilgan."
+      }
+    },
+    {
+      "id": "b2-05-city-transport-q2",
+      "type": "heading",
+      "para": 3,
+      "options": [
+        "Paying to use the busiest roads",
+        "Going underground to escape the traffic",
+        "Feeling safe is what gets people cycling",
+        "Cheaper tickets for metro passengers",
+        "Painting new lines on city roads"
+      ],
+      "answer": 2,
+      "explain": {
+        "uz": "D xatboshi: odamlar oʻzini xavfsiz his qilsagina velosipedda yuradi. «Painting new lines» — tuzoq: matnda chiziq chizish «not enough» deyilgan."
+      }
+    },
+    {
+      "id": "b2-05-city-transport-q3",
+      "type": "heading",
+      "para": 4,
+      "options": [
+        "Paying to use the busiest roads",
+        "Going underground to escape the traffic",
+        "Feeling safe is what gets people cycling",
+        "Cheaper tickets for metro passengers",
+        "Painting new lines on city roads"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "E xatboshi: gavjum markazga kirish yoki eng tirband yoʻllardan foydalanish uchun haq toʻlash — congestion charges."
+      }
+    },
+    {
+      "id": "b2-05-city-transport-q4",
+      "type": "tfng",
+      "statement": "Traffic congestion causes problems other than wasted time.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "1-xatboshi: «not only lost time but also noise, air pollution and stress»."
+      },
+      "para": 0
+    },
+    {
+      "id": "b2-05-city-transport-q5",
+      "type": "tfng",
+      "statement": "In rapid bus systems, passengers buy their tickets after getting on the bus.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "3-xatboshi: «passengers pay before boarding» — avtobusga chiqishdan oldin."
+      },
+      "para": 2
+    },
+    {
+      "id": "b2-05-city-transport-q6",
+      "type": "tfng",
+      "statement": "Bike-sharing schemes are used more by tourists than by local residents.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "4-xatboshida bike-sharing koʻp mamlakatlarga tarqalgani aytilgan, lekin kim koʻproq foydalanishi haqida maʼlumot yoʻq."
+      },
+      "para": 3
+    },
+    {
+      "id": "b2-05-city-transport-q7",
+      "type": "tfng",
+      "statement": "No other city in Central Asia had a metro before Tashkent.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "6-xatboshi: «was the first in Central Asia» — demak undan oldin boshqasida boʻlmagan."
+      },
+      "para": 5
+    },
+    {
+      "id": "b2-05-city-transport-q8",
+      "type": "choice",
+      "prompt": "According to the writer, what is the main disadvantage of a metro?",
+      "options": [
+        "It is affected by traffic on the streets.",
+        "It is very expensive and slow to build.",
+        "It cannot carry many passengers."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«The drawback is cost: … extremely expensive and can take many years». Birinchi va uchinchi variant matnga zid."
+      },
+      "para": 1
+    },
+    {
+      "id": "b2-05-city-transport-q9",
+      "type": "gap",
+      "prompt": "To help buses move faster, some cities have introduced dedicated ___.",
+      "answers": [
+        "bus lanes"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "3-xatboshi: «some cities have introduced dedicated bus lanes»."
+      },
+      "para": 2
+    },
+    {
+      "id": "b2-05-city-transport-q10",
+      "type": "gap",
+      "prompt": "Critics say congestion charges are unfair to people on ___ who must drive.",
+      "answers": [
+        "low incomes",
+        "low income"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "5-xatboshi: «unfair to people on low incomes who have no real alternative to driving»."
+      },
+      "para": 4
+    }
+  ]
+}

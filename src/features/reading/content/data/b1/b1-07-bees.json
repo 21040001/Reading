@@ -1,0 +1,225 @@
+{
+  "id": "b1-07-bees",
+  "title": {
+    "uz": "Asalarilar"
+  },
+  "en": "My Grandfather's Bees",
+  "level": "B1",
+  "kind": "blog",
+  "tag": {
+    "uz": "Tabiat",
+    "en": "Nature"
+  },
+  "intro": {
+    "uz": "Bu blogda muallif bobosining asalarilari haqida yozadi. Oʻqishdan oldin oʻylab koʻring: asalarilar asal qilishdan tashqari yana qanday foyda keltiradi?"
+  },
+  "paragraphs": [
+    {
+      "en": "Every summer, I spend a few weeks at my grandfather's house in a village in the foothills. My grandfather has kept bees for more than forty years, and his wooden hives stand in a row at the end of the garden, among apricot trees. When I was little, I was afraid of the bees. Now I help him, and I have learned that these tiny insects are far more interesting than I had imagined."
+    },
+    {
+      "en": "Most people think of bees as honey makers, but their most important job is pollination. When a bee visits a flower to collect nectar and pollen, some pollen sticks to its hairy body. Then, when it flies to the next flower, some of this pollen is left behind. This helps plants to produce fruit and seeds. Many of the fruits and vegetables we eat, such as apples, cherries and melons, depend on insects like bees. My grandfather always says that a village without bees would soon be a village without fruit."
+    },
+    {
+      "en": "Honey itself is made from nectar, the sweet liquid inside flowers. The bees carry it back to the hive, where they store it in small wax cells. Then they fan it with their wings until much of the water evaporates and the nectar becomes thick honey. When a cell is full, they close it with a thin layer of wax. A single bee makes only a tiny amount of honey in its whole life, so a full jar is the work of thousands of bees."
+    },
+    {
+      "en": "My favourite thing to watch is the waggle dance. When a worker bee finds a good place full of flowers, she returns to the hive and dances on the honeycomb. She moves in a figure-of-eight pattern and shakes her body during the straight part of the dance. The direction of this straight run shows the other bees which way to fly, using the position of the Sun as a guide. The longer she waggles, the farther away the flowers are."
+    },
+    {
+      "en": "Sadly, bees are in trouble in many parts of the world. Some pesticides that farmers spray on crops can harm or kill them. When wild meadows are turned into roads, buildings or huge fields of a single crop, bees lose the flowers they need. Diseases and parasites are another problem. My grandfather never uses strong chemicals in his garden, and he plants flowers that bloom at different times of the year. If more people did the same, bees would have a much better future."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "foothills",
+      "uz": "togʻ etaklari, adirlar"
+    },
+    {
+      "en": "hive",
+      "uz": "ari uyasi, ari qutisi"
+    },
+    {
+      "en": "insect",
+      "uz": "hasharot"
+    },
+    {
+      "en": "pollination",
+      "uz": "changlanish, changlatish"
+    },
+    {
+      "en": "pollen",
+      "uz": "gulchang"
+    },
+    {
+      "en": "nectar",
+      "uz": "gul shirasi, nektar"
+    },
+    {
+      "en": "stick to",
+      "uz": "… ga yopishmoq"
+    },
+    {
+      "en": "depend on",
+      "uz": "… ga bogʻliq boʻlmoq"
+    },
+    {
+      "en": "evaporate",
+      "uz": "bugʻlanmoq"
+    },
+    {
+      "en": "wax",
+      "uz": "mum"
+    },
+    {
+      "en": "honeycomb",
+      "uz": "ari kataklari, mum katak"
+    },
+    {
+      "en": "pesticide",
+      "uz": "pestitsid, zararkunandalarga qarshi zahar"
+    },
+    {
+      "en": "meadow",
+      "uz": "oʻtloq, yaylov"
+    },
+    {
+      "en": "bloom",
+      "uz": "gullamoq"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "i08-how-long-for-since",
+      "title": {
+        "uz": "Present Perfect + for: has kept … for"
+      },
+      "example": "My grandfather has kept bees for more than forty years"
+    },
+    {
+      "topicId": "i26-second-conditional",
+      "title": {
+        "uz": "Ikkinchi shart gap: If more people did …, bees would …"
+      },
+      "example": "If more people did the same, bees would have a much better future."
+    }
+  ],
+  "questions": [
+    {
+      "id": "b1-07-bees-q1",
+      "type": "tfng",
+      "statement": "The writer's grandfather has kept bees for over forty years.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«My grandfather has kept bees for more than forty years»."
+      },
+      "para": 0
+    },
+    {
+      "id": "b1-07-bees-q2",
+      "type": "tfng",
+      "statement": "The writer has always enjoyed being near bees.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«When I was little, I was afraid of the bees» — kichikligida ulardan qoʻrqqan."
+      },
+      "para": 0
+    },
+    {
+      "id": "b1-07-bees-q3",
+      "type": "tfng",
+      "statement": "The grandfather sells his honey at a market in the city.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Asal qanday tayyorlanishi aytilgan, lekin bobo asalni sotishi yoki bozor haqida hech narsa yoʻq."
+      },
+      "para": 2
+    },
+    {
+      "id": "b1-07-bees-q4",
+      "type": "tfng",
+      "statement": "One bee can produce a full jar of honey during its life.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«A single bee makes only a tiny amount of honey … a full jar is the work of thousands of bees»."
+      },
+      "para": 2
+    },
+    {
+      "id": "b1-07-bees-q5",
+      "type": "choice",
+      "prompt": "According to the writer, what is the most important job of bees?",
+      "options": [
+        "making honey",
+        "pollination",
+        "building hives"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«Most people think of bees as honey makers, but their most important job is pollination.»"
+      },
+      "para": 1
+    },
+    {
+      "id": "b1-07-bees-q6",
+      "type": "choice",
+      "prompt": "In the waggle dance, what does the length of the waggling tell the other bees?",
+      "options": [
+        "how far away the flowers are",
+        "which flowers smell the best",
+        "how many bees should fly out"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "«The longer she waggles, the farther away the flowers are.» Yoʻnalishni esa toʻgʻri yugurish qismi koʻrsatadi."
+      },
+      "para": 3
+    },
+    {
+      "id": "b1-07-bees-q7",
+      "type": "choice",
+      "prompt": "What is the main idea of the last paragraph?",
+      "options": [
+        "Honey is becoming more expensive.",
+        "Bees face several dangers, but people can help them.",
+        "The grandfather's garden is too small for bees."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "Xatboshida xavflar sanalgan (pestitsidlar, oʻtloqlarning yoʻqolishi, kasalliklar) va yechim: «If more people did the same…»."
+      },
+      "para": 4
+    },
+    {
+      "id": "b1-07-bees-q8",
+      "type": "gap",
+      "prompt": "Bees fan the nectar with their ___ until much of the water evaporates.",
+      "answers": [
+        "wings"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«Then they fan it with their wings until much of the water evaporates»."
+      },
+      "para": 2
+    },
+    {
+      "id": "b1-07-bees-q9",
+      "type": "gap",
+      "prompt": "The grandfather plants flowers that ___ at different times of the year.",
+      "answers": [
+        "bloom",
+        "flower"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«he plants flowers that bloom at different times of the year»."
+      },
+      "para": 4
+    }
+  ]
+}

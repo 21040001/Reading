@@ -1,0 +1,231 @@
+{
+  "id": "b1-15-suzani",
+  "title": {
+    "uz": "Soʻzana"
+  },
+  "en": "My Grandmother's Suzani",
+  "level": "B1",
+  "kind": "story",
+  "tag": {
+    "uz": "Tarix va madaniyat",
+    "en": "History and culture"
+  },
+  "intro": {
+    "uz": "Bu hikoyada bir qiz buvisining soʻzanasi va bu hunarning sirlari haqida soʻzlaydi. Oʻqishdan oldin oʻylab koʻring: sizning uyingizda soʻzana bormi va unda qanday naqshlar bor?"
+  },
+  "paragraphs": [
+    {
+      "en": "When I was twelve, my grandmother opened an old wooden chest in her room and took out something I had never seen before. It was a huge piece of cotton cloth, almost as big as my bed, covered in red and pink flowers. 'This is a suzani,' she said. 'I made it for my wedding more than fifty years ago.'"
+    },
+    {
+      "en": "Grandmother explained that the word suzani comes from a Persian word for needle. In the past, a girl's mother and grandmother started embroidering suzanis when she was still a little child. They were part of her dowry, the things a bride brought with her to her new home. Because a family often prepared several of them, the work could take years. Sometimes the cloth was cut into long strips, and different women embroidered different strips at the same time. Later, the pieces were sewn together."
+    },
+    {
+      "en": "I looked more closely at Grandmother's suzani. In the centre there was a large round shape like a sun, and around it were flowers, leaves and small red fruits. 'Those are pomegranates,' she said. 'They have many seeds, so people believed they would bring a big, happy family.' Every pattern had a meaning, and many of them were wishes for the young bride."
+    },
+    {
+      "en": "She also told me that suzanis from different places look different. Those from Nurata often have delicate flowers spread across a light background, while the ones from Samarkand usually have large, bold shapes in deep red. People who know a lot about suzanis can often guess where one was made just by looking at its patterns."
+    },
+    {
+      "en": "Grandmother's generation used to hang suzanis on the walls and spread them on beds, especially on special days like weddings. Today, many suzanis are made in workshops and sold to tourists, and some old ones are kept in museums around the world. But in many families, the tradition is still alive at home."
+    },
+    {
+      "en": "Last year, Grandmother gave me a needle and some coloured thread and showed me my first stitches. My flowers are still a little crooked, and I have finished only one small corner. 'Don't worry,' she said, smiling. 'If you keep practising, your suzani will be ready long before your wedding.'"
+    }
+  ],
+  "glossary": [
+    {
+      "en": "chest",
+      "uz": "sandiq"
+    },
+    {
+      "en": "cloth",
+      "uz": "mato"
+    },
+    {
+      "en": "needle",
+      "uz": "igna"
+    },
+    {
+      "en": "embroider",
+      "uz": "kashta tikmoq"
+    },
+    {
+      "en": "dowry",
+      "uz": "sep"
+    },
+    {
+      "en": "bride",
+      "uz": "kelin"
+    },
+    {
+      "en": "strip",
+      "uz": "uzun boʻlak, tasma"
+    },
+    {
+      "en": "sew together",
+      "uz": "bir-biriga tikib ulamoq"
+    },
+    {
+      "en": "pomegranate",
+      "uz": "anor"
+    },
+    {
+      "en": "pattern",
+      "uz": "naqsh"
+    },
+    {
+      "en": "delicate",
+      "uz": "nozik"
+    },
+    {
+      "en": "bold",
+      "uz": "yirik va koʻzga tashlanadigan, yorqin"
+    },
+    {
+      "en": "thread",
+      "uz": "ip"
+    },
+    {
+      "en": "stitch",
+      "uz": "chok, tikish qadami"
+    },
+    {
+      "en": "crooked",
+      "uz": "qiyshiq"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "i12-used-to-would",
+      "title": {
+        "uz": "used to: oʻtmishdagi odat"
+      },
+      "example": "Grandmother's generation used to hang suzanis on the walls"
+    },
+    {
+      "topicId": "i29-passive-basics",
+      "title": {
+        "uz": "Majhul nisbat: were sewn, are made"
+      },
+      "example": "Later, the pieces were sewn together."
+    }
+  ],
+  "questions": [
+    {
+      "id": "b1-15-suzani-q1",
+      "type": "tfng",
+      "statement": "The grandmother made her suzani for her own wedding.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«I made it for my wedding more than fifty years ago.»"
+      },
+      "para": 0
+    },
+    {
+      "id": "b1-15-suzani-q2",
+      "type": "tfng",
+      "statement": "In the past, each suzani was always made by only one woman.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«different women embroidered different strips at the same time» — bir nechta ayol ishlagan."
+      },
+      "para": 1
+    },
+    {
+      "id": "b1-15-suzani-q3",
+      "type": "tfng",
+      "statement": "The grandmother learned to embroider from her own mother.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Buvi kimdan oʻrgangani matnda aytilmagan."
+      },
+      "para": 1
+    },
+    {
+      "id": "b1-15-suzani-q4",
+      "type": "tfng",
+      "statement": "The writer has already finished her own suzani.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«I have finished only one small corner» — hali tugamagan."
+      },
+      "para": 5
+    },
+    {
+      "id": "b1-15-suzani-q5",
+      "type": "choice",
+      "prompt": "According to the grandmother, why were pomegranates embroidered on suzanis?",
+      "options": [
+        "because they were the bride's favourite fruit",
+        "because they were a wish for a big, happy family",
+        "because red thread was cheap"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«They have many seeds, so people believed they would bring a big, happy family.»"
+      },
+      "para": 2
+    },
+    {
+      "id": "b1-15-suzani-q6",
+      "type": "choice",
+      "prompt": "What is paragraph 4 mainly about?",
+      "options": [
+        "how to choose a good suzani in a shop",
+        "how suzanis from different regions differ",
+        "why young people do not like suzanis"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«suzanis from different places look different» — Nurota va Samarqand uslublari solishtiriladi."
+      },
+      "para": 3
+    },
+    {
+      "id": "b1-15-suzani-q7",
+      "type": "choice",
+      "prompt": "In the last paragraph, \"crooked\" flowers are flowers that …",
+      "options": [
+        "are not straight or neat",
+        "are too big",
+        "have the wrong colour"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "Qiz endi oʻrganmoqda, gullari «still a little crooked» — hali tekis chiqmaydi, buvisi esa uni ruhlantiradi."
+      },
+      "para": 5
+    },
+    {
+      "id": "b1-15-suzani-q8",
+      "type": "gap",
+      "prompt": "The word suzani comes from a Persian word for ___.",
+      "answers": [
+        "needle"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«the word suzani comes from a Persian word for needle»."
+      },
+      "para": 1
+    },
+    {
+      "id": "b1-15-suzani-q9",
+      "type": "gap",
+      "prompt": "Suzanis from Samarkand usually have large, bold shapes in deep ___.",
+      "answers": [
+        "red"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«the ones from Samarkand usually have large, bold shapes in deep red»."
+      },
+      "para": 3
+    }
+  ]
+}

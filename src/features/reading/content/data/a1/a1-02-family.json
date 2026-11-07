@@ -1,0 +1,166 @@
+{
+  "id": "a1-02-family",
+  "title": {
+    "uz": "Mening oilam"
+  },
+  "en": "My Family",
+  "level": "A1",
+  "kind": "story",
+  "tag": {
+    "uz": "Oila",
+    "en": "Family"
+  },
+  "intro": {
+    "uz": "Jasur oilasi haqida yozadi. Oʻqishdan oldin: sizning oilangizda necha kishi bor?"
+  },
+  "paragraphs": [
+    {
+      "en": "My name is Jasur. There are six people in my family: my father, my mother, my grandmother, my two sisters and me.",
+      "uz": "Mening ismim Jasur. Oilamizda olti kishi bor: otam, onam, buvim, opam, singlim va men."
+    },
+    {
+      "en": "My father is a driver. He drives a bus in Tashkent. My mother is a nurse. She works at a hospital. My grandmother doesn't work. She cooks very good plov!",
+      "uz": "Otam haydovchi. U Toshkentda avtobus haydaydi. Onam hamshira. U kasalxonada ishlaydi. Buvim ishlamaydi. U juda mazali palov pishiradi!"
+    },
+    {
+      "en": "My sisters are Madina and Shahzoda. Madina is twenty. She is a student at university. Shahzoda is eight. She is very funny. We have a cat. Its name is Momiq.",
+      "uz": "Opamning ismi Madina, singlimniki — Shahzoda. Madina yigirma yoshda. U universitet talabasi. Shahzoda sakkiz yoshda. U juda kulgili. Bizning mushugimiz bor. Uning ismi Momiq."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "people",
+      "uz": "odamlar, kishilar"
+    },
+    {
+      "en": "driver",
+      "uz": "haydovchi"
+    },
+    {
+      "en": "drive",
+      "uz": "haydamoq"
+    },
+    {
+      "en": "nurse",
+      "uz": "hamshira"
+    },
+    {
+      "en": "hospital",
+      "uz": "kasalxona"
+    },
+    {
+      "en": "cook",
+      "uz": "ovqat pishirmoq; oshpaz"
+    },
+    {
+      "en": "funny",
+      "uz": "kulgili, quvnoq"
+    },
+    {
+      "en": "university",
+      "uz": "universitet"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "b14-there-is",
+      "title": {
+        "uz": "there is / there are"
+      },
+      "example": "There are six people in my family."
+    },
+    {
+      "topicId": "b04-family",
+      "title": {
+        "uz": "Egalik: my, his, her, its"
+      },
+      "example": "Its name is Momiq."
+    }
+  ],
+  "questions": [
+    {
+      "id": "a1-02-family-q1",
+      "type": "tfng",
+      "statement": "There are five people in Jasur's family.",
+      "answer": "F",
+      "explain": {
+        "uz": "Olti kishi: «There are six people in my family»."
+      },
+      "para": 0
+    },
+    {
+      "id": "a1-02-family-q2",
+      "type": "tfng",
+      "statement": "His father drives a bus.",
+      "answer": "T",
+      "explain": {
+        "uz": "«He drives a bus in Tashkent.»"
+      },
+      "para": 1
+    },
+    {
+      "id": "a1-02-family-q3",
+      "type": "choice",
+      "prompt": "Where does his mother work?",
+      "options": [
+        "at a school",
+        "at a hospital",
+        "at a bazaar"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "Onasi hamshira: «She works at a hospital.»"
+      },
+      "para": 1
+    },
+    {
+      "id": "a1-02-family-q4",
+      "type": "tfng",
+      "statement": "His grandmother works at a hospital.",
+      "answer": "F",
+      "explain": {
+        "uz": "Buvisi ishlamaydi: «My grandmother doesn't work.»"
+      },
+      "para": 1
+    },
+    {
+      "id": "a1-02-family-q5",
+      "type": "choice",
+      "prompt": "How old is Madina?",
+      "options": [
+        "eight",
+        "twelve",
+        "twenty"
+      ],
+      "answer": 2,
+      "explain": {
+        "uz": "«Madina is twenty.» Sakkiz yoshdagisi — Shahzoda."
+      },
+      "para": 2
+    },
+    {
+      "id": "a1-02-family-q6",
+      "type": "gap",
+      "prompt": "Jasur's grandmother cooks very good ___.",
+      "answers": [
+        "plov"
+      ],
+      "explain": {
+        "uz": "«She cooks very good plov!»"
+      },
+      "para": 1
+    },
+    {
+      "id": "a1-02-family-q7",
+      "type": "gap",
+      "prompt": "The cat's name is ___.",
+      "answers": [
+        "Momiq"
+      ],
+      "explain": {
+        "uz": "«Its name is Momiq.» — its = uning (hayvon haqida)."
+      },
+      "para": 2
+    }
+  ]
+}

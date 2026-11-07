@@ -1,0 +1,346 @@
+{
+  "id": "c1-26-test1",
+  "title": {
+    "uz": "1-test: Kashshof oʻsimliklar"
+  },
+  "en": "Life on Bare Ground: Pioneer Plants and Succession",
+  "level": "C1",
+  "kind": "exam",
+  "tag": {
+    "uz": "Ekologiya",
+    "en": "Ecology"
+  },
+  "intro": {
+    "uz": "Toʻliq mashq testi (C1): vulqon orollari va tashlab qoʻyilgan yerlarda hayot qanday qayta boshlanishi haqidagi ilmiy matn. Haqiqiy IELTS Academic imtihonidagidek bitta matnga 14 ta savol beriladi: Matching headings, True/False/Not Given, summary completion (NO MORE THAN TWO WORDS) va 4 variantli test savollari. Taxminan 20 daqiqa ajrating. Tavsiya etiladigan tartib: avval 2–3 daqiqada matnga koʻz yugurtirib, har bir xatboshining asosiy gʻoyasini belgilang va sarlavhalarni moslang; soʻng TFNG savollarini matn tartibida bajaring; keyin xulosadagi boʻshliqlarni matndagi soʻzlar bilan aynan toʻldiring; test savollarini esa oxiriga qoldiring."
+  },
+  "paragraphs": [
+    {
+      "en": "When a volcano pours fresh lava across a hillside, or a retreating glacier exposes rock that has been buried for thousands of years, the result is a landscape almost entirely without life. There is no soil to speak of, no store of seeds and very little to hold water or nutrients. Yet within a few years such places are rarely completely bare. A sequence of colonisation begins, and over decades or centuries it may transform the site into grassland, scrub or forest. Ecologists call this process succession, and they usually distinguish between two forms of it. Primary succession starts on surfaces that have never supported a community of living things, while secondary succession follows a disturbance, such as a fire or the abandonment of a field, that removes vegetation but leaves the soil largely intact."
+    },
+    {
+      "en": "Few natural experiments in primary succession have been followed as closely as that offered by Surtsey, an island that rose from the sea off the southern coast of Iceland during a series of eruptions in the 1960s. From the beginning, the authorities restricted access to a small number of researchers, so that the arrival of life could be recorded with minimal human interference. What emerged from decades of observation was a picture of colonisation that was neither instant nor random. The earliest arrivals were carried by the sea, the wind and birds, and many of those that landed failed to establish themselves at all. For a long time, survival rather than arrival was the main obstacle."
+    },
+    {
+      "en": "The species that do succeed in such conditions tend to share a recognisable set of characteristics. Pioneer plants typically produce large numbers of small, light seeds or spores that can travel long distances, and they are able to tolerate intense sunlight, sharp changes in temperature and a severe shortage of nutrients. Many complete their life cycle quickly. On bare rock, the first colonists are often not flowering plants at all but lichens, partnerships between a fungus and an alga or a cyanobacterium, which can cling to surfaces where nothing else can gain a foothold. Mosses frequently follow, trapping dust and moisture among their tightly packed stems."
+    },
+    {
+      "en": "What makes pioneers ecologically significant is not simply that they survive but that they alter their surroundings. Lichens release acids that slowly break down the rock surface, and as pioneer plants die, their remains add organic matter to the mineral particles, gradually producing a thin layer of soil capable of holding water. Some early colonists form partnerships with bacteria that convert nitrogen from the air into a form that plants can use, which is particularly valuable in nutrient-poor ground. In this way pioneers may prepare the ground for larger and more demanding species, a process ecologists refer to as facilitation. There is an irony here: by improving conditions, pioneers often make the site more attractive to competitors that will eventually shade them out."
+    },
+    {
+      "en": "Animals can play a surprisingly large part in this story. On Surtsey, researchers observed that plant colonisation accelerated markedly after seabirds began nesting on the island. The birds not only brought seeds with them but also enriched the poor volcanic ground with their droppings, and the areas around their colonies developed far denser vegetation than the rest of the island. Elsewhere, insects, small mammals and birds may disperse seeds and carry nutrients between habitats, linking a newly forming community to the wider landscape."
+    },
+    {
+      "en": "Secondary succession usually proceeds much faster, because the most difficult stage has already been completed. When a cultivated field is abandoned, the soil retains its structure and nutrients, and it often contains a bank of dormant seeds. Fast-growing annual weeds commonly appear within the first season, to be followed over subsequent years by perennial grasses and herbs, then by shrubs and, where the climate allows, by trees. Even so, the return of a mature woodland may take many decades, and the forest that eventually develops does not necessarily resemble the one that was cleared."
+    },
+    {
+      "en": "For much of the twentieth century, succession was often described as an orderly progression in which each stage gave way to the next until a stable final community, sometimes called a climax, was reached. Many ecologists now regard this picture as too tidy. The order in which species happen to arrive can strongly influence what follows, and some early colonists, rather than preparing the way for others, appear to inhibit them, for instance by forming dense thickets that later species struggle to penetrate. Repeated disturbances such as storms, fires or grazing may also reset the process before any final state is reached. Succession, in other words, is better understood as a set of probabilities than as a fixed script."
+    },
+    {
+      "en": "These insights have practical applications. Those attempting to restore land damaged by mining or erosion sometimes deliberately introduce pioneer species, particularly nitrogen-fixing plants, to speed up soil formation. Such interventions, however, carry risks. A species chosen for its vigour may spread far beyond the area it was intended to protect, and in Iceland a lupin introduced to combat erosion has become the subject of considerable debate because it can overrun native vegetation. Working with succession, it seems, requires an understanding not only of how pioneers help but also of when they might take over."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "retreating glacier",
+      "uz": "chekinayotgan muzlik"
+    },
+    {
+      "en": "colonisation",
+      "uz": "yangi hududni egallash, joylashish"
+    },
+    {
+      "en": "succession",
+      "uz": "suksessiya, oʻsimliklar jamoasining izchil almashinuvi"
+    },
+    {
+      "en": "disturbance",
+      "uz": "buzilish, tabiiy muvozanatning izdan chiqishi"
+    },
+    {
+      "en": "interference",
+      "uz": "aralashuv"
+    },
+    {
+      "en": "establish oneself",
+      "uz": "oʻrnashib olmoq, qaror topmoq"
+    },
+    {
+      "en": "tolerate",
+      "uz": "chidamoq, bardosh bermoq"
+    },
+    {
+      "en": "gain a foothold",
+      "uz": "oyoq qoʻyadigan joy topmoq, oʻrnashmoq"
+    },
+    {
+      "en": "organic matter",
+      "uz": "organik modda"
+    },
+    {
+      "en": "facilitation",
+      "uz": "yengillashtirish, yoʻl ochib berish"
+    },
+    {
+      "en": "shade out",
+      "uz": "soya solib siqib chiqarmoq"
+    },
+    {
+      "en": "accelerate markedly",
+      "uz": "sezilarli darajada tezlashmoq"
+    },
+    {
+      "en": "disperse",
+      "uz": "tarqatmoq, sochmoq"
+    },
+    {
+      "en": "dormant",
+      "uz": "uyquda, faol boʻlmagan (urugʻ)"
+    },
+    {
+      "en": "inhibit",
+      "uz": "toʻsqinlik qilmoq, sekinlashtirmoq"
+    },
+    {
+      "en": "vigour",
+      "uz": "kuch-quvvat, jadal oʻsish"
+    },
+    {
+      "en": "overrun",
+      "uz": "bosib ketmoq, egallab olmoq"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "c57-cleft-sentences",
+      "title": {
+        "uz": "Taʼkidli (wh-) gap: What makes … is …"
+      },
+      "example": "What makes pioneers ecologically significant is not simply that they survive but that they alter their surroundings"
+    },
+    {
+      "topicId": "c34-participle-clauses",
+      "title": {
+        "uz": "Sifatdoshli ergash gap: …, trapping dust and moisture"
+      },
+      "example": "Mosses frequently follow, trapping dust and moisture among their tightly packed stems"
+    }
+  ],
+  "questions": [
+    {
+      "id": "c1-26-test1-q1",
+      "type": "heading",
+      "para": 1,
+      "options": [
+        "A carefully protected natural laboratory",
+        "Shared traits of the first colonists",
+        "Changing the environment for successors",
+        "The unexpected contribution of wildlife",
+        "A quicker recovery where soil survives",
+        "Questioning a neat, predictable sequence",
+        "Why volcanic islands attract visitors",
+        "How seeds survive long sea journeys",
+        "Measuring how quickly lava cools"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "Xatboshi B: Surtsey oroliga kirish cheklangan — «restricted access to a small number of researchers», hayotning paydo boʻlishi «with minimal human interference» kuzatilgan, yaʼni bu tabiiy laboratoriya. «How seeds survive long sea journeys» chalgʻitadi: dengiz faqat tashuvchi sifatida tilga olinadi."
+      }
+    },
+    {
+      "id": "c1-26-test1-q2",
+      "type": "heading",
+      "para": 2,
+      "options": [
+        "A carefully protected natural laboratory",
+        "Shared traits of the first colonists",
+        "Changing the environment for successors",
+        "The unexpected contribution of wildlife",
+        "A quicker recovery where soil survives",
+        "Questioning a neat, predictable sequence",
+        "Why volcanic islands attract visitors",
+        "How seeds survive long sea journeys",
+        "Measuring how quickly lava cools"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "Xatboshi C: kashshof turlarning umumiy belgilari — «share a recognisable set of characteristics»: mayda urugʻlar, quyosh va ozuqa tanqisligiga chidamlilik."
+      }
+    },
+    {
+      "id": "c1-26-test1-q3",
+      "type": "heading",
+      "para": 3,
+      "options": [
+        "A carefully protected natural laboratory",
+        "Shared traits of the first colonists",
+        "Changing the environment for successors",
+        "The unexpected contribution of wildlife",
+        "A quicker recovery where soil survives",
+        "Questioning a neat, predictable sequence",
+        "Why volcanic islands attract visitors",
+        "How seeds survive long sea journeys",
+        "Measuring how quickly lava cools"
+      ],
+      "answer": 2,
+      "explain": {
+        "uz": "Xatboshi D: kashshoflar atrof-muhitni oʻzgartiradi — «they alter their surroundings», tuproq hosil qiladi va keyingi turlarga yoʻl ochadi (facilitation)."
+      }
+    },
+    {
+      "id": "c1-26-test1-q4",
+      "type": "heading",
+      "para": 5,
+      "options": [
+        "A carefully protected natural laboratory",
+        "Shared traits of the first colonists",
+        "Changing the environment for successors",
+        "The unexpected contribution of wildlife",
+        "A quicker recovery where soil survives",
+        "Questioning a neat, predictable sequence",
+        "Why volcanic islands attract visitors",
+        "How seeds survive long sea journeys",
+        "Measuring how quickly lava cools"
+      ],
+      "answer": 4,
+      "explain": {
+        "uz": "Xatboshi F: ikkilamchi suksessiya tezroq, chunki tuproq saqlanib qolgan — «the soil retains its structure and nutrients»."
+      }
+    },
+    {
+      "id": "c1-26-test1-q5",
+      "type": "heading",
+      "para": 6,
+      "options": [
+        "A carefully protected natural laboratory",
+        "Shared traits of the first colonists",
+        "Changing the environment for successors",
+        "The unexpected contribution of wildlife",
+        "A quicker recovery where soil survives",
+        "Questioning a neat, predictable sequence",
+        "Why volcanic islands attract visitors",
+        "How seeds survive long sea journeys",
+        "Measuring how quickly lava cools"
+      ],
+      "answer": 5,
+      "explain": {
+        "uz": "Xatboshi G: «orderly progression … climax» tasavvuri «too tidy» deb tanqid qilinadi — tartibli va oldindan aytib boʻladigan ketma-ketlik shubha ostiga olinadi."
+      }
+    },
+    {
+      "id": "c1-26-test1-q6",
+      "type": "tfng",
+      "statement": "Primary succession takes place on ground where the soil has survived a disturbance.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "Aksincha: primary succession «starts on surfaces that have never supported a community of living things»; tuprogʻi saqlangan yer — bu secondary succession."
+      },
+      "para": 0
+    },
+    {
+      "id": "c1-26-test1-q7",
+      "type": "tfng",
+      "statement": "Access to Surtsey was limited so that human influence on colonisation would be kept to a minimum.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«the authorities restricted access … so that the arrival of life could be recorded with minimal human interference» — limited = restricted, kept to a minimum = minimal."
+      },
+      "para": 1
+    },
+    {
+      "id": "c1-26-test1-q8",
+      "type": "tfng",
+      "statement": "Some plant species growing near the seabird colonies on Surtsey are found nowhere else in Iceland.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Qushlar koloniyasi atrofida oʻsimliklar zichroq ekani aytilgan («far denser vegetation»), lekin noyob turlar haqida maʼlumot yoʻq."
+      },
+      "para": 4
+    },
+    {
+      "id": "c1-26-test1-q9",
+      "type": "tfng",
+      "statement": "Many ecologists today believe that succession always ends in a stable final community.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«Many ecologists now regard this picture as too tidy» va jarayon «before any final state is reached» qayta boshlanishi mumkin — demak, «always» notoʻgʻri."
+      },
+      "para": 6
+    },
+    {
+      "id": "c1-26-test1-q10",
+      "type": "gap",
+      "prompt": "Summary: On bare rock, lichens release ___ that slowly break the surface down.",
+      "answers": [
+        "acids"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«Lichens release acids that slowly break down the rock surface»."
+      },
+      "para": 3
+    },
+    {
+      "id": "c1-26-test1-q11",
+      "type": "gap",
+      "prompt": "Summary: The way in which pioneers prepare the ground for larger species is known as ___.",
+      "answers": [
+        "facilitation"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«a process ecologists refer to as facilitation» — refer to as = is known as."
+      },
+      "para": 3
+    },
+    {
+      "id": "c1-26-test1-q12",
+      "type": "gap",
+      "prompt": "Summary: Abandoned fields recover relatively quickly, partly because the soil often holds a bank of ___.",
+      "answers": [
+        "dormant seeds",
+        "seeds"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«it often contains a bank of dormant seeds». Javob 2 soʻzdan oshmasligi kerak."
+      },
+      "para": 5
+    },
+    {
+      "id": "c1-26-test1-q13",
+      "type": "choice",
+      "prompt": "According to paragraph B, what was the main difficulty for living things on Surtsey in the early years?",
+      "options": [
+        "reaching the island in the first place",
+        "surviving once they had arrived",
+        "competing with seabirds for space",
+        "avoiding disturbance by human visitors"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«many of those that landed failed to establish themselves» va «survival rather than arrival was the main obstacle». Odamlar kirishi cheklangan, shuning uchun D variant notoʻgʻri."
+      },
+      "para": 1
+    },
+    {
+      "id": "c1-26-test1-q14",
+      "type": "choice",
+      "prompt": "Why does the writer mention the lupin introduced in Iceland?",
+      "options": [
+        "to show that pioneer species can never be used safely",
+        "to illustrate a risk of introducing vigorous species",
+        "to prove that native plants cannot prevent erosion",
+        "to give an example of a fully successful restoration project"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«A species chosen for its vigour may spread far beyond the area…» — lupin shu xavfning misoli. «never» haddan tashqari kuchli: muallif faqat «carry risks» deydi."
+      },
+      "para": 7
+    }
+  ]
+}

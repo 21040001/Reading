@@ -1,0 +1,228 @@
+{
+  "id": "b1-18-saving-water",
+  "title": {
+    "uz": "Suvni tejash"
+  },
+  "en": "Every Drop Counts",
+  "level": "B1",
+  "kind": "dialogue",
+  "tag": {
+    "uz": "Atrof-muhit",
+    "en": "Environment"
+  },
+  "intro": {
+    "uz": "Dilnoza qishloqda fermer togʻasi Akmal bilan suvni qanday tejash haqida suhbatlashadi. Oʻqishdan oldin oʻylab koʻring: uyingizda suv qayerda behuda sarflanadi?"
+  },
+  "paragraphs": [
+    {
+      "en": "Dilnoza: Uncle Akmal, why are there black pipes lying along every row of your tomatoes? I don't remember them from last summer. Akmal: That's my new drip irrigation system. In the past, we used to flood the whole field with water from the canal. Now these thin pipes carry water straight to the roots of each plant, drop by drop."
+    },
+    {
+      "en": "Dilnoza: Does it really make such a big difference? Akmal: It does. When you flood a field in July, a lot of the water evaporates in the sun or runs off to places where nothing grows. With drip irrigation, much less is wasted. I have used less water this year, and my tomatoes have grown better than ever, because the soil doesn't get too wet or too dry."
+    },
+    {
+      "en": "Dilnoza: So why doesn't everyone in the village use it? Akmal: Setting it up costs money, and you have to keep the pipes clean, or they get blocked. Some farmers here are still waiting to see if it works. My neighbour said he would try it next year if my harvest was good."
+    },
+    {
+      "en": "Dilnoza: We don't have a field in Tashkent, but my teacher says families waste a lot of water too. Akmal: Your teacher is right. A dripping tap or a leaking toilet can waste a surprising amount of water, and it is usually easy to fix. Your aunt noticed that our kitchen tap had been dripping for weeks, so we finally changed the washer. It took ten minutes."
+    },
+    {
+      "en": "Dilnoza: What else can we do at home? Akmal: Turn off the tap while you brush your teeth. Wash fruit in a bowl instead of under running water, and give that water to the plants afterwards. Water the garden early in the morning or in the evening, when it is cooler. In a dry region like ours, every bucket matters."
+    },
+    {
+      "en": "Dilnoza: I'm going to write a list and put it on our fridge as soon as I get home. Akmal: Good idea. And check under the kitchen sink while you're at it. Small leaks are very easy to miss."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "pipe",
+      "uz": "quvur"
+    },
+    {
+      "en": "drip irrigation",
+      "uz": "tomchilatib sugʻorish"
+    },
+    {
+      "en": "flood",
+      "uz": "suv bostirmoq"
+    },
+    {
+      "en": "canal",
+      "uz": "kanal, ariq"
+    },
+    {
+      "en": "evaporate",
+      "uz": "bugʻlanmoq"
+    },
+    {
+      "en": "run off",
+      "uz": "oqib ketmoq"
+    },
+    {
+      "en": "waste",
+      "uz": "isrof qilmoq, behuda sarflamoq"
+    },
+    {
+      "en": "set up",
+      "uz": "oʻrnatmoq"
+    },
+    {
+      "en": "blocked",
+      "uz": "tiqilib qolgan"
+    },
+    {
+      "en": "harvest",
+      "uz": "hosil"
+    },
+    {
+      "en": "tap",
+      "uz": "jumrak"
+    },
+    {
+      "en": "leak",
+      "uz": "oqish, sizib chiqish"
+    },
+    {
+      "en": "washer",
+      "uz": "qistirma, prokladka"
+    },
+    {
+      "en": "bucket",
+      "uz": "chelak"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "i12-used-to-would",
+      "title": {
+        "uz": "Used to: oʻtmishdagi odat"
+      },
+      "example": "we used to flood the whole field with water from the canal"
+    },
+    {
+      "topicId": "i33-reported-speech",
+      "title": {
+        "uz": "Koʻchirma gap: said he would …"
+      },
+      "example": "My neighbour said he would try it next year if my harvest was good."
+    }
+  ],
+  "questions": [
+    {
+      "id": "b1-18-saving-water-q1",
+      "type": "tfng",
+      "statement": "Akmal has always used drip irrigation on his farm.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "1-xatboshi: «In the past, we used to flood the whole field» — ilgari dalani suvga bostirgan, tizim yangi."
+      },
+      "para": 0
+    },
+    {
+      "id": "b1-18-saving-water-q2",
+      "type": "tfng",
+      "statement": "Drip irrigation has helped Akmal use less water.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "2-xatboshi: «I have used less water this year»."
+      },
+      "para": 1
+    },
+    {
+      "id": "b1-18-saving-water-q3",
+      "type": "tfng",
+      "statement": "Akmal sells his tomatoes at a market in Tashkent.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Pomidorlar qayerda sotilishi haqida matnda hech narsa yoʻq — Not Given."
+      },
+      "para": 1
+    },
+    {
+      "id": "b1-18-saving-water-q4",
+      "type": "tfng",
+      "statement": "Fixing the kitchen tap took a long time.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "4-xatboshi: «It took ten minutes» — juda tez."
+      },
+      "para": 3
+    },
+    {
+      "id": "b1-18-saving-water-q5",
+      "type": "choice",
+      "prompt": "According to Akmal, why is flooding a field less effective?",
+      "options": [
+        "Much of the water evaporates or runs off.",
+        "The water from the canal is too dirty.",
+        "The tomatoes grow too quickly."
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "2-xatboshi: «a lot of the water evaporates in the sun or runs off to places where nothing grows»."
+      },
+      "para": 1
+    },
+    {
+      "id": "b1-18-saving-water-q6",
+      "type": "choice",
+      "prompt": "Why are some farmers not using drip irrigation yet?",
+      "options": [
+        "It costs money and they want to see if it works.",
+        "It is not allowed in their village.",
+        "Their fields are too small."
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "3-xatboshi: «Setting it up costs money» va «Some farmers here are still waiting to see if it works»."
+      },
+      "para": 2
+    },
+    {
+      "id": "b1-18-saving-water-q7",
+      "type": "choice",
+      "prompt": "What does Akmal mean by \"every bucket matters\"?",
+      "options": [
+        "Even small amounts of water are important.",
+        "People should buy more buckets.",
+        "Water should always be carried by hand."
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "5-xatboshi: quruq hududda har bir chelak suv ham muhim, yaʼni ozgina suvni ham tejash kerak."
+      },
+      "para": 4
+    },
+    {
+      "id": "b1-18-saving-water-q8",
+      "type": "gap",
+      "prompt": "In drip irrigation, thin pipes carry water straight to the ___ of each plant.",
+      "answers": [
+        "roots"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "1-xatboshi: «carry water straight to the roots of each plant»."
+      },
+      "para": 0
+    },
+    {
+      "id": "b1-18-saving-water-q9",
+      "type": "gap",
+      "prompt": "Akmal advises watering the garden early in the morning or in the ___.",
+      "answers": [
+        "evening",
+        "the evening"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "5-xatboshi: «Water the garden early in the morning or in the evening, when it is cooler»."
+      },
+      "para": 4
+    }
+  ]
+}

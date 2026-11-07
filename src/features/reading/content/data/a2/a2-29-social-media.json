@@ -1,0 +1,208 @@
+{
+  "id": "a2-29-social-media",
+  "title": {
+    "uz": "Ijtimoiy tarmoqlar"
+  },
+  "en": "A Week Without Social Networks",
+  "level": "A2",
+  "kind": "blog",
+  "tag": {
+    "uz": "Texnologiya",
+    "en": "Technology"
+  },
+  "intro": {
+    "uz": "Diyor bir hafta ijtimoiy tarmoqlarsiz yashab koʻrdi va bu haqda blog yozdi. Oʻqishdan oldin: siz kuniga ijtimoiy tarmoqlarda qancha vaqt oʻtkazasiz?"
+  },
+  "paragraphs": [
+    {
+      "en": "Hi, I'm Diyor. I'm sixteen and I live in Karshi. Last month I checked how much time I spend on social networks. The answer was four hours a day! So I decided to try a week without them.",
+      "uz": "Salom, men Diyorman. Oʻn olti yoshdaman va Qarshida yashayman. Oʻtgan oy ijtimoiy tarmoqlarda qancha vaqt oʻtkazishimni tekshirib koʻrdim. Javob — kuniga toʻrt soat! Shuning uchun bir hafta ularsiz yashab koʻrishga qaror qildim."
+    },
+    {
+      "en": "The first two days were difficult. I wanted to check my phone every five minutes. I was worried that I might miss something important. But by Wednesday, I felt calmer. I slept better and finished a book for the first time in a year.",
+      "uz": "Dastlabki ikki kun qiyin boʻldi. Har besh daqiqada telefonimni tekshirgim kelardi. Biror muhim narsani oʻtkazib yuborishim mumkinligidan xavotirlanardim. Lekin chorshanbaga kelib oʻzimni xotirjamroq his qildim. Yaxshiroq uxladim va bir yil ichida birinchi marta kitobni oxirigacha oʻqidim."
+    },
+    {
+      "en": "Of course, social networks have good sides too. My cousin studies in Tashkent, and we chat every day. I have learned a lot of English from videos. My older sister sells her handmade bags online.",
+      "uz": "Albatta, ijtimoiy tarmoqlarning yaxshi tomonlari ham bor. Amakivachcham Toshkentda oʻqiydi, biz har kuni yozishamiz. Videolardan koʻp inglizcha soʻz va iboralarni oʻrgandim. Opam esa qoʻlda tikkan sumkalarini internet orqali sotadi."
+    },
+    {
+      "en": "But there are dangers. Some people use fake names, and some posts are not true. My advice is simple: don't share your address or the name of your school with strangers, and use a strong password. If someone is unkind to you online, tell an adult you trust.",
+      "uz": "Lekin xavflar ham bor. Baʼzi odamlar soxta ismlardan foydalanadi, baʼzi postlar esa haqiqat emas. Maslahatim oddiy: manzilingizni yoki maktabingiz nomini notanish odamlarga aytmang va kuchli paroldan foydalaning. Agar kimdir internetda sizga yomon munosabatda boʻlsa, oʻzingiz ishonadigan kattalarga ayting."
+    },
+    {
+      "en": "I'm going to keep using social networks, but only for one hour a day. Will it be easy? Probably not. I'll tell you next month!",
+      "uz": "Men ijtimoiy tarmoqlardan foydalanishda davom etaman, lekin kuniga faqat bir soat. Bu oson boʻladimi? Ehtimol, yoʻq. Keyingi oy sizlarga aytib beraman!"
+    }
+  ],
+  "glossary": [
+    {
+      "en": "social network",
+      "uz": "ijtimoiy tarmoq"
+    },
+    {
+      "en": "decide",
+      "uz": "qaror qilmoq"
+    },
+    {
+      "en": "be worried",
+      "uz": "xavotirlanmoq"
+    },
+    {
+      "en": "calm",
+      "uz": "xotirjam, tinch"
+    },
+    {
+      "en": "chat",
+      "uz": "yozishmoq, suhbatlashmoq"
+    },
+    {
+      "en": "handmade",
+      "uz": "qoʻlda yasalgan"
+    },
+    {
+      "en": "danger",
+      "uz": "xavf"
+    },
+    {
+      "en": "fake",
+      "uz": "soxta"
+    },
+    {
+      "en": "post",
+      "uz": "post, eʼlon qilingan yozuv"
+    },
+    {
+      "en": "stranger",
+      "uz": "notanish odam"
+    },
+    {
+      "en": "password",
+      "uz": "parol"
+    },
+    {
+      "en": "unkind",
+      "uz": "qoʻpol, mehrsiz"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "e25-might-may",
+      "title": {
+        "uz": "might — ehtimol"
+      },
+      "example": "I was worried that I might miss something important."
+    },
+    {
+      "topicId": "e22-going-to",
+      "title": {
+        "uz": "going to — reja"
+      },
+      "example": "I'm going to keep using social networks"
+    }
+  ],
+  "questions": [
+    {
+      "id": "a2-29-social-media-q1",
+      "type": "tfng",
+      "statement": "Before his experiment, Diyor spent four hours a day on social networks.",
+      "answer": "T",
+      "explain": {
+        "uz": "«The answer was four hours a day!»"
+      },
+      "para": 0
+    },
+    {
+      "id": "a2-29-social-media-q2",
+      "type": "tfng",
+      "statement": "The first days without social networks were easy for Diyor.",
+      "answer": "F",
+      "explain": {
+        "uz": "«The first two days were difficult.»"
+      },
+      "para": 1
+    },
+    {
+      "id": "a2-29-social-media-q3",
+      "type": "choice",
+      "prompt": "What changed by Wednesday?",
+      "options": [
+        "He felt calmer and slept better.",
+        "He bought a new phone.",
+        "He started a new blog."
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "«by Wednesday, I felt calmer. I slept better…»"
+      },
+      "para": 1
+    },
+    {
+      "id": "a2-29-social-media-q4",
+      "type": "gap",
+      "prompt": "Diyor finished a ___ for the first time in a year.",
+      "answers": [
+        "book"
+      ],
+      "explain": {
+        "uz": "«finished a book for the first time in a year»."
+      },
+      "para": 1
+    },
+    {
+      "id": "a2-29-social-media-q5",
+      "type": "choice",
+      "prompt": "How does Diyor's sister use the internet?",
+      "options": [
+        "She teaches English.",
+        "She sells handmade bags.",
+        "She studies in Tashkent."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«My older sister sells her handmade bags online.» Toshkentda esa amakivachchasi oʻqiydi."
+      },
+      "para": 2
+    },
+    {
+      "id": "a2-29-social-media-q6",
+      "type": "tfng",
+      "statement": "Diyor thinks that everything on social networks is true.",
+      "answer": "F",
+      "explain": {
+        "uz": "«some posts are not true»."
+      },
+      "para": 3
+    },
+    {
+      "id": "a2-29-social-media-q7",
+      "type": "choice",
+      "prompt": "If someone is unkind to you online, Diyor says you should …",
+      "options": [
+        "answer them in the same way",
+        "tell an adult you trust",
+        "give them your password"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«If someone is unkind to you online, tell an adult you trust.»"
+      },
+      "para": 3
+    },
+    {
+      "id": "a2-29-social-media-q8",
+      "type": "choice",
+      "prompt": "What is Diyor's plan now?",
+      "options": [
+        "to stop using social networks completely",
+        "to use them for one hour a day",
+        "to use them only at the weekend"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«I'm going to keep using social networks, but only for one hour a day.»"
+      },
+      "para": 4
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "id": "a1-14-post",
+  "title": {
+    "uz": "Pochtada"
+  },
+  "en": "At the Post Office",
+  "level": "A1",
+  "kind": "notice",
+  "tag": {
+    "uz": "Shahar",
+    "en": "City"
+  },
+  "intro": {
+    "uz": "Bu — pochta boʻlimidagi eʼlon. Oʻqishdan oldin: pochtada nimalar qilish mumkin? Ish vaqti va qoidalarga eʼtibor bering."
+  },
+  "paragraphs": [
+    {
+      "en": "Welcome to the Chilonzor Post Office! We are open from Monday to Saturday, from 9 a.m. to 6 p.m. We are closed on Sunday.",
+      "uz": "Chilonzor pochta boʻlimiga xush kelibsiz! Biz dushanbadan shanbagacha, ertalab soat 9 dan kechki 6 gacha ishlaymiz. Yakshanba kuni yopiqmiz."
+    },
+    {
+      "en": "Here you can send letters and parcels to all cities in Uzbekistan and to other countries. You can also buy stamps, envelopes and postcards.",
+      "uz": "Bu yerda Oʻzbekistonning barcha shaharlariga va boshqa mamlakatlarga xat va posilka yuborishingiz mumkin. Shuningdek, marka, konvert va otkritka sotib olishingiz mumkin."
+    },
+    {
+      "en": "Do you want to send a parcel? Please write the address clearly. Don't put food or water in your parcel. Take big parcels to Window 3.",
+      "uz": "Posilka yubormoqchimisiz? Iltimos, manzilni aniq yozing. Posilkangizga oziq-ovqat yoki suv solmang. Katta posilkalarni 3-darchaga olib boring."
+    },
+    {
+      "en": "Do you have a question? Ask our staff at Window 1. Please wait in line. Thank you!",
+      "uz": "Savolingiz bormi? 1-darchadagi xodimlarimizdan soʻrang. Iltimos, navbatda turing. Rahmat!"
+    }
+  ],
+  "glossary": [
+    {
+      "en": "post office",
+      "uz": "pochta boʻlimi"
+    },
+    {
+      "en": "closed",
+      "uz": "yopiq"
+    },
+    {
+      "en": "send",
+      "uz": "yubormoq"
+    },
+    {
+      "en": "letter",
+      "uz": "xat"
+    },
+    {
+      "en": "parcel",
+      "uz": "posilka"
+    },
+    {
+      "en": "stamp",
+      "uz": "marka"
+    },
+    {
+      "en": "envelope",
+      "uz": "konvert"
+    },
+    {
+      "en": "postcard",
+      "uz": "otkritka"
+    },
+    {
+      "en": "clearly",
+      "uz": "aniq, tushunarli"
+    },
+    {
+      "en": "staff",
+      "uz": "xodimlar"
+    },
+    {
+      "en": "wait in line",
+      "uz": "navbatda turmoq"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "b23-days-dates",
+      "title": {
+        "uz": "from Monday to Saturday"
+      },
+      "example": "We are open from Monday to Saturday"
+    },
+    {
+      "topicId": "b29-can",
+      "title": {
+        "uz": "can — qila olmoq"
+      },
+      "example": "You can also buy stamps, envelopes and postcards."
+    }
+  ],
+  "questions": [
+    {
+      "id": "a1-14-post-q1",
+      "type": "tfng",
+      "statement": "The post office is open on Sunday.",
+      "answer": "F",
+      "explain": {
+        "uz": "«We are closed on Sunday.»"
+      },
+      "para": 0
+    },
+    {
+      "id": "a1-14-post-q2",
+      "type": "choice",
+      "prompt": "What time does the post office close?",
+      "options": [
+        "at 5 p.m.",
+        "at 6 p.m.",
+        "at 9 p.m."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«from 9 a.m. to 6 p.m.» — soat 6 da yopiladi."
+      },
+      "para": 0
+    },
+    {
+      "id": "a1-14-post-q3",
+      "type": "tfng",
+      "statement": "You can send letters to other countries.",
+      "answer": "T",
+      "explain": {
+        "uz": "«you can send letters and parcels to all cities in Uzbekistan and to other countries»."
+      },
+      "para": 1
+    },
+    {
+      "id": "a1-14-post-q4",
+      "type": "gap",
+      "prompt": "You can also buy stamps, ___ and postcards.",
+      "answers": [
+        "envelopes"
+      ],
+      "maxWords": 1,
+      "explain": {
+        "uz": "«You can also buy stamps, envelopes and postcards.»"
+      },
+      "para": 1
+    },
+    {
+      "id": "a1-14-post-q5",
+      "type": "tfng",
+      "statement": "You can put food in your parcel.",
+      "answer": "F",
+      "explain": {
+        "uz": "«Don't put food or water in your parcel.» — mumkin emas."
+      },
+      "para": 2
+    },
+    {
+      "id": "a1-14-post-q6",
+      "type": "choice",
+      "prompt": "Where do you take a big parcel?",
+      "options": [
+        "to Window 1",
+        "to Window 2",
+        "to Window 3"
+      ],
+      "answer": 2,
+      "explain": {
+        "uz": "«Take big parcels to Window 3.» 1-darcha — savollar uchun."
+      },
+      "para": 2
+    },
+    {
+      "id": "a1-14-post-q7",
+      "type": "choice",
+      "prompt": "Where can you ask a question?",
+      "options": [
+        "at Window 1",
+        "at Window 3",
+        "on the phone"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "«Ask our staff at Window 1.»"
+      },
+      "para": 3
+    }
+  ]
+}

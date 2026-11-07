@@ -1,0 +1,182 @@
+{
+  "id": "a1-13-neighbour",
+  "title": {
+    "uz": "Yangi qoʻshni"
+  },
+  "en": "A New Neighbour",
+  "level": "A1",
+  "kind": "email",
+  "tag": {
+    "uz": "Qoʻshnilar",
+    "en": "Neighbours"
+  },
+  "intro": {
+    "uz": "Nodira dugonasi Zarinaga elektron xat yozadi. Oʻqishdan oldin: qoʻshnilaringizni taniysizmi? Ular qanday odamlar?"
+  },
+  "paragraphs": [
+    {
+      "en": "Hi Zarina, How are you? I have news. We have a new neighbour! Her name is Saida. She lives in the flat next to ours. She is from Fergana.",
+      "uz": "Salom, Zarina! Qalaysan? Yangilik bor. Bizning yangi qoʻshnimiz bor! Uning ismi Saida. U bizning yonimizdagi kvartirada yashaydi. U Fargʻonadan."
+    },
+    {
+      "en": "Saida is a doctor at the children's hospital. She is kind and friendly. She has a little son. His name is Amir, and he is four. He loves cats.",
+      "uz": "Saida bolalar kasalxonasida shifokor. U mehribon va xushmuomala. Uning kichkina oʻgʻli bor. Uning ismi Amir, u toʻrt yoshda. U mushuklarni yaxshi koʻradi."
+    },
+    {
+      "en": "Every evening, Amir plays with my cat Laylo in the yard. Saida often comes to our home for tea. My mother likes her very much.",
+      "uz": "Har kuni kechqurun Amir mening mushugim Laylo bilan hovlida oʻynaydi. Saida tez-tez bizga choyga keladi. Onam uni juda yaxshi koʻradi."
+    },
+    {
+      "en": "Come to my house on Saturday. You can meet them! Love, Nodira",
+      "uz": "Shanba kuni uyimga kel. Ular bilan tanishishing mumkin! Mehr bilan, Nodira"
+    }
+  ],
+  "glossary": [
+    {
+      "en": "news",
+      "uz": "yangilik"
+    },
+    {
+      "en": "neighbour",
+      "uz": "qoʻshni"
+    },
+    {
+      "en": "next to",
+      "uz": "yonida"
+    },
+    {
+      "en": "doctor",
+      "uz": "shifokor"
+    },
+    {
+      "en": "kind",
+      "uz": "mehribon"
+    },
+    {
+      "en": "friendly",
+      "uz": "xushmuomala, doʻstona"
+    },
+    {
+      "en": "son",
+      "uz": "oʻgʻil"
+    },
+    {
+      "en": "yard",
+      "uz": "hovli"
+    },
+    {
+      "en": "often",
+      "uz": "tez-tez"
+    },
+    {
+      "en": "meet",
+      "uz": "tanishmoq, uchrashmoq"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "b06-jobs",
+      "title": {
+        "uz": "Kasblar: She is a doctor"
+      },
+      "example": "Saida is a doctor at the children's hospital."
+    },
+    {
+      "topicId": "b24-frequency",
+      "title": {
+        "uz": "every evening, often"
+      },
+      "example": "Saida often comes to our home for tea."
+    }
+  ],
+  "questions": [
+    {
+      "id": "a1-13-neighbour-q1",
+      "type": "tfng",
+      "statement": "Saida lives next to Nodira.",
+      "answer": "T",
+      "explain": {
+        "uz": "«She lives in the flat next to ours.»"
+      },
+      "para": 0
+    },
+    {
+      "id": "a1-13-neighbour-q2",
+      "type": "choice",
+      "prompt": "Where is Saida from?",
+      "options": [
+        "Tashkent",
+        "Fergana",
+        "Bukhara"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«She is from Fergana.»"
+      },
+      "para": 0
+    },
+    {
+      "id": "a1-13-neighbour-q3",
+      "type": "choice",
+      "prompt": "What is Saida's job?",
+      "options": [
+        "a teacher",
+        "a nurse",
+        "a doctor"
+      ],
+      "answer": 2,
+      "explain": {
+        "uz": "«Saida is a doctor at the childrenʼs hospital.»"
+      },
+      "para": 1
+    },
+    {
+      "id": "a1-13-neighbour-q4",
+      "type": "tfng",
+      "statement": "Amir is six years old.",
+      "answer": "F",
+      "explain": {
+        "uz": "Amir toʻrt yoshda: «he is four»."
+      },
+      "para": 1
+    },
+    {
+      "id": "a1-13-neighbour-q5",
+      "type": "gap",
+      "prompt": "Amir plays with the cat in the ___.",
+      "answers": [
+        "yard"
+      ],
+      "maxWords": 1,
+      "explain": {
+        "uz": "«Amir plays with my cat Laylo in the yard»."
+      },
+      "para": 2
+    },
+    {
+      "id": "a1-13-neighbour-q6",
+      "type": "tfng",
+      "statement": "Nodira's mother doesn't like Saida.",
+      "answer": "F",
+      "explain": {
+        "uz": "Aksincha: «My mother likes her very much.»"
+      },
+      "para": 2
+    },
+    {
+      "id": "a1-13-neighbour-q7",
+      "type": "choice",
+      "prompt": "When can Zarina meet Saida and Amir?",
+      "options": [
+        "on Saturday",
+        "on Sunday",
+        "every evening"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "«Come to my house on Saturday. You can meet them!»"
+      },
+      "para": 3
+    }
+  ]
+}

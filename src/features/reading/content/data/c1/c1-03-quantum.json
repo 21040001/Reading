@@ -1,0 +1,306 @@
+{
+  "id": "c1-03-quantum",
+  "title": {
+    "uz": "Kvant kompyuterlar"
+  },
+  "en": "Quantum Computers: Beyond the Hype",
+  "level": "C1",
+  "kind": "exam",
+  "tag": {
+    "uz": "Fan va texnologiya",
+    "en": "Science and technology"
+  },
+  "intro": {
+    "uz": "Ilmiy-ommabop matn: bit va kubit, superpozitsiya, chalkashlik (entanglement), xatolarni tuzatish muammosi. Asosiy topshiriq — koʻp variantli test: muallifning maqsadi, munosabati va soʻz maʼnosini kontekstdan topish. Avval savolni oʻqing, matndan kerakli joyni toping, keyin har bir variantni matn bilan solishtiring — eng «aqlli» koʻringan emas, matn tasdiqlaydigan variantni tanlang. Taxminan 20 daqiqa ajrating."
+  },
+  "paragraphs": [
+    {
+      "en": "Few areas of technology attract as much breathless commentary as quantum computing. Headlines regularly announce that a new machine will revolutionise medicine, break every code or render conventional computers obsolete. Such claims tend to obscure both what makes the field genuinely remarkable and why progress has been slower than the excitement implies. Understanding either requires a brief look at how quantum computers differ from the machines we already use."
+    },
+    {
+      "en": "An ordinary computer processes information in bits, each of which is always in one of two definite states, conventionally written as 0 and 1. A quantum computer instead uses qubits, which can exist in a superposition of these two states. It is often said that a qubit is therefore 0 and 1 at the same time, but this popular description can mislead. More precisely, the state of a qubit is described by two numbers, known as amplitudes, which determine the probability of obtaining 0 or 1 when the qubit is measured. Measurement always produces a single definite result, and in doing so it destroys the superposition. A quantum computer cannot, therefore, simply try every possible answer at once and read them all out."
+    },
+    {
+      "en": "A second key ingredient is entanglement. When qubits become entangled, their states can no longer be described independently of one another: measuring one qubit gives information about the outcome of measuring the other, however far apart they may be. The correlations involved are stronger than any that could arise between ordinary objects, a fact that has been confirmed in numerous experiments. Contrary to a widespread misconception, though, entanglement cannot be used to send messages faster than light, because the result of each individual measurement remains random."
+    },
+    {
+      "en": "Where, then, does the potential advantage come from? The answer lies in the way amplitudes combine. Unlike probabilities, amplitudes can be negative or even complex numbers, so they can reinforce or cancel one another, much as waves do. A well-designed quantum algorithm choreographs this interference so that paths leading to wrong answers tend to cancel out while those leading to the right answer are amplified. Only certain problems possess the mathematical structure that makes such choreography possible. The best-known example is finding the prime factors of very large numbers, a task believed to be extremely difficult for conventional machines; another, which many researchers regard as more promising in the near term, is simulating the behaviour of molecules and materials, which are themselves governed by quantum mechanics. For a great many everyday tasks, by contrast, there is no reason to expect a quantum computer to be faster."
+    },
+    {
+      "en": "The principal obstacle is fragility. Qubits must be isolated from their surroundings with extraordinary care, since any unwanted interaction with heat, vibration or stray electromagnetic fields can disturb their delicate state, a process known as decoherence. Depending on the technology, qubits may be built from tiny superconducting circuits cooled to a fraction of a degree above absolute zero, from individual charged atoms held in place by electromagnetic fields, or from particles of light. Each approach has its own strengths, yet all of them suffer from errors at rates far higher than those tolerated in conventional electronics."
+    },
+    {
+      "en": "In ordinary computers, errors can be handled with a simple strategy: store several copies of each bit and, if one copy differs, trust the majority. Quantum mechanics rules out this approach in its straightforward form. A fundamental principle prevents an unknown quantum state from being copied, and checking a qubit directly would destroy the very superposition one wishes to protect. Quantum error correction gets round these constraints by spreading the information of one logical qubit across many physical qubits and measuring only carefully chosen collective properties, which reveal whether an error has occurred without revealing the stored information itself. The cost is considerable. Estimates vary with the hardware and the error rates achieved, but a single reliable logical qubit may require hundreds or even thousands of physical ones, and useful calculations would need many logical qubits."
+    },
+    {
+      "en": "None of this means that the field is overhyped in its entirety. Researchers have made steady progress in reducing error rates and have demonstrated the basic principles of error correction experimentally. What it does mean is that expectations should be calibrated. Quantum computers are unlikely ever to replace laptops or phones; they are better thought of as specialised instruments for a narrow but potentially important class of problems. Nor is it clear when machines powerful enough to outperform conventional computers on practically useful tasks will become available. Prudently, cryptographers are not waiting to find out: new encryption methods designed to resist quantum attack are already being developed and standardised, precisely because sensitive data intercepted today could, in principle, be decrypted in the future."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "breathless",
+      "uz": "hayajonli, haddan tashqari shov-shuvli"
+    },
+    {
+      "en": "render obsolete",
+      "uz": "eskirgan holga keltirmoq"
+    },
+    {
+      "en": "obscure",
+      "uz": "xiralashtirmoq, yashirmoq"
+    },
+    {
+      "en": "superposition",
+      "uz": "superpozitsiya (holatlarning ustma-ust kelishi)"
+    },
+    {
+      "en": "definite",
+      "uz": "aniq, muayyan"
+    },
+    {
+      "en": "entanglement",
+      "uz": "chalkashlik (kvant bogʻlanish)"
+    },
+    {
+      "en": "misconception",
+      "uz": "notoʻgʻri tasavvur"
+    },
+    {
+      "en": "reinforce",
+      "uz": "kuchaytirmoq"
+    },
+    {
+      "en": "interference",
+      "uz": "interferensiya (toʻlqinlarning qoʻshilishi)"
+    },
+    {
+      "en": "amplify",
+      "uz": "kuchaytirmoq"
+    },
+    {
+      "en": "fragility",
+      "uz": "moʻrtlik, nozik holat"
+    },
+    {
+      "en": "stray",
+      "uz": "tasodifiy, adashgan"
+    },
+    {
+      "en": "rule out",
+      "uz": "istisno qilmoq, imkonsiz qilmoq"
+    },
+    {
+      "en": "get round",
+      "uz": "(qiyinchilikni) aylanib oʻtmoq"
+    },
+    {
+      "en": "calibrate",
+      "uz": "moslab sozlamoq, toʻgʻrilamoq"
+    },
+    {
+      "en": "prudently",
+      "uz": "oqilona, ehtiyotkorlik bilan"
+    },
+    {
+      "en": "intercept",
+      "uz": "yoʻlda tutib olmoq"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "c58-inversion",
+      "title": {
+        "uz": "Nor dan keyin inversiya: Nor is it clear when …"
+      },
+      "example": "Nor is it clear when machines powerful enough to outperform conventional computers on practically useful tasks will become available"
+    },
+    {
+      "topicId": "c16-reporting-passive",
+      "title": {
+        "uz": "Xabar beruvchi majhul nisbat: It is often said that …"
+      },
+      "example": "It is often said that a qubit is therefore 0 and 1 at the same time"
+    }
+  ],
+  "questions": [
+    {
+      "id": "c1-03-quantum-q1",
+      "type": "choice",
+      "prompt": "According to paragraph B, why is it misleading to say that a qubit is 0 and 1 at the same time?",
+      "options": [
+        "A qubit can in fact only hold the value 0",
+        "Amplitudes cannot be measured with current technology",
+        "Measurement always gives one result, so all possible answers cannot be read out at once",
+        "Ordinary bits can also exist in a superposition"
+      ],
+      "answer": 2,
+      "explain": {
+        "uz": "«Measurement always produces a single definite result … cannot … simply try every possible answer at once and read them all out»."
+      },
+      "para": 1
+    },
+    {
+      "id": "c1-03-quantum-q2",
+      "type": "choice",
+      "prompt": "What does the writer say about entanglement and communication?",
+      "options": [
+        "It allows instant communication, but only over short distances",
+        "Its effects have not yet been confirmed by experiment",
+        "It produces weaker correlations than those between ordinary objects",
+        "It cannot be used to send messages faster than light because individual results are random"
+      ],
+      "answer": 3,
+      "explain": {
+        "uz": "«entanglement cannot be used to send messages faster than light, because the result of each individual measurement remains random». Tajribalar tasdiqlagan, korrelyatsiyalar esa kuchliroq — boshqa variantlar zid."
+      },
+      "para": 2
+    },
+    {
+      "id": "c1-03-quantum-q3",
+      "type": "choice",
+      "prompt": "The word \"choreographs\" in paragraph D suggests that a quantum algorithm",
+      "options": [
+        "carefully arranges how amplitudes combine",
+        "randomly tests many possible answers",
+        "copies amplitudes into several qubits",
+        "measures each qubit many times"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "Raqs xoreografiyasi kabi — har bir harakat oldindan rejalashtiriladi: notoʻgʻri yoʻllar bir-birini yoʻqqa chiqaradi, toʻgʻrisi kuchayadi. Bu tasodifiy sinash emas."
+      },
+      "para": 3
+    },
+    {
+      "id": "c1-03-quantum-q4",
+      "type": "choice",
+      "prompt": "Which application do many researchers regard as more promising in the near term?",
+      "options": [
+        "Factoring very large numbers",
+        "Replacing laptops and phones",
+        "Simulating molecules and materials",
+        "Sending secret messages"
+      ],
+      "answer": 2,
+      "explain": {
+        "uz": "«another, which many researchers regard as more promising in the near term, is simulating the behaviour of molecules and materials»."
+      },
+      "para": 3
+    },
+    {
+      "id": "c1-03-quantum-q5",
+      "type": "choice",
+      "prompt": "Why can the ordinary method of error correction not simply be applied to qubits?",
+      "options": [
+        "Qubits make too few errors to need correction",
+        "Unknown quantum states cannot be copied, and checking them directly destroys the superposition",
+        "Majority voting is too slow for quantum machines",
+        "Physical qubits cannot be grouped together"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«A fundamental principle prevents an unknown quantum state from being copied, and checking a qubit directly would destroy the very superposition»."
+      },
+      "para": 5
+    },
+    {
+      "id": "c1-03-quantum-q6",
+      "type": "choice",
+      "prompt": "What is the writer's overall attitude to quantum computing?",
+      "options": [
+        "Dismissive: the whole field is overhyped",
+        "Enthusiastic: quantum computers will soon replace conventional ones",
+        "Neutral: the writer avoids expressing any view",
+        "Cautiously positive: real progress has been made, but expectations should be realistic"
+      ],
+      "answer": 3,
+      "explain": {
+        "uz": "«None of this means that the field is overhyped in its entirety… expectations should be calibrated» — ijobiy, lekin ehtiyotkor munosabat."
+      },
+      "para": 6
+    },
+    {
+      "id": "c1-03-quantum-q7",
+      "type": "tfng",
+      "statement": "Measuring a qubit leaves its superposition unchanged.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«in doing so it destroys the superposition» — oʻzgarmasdan qolmaydi."
+      },
+      "para": 1
+    },
+    {
+      "id": "c1-03-quantum-q8",
+      "type": "tfng",
+      "statement": "Quantum computers are expected to be faster than conventional computers at most everyday tasks.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«For a great many everyday tasks … there is no reason to expect a quantum computer to be faster»."
+      },
+      "para": 3
+    },
+    {
+      "id": "c1-03-quantum-q9",
+      "type": "tfng",
+      "statement": "Error rates have fallen at the same speed for every type of qubit.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Matnda xatolar kamayayotgani («steady progress in reducing error rates») aytilgan, lekin turli kubit turlari solishtirilmagan."
+      },
+      "para": 6
+    },
+    {
+      "id": "c1-03-quantum-q10",
+      "type": "tfng",
+      "statement": "Some encryption methods intended to withstand quantum computers are already being developed.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«new encryption methods designed to resist quantum attack are already being developed»."
+      },
+      "para": 6
+    },
+    {
+      "id": "c1-03-quantum-q11",
+      "type": "gap",
+      "prompt": "Unwanted interaction with the surroundings disturbs a qubit in a process called ___.",
+      "answers": [
+        "decoherence"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«can disturb their delicate state, a process known as decoherence»."
+      },
+      "para": 4
+    },
+    {
+      "id": "c1-03-quantum-q12",
+      "type": "gap",
+      "prompt": "Error correction spreads the information of one ___ across many physical qubits.",
+      "answers": [
+        "logical qubit"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«spreading the information of one logical qubit across many physical qubits»."
+      },
+      "para": 5
+    },
+    {
+      "id": "c1-03-quantum-q13",
+      "type": "gap",
+      "prompt": "Like waves, amplitudes can reinforce or ___ one another.",
+      "answers": [
+        "cancel"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«they can reinforce or cancel one another, much as waves do»."
+      },
+      "para": 3
+    }
+  ]
+}

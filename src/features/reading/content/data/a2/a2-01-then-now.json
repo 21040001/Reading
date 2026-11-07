@@ -1,0 +1,199 @@
+{
+  "id": "a2-01-then-now",
+  "title": {
+    "uz": "Ilgari va hozir"
+  },
+  "en": "Then and Now",
+  "level": "A2",
+  "kind": "blog",
+  "tag": {
+    "uz": "Oʻzgarishlar",
+    "en": "Changes"
+  },
+  "intro": {
+    "uz": "Sardor blogida bolaligi va hozirgi hayotini solishtiradi. Oʻqishdan oldin: siz bolaligingizdan beri qanday oʻzgardingiz?"
+  },
+  "paragraphs": [
+    {
+      "en": "Hi, I'm Sardor, and I'm twenty-two. Today I looked at some old photos from my childhood in Namangan, and I laughed a lot. I have changed so much! So in this post I want to write about my life then and now.",
+      "uz": "Salom, men Sardorman, yigirma ikki yoshdaman. Bugun Namangandagi bolaligimdan qolgan eski suratlarni koʻrib, rosa kuldim. Men juda oʻzgarib ketibman! Shuning uchun bu postda ilgarigi va hozirgi hayotim haqida yozmoqchiman."
+    },
+    {
+      "en": "When I was ten, I used to be very shy. I didn't use to talk to new people, and I always stood behind my mother at weddings. Now I work at a hotel in Samarkand, and I talk to guests from different countries every day.",
+      "uz": "Oʻn yoshligimda men juda uyatchan edim. Yangi odamlar bilan gaplashmasdim, toʻylarda doim onamning orqasida turardim. Hozir Samarqanddagi mehmonxonada ishlayman va har kuni turli mamlakatlardan kelgan mehmonlar bilan gaplashaman."
+    },
+    {
+      "en": "I also used to hate vegetables. My grandmother cooked delicious soup with carrots and pumpkin, but I never ate it. Now soup is my favourite food, and I cook it myself on Sundays.",
+      "uz": "Bundan tashqari, ilgari sabzavotlarni yomon koʻrardim. Buvim sabzi va qovoq solib mazali shoʻrva pishirardi, lekin men uni hech qachon yemasdim. Hozir shoʻrva — sevimli taomim, yakshanba kunlari uni oʻzim pishiraman."
+    },
+    {
+      "en": "Some things are different now, but some things haven't changed. I still love football, and I still play with my old friends when I go back to Namangan. They are taller now, but we laugh like children.",
+      "uz": "Baʼzi narsalar hozir boshqacha, lekin baʼzilari oʻzgarmagan. Men hamon futbolni yaxshi koʻraman va Namanganga qaytganimda eski doʻstlarim bilan hali ham oʻynayman. Endi ularning boʻyi ancha oʻsgan, lekin biz bolalardek kulamiz."
+    },
+    {
+      "en": "What about you? What did you use to do as a child? Write in the comments!",
+      "uz": "Sizchi? Bolaligingizda nima qilardingiz? Izohlarda yozing!"
+    }
+  ],
+  "glossary": [
+    {
+      "en": "childhood",
+      "uz": "bolalik"
+    },
+    {
+      "en": "shy",
+      "uz": "uyatchan"
+    },
+    {
+      "en": "wedding",
+      "uz": "toʻy"
+    },
+    {
+      "en": "guest",
+      "uz": "mehmon"
+    },
+    {
+      "en": "different",
+      "uz": "turli; boshqacha"
+    },
+    {
+      "en": "hate",
+      "uz": "yomon koʻrmoq"
+    },
+    {
+      "en": "pumpkin",
+      "uz": "qovoq"
+    },
+    {
+      "en": "myself",
+      "uz": "oʻzim"
+    },
+    {
+      "en": "still",
+      "uz": "hali ham, hamon"
+    },
+    {
+      "en": "comment",
+      "uz": "izoh, fikr"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "e11-used-to",
+      "title": {
+        "uz": "used to — ilgari qilardim"
+      },
+      "example": "I used to be very shy."
+    },
+    {
+      "topicId": "e13-present-perfect",
+      "title": {
+        "uz": "Present Perfect: I have changed"
+      },
+      "example": "I have changed so much!"
+    }
+  ],
+  "questions": [
+    {
+      "id": "a2-01-then-now-q1",
+      "type": "tfng",
+      "statement": "Sardor looked at old photos from his childhood.",
+      "answer": "T",
+      "explain": {
+        "uz": "1-xatboshi: «Today I looked at some old photos from my childhood»."
+      },
+      "para": 0
+    },
+    {
+      "id": "a2-01-then-now-q2",
+      "type": "tfng",
+      "statement": "As a child, Sardor liked talking to new people.",
+      "answer": "F",
+      "explain": {
+        "uz": "U uyatchan boʻlgan: «I didn't use to talk to new people»."
+      },
+      "para": 1
+    },
+    {
+      "id": "a2-01-then-now-q3",
+      "type": "choice",
+      "prompt": "Where does Sardor work now?",
+      "options": [
+        "at a school in Namangan",
+        "at a hotel in Samarkand",
+        "at a restaurant in Tashkent"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«Now I work at a hotel in Samarkand»."
+      },
+      "para": 1
+    },
+    {
+      "id": "a2-01-then-now-q4",
+      "type": "choice",
+      "prompt": "Why does Sardor talk to people from different countries now?",
+      "options": [
+        "He works with hotel guests.",
+        "He studies languages at university.",
+        "He travels a lot."
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "U mehmonxonada ishlaydi: «I talk to guests from different countries every day»."
+      },
+      "para": 1
+    },
+    {
+      "id": "a2-01-then-now-q5",
+      "type": "tfng",
+      "statement": "Sardor's grandmother made soup with carrots and pumpkin.",
+      "answer": "T",
+      "explain": {
+        "uz": "«My grandmother cooked delicious soup with carrots and pumpkin»."
+      },
+      "para": 2
+    },
+    {
+      "id": "a2-01-then-now-q6",
+      "type": "gap",
+      "prompt": "Now Sardor cooks soup himself on ___.",
+      "answers": [
+        "Sundays"
+      ],
+      "explain": {
+        "uz": "«I cook it myself on Sundays»."
+      },
+      "para": 2
+    },
+    {
+      "id": "a2-01-then-now-q7",
+      "type": "choice",
+      "prompt": "What is true about Sardor and football?",
+      "options": [
+        "He stopped playing it.",
+        "He still loves it.",
+        "He started playing it in Samarkand."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«I still love football» — still = hali ham."
+      },
+      "para": 3
+    },
+    {
+      "id": "a2-01-then-now-q8",
+      "type": "gap",
+      "prompt": "Sardor is ___ years old.",
+      "answers": [
+        "twenty-two",
+        "22",
+        "twenty two"
+      ],
+      "explain": {
+        "uz": "«I'm twenty-two» — u 22 yoshda."
+      },
+      "para": 0
+    }
+  ]
+}

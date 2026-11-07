@@ -1,0 +1,185 @@
+{
+  "id": "a1-25-lost-bag",
+  "title": {
+    "uz": "Yoʻqolgan sumka"
+  },
+  "en": "Lost Bag",
+  "level": "A1",
+  "kind": "notice",
+  "tag": {
+    "uz": "Eʼlon",
+    "en": "Notice"
+  },
+  "intro": {
+    "uz": "Bu — bozordagi eʼlon. Oʻqishdan oldin: sumkangizda odatda nimalar boʻladi?"
+  },
+  "paragraphs": [
+    {
+      "en": "LOST BAG. My name is Kamola, and I can't find my bag. I think it is at Chorsu Bazaar, near the bread stalls.",
+      "uz": "SUMKA YOʻQOLDI. Mening ismim Kamola, men sumkamni topa olmayapman. Menimcha, u Chorsu bozorida, non rastalari yaqinida."
+    },
+    {
+      "en": "It is a small brown bag. There is a black phone, a blue notebook and my keys in it. There is no money in it.",
+      "uz": "Bu — kichkina jigarrang sumka. Uning ichida qora telefon, koʻk daftar va kalitlarim bor. Ichida pul yoʻq."
+    },
+    {
+      "en": "The notebook is very important to me. My English homework and my poems are in it.",
+      "uz": "Daftar men uchun juda muhim. Unda ingliz tili uy vazifam va sheʼrlarim bor."
+    },
+    {
+      "en": "Can you help me? My phone is in the bag, so please call my brother Jahongir. His number is below. Thank you!",
+      "uz": "Menga yordam bera olasizmi? Telefonim sumkada, shuning uchun iltimos, akam Jahongirga qoʻngʻiroq qiling. Uning raqami pastda. Rahmat!"
+    }
+  ],
+  "glossary": [
+    {
+      "en": "lost",
+      "uz": "yoʻqolgan"
+    },
+    {
+      "en": "help",
+      "uz": "yordam bermoq"
+    },
+    {
+      "en": "near",
+      "uz": "yaqinida"
+    },
+    {
+      "en": "bread",
+      "uz": "non"
+    },
+    {
+      "en": "brown",
+      "uz": "jigarrang"
+    },
+    {
+      "en": "notebook",
+      "uz": "daftar"
+    },
+    {
+      "en": "key",
+      "uz": "kalit"
+    },
+    {
+      "en": "money",
+      "uz": "pul"
+    },
+    {
+      "en": "important",
+      "uz": "muhim"
+    },
+    {
+      "en": "poem",
+      "uz": "sheʼr"
+    },
+    {
+      "en": "below",
+      "uz": "pastda, quyida"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "b14-there-is",
+      "title": {
+        "uz": "there is / there is no"
+      },
+      "example": "There is no money in it."
+    },
+    {
+      "topicId": "b29-can",
+      "title": {
+        "uz": "Can you …? — iltimos"
+      },
+      "example": "Can you help me?"
+    }
+  ],
+  "questions": [
+    {
+      "id": "a1-25-lost-bag-q1",
+      "type": "choice",
+      "prompt": "Where does Kamola think her bag is?",
+      "options": [
+        "at the train station",
+        "at Chorsu Bazaar",
+        "at school"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«I think it is at Chorsu Bazaar, near the bread stalls.»"
+      },
+      "para": 0
+    },
+    {
+      "id": "a1-25-lost-bag-q2",
+      "type": "choice",
+      "prompt": "What colour is the bag?",
+      "options": [
+        "black",
+        "blue",
+        "brown"
+      ],
+      "answer": 2,
+      "explain": {
+        "uz": "«It is a small brown bag.» Qora — telefon, koʻk — daftar."
+      },
+      "para": 1
+    },
+    {
+      "id": "a1-25-lost-bag-q3",
+      "type": "tfng",
+      "statement": "There is a phone in the bag.",
+      "answer": "T",
+      "explain": {
+        "uz": "«There is a black phone… in it.»"
+      },
+      "para": 1
+    },
+    {
+      "id": "a1-25-lost-bag-q4",
+      "type": "tfng",
+      "statement": "There is a lot of money in the bag.",
+      "answer": "F",
+      "explain": {
+        "uz": "Pul yoʻq: «There is no money in it.»"
+      },
+      "para": 1
+    },
+    {
+      "id": "a1-25-lost-bag-q5",
+      "type": "gap",
+      "prompt": "Her English homework and her ___ are in the notebook.",
+      "answers": [
+        "poems"
+      ],
+      "explain": {
+        "uz": "«My English homework and my poems are in it.»"
+      },
+      "para": 2
+    },
+    {
+      "id": "a1-25-lost-bag-q6",
+      "type": "tfng",
+      "statement": "The notebook is not important to Kamola.",
+      "answer": "F",
+      "explain": {
+        "uz": "Daftar muhim: «The notebook is very important to me.»"
+      },
+      "para": 2
+    },
+    {
+      "id": "a1-25-lost-bag-q7",
+      "type": "choice",
+      "prompt": "Who should people call?",
+      "options": [
+        "Kamola",
+        "her brother Jahongir",
+        "the police"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«please call my brother Jahongir»."
+      },
+      "para": 3
+    }
+  ]
+}

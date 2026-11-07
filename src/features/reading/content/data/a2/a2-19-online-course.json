@@ -1,0 +1,207 @@
+{
+  "id": "a2-19-online-course",
+  "title": {
+    "uz": "Onlayn kurs"
+  },
+  "en": "An Online Course",
+  "level": "A2",
+  "kind": "dialogue",
+  "tag": {
+    "uz": "Ish va oʻqish",
+    "en": "Work and study"
+  },
+  "intro": {
+    "uz": "Malika va Bobur onlayn kurs haqida gaplashishadi. Oʻqishdan oldin: siz internet orqali biror narsa oʻrganganmisiz?"
+  },
+  "paragraphs": [
+    {
+      "en": "Bobur: Malika, you look tired. Are you OK? Malika: I'm fine, thanks. I've just finished a lesson for my online course. I'm learning web design.",
+      "uz": "Bobur: Malika, charchagan koʻrinasan. Yaxshimisan? Malika: Yaxshiman, rahmat. Hozirgina onlayn kursimdagi darsni tugatdim. Men veb-dizaynni oʻrganyapman."
+    },
+    {
+      "en": "Bobur: Online? Is it difficult to study without a teacher? Malika: There is a teacher, but she lives in Tashkent and I live in Namangan. We meet in a video lesson every Tuesday. The other lessons are short videos, so I can watch them at any time.",
+      "uz": "Bobur: Onlayn? Oʻqituvchisiz oʻqish qiyin emasmi? Malika: Oʻqituvchi bor, lekin u Toshkentda yashaydi, men esa Namanganda. Har seshanba video darsda uchrashamiz. Qolgan darslar qisqa videolar, shuning uchun ularni xohlagan vaqtda koʻra olaman."
+    },
+    {
+      "en": "Bobur: How long is the course? Malika: Three months. I have already finished the first month, and I've made my first simple website. It was for my aunt's flower shop!",
+      "uz": "Bobur: Kurs qancha davom etadi? Malika: Uch oy. Birinchi oyni allaqachon tugatdim va birinchi oddiy saytimni yaratdim. U xolamning gul doʻkoni uchun edi!"
+    },
+    {
+      "en": "Bobur: That's great. Is it expensive? Malika: Not very. It costs 300,000 sum a month. But you have to be very organised. Nobody checks if you watch the videos. Last week I was lazy, and I haven't done my homework yet.",
+      "uz": "Bobur: Zoʻr-ku. Qimmatmi? Malika: Unchalik emas. Oyiga 300 000 soʻm turadi. Lekin juda tartibli boʻlishing kerak. Videolarni koʻryapsanmi-yoʻqmi, hech kim tekshirmaydi. Oʻtgan hafta dangasalik qildim va uy vazifamni hali bajarmadim."
+    },
+    {
+      "en": "Bobur: Maybe I should try a course too. I'd like to learn photography. Malika: Good idea! I'll send you the link to the website after dinner.",
+      "uz": "Bobur: Balki men ham biror kursni sinab koʻrarman. Fotografiyani oʻrganmoqchiman. Malika: Yaxshi fikr! Kechki ovqatdan keyin senga sayt havolasini yuboraman."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "online course",
+      "uz": "onlayn kurs"
+    },
+    {
+      "en": "web design",
+      "uz": "veb-dizayn"
+    },
+    {
+      "en": "without",
+      "uz": "…siz, …dan holi"
+    },
+    {
+      "en": "at any time",
+      "uz": "xohlagan vaqtda"
+    },
+    {
+      "en": "simple",
+      "uz": "oddiy"
+    },
+    {
+      "en": "website",
+      "uz": "veb-sayt"
+    },
+    {
+      "en": "expensive",
+      "uz": "qimmat"
+    },
+    {
+      "en": "organised",
+      "uz": "tartibli, uyushgan"
+    },
+    {
+      "en": "check",
+      "uz": "tekshirmoq"
+    },
+    {
+      "en": "lazy",
+      "uz": "dangasa"
+    },
+    {
+      "en": "photography",
+      "uz": "fotografiya, suratga olish"
+    },
+    {
+      "en": "link",
+      "uz": "havola"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "e14-just-already-yet",
+      "title": {
+        "uz": "just / already / yet"
+      },
+      "example": "I have already finished the first month"
+    },
+    {
+      "topicId": "e30-would-like",
+      "title": {
+        "uz": "would like — xohlamoq (muloyim)"
+      },
+      "example": "I'd like to learn photography."
+    }
+  ],
+  "questions": [
+    {
+      "id": "a2-19-online-course-q1",
+      "type": "tfng",
+      "statement": "Malika has just finished a lesson.",
+      "answer": "T",
+      "explain": {
+        "uz": "«I've just finished a lesson for my online course.»"
+      },
+      "para": 0
+    },
+    {
+      "id": "a2-19-online-course-q2",
+      "type": "choice",
+      "prompt": "What is Malika learning?",
+      "options": [
+        "photography",
+        "web design",
+        "English"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«I'm learning web design.» Fotografiyani esa Bobur oʻrganmoqchi."
+      },
+      "para": 0
+    },
+    {
+      "id": "a2-19-online-course-q3",
+      "type": "tfng",
+      "statement": "Malika and her teacher live in the same city.",
+      "answer": "F",
+      "explain": {
+        "uz": "Oʻqituvchi Toshkentda, Malika Namanganda: «she lives in Tashkent and I live in Namangan»."
+      },
+      "para": 1
+    },
+    {
+      "id": "a2-19-online-course-q4",
+      "type": "choice",
+      "prompt": "Why can Malika watch most of the lessons at any time?",
+      "options": [
+        "because they are short videos",
+        "because her teacher is always online",
+        "because she doesn't go to work"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "«The other lessons are short videos, so I can watch them at any time.»"
+      },
+      "para": 1
+    },
+    {
+      "id": "a2-19-online-course-q5",
+      "type": "gap",
+      "prompt": "Malika made her first website for her aunt's ___ shop.",
+      "answers": [
+        "flower"
+      ],
+      "explain": {
+        "uz": "«It was for my aunt's flower shop!»"
+      },
+      "para": 2
+    },
+    {
+      "id": "a2-19-online-course-q6",
+      "type": "gap",
+      "prompt": "The course costs ___ sum a month.",
+      "answers": [
+        "300,000",
+        "300 000",
+        "300000"
+      ],
+      "explain": {
+        "uz": "«It costs 300,000 sum a month.»"
+      },
+      "para": 3
+    },
+    {
+      "id": "a2-19-online-course-q7",
+      "type": "tfng",
+      "statement": "Malika has done all her homework.",
+      "answer": "F",
+      "explain": {
+        "uz": "«I haven't done my homework yet.» — hali bajarmagan."
+      },
+      "para": 3
+    },
+    {
+      "id": "a2-19-online-course-q8",
+      "type": "choice",
+      "prompt": "What would Bobur like to learn?",
+      "options": [
+        "web design",
+        "cooking",
+        "photography"
+      ],
+      "answer": 2,
+      "explain": {
+        "uz": "«I'd like to learn photography.»"
+      },
+      "para": 4
+    }
+  ]
+}

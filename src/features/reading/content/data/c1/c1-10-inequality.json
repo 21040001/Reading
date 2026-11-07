@@ -1,0 +1,339 @@
+{
+  "id": "c1-10-inequality",
+  "title": {
+    "uz": "Ijtimoiy tengsizlik"
+  },
+  "en": "Measuring Inequality",
+  "level": "C1",
+  "kind": "exam",
+  "tag": {
+    "uz": "Jamiyat",
+    "en": "Society"
+  },
+  "intro": {
+    "uz": "Toʻliq mashq testi: ijtimoiy tengsizlikni oʻlchash (Jini koeffitsiyenti), uning sabablari haqidagi bahslar va avlodlararo ijtimoiy harakatchanlikka taʼsiri. Imtihondagidek aralash topshiriqlar: Matching headings, True / False / Not Given, test va boʻshliq toʻldirish. Matn betaraf: muallif turli qarashlarni keltiradi — kimning fikri ekaniga eʼtibor bering. Taxminan 20 daqiqa: avval sarlavhalar, keyin TFNG va boʻshliqlar, test savollari oxirida."
+  },
+  "paragraphs": [
+    {
+      "en": "Few economic topics provoke as much disagreement as inequality. Yet before one can debate whether inequality is too high, too low or simply inevitable, one must first decide what is being measured, and among whom. Income, the flow of money people receive from wages, investments and benefits over a period, is the most commonly studied. Wealth, the stock of assets people own minus their debts, is another, and it is typically distributed far more unevenly than income, since assets accumulate over lifetimes and can be passed between generations. Economists also distinguish inequality of outcomes from inequality of opportunity, the extent to which a person's prospects are shaped by circumstances beyond their control, such as the family into which they are born."
+    },
+    {
+      "en": "The most widely cited single measure is the Gini coefficient, named after the Italian statistician who proposed it in the early twentieth century. Its logic can be explained quite simply. Imagine lining up a population from poorest to richest and plotting the share of total income received by each successive portion. If income were shared perfectly equally, the poorest tenth would receive a tenth of the total, the poorest half would receive half, and so on, producing a straight diagonal line. In reality, the line sags below this diagonal, and the Gini coefficient expresses the size of that gap as a number between zero, representing perfect equality, and one, representing a situation in which a single person receives everything. It is often multiplied by a hundred for convenience."
+    },
+    {
+      "en": "Convenient as it is, the Gini coefficient has limitations. Because it compresses an entire distribution into a single figure, very different societies can share the same score: one in which the middle class is squeezed, for instance, and another in which the very top pulls away from everyone else. For this reason, researchers often supplement it with other indicators, such as the share of income going to the top tenth or top hundredth of earners. Measurement is further complicated by the fact that the very wealthy may under-report their income in surveys, while tax records may miss informal earnings altogether."
+    },
+    {
+      "en": "Explanations for changes in inequality within countries are contested, and most economists believe that several forces operate simultaneously. One influential account emphasises technology, which is thought to have raised the demand for highly educated workers while reducing it for routine tasks that machines can perform. Another stresses globalisation, which has exposed some workers in richer countries to competition from lower-wage economies while creating opportunities for others. Still others point to institutions and policy: changes in taxation, declining trade union membership in some countries, and the rules governing finance and executive pay. Disentangling these influences is difficult, and the relative weight given to each often reflects underlying assumptions as well as evidence."
+    },
+    {
+      "en": "It is also important to distinguish between trends within countries and across the world as a whole. Over recent decades, rapid growth in several large Asian economies is generally believed to have lifted hundreds of millions of people out of extreme poverty, narrowing the gap between the average citizen of poorer and richer nations. At the same time, inequality within many individual countries has widened. Both observations can be true at once, which helps to explain why people examining the same data sometimes reach opposite conclusions."
+    },
+    {
+      "en": "Perhaps the most consequential debate concerns the relationship between inequality and social mobility, the ability of individuals to move up or down the economic ladder relative to their parents. Comparisons across countries suggest that societies with higher income inequality tend to have lower mobility between generations, a pattern sometimes referred to as the Great Gatsby curve. Several mechanisms have been proposed: wealthier families can invest more in education, housing near good schools and social connections, so advantages may be transmitted more effectively when the gaps between families are wider. Nevertheless, a correlation of this kind does not in itself prove causation, and the strength of the relationship remains disputed."
+    },
+    {
+      "en": "Ultimately, measurement can inform but not settle the question of how much inequality a society should accept. Some argue that a degree of inequality is a necessary consequence of rewarding effort, risk-taking and innovation, and that the priority should be raising living standards at the bottom rather than narrowing gaps. Others contend that large disparities undermine social cohesion and trust and concentrate political influence. These are questions of values as well as evidence. What careful measurement can offer is a shared factual basis, without which the debate risks becoming a mere exchange of assertions."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "provoke disagreement",
+      "uz": "kelishmovchilik keltirib chiqarmoq"
+    },
+    {
+      "en": "inevitable",
+      "uz": "muqarrar"
+    },
+    {
+      "en": "distributed unevenly",
+      "uz": "notekis taqsimlangan"
+    },
+    {
+      "en": "accumulate",
+      "uz": "toʻplanmoq, jamgʻarilmoq"
+    },
+    {
+      "en": "circumstances beyond their control",
+      "uz": "oʻz ixtiyoridan tashqaridagi sharoitlar"
+    },
+    {
+      "en": "coefficient",
+      "uz": "koeffitsiyent"
+    },
+    {
+      "en": "successive",
+      "uz": "ketma-ket keluvchi"
+    },
+    {
+      "en": "supplement",
+      "uz": "toʻldirmoq, qoʻshimcha qilmoq"
+    },
+    {
+      "en": "under-report",
+      "uz": "kamaytirib koʻrsatmoq"
+    },
+    {
+      "en": "simultaneously",
+      "uz": "bir vaqtning oʻzida"
+    },
+    {
+      "en": "disentangle",
+      "uz": "ajratib olmoq, chigalini yechmoq"
+    },
+    {
+      "en": "underlying assumptions",
+      "uz": "asosdagi (yashirin) farazlar"
+    },
+    {
+      "en": "consequential",
+      "uz": "muhim oqibatli"
+    },
+    {
+      "en": "social mobility",
+      "uz": "ijtimoiy harakatchanlik"
+    },
+    {
+      "en": "correlation",
+      "uz": "oʻzaro bogʻliqlik, korrelyatsiya"
+    },
+    {
+      "en": "causation",
+      "uz": "sababiyat"
+    },
+    {
+      "en": "disparity",
+      "uz": "tafovut, nomutanosiblik"
+    },
+    {
+      "en": "social cohesion",
+      "uz": "ijtimoiy birdamlik"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "c46-contrast-concession",
+      "title": {
+        "uz": "Toʻsiqsiz ergash gap: Convenient as it is, …"
+      },
+      "example": "Convenient as it is, the Gini coefficient has limitations"
+    },
+    {
+      "topicId": "c14-complex-passive",
+      "title": {
+        "uz": "Murakkab majhul nisbat: is thought to have raised"
+      },
+      "example": "which is thought to have raised the demand for highly educated workers"
+    }
+  ],
+  "questions": [
+    {
+      "id": "c1-10-inequality-q1",
+      "type": "heading",
+      "para": 2,
+      "options": [
+        "What one figure can hide",
+        "Policies that have successfully reduced inequality",
+        "Deciding what to count",
+        "Two trends that seem to contradict each other",
+        "Where data ends and values begin",
+        "A single number explained",
+        "Competing accounts of widening gaps",
+        "Does inequality shape the next generation?"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "Xatboshi C: Jini koeffitsiyenti butun taqsimotni bitta raqamga siqadi, shuning uchun turli jamiyatlar bir xil natijaga ega boʻlishi mumkin — «very different societies can share the same score»."
+      }
+    },
+    {
+      "id": "c1-10-inequality-q2",
+      "type": "heading",
+      "para": 3,
+      "options": [
+        "What one figure can hide",
+        "Policies that have successfully reduced inequality",
+        "Deciding what to count",
+        "Two trends that seem to contradict each other",
+        "Where data ends and values begin",
+        "A single number explained",
+        "Competing accounts of widening gaps",
+        "Does inequality shape the next generation?"
+      ],
+      "answer": 6,
+      "explain": {
+        "uz": "Xatboshi D: texnologiya, globallashuv, institutlar — tengsizlik oʻsishining raqobatdosh izohlari («One influential account … Another … Still others»)."
+      }
+    },
+    {
+      "id": "c1-10-inequality-q3",
+      "type": "heading",
+      "para": 4,
+      "options": [
+        "What one figure can hide",
+        "Policies that have successfully reduced inequality",
+        "Deciding what to count",
+        "Two trends that seem to contradict each other",
+        "Where data ends and values begin",
+        "A single number explained",
+        "Competing accounts of widening gaps",
+        "Does inequality shape the next generation?"
+      ],
+      "answer": 3,
+      "explain": {
+        "uz": "Xatboshi E: mamlakatlar oʻrtasidagi farq qisqargan, mamlakatlar ichidagi farq esa oʻsgan — «Both observations can be true at once». Bir-biriga zid koʻringan ikki tendensiya."
+      }
+    },
+    {
+      "id": "c1-10-inequality-q4",
+      "type": "heading",
+      "para": 6,
+      "options": [
+        "What one figure can hide",
+        "Policies that have successfully reduced inequality",
+        "Deciding what to count",
+        "Two trends that seem to contradict each other",
+        "Where data ends and values begin",
+        "A single number explained",
+        "Competing accounts of widening gaps",
+        "Does inequality shape the next generation?"
+      ],
+      "answer": 4,
+      "explain": {
+        "uz": "Xatboshi G: «measurement can inform but not settle the question … These are questions of values as well as evidence». «Policies that have successfully reduced inequality» — matnda bunday siyosatlar yoʻq."
+      }
+    },
+    {
+      "id": "c1-10-inequality-q5",
+      "type": "tfng",
+      "statement": "Wealth is generally shared more equally than income.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "Aksincha: wealth «is typically distributed far more unevenly than income»."
+      },
+      "para": 0
+    },
+    {
+      "id": "c1-10-inequality-q6",
+      "type": "tfng",
+      "statement": "A Gini coefficient of zero would describe a society in which one person receives all the income.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "Nol — «perfect equality»; bir kishi hammasini olishi — bir («one»)."
+      },
+      "para": 1
+    },
+    {
+      "id": "c1-10-inequality-q7",
+      "type": "tfng",
+      "statement": "Most countries publish an official Gini coefficient every year.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Matnda koeffitsiyent «the most widely cited» ekani va qanday hisoblanishi aytilgan, lekin davlatlar uni har yili eʼlon qilishi haqida maʼlumot yoʻq — NOT GIVEN."
+      },
+      "para": 1
+    },
+    {
+      "id": "c1-10-inequality-q8",
+      "type": "tfng",
+      "statement": "Surveys may underestimate the incomes of the richest people.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«the very wealthy may under-report their income in surveys» — «under-report» → natija kam koʻrsatiladi."
+      },
+      "para": 2
+    },
+    {
+      "id": "c1-10-inequality-q9",
+      "type": "gap",
+      "prompt": "If income were equally shared, the plotted line would be a straight ___.",
+      "answers": [
+        "diagonal",
+        "diagonal line"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«producing a straight diagonal line»."
+      },
+      "para": 1
+    },
+    {
+      "id": "c1-10-inequality-q10",
+      "type": "gap",
+      "prompt": "Technology is thought to have reduced the demand for workers who perform ___ tasks.",
+      "answers": [
+        "routine"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«reducing it for routine tasks that machines can perform»."
+      },
+      "para": 3
+    },
+    {
+      "id": "c1-10-inequality-q11",
+      "type": "choice",
+      "prompt": "According to paragraph D, why do economists disagree about the importance of each cause?",
+      "options": [
+        "because reliable data on inequality does not exist",
+        "because their judgements partly depend on their prior assumptions",
+        "because only one cause can operate at a time",
+        "because globalisation has affected all workers equally"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«the relative weight given to each often reflects underlying assumptions as well as evidence»."
+      },
+      "para": 3
+    },
+    {
+      "id": "c1-10-inequality-q12",
+      "type": "choice",
+      "prompt": "The example of large Asian economies is used to show that",
+      "options": [
+        "inequality within those countries has fallen sharply.",
+        "gaps between countries can narrow while gaps within them widen.",
+        "globalisation has harmed workers in poorer nations.",
+        "extreme poverty has been eliminated worldwide."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "Osiyo oʻsishi «narrowing the gap between … poorer and richer nations», lekin «inequality within many individual countries has widened»."
+      },
+      "para": 4
+    },
+    {
+      "id": "c1-10-inequality-q13",
+      "type": "choice",
+      "prompt": "What is the writer's view of the link between inequality and social mobility?",
+      "options": [
+        "It has been proved that inequality causes low mobility.",
+        "There is no connection between the two.",
+        "There is a suggestive pattern, but cause and effect are not established.",
+        "Mobility is highest in the most unequal societies."
+      ],
+      "answer": 2,
+      "explain": {
+        "uz": "«societies with higher income inequality tend to have lower mobility» lekin «a correlation … does not in itself prove causation»."
+      },
+      "para": 5
+    },
+    {
+      "id": "c1-10-inequality-q14",
+      "type": "gap",
+      "prompt": "According to the writer, careful measurement can provide a shared ___ for the debate.",
+      "answers": [
+        "factual basis"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«What careful measurement can offer is a shared factual basis»."
+      },
+      "para": 6
+    }
+  ]
+}

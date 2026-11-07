@@ -1,0 +1,327 @@
+{
+  "id": "c1-20-university-rankings",
+  "title": {
+    "uz": "Universitet reytinglari"
+  },
+  "en": "University Rankings",
+  "level": "C1",
+  "kind": "exam",
+  "tag": {
+    "uz": "Taʼlim",
+    "en": "Education"
+  },
+  "intro": {
+    "uz": "Fikr-mulohaza matni (argumentativ esse): xalqaro universitet reytinglari nimani oʻlchaydi, nimani eʼtibordan chetda qoldiradi va universitetlar hamda talabalar xulq-atvoriga qanday taʼsir qiladi. Bu matnda True/False/Not Given savollari muallifning qarashlari haqida — IELTSdagi YES / NO / NOT GIVEN kabi: TRUE (YES) — muallif shu fikrni bildiradi; FALSE (NO) — muallif bunga zid fikrda; NOT GIVEN — muallif bu masalada fikr bildirmagan. Faktlarni emas, muallifning munosabatini koʻrsatuvchi soʻzlarni qidiring: I would argue, in my view, arguably, it seems to me, with some justification. Muallif skeptik, lekin adolatli: «It would be unfair, however, to dismiss rankings altogether» kabi burilish nuqtalariga eʼtibor bering. Taxminan 20 daqiqa ajrating."
+  },
+  "paragraphs": [
+    {
+      "en": "Each year, the publication of international university rankings is greeted with a mixture of celebration and anxiety. Institutions that climb a few places announce the news on their websites; those that fall may face awkward questions from governments and governing boards. For prospective students and their families, rankings offer something genuinely attractive: an apparently simple answer to the bewildering question of where to study. It is worth asking, however, what these tables actually measure, and what happens when so much weight is placed on them."
+    },
+    {
+      "en": "Most prominent rankings combine a number of indicators into a single score. These typically include research output and the frequency with which that research is cited, the proportion of international staff and students, the ratio of staff to students and, in some cases, surveys of academic reputation. Each of these is a legitimate thing to know about a university. The difficulty lies in the decisions, largely invisible to readers, about which indicators to include and how heavily to weight them. A modest change to the formula can move an institution many places without anything about the institution itself having changed."
+    },
+    {
+      "en": "What the indicators measure most reliably is research, and in particular research published in widely read journals, which are disproportionately in English. Teaching quality, by contrast, is notoriously difficult to quantify and is captured, if at all, only through rough proxies. Yet for most undergraduates it is the quality of teaching, the support they receive and the skills they leave with that matter most. A university may produce outstanding research while offering a mediocre experience to its first-year students, and the reverse is equally possible. A student who chooses an institution on the strength of its research position alone may therefore be disappointed by what they find in the lecture hall."
+    },
+    {
+      "en": "Reputation surveys raise a further problem. Academics asked to name the best institutions in their field tend to name those that are already famous, and those institutions remain famous partly because they keep being named. Rankings built partly on reputation may therefore reinforce existing hierarchies rather than reveal genuine change, making it harder for younger universities to gain recognition however good their work may be. Reputation, in other words, can lag years behind reality."
+    },
+    {
+      "en": "Perhaps the most troubling effect of rankings is the way they shape behaviour. Once a position in the table becomes a target, universities have an incentive to pursue whatever the formula rewards. Resources may be shifted towards activities that improve scores, such as recruiting highly cited researchers, while less visible work, such as teaching, community engagement or research on local problems, receives less attention. This is a familiar pattern: when a measure becomes a target, it tends to lose its value as a measure. Students, too, may choose an institution because of its overall position rather than the strength of the particular course they intend to take."
+    },
+    {
+      "en": "It would be unfair, however, to dismiss rankings altogether. They have encouraged some universities to collect and publish information that was previously hard to obtain, and they have drawn attention to institutions outside the traditional centres of academic prestige that have improved rapidly. For a student comparing universities in an unfamiliar country, a ranking may be a reasonable starting point, provided that it is not also the finishing point."
+    },
+    {
+      "en": "The sensible response, then, is not to abolish rankings but to read them critically. Students would be better served by looking at information for individual subjects, talking to current students and examining what a course actually involves. Governments and university leaders, for their part, should resist the temptation to treat a position in a league table as a goal in itself. A ranking can describe certain features of a university with reasonable accuracy; it cannot tell anyone whether that university is the right place for them. Universities, meanwhile, could do more to publish clear and comparable information about teaching, so that applicants are not left to rely on a single number."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "bewildering",
+      "uz": "chalkashtiruvchi, boshni qotiruvchi"
+    },
+    {
+      "en": "prospective student",
+      "uz": "boʻlajak talaba, abituriyent"
+    },
+    {
+      "en": "prominent",
+      "uz": "taniqli, koʻzga koʻringan"
+    },
+    {
+      "en": "indicator",
+      "uz": "koʻrsatkich"
+    },
+    {
+      "en": "legitimate",
+      "uz": "qonuniy, asosli"
+    },
+    {
+      "en": "weight",
+      "uz": "(koʻrsatkichga) vazn/ahamiyat bermoq"
+    },
+    {
+      "en": "disproportionately",
+      "uz": "nomutanosib ravishda, haddan koʻp"
+    },
+    {
+      "en": "notoriously",
+      "uz": "hammaga maʼlumki (salbiy maʼnoda)"
+    },
+    {
+      "en": "quantify",
+      "uz": "miqdoriy oʻlchamoq"
+    },
+    {
+      "en": "proxy",
+      "uz": "bilvosita koʻrsatkich, oʻrinbosar oʻlchov"
+    },
+    {
+      "en": "mediocre",
+      "uz": "oʻrtacha, past sifatli"
+    },
+    {
+      "en": "reinforce",
+      "uz": "mustahkamlamoq, kuchaytirmoq"
+    },
+    {
+      "en": "hierarchy",
+      "uz": "iyerarxiya, darajalar tizimi"
+    },
+    {
+      "en": "incentive",
+      "uz": "ragʻbat, undovchi omil"
+    },
+    {
+      "en": "abolish",
+      "uz": "bekor qilmoq"
+    },
+    {
+      "en": "resist the temptation",
+      "uz": "vasvasaga berilmaslik"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "c33-relative-advanced",
+      "title": {
+        "uz": "Predlogli nisbiy gap: with which …"
+      },
+      "example": "the frequency with which that research is cited"
+    },
+    {
+      "topicId": "c51-supposing-provided",
+      "title": {
+        "uz": "Shart: provided that …"
+      },
+      "example": "a ranking may be a reasonable starting point, provided that it is not also the finishing point"
+    }
+  ],
+  "questions": [
+    {
+      "id": "c1-20-university-rankings-q1",
+      "type": "heading",
+      "para": 2,
+      "options": [
+        "How a single score is put together",
+        "Research counted, teaching barely captured",
+        "Fame that feeds itself",
+        "When the table starts to steer the institution",
+        "Some genuine benefits",
+        "Reading the tables wisely",
+        "Why governments fund universities",
+        "The rise of online degrees"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "Xatboshi C: indikatorlar eng ishonchli oʻlchaydigan narsa — tadqiqot; oʻqitish sifati esa «notoriously difficult to quantify»."
+      }
+    },
+    {
+      "id": "c1-20-university-rankings-q2",
+      "type": "heading",
+      "para": 3,
+      "options": [
+        "How a single score is put together",
+        "Research counted, teaching barely captured",
+        "Fame that feeds itself",
+        "When the table starts to steer the institution",
+        "Some genuine benefits",
+        "Reading the tables wisely",
+        "Why governments fund universities",
+        "The rise of online degrees"
+      ],
+      "answer": 2,
+      "explain": {
+        "uz": "Xatboshi D: mashhur universitetlar nomlanadi va nomlangani uchun mashhur boʻlib qoladi — «Fame that feeds itself»."
+      }
+    },
+    {
+      "id": "c1-20-university-rankings-q3",
+      "type": "heading",
+      "para": 4,
+      "options": [
+        "How a single score is put together",
+        "Research counted, teaching barely captured",
+        "Fame that feeds itself",
+        "When the table starts to steer the institution",
+        "Some genuine benefits",
+        "Reading the tables wisely",
+        "Why governments fund universities",
+        "The rise of online degrees"
+      ],
+      "answer": 3,
+      "explain": {
+        "uz": "Xatboshi E: reyting maqsadga aylansa, universitetlar formula mukofotlaydigan narsaga intiladi — jadval muassasani «boshqara» boshlaydi."
+      }
+    },
+    {
+      "id": "c1-20-university-rankings-q4",
+      "type": "heading",
+      "para": 5,
+      "options": [
+        "How a single score is put together",
+        "Research counted, teaching barely captured",
+        "Fame that feeds itself",
+        "When the table starts to steer the institution",
+        "Some genuine benefits",
+        "Reading the tables wisely",
+        "Why governments fund universities",
+        "The rise of online degrees"
+      ],
+      "answer": 4,
+      "explain": {
+        "uz": "Xatboshi F: «It would be unfair … to dismiss rankings altogether» — maʼlumot ochiqligi, tez rivojlangan universitetlarga eʼtibor. «Reading the tables wisely» G xatboshiga mos."
+      }
+    },
+    {
+      "id": "c1-20-university-rankings-q5",
+      "type": "tfng",
+      "statement": "The writer believes that the information used in rankings is worthless in itself.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«Each of these is a legitimate thing to know about a university» — muammo koʻrsatkichlarda emas, ularni tanlash va vazn berishda."
+      },
+      "para": 1
+    },
+    {
+      "id": "c1-20-university-rankings-q6",
+      "type": "tfng",
+      "statement": "According to the writer, a university can rise or fall in a ranking even if nothing about it has changed.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«A modest change to the formula can move an institution many places without anything about the institution itself having changed»."
+      },
+      "para": 1
+    },
+    {
+      "id": "c1-20-university-rankings-q7",
+      "type": "tfng",
+      "statement": "The writer believes that reputation surveys help newer universities to gain recognition.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "Aksincha: «making it harder for younger universities to gain recognition»."
+      },
+      "para": 3
+    },
+    {
+      "id": "c1-20-university-rankings-q8",
+      "type": "tfng",
+      "statement": "The writer thinks that rankings should be published less often.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Reytinglar har yili chiqishi aytiladi, lekin ularni kamroq chiqarish kerakmi — muallif fikr bildirmaydi. U «not to abolish rankings but to read them critically» deydi, xolos."
+      }
+    },
+    {
+      "id": "c1-20-university-rankings-q9",
+      "type": "tfng",
+      "statement": "The writer believes that universities in Asia have gained more from rankings than those in Europe.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Muallif «institutions outside the traditional centres» haqida umumiy gapiradi; Osiyo va Yevropa solishtirilmaydi."
+      },
+      "para": 5
+    },
+    {
+      "id": "c1-20-university-rankings-q10",
+      "type": "choice",
+      "prompt": "According to paragraph B, what is the main weakness of rankings?",
+      "options": [
+        "They ignore research output.",
+        "They rely on false information supplied by universities.",
+        "The choices about which indicators to use and how to weight them are largely hidden.",
+        "They include too few international students."
+      ],
+      "answer": 2,
+      "explain": {
+        "uz": "«The difficulty lies in the decisions, largely invisible to readers, about which indicators to include and how heavily to weight them»."
+      },
+      "para": 1
+    },
+    {
+      "id": "c1-20-university-rankings-q11",
+      "type": "choice",
+      "prompt": "How, according to the writer, should a student use a ranking?",
+      "options": [
+        "As the only basis for choosing a university.",
+        "As a reasonable starting point but not a final answer.",
+        "Not at all, because rankings are misleading.",
+        "Only when choosing a university at home."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«a reasonable starting point, provided that it is not also the finishing point»."
+      },
+      "para": 5
+    },
+    {
+      "id": "c1-20-university-rankings-q12",
+      "type": "choice",
+      "prompt": "Which best describes the writer's overall attitude to university rankings?",
+      "options": [
+        "Enthusiastic support.",
+        "Complete rejection.",
+        "Sceptical but willing to acknowledge their value.",
+        "Indifferent."
+      ],
+      "answer": 2,
+      "explain": {
+        "uz": "Muallif koʻp kamchiliklarni koʻrsatadi, lekin «It would be unfair … to dismiss rankings altogether» va «not to abolish rankings but to read them critically» deydi."
+      },
+      "para": 6
+    },
+    {
+      "id": "c1-20-university-rankings-q13",
+      "type": "gap",
+      "prompt": "Because teaching quality is hard to quantify, it is captured only through rough ___.",
+      "answers": [
+        "proxies"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«is captured, if at all, only through rough proxies»."
+      },
+      "para": 2
+    },
+    {
+      "id": "c1-20-university-rankings-q14",
+      "type": "gap",
+      "prompt": "Once a position in the table becomes a ___, universities have an incentive to pursue whatever the formula rewards.",
+      "answers": [
+        "target"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«Once a position in the table becomes a target, universities have an incentive»."
+      },
+      "para": 4
+    }
+  ]
+}

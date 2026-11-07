@@ -1,0 +1,182 @@
+{
+  "id": "a1-20-apps",
+  "title": {
+    "uz": "Telefonimdagi ilovalar"
+  },
+  "en": "The Apps on My Phone",
+  "level": "A1",
+  "kind": "story",
+  "tag": {
+    "uz": "Texnologiya",
+    "en": "Technology"
+  },
+  "intro": {
+    "uz": "Sardor telefonidagi ilovalar haqida gapirib beradi. Oʻqishdan oldin: siz har kuni qaysi ilovalardan foydalanasiz?"
+  },
+  "paragraphs": [
+    {
+      "en": "My name is Sardor. I am sixteen. I have a phone, and there are many apps on it. But I use only four apps a lot.",
+      "uz": "Mening ismim Sardor. Men oʻn olti yoshdaman. Mening telefonim bor va unda koʻp ilovalar bor. Lekin men faqat toʻrtta ilovadan koʻp foydalanaman."
+    },
+    {
+      "en": "First, I have a music app. I listen to Uzbek and English songs on the bus every morning. Second, I have a dictionary app. It helps me with new English words.",
+      "uz": "Birinchisi — musiqa ilovasi. Men har kuni ertalab avtobusda oʻzbekcha va inglizcha qoʻshiqlar tinglayman. Ikkinchisi — lugʻat ilovasi. U menga yangi inglizcha soʻzlarni oʻrganishda yordam beradi."
+    },
+    {
+      "en": "Third, I have a map app. When my family goes to a new place, it shows us the way. Fourth, I have a game app, but I only play for thirty minutes a day.",
+      "uz": "Uchinchisi — xarita ilovasi. Oilam yangi joyga borganda, u bizga yoʻlni koʻrsatadi. Toʻrtinchisi — oʻyin ilovasi, lekin men kuniga faqat oʻttiz daqiqa oʻynayman."
+    },
+    {
+      "en": "At dinner my family doesn't use phones. We put them in a box and talk about our day. I like that too!",
+      "uz": "Kechki ovqat paytida oilamiz telefonlardan foydalanmaydi. Biz ularni qutiga solib qoʻyamiz va kunimiz haqida gaplashamiz. Bu menga ham yoqadi!"
+    }
+  ],
+  "glossary": [
+    {
+      "en": "app",
+      "uz": "ilova"
+    },
+    {
+      "en": "use",
+      "uz": "foydalanmoq, ishlatmoq"
+    },
+    {
+      "en": "listen to",
+      "uz": "… ni tinglamoq"
+    },
+    {
+      "en": "song",
+      "uz": "qoʻshiq"
+    },
+    {
+      "en": "dictionary",
+      "uz": "lugʻat"
+    },
+    {
+      "en": "word",
+      "uz": "soʻz"
+    },
+    {
+      "en": "map",
+      "uz": "xarita"
+    },
+    {
+      "en": "show the way",
+      "uz": "yoʻl koʻrsatmoq"
+    },
+    {
+      "en": "minute",
+      "uz": "daqiqa"
+    },
+    {
+      "en": "dinner",
+      "uz": "kechki ovqat"
+    },
+    {
+      "en": "talk about",
+      "uz": "… haqida gaplashmoq"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "b28-technology",
+      "title": {
+        "uz": "Texnologiya: phone, app"
+      },
+      "example": "I have a phone, and there are many apps on it."
+    },
+    {
+      "topicId": "b26-music-media",
+      "title": {
+        "uz": "Musiqa: listen to songs"
+      },
+      "example": "I listen to Uzbek and English songs on the bus every morning."
+    }
+  ],
+  "questions": [
+    {
+      "id": "a1-20-apps-q1",
+      "type": "tfng",
+      "statement": "There are only four apps on Sardor's phone.",
+      "answer": "F",
+      "explain": {
+        "uz": "Telefonida koʻp ilova bor: «there are many apps on it». U faqat toʻrttasidan koʻp foydalanadi."
+      },
+      "para": 0
+    },
+    {
+      "id": "a1-20-apps-q2",
+      "type": "choice",
+      "prompt": "Where does Sardor listen to music?",
+      "options": [
+        "at school",
+        "on the bus",
+        "at dinner"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«I listen to Uzbek and English songs on the bus every morning.»"
+      },
+      "para": 1
+    },
+    {
+      "id": "a1-20-apps-q3",
+      "type": "gap",
+      "prompt": "The dictionary app helps Sardor with new English ___.",
+      "answers": [
+        "words"
+      ],
+      "explain": {
+        "uz": "«It helps me with new English words.»"
+      },
+      "para": 1
+    },
+    {
+      "id": "a1-20-apps-q4",
+      "type": "choice",
+      "prompt": "Which app shows the family the way?",
+      "options": [
+        "the map app",
+        "the music app",
+        "the game app"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "«I have a map app… it shows us the way.»"
+      },
+      "para": 2
+    },
+    {
+      "id": "a1-20-apps-q5",
+      "type": "tfng",
+      "statement": "Sardor plays games for three hours a day.",
+      "answer": "F",
+      "explain": {
+        "uz": "Faqat oʻttiz daqiqa: «I only play for thirty minutes a day.»"
+      },
+      "para": 2
+    },
+    {
+      "id": "a1-20-apps-q6",
+      "type": "gap",
+      "prompt": "At dinner, the family puts their phones in a ___.",
+      "answers": [
+        "box"
+      ],
+      "explain": {
+        "uz": "«We put them in a box and talk about our day.»"
+      },
+      "para": 3
+    },
+    {
+      "id": "a1-20-apps-q7",
+      "type": "tfng",
+      "statement": "Sardor doesn't like dinner without phones.",
+      "answer": "F",
+      "explain": {
+        "uz": "Unga bu yoqadi: «I like that too!»"
+      },
+      "para": 3
+    }
+  ]
+}

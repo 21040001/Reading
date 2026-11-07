@@ -1,0 +1,363 @@
+{
+  "id": "c1-01-microbiome",
+  "title": {
+    "uz": "Mikrobiom"
+  },
+  "en": "The Gut Microbiome",
+  "level": "C1",
+  "kind": "exam",
+  "tag": {
+    "uz": "Biologiya va tibbiyot",
+    "en": "Biology and medicine"
+  },
+  "intro": {
+    "uz": "IELTS Academic uslubidagi ilmiy-ommabop matn: ichakdagi mikroorganizmlar va ularning hazm, immunitet hamda ruhiy salomatlik bilan bogʻliqligi. Asosiy topshiriq — Matching headings: har bir xatboshining umumiy gʻoyasini aniqlang, bitta mos soʻzga aldanmang (sarlavhalar roʻyxatida ortiqcha variantlar bor). Taxminan 20 daqiqa ajrating: avval sarlavhalarni, soʻng TFNG, boʻshliq va test savollarini bajaring."
+  },
+  "paragraphs": [
+    {
+      "en": "For most of the twentieth century, bacteria were regarded primarily as agents of disease, invisible enemies to be eliminated with disinfectants and antibiotics. That view, while understandable, now appears strikingly incomplete. The human gut alone is home to a vast community of microorganisms, including bacteria, archaea, fungi and viruses, collectively known as the gut microbiota, while the term microbiome is often used for this community together with its genes. Far from being passive passengers, these organisms seem to participate in many of the processes on which human health depends. It was once widely claimed that microbial cells outnumber human cells by ten to one; more careful calculations have since suggested that the two figures are roughly comparable, but even this revised estimate implies a population of tens of trillions."
+    },
+    {
+      "en": "Part of the reason this world remained hidden for so long is methodological. Many gut microbes live in an environment without oxygen and have proved extremely difficult to grow in the laboratory, so traditional techniques, which relied on culturing organisms in a dish, captured only a fraction of them. The turning point came with the falling cost of DNA sequencing. Rather than attempting to grow each species, researchers can now extract genetic material directly from a sample, typically stool, and identify the organisms present by their genetic signatures. This shift has revealed a diversity far greater than earlier methods had suggested, along with considerable variation from one person to another."
+    },
+    {
+      "en": "Among the best-established functions of the microbiota is its contribution to digestion. Human enzymes are unable to break down many of the complex carbohydrates found in plant foods, collectively referred to as dietary fibre. Gut bacteria, by contrast, possess a remarkable repertoire of enzymes capable of fermenting these compounds. The products of this fermentation include short-chain fatty acids, which serve as an important source of energy for the cells lining the colon and appear to influence processes well beyond the gut. Certain bacteria also synthesise vitamins, notably vitamin K and several B vitamins, although the extent to which the body relies on this microbial supply is still debated."
+    },
+    {
+      "en": "Equally significant is the relationship between microbes and the immune system. Experiments with animals raised in completely sterile conditions, so-called germ-free animals, have shown that without exposure to microbes the immune system develops abnormally, with some of its components remaining underdeveloped. The resident community appears to act as a kind of training partner, helping the immune system learn to distinguish between harmless and dangerous organisms. Moreover, by occupying available space and consuming nutrients, established bacteria make it harder for disease-causing species to gain a foothold, a phenomenon known as colonisation resistance."
+    },
+    {
+      "en": "What shapes this community? Diet is among the most powerful influences. Studies have repeatedly associated diets rich in a wide variety of plant foods with a more diverse microbiota, whereas diets dominated by highly processed food tend to be linked with lower diversity, although diversity alone is no guarantee of health. Antibiotics exert a more abrupt effect. Because many of these drugs cannot distinguish between harmful and beneficial bacteria, a single course can substantially reduce microbial diversity. In many people the community largely recovers within weeks or months, yet some species may fail to return. One well-documented consequence of such disruption is that it can allow opportunistic pathogens to flourish, which is one reason doctors are urged to prescribe antibiotics only when they are genuinely needed."
+    },
+    {
+      "en": "The most intriguing and most controversial claims concern the brain. The gut and the brain communicate through several routes, including the vagus nerve, hormones and immune signals, and microbes produce substances that could, at least in principle, enter this conversation. In animal studies, altering the microbiota has been shown to change behaviours associated with anxiety. In humans, however, the picture is far less clear. Differences in gut bacteria have been observed in people with depression and other conditions, but such associations do not establish causation: illness may alter diet, sleep and medication, which in turn reshape the microbiota. It is therefore premature to conclude that changing one's gut bacteria can treat mental illness, and researchers generally describe this as an emerging rather than a settled area of research."
+    },
+    {
+      "en": "Such caution sits uneasily with the commercial enthusiasm surrounding the topic. Products promising to restore or optimise the microbiome are widely marketed, yet for many of them the supporting evidence remains limited, and the effects of probiotics appear to depend heavily on the specific strain and the condition in question. Part of the difficulty is that scientists have not agreed on what a healthy microbiome looks like; two healthy people may host strikingly different communities. Nevertheless, few researchers doubt that the field will continue to transform our understanding of the body. Not only has it challenged the image of bacteria as enemies, but it has also suggested that a human being might be better understood as an ecosystem than as a solitary organism."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "regard as",
+      "uz": "… deb hisoblamoq"
+    },
+    {
+      "en": "strikingly",
+      "uz": "yaqqol, hayratlanarli darajada"
+    },
+    {
+      "en": "passive",
+      "uz": "sust, faol boʻlmagan"
+    },
+    {
+      "en": "methodological",
+      "uz": "uslubiy, metodologik"
+    },
+    {
+      "en": "culture",
+      "uz": "(mikroblarni) laboratoriyada oʻstirmoq"
+    },
+    {
+      "en": "turning point",
+      "uz": "burilish nuqtasi"
+    },
+    {
+      "en": "repertoire",
+      "uz": "toʻplam, imkoniyatlar majmui"
+    },
+    {
+      "en": "ferment",
+      "uz": "bijgʻitmoq, achitmoq"
+    },
+    {
+      "en": "synthesise",
+      "uz": "sintez qilmoq, hosil qilmoq"
+    },
+    {
+      "en": "sterile",
+      "uz": "steril, mikrobsiz"
+    },
+    {
+      "en": "gain a foothold",
+      "uz": "oʻrnashib olmoq, joy egallamoq"
+    },
+    {
+      "en": "abrupt",
+      "uz": "keskin, toʻsatdan"
+    },
+    {
+      "en": "opportunistic pathogen",
+      "uz": "qulay vaziyatda kasallik qoʻzgʻatuvchi mikrob"
+    },
+    {
+      "en": "flourish",
+      "uz": "gullab-yashnamoq, koʻpayib ketmoq"
+    },
+    {
+      "en": "establish causation",
+      "uz": "sabab-oqibat bogʻliqligini isbotlamoq"
+    },
+    {
+      "en": "premature",
+      "uz": "barvaqt, shoshilinch"
+    },
+    {
+      "en": "sit uneasily with",
+      "uz": "… bilan yaxshi chiqishmaslik, ziddiyatda boʻlmoq"
+    },
+    {
+      "en": "solitary",
+      "uz": "yakka, yolgʻiz"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "c58-inversion",
+      "title": {
+        "uz": "Inversiya: Not only has it challenged …"
+      },
+      "example": "Not only has it challenged the image of bacteria as enemies"
+    },
+    {
+      "topicId": "c16-reporting-passive",
+      "title": {
+        "uz": "Xabar beruvchi majhul nisbat: It was once widely claimed that …"
+      },
+      "example": "It was once widely claimed that microbial cells outnumber human cells by ten to one"
+    }
+  ],
+  "questions": [
+    {
+      "id": "c1-01-microbiome-q1",
+      "type": "heading",
+      "para": 0,
+      "options": [
+        "Products and promises that outpace the evidence",
+        "New tools that exposed a hidden variety",
+        "How bacteria cause most common infections",
+        "A long-standing view shown to be only part of the story",
+        "Training and protecting the body's defences",
+        "A promising link that remains unproven",
+        "Replacing antibiotics with beneficial microbes",
+        "Breaking down what the body cannot",
+        "Everyday choices and medical treatments that reshape the community"
+      ],
+      "answer": 3,
+      "explain": {
+        "uz": "A xatboshi: bakteriyalar uzoq vaqt faqat «agents of disease» deb qaralgan, endi bu qarash «strikingly incomplete» — yaʼni eski tasavvur hikoyaning faqat bir qismi. «How bacteria cause most common infections» chalgʻitadi: kasallik faqat eski qarash sifatida tilga olinadi."
+      }
+    },
+    {
+      "id": "c1-01-microbiome-q2",
+      "type": "heading",
+      "para": 1,
+      "options": [
+        "Products and promises that outpace the evidence",
+        "New tools that exposed a hidden variety",
+        "How bacteria cause most common infections",
+        "A long-standing view shown to be only part of the story",
+        "Training and protecting the body's defences",
+        "A promising link that remains unproven",
+        "Replacing antibiotics with beneficial microbes",
+        "Breaking down what the body cannot",
+        "Everyday choices and medical treatments that reshape the community"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "B xatboshi: mikroblarni oʻstirish qiyin boʻlgan, DNK sekvenlash arzonlashgach «revealed a diversity far greater» — yangi vositalar yashirin xilma-xillikni ochib bergan."
+      }
+    },
+    {
+      "id": "c1-01-microbiome-q3",
+      "type": "heading",
+      "para": 2,
+      "options": [
+        "Products and promises that outpace the evidence",
+        "New tools that exposed a hidden variety",
+        "How bacteria cause most common infections",
+        "A long-standing view shown to be only part of the story",
+        "Training and protecting the body's defences",
+        "A promising link that remains unproven",
+        "Replacing antibiotics with beneficial microbes",
+        "Breaking down what the body cannot",
+        "Everyday choices and medical treatments that reshape the community"
+      ],
+      "answer": 7,
+      "explain": {
+        "uz": "C xatboshi: «Human enzymes are unable to break down … dietary fibre», bakteriyalar esa uni bijgʻitadi — organizm oʻzi parchalay olmaydigan narsani parchalash."
+      }
+    },
+    {
+      "id": "c1-01-microbiome-q4",
+      "type": "heading",
+      "para": 3,
+      "options": [
+        "Products and promises that outpace the evidence",
+        "New tools that exposed a hidden variety",
+        "How bacteria cause most common infections",
+        "A long-standing view shown to be only part of the story",
+        "Training and protecting the body's defences",
+        "A promising link that remains unproven",
+        "Replacing antibiotics with beneficial microbes",
+        "Breaking down what the body cannot",
+        "Everyday choices and medical treatments that reshape the community"
+      ],
+      "answer": 4,
+      "explain": {
+        "uz": "D xatboshi: mikroblar immunitetni «training partner» sifatida oʻrgatadi va zararli turlarning oʻrnashishiga yoʻl qoʻymaydi — oʻrgatish va himoya qilish."
+      }
+    },
+    {
+      "id": "c1-01-microbiome-q5",
+      "type": "heading",
+      "para": 4,
+      "options": [
+        "Products and promises that outpace the evidence",
+        "New tools that exposed a hidden variety",
+        "How bacteria cause most common infections",
+        "A long-standing view shown to be only part of the story",
+        "Training and protecting the body's defences",
+        "A promising link that remains unproven",
+        "Replacing antibiotics with beneficial microbes",
+        "Breaking down what the body cannot",
+        "Everyday choices and medical treatments that reshape the community"
+      ],
+      "answer": 8,
+      "explain": {
+        "uz": "E xatboshi: ovqatlanish (kundalik tanlov) va antibiotiklar (tibbiy davolash) mikroblar jamoasini oʻzgartiradi. «Replacing antibiotics…» matnda yoʻq."
+      }
+    },
+    {
+      "id": "c1-01-microbiome-q6",
+      "type": "heading",
+      "para": 5,
+      "options": [
+        "Products and promises that outpace the evidence",
+        "New tools that exposed a hidden variety",
+        "How bacteria cause most common infections",
+        "A long-standing view shown to be only part of the story",
+        "Training and protecting the body's defences",
+        "A promising link that remains unproven",
+        "Replacing antibiotics with beneficial microbes",
+        "Breaking down what the body cannot",
+        "Everyday choices and medical treatments that reshape the community"
+      ],
+      "answer": 5,
+      "explain": {
+        "uz": "F xatboshi: ichak va miya bogʻliqligi qiziqarli, lekin «associations do not establish causation», «emerging rather than a settled area» — istiqbolli, ammo isbotlanmagan bogʻliqlik."
+      }
+    },
+    {
+      "id": "c1-01-microbiome-q7",
+      "type": "heading",
+      "para": 6,
+      "options": [
+        "Products and promises that outpace the evidence",
+        "New tools that exposed a hidden variety",
+        "How bacteria cause most common infections",
+        "A long-standing view shown to be only part of the story",
+        "Training and protecting the body's defences",
+        "A promising link that remains unproven",
+        "Replacing antibiotics with beneficial microbes",
+        "Breaking down what the body cannot",
+        "Everyday choices and medical treatments that reshape the community"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "G xatboshi: mahsulotlar keng reklama qilinadi, lekin «the supporting evidence remains limited» — vaʼdalar dalillardan oldinga oʻtib ketgan."
+      }
+    },
+    {
+      "id": "c1-01-microbiome-q8",
+      "type": "tfng",
+      "statement": "Recent calculations confirm that microbial cells outnumber human cells by about ten to one.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "Matnda: oʻndan birga nisbat «once widely claimed», ammo «more careful calculations» ikki son «roughly comparable» ekanini koʻrsatgan — gap matnga zid."
+      },
+      "para": 0
+    },
+    {
+      "id": "c1-01-microbiome-q9",
+      "type": "tfng",
+      "statement": "Short-chain fatty acids are produced in larger quantities from fruit than from cereals.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Matn qisqa zanjirli yogʻ kislotalari bijgʻish mahsuloti ekanini aytadi, lekin meva va donni solishtirmaydi."
+      },
+      "para": 2
+    },
+    {
+      "id": "c1-01-microbiome-q10",
+      "type": "tfng",
+      "statement": "Animals raised without any exposure to microbes develop immune systems that are not entirely normal.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«without exposure to microbes the immune system develops abnormally» — «not entirely normal» bu fikrning parafrazi."
+      },
+      "para": 3
+    },
+    {
+      "id": "c1-01-microbiome-q11",
+      "type": "gap",
+      "prompt": "Instead of growing each species, researchers now extract ___ directly from a sample.",
+      "answers": [
+        "genetic material"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«researchers can now extract genetic material directly from a sample». Javob ikki soʻz."
+      },
+      "para": 1
+    },
+    {
+      "id": "c1-01-microbiome-q12",
+      "type": "gap",
+      "prompt": "The way established bacteria make it difficult for harmful species to settle is known as ___.",
+      "answers": [
+        "colonisation resistance",
+        "colonization resistance"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«make it harder for disease-causing species to gain a foothold, a phenomenon known as colonisation resistance»."
+      },
+      "para": 3
+    },
+    {
+      "id": "c1-01-microbiome-q13",
+      "type": "choice",
+      "prompt": "Why does the writer mention that illness may alter diet, sleep and medication?",
+      "options": [
+        "To recommend lifestyle changes for people with depression",
+        "To show that animal studies of the microbiota are unreliable",
+        "To explain why an observed link may not show that bacteria cause the illness",
+        "To argue that the vagus nerve is the main route between gut and brain"
+      ],
+      "answer": 2,
+      "explain": {
+        "uz": "Bu gapdan oldin «such associations do not establish causation» deyilgan: kasallikning oʻzi mikrobiotani oʻzgartirishi mumkin, yaʼni sabab-oqibat teskari boʻlishi ham mumkin."
+      },
+      "para": 5
+    },
+    {
+      "id": "c1-01-microbiome-q14",
+      "type": "choice",
+      "prompt": "What does the writer suggest about probiotics?",
+      "options": [
+        "They have been proven to restore a healthy microbiome",
+        "Their effects vary according to the particular strain and condition",
+        "They are more effective than antibiotics",
+        "They work equally well for everyone"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«the effects of probiotics appear to depend heavily on the specific strain and the condition in question»."
+      },
+      "para": 6
+    }
+  ]
+}

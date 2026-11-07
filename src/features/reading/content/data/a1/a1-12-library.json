@@ -1,0 +1,186 @@
+{
+  "id": "a1-12-library",
+  "title": {
+    "uz": "Kutubxonada"
+  },
+  "en": "At the Library",
+  "level": "A1",
+  "kind": "dialogue",
+  "tag": {
+    "uz": "Shahar",
+    "en": "City"
+  },
+  "intro": {
+    "uz": "Bu — kutubxonadagi suhbat. Malika kutubxonachi bilan gaplashadi. Oʻqishdan oldin: kutubxonaga borish uchun sizga nima kerak?"
+  },
+  "paragraphs": [
+    {
+      "en": "Malika: Good afternoon! Can I get a library card, please? Librarian: Yes, of course. Write your name and address here, please.",
+      "uz": "Malika: Xayrli kun! Kutubxona kartasini olsam boʻladimi? Kutubxonachi: Ha, albatta. Iltimos, ismingiz va manzilingizni shu yerga yozing."
+    },
+    {
+      "en": "Malika: Thank you. Where are the English books? Librarian: They are on the second floor, next to the computers.",
+      "uz": "Malika: Rahmat. Ingliz tilidagi kitoblar qayerda? Kutubxonachi: Ular ikkinchi qavatda, kompyuterlarning yonida."
+    },
+    {
+      "en": "Malika: Can I take three books? Librarian: Yes, you can. You can keep them for two weeks.",
+      "uz": "Malika: Uchta kitob olsam boʻladimi? Kutubxonachi: Ha, mumkin. Ularni ikki hafta saqlashingiz mumkin."
+    },
+    {
+      "en": "Malika: Is the library open on Sunday? Librarian: No, it isn't. We are open from Monday to Saturday.",
+      "uz": "Malika: Kutubxona yakshanba kuni ochiqmi? Kutubxonachi: Yoʻq, ochiq emas. Biz dushanbadan shanbagacha ishlaymiz."
+    },
+    {
+      "en": "Malika: And can I use the computers? Librarian: Yes, but please be quiet!",
+      "uz": "Malika: Kompyuterlardan ham foydalansam boʻladimi? Kutubxonachi: Ha, lekin iltimos, jim boʻling!"
+    }
+  ],
+  "glossary": [
+    {
+      "en": "library card",
+      "uz": "kutubxona kartasi"
+    },
+    {
+      "en": "librarian",
+      "uz": "kutubxonachi"
+    },
+    {
+      "en": "address",
+      "uz": "manzil"
+    },
+    {
+      "en": "floor",
+      "uz": "qavat"
+    },
+    {
+      "en": "next to",
+      "uz": "yonida"
+    },
+    {
+      "en": "keep",
+      "uz": "saqlamoq, oʻzida olib turmoq"
+    },
+    {
+      "en": "week",
+      "uz": "hafta"
+    },
+    {
+      "en": "open",
+      "uz": "ochiq"
+    },
+    {
+      "en": "use",
+      "uz": "foydalanmoq"
+    },
+    {
+      "en": "quiet",
+      "uz": "jim, sokin"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "b29-can",
+      "title": {
+        "uz": "Can I …? — ruxsat soʻrash"
+      },
+      "example": "Can I take three books?"
+    },
+    {
+      "topicId": "b16-prepositions-place",
+      "title": {
+        "uz": "Joy predloglari: on, next to"
+      },
+      "example": "They are on the second floor, next to the computers."
+    }
+  ],
+  "questions": [
+    {
+      "id": "a1-12-library-q1",
+      "type": "choice",
+      "prompt": "What does Malika want first?",
+      "options": [
+        "a library card",
+        "a computer",
+        "a newspaper"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "«Can I get a library card, please?»"
+      },
+      "para": 0
+    },
+    {
+      "id": "a1-12-library-q2",
+      "type": "gap",
+      "prompt": "Malika writes her name and ___.",
+      "answers": [
+        "address"
+      ],
+      "maxWords": 1,
+      "explain": {
+        "uz": "«Write your name and address here, please.»"
+      },
+      "para": 0
+    },
+    {
+      "id": "a1-12-library-q3",
+      "type": "choice",
+      "prompt": "Where are the English books?",
+      "options": [
+        "on the first floor",
+        "on the second floor",
+        "on the third floor"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«They are on the second floor, next to the computers.»"
+      },
+      "para": 1
+    },
+    {
+      "id": "a1-12-library-q4",
+      "type": "tfng",
+      "statement": "Malika can take three books.",
+      "answer": "T",
+      "explain": {
+        "uz": "Kutubxonachi: «Yes, you can.»"
+      },
+      "para": 2
+    },
+    {
+      "id": "a1-12-library-q5",
+      "type": "choice",
+      "prompt": "How long can Malika keep the books?",
+      "options": [
+        "one week",
+        "two weeks",
+        "three weeks"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«You can keep them for two weeks.» Uch — kitoblar soni."
+      },
+      "para": 2
+    },
+    {
+      "id": "a1-12-library-q6",
+      "type": "tfng",
+      "statement": "The library is open on Sunday.",
+      "answer": "F",
+      "explain": {
+        "uz": "Yakshanba kuni yopiq: «No, it isn't.» — «from Monday to Saturday»."
+      },
+      "para": 3
+    },
+    {
+      "id": "a1-12-library-q7",
+      "type": "tfng",
+      "statement": "Malika can use the computers.",
+      "answer": "T",
+      "explain": {
+        "uz": "«Yes, but please be quiet!» — foydalanish mumkin, faqat jim boʻlish kerak."
+      },
+      "para": 4
+    }
+  ]
+}

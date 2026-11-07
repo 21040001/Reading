@@ -1,0 +1,206 @@
+{
+  "id": "a2-09-first-job",
+  "title": {
+    "uz": "Birinchi ish kunim"
+  },
+  "en": "My First Day at Work",
+  "level": "A2",
+  "kind": "email",
+  "tag": {
+    "uz": "Ish",
+    "en": "Work"
+  },
+  "intro": {
+    "uz": "Bu — Sevinchning dugonasi Madinaga yozgan xati. U Xivadagi mehmonxonadagi birinchi ish kuni haqida yozadi. Oʻqishdan oldin: birinchi ish kuni odam qanday his qiladi deb oʻylaysiz?"
+  },
+  "paragraphs": [
+    {
+      "en": "Hi Madina, How are you? I have big news. Yesterday was my first day at work! I got a summer job at a small family hotel in Khiva. I work at the reception desk because I can speak English.",
+      "uz": "Salom, Madina! Qalaysan? Katta yangiligim bor. Kecha mening birinchi ish kunim edi! Xivadagi kichik oilaviy mehmonxonada yozgi ish topdim. Ingliz tilida gapira olganim uchun qabulxonada ishlayman."
+    },
+    {
+      "en": "I woke up at six because I was very nervous. I arrived at the hotel at half past seven. The owner, Mr Yusupov, showed me the rooms and explained my job to me. I answer the phone, give keys to guests and help tourists with information.",
+      "uz": "Juda hayajonlanganim uchun soat oltida uygʻondim. Mehmonxonaga yetti yarimda yetib keldim. Mehmonxona egasi Yusupov menga xonalarni koʻrsatdi va ishimni tushuntirdi. Men telefonga javob beraman, mehmonlarga kalit beraman va sayyohlarga maʼlumot berib yordam beraman."
+    },
+    {
+      "en": "At first, everything went badly. At nine o'clock, a French couple arrived. I gave them the wrong key, and they walked into a room with another guest in it! I felt terrible. I said sorry many times, and luckily they only laughed.",
+      "uz": "Avvaliga hammasi yomon ketdi. Soat toʻqqizda fransuz er-xotin keldi. Men ularga notoʻgʻri kalit berdim va ular ichida boshqa mehmon bor xonaga kirib qolishdi! Oʻzimni juda yomon his qildim. Koʻp marta kechirim soʻradim, baxtimga ular faqat kulishdi."
+    },
+    {
+      "en": "After lunch, things got better. A family from Australia asked me about the old city. I told them about Itchan Kala and its minarets, and I spoke English slowly and clearly. They thanked me and gave me a small koala toy as a present!",
+      "uz": "Tushlikdan keyin ishlar yaxshilandi. Avstraliyalik bir oila mendan eski shahar haqida soʻradi. Men ularga Ichan qalʼa va uning minoralari haqida aytib berdim, inglizcha sekin va aniq gapirdim. Ular menga rahmat aytishdi va sovgʻa sifatida kichkina koala oʻyinchogʻini berishdi!"
+    },
+    {
+      "en": "I came home at five. I was really tired, but happy. Mr Yusupov said I did a good job on my first day. Write soon and tell me about your summer! Love, Sevinch",
+      "uz": "Uyga soat beshda keldim. Juda charchagan edim, lekin xursand edim. Yusupov birinchi kunimda yaxshi ishlaganimni aytdi. Tezroq javob yoz va yozgi taʼtiling qanday oʻtayotganini aytib ber! Mehr bilan, Sevinch"
+    }
+  ],
+  "glossary": [
+    {
+      "en": "summer job",
+      "uz": "yozgi ish"
+    },
+    {
+      "en": "reception desk",
+      "uz": "qabulxona (mehmonxonada)"
+    },
+    {
+      "en": "nervous",
+      "uz": "hayajonlangan, asabiy"
+    },
+    {
+      "en": "owner",
+      "uz": "egasi, xoʻjayin"
+    },
+    {
+      "en": "guest",
+      "uz": "mehmon"
+    },
+    {
+      "en": "couple",
+      "uz": "er-xotin, juftlik"
+    },
+    {
+      "en": "wrong",
+      "uz": "notoʻgʻri"
+    },
+    {
+      "en": "terrible",
+      "uz": "dahshatli, juda yomon"
+    },
+    {
+      "en": "luckily",
+      "uz": "baxtiga, yaxshiyamki"
+    },
+    {
+      "en": "minaret",
+      "uz": "minora"
+    },
+    {
+      "en": "clearly",
+      "uz": "aniq, tushunarli"
+    },
+    {
+      "en": "present",
+      "uz": "sovgʻa"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "e07-past-irregular",
+      "title": {
+        "uz": "Notoʻgʻri feʼllar: give → gave"
+      },
+      "example": "I gave them the wrong key"
+    },
+    {
+      "topicId": "e44-adjectives-adverbs",
+      "title": {
+        "uz": "Ravishlar: slowly, clearly"
+      },
+      "example": "I spoke English slowly and clearly."
+    }
+  ],
+  "questions": [
+    {
+      "id": "a2-09-first-job-q1",
+      "type": "tfng",
+      "statement": "Sevinch's job is at a big hotel in Bukhara.",
+      "answer": "F",
+      "explain": {
+        "uz": "Mehmonxona kichik va Xivada: «a small family hotel in Khiva»."
+      },
+      "para": 0
+    },
+    {
+      "id": "a2-09-first-job-q2",
+      "type": "choice",
+      "prompt": "Why does Sevinch work at the reception desk?",
+      "options": [
+        "because she can speak English",
+        "because she lives near the hotel",
+        "because she knows the owner"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "«I work at the reception desk because I can speak English.»"
+      },
+      "para": 0
+    },
+    {
+      "id": "a2-09-first-job-q3",
+      "type": "gap",
+      "prompt": "Sevinch woke up at ___ because she was nervous.",
+      "answers": [
+        "six",
+        "6"
+      ],
+      "explain": {
+        "uz": "«I woke up at six because I was very nervous.» Mehmonxonaga esa yetti yarimda keldi."
+      },
+      "para": 1
+    },
+    {
+      "id": "a2-09-first-job-q4",
+      "type": "tfng",
+      "statement": "Mr Yusupov showed Sevinch the rooms.",
+      "answer": "T",
+      "explain": {
+        "uz": "«The owner, Mr Yusupov, showed me the rooms»."
+      },
+      "para": 1
+    },
+    {
+      "id": "a2-09-first-job-q5",
+      "type": "choice",
+      "prompt": "What mistake did Sevinch make?",
+      "options": [
+        "She gave guests the wrong key.",
+        "She was late for work.",
+        "She forgot to answer the phone."
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "«I gave them the wrong key»."
+      },
+      "para": 2
+    },
+    {
+      "id": "a2-09-first-job-q6",
+      "type": "tfng",
+      "statement": "The French couple were very angry.",
+      "answer": "F",
+      "explain": {
+        "uz": "Ular jahl qilmadi: «luckily they only laughed»."
+      },
+      "para": 2
+    },
+    {
+      "id": "a2-09-first-job-q7",
+      "type": "choice",
+      "prompt": "When did things get better?",
+      "options": [
+        "before nine o'clock",
+        "after lunch",
+        "in the evening"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«After lunch, things got better.»"
+      },
+      "para": 3
+    },
+    {
+      "id": "a2-09-first-job-q8",
+      "type": "gap",
+      "prompt": "The Australian family gave Sevinch a small koala ___.",
+      "answers": [
+        "toy"
+      ],
+      "explain": {
+        "uz": "«gave me a small koala toy as a present»."
+      },
+      "para": 3
+    }
+  ]
+}

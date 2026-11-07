@@ -1,0 +1,223 @@
+{
+  "id": "b1-17-city-parks",
+  "title": {
+    "uz": "Shahar bogʻlari"
+  },
+  "en": "Why Cities Need Parks",
+  "level": "B1",
+  "kind": "article",
+  "tag": {
+    "uz": "Atrof-muhit",
+    "en": "Environment"
+  },
+  "intro": {
+    "uz": "Issiq shaharlarda daraxt va bogʻlar nima uchun muhimligi haqida maqola. Oʻqishdan oldin oʻylab koʻring: yozda soyali bogʻda havo nega salqinroq tuyuladi?"
+  },
+  "paragraphs": [
+    {
+      "en": "On a summer afternoon in Tashkent, Bukhara or Termez, the temperature can rise above forty degrees. Walking along a wide road with no trees can feel like standing next to an oven. Yet only a few steps away, in a shady park, the air feels noticeably cooler. This is not your imagination. Scientists have studied this effect for many years, and it is one of the main reasons why cities in hot countries need more green spaces."
+    },
+    {
+      "en": "Cities often become hotter than the countryside around them. Asphalt, concrete and brick absorb heat during the day and release it slowly at night, so streets stay warm even after sunset. This is known as the urban heat island effect. Trees help in two ways. Their leaves block sunlight, which keeps the ground below them cool. They also release water into the air through their leaves, and this cools the air around them, a little like sweat cools the human body."
+    },
+    {
+      "en": "Green spaces are also good for our health. Trees can trap some of the dust in the air, which is especially useful in dry, dusty regions. Researchers have found that people who live near parks tend to walk more and often feel less stressed. For children, a park may be the only safe place to run, climb and play outside. For older people, it is a place to meet friends on a bench in the shade."
+    },
+    {
+      "en": "In recent years, tree-planting has become a popular activity in many Uzbek cities. Volunteers, students and local organisations often gather in spring and autumn to plant young trees along streets and in schoolyards. However, experts warn that planting a tree is only the beginning. A young tree needs to be watered regularly for several years, and it should be suited to the local climate. Trees that need a lot of water may not survive a long, dry summer."
+    },
+    {
+      "en": "Planners also point out that a big park is not the only answer. A row of trees in a courtyard, plants on a roof or a small garden between apartment blocks can all make a difference to the people who live nearby. If every neighbourhood looked after its own trees, our cities would become cooler, cleaner and more pleasant places to live."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "shady",
+      "uz": "soyali"
+    },
+    {
+      "en": "noticeably",
+      "uz": "sezilarli darajada"
+    },
+    {
+      "en": "absorb",
+      "uz": "yutmoq, singdirmoq"
+    },
+    {
+      "en": "release",
+      "uz": "chiqarmoq, ajratmoq"
+    },
+    {
+      "en": "concrete",
+      "uz": "beton"
+    },
+    {
+      "en": "urban heat island",
+      "uz": "shahar «issiqlik oroli»"
+    },
+    {
+      "en": "block",
+      "uz": "toʻsmoq"
+    },
+    {
+      "en": "sweat",
+      "uz": "ter"
+    },
+    {
+      "en": "trap",
+      "uz": "ushlab qolmoq"
+    },
+    {
+      "en": "stressed",
+      "uz": "asabiy, zoʻriqqan"
+    },
+    {
+      "en": "volunteer",
+      "uz": "koʻngilli"
+    },
+    {
+      "en": "be suited to",
+      "uz": "… ga mos boʻlmoq"
+    },
+    {
+      "en": "courtyard",
+      "uz": "hovli"
+    },
+    {
+      "en": "pleasant",
+      "uz": "yoqimli"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "i29-passive-basics",
+      "title": {
+        "uz": "Majhul nisbat: is known as"
+      },
+      "example": "This is known as the urban heat island effect."
+    },
+    {
+      "topicId": "i53-who-which-that",
+      "title": {
+        "uz": "Nisbiy olmosh: people who live …"
+      },
+      "example": "people who live near parks tend to walk more"
+    }
+  ],
+  "questions": [
+    {
+      "id": "b1-17-city-parks-q1",
+      "type": "tfng",
+      "statement": "Streets in cities can stay warm after the sun goes down.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "2-xatboshi: «streets stay warm even after sunset»."
+      },
+      "para": 1
+    },
+    {
+      "id": "b1-17-city-parks-q2",
+      "type": "tfng",
+      "statement": "Trees cool the air only by giving shade.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "2-xatboshi: «Trees help in two ways» — soya berish va barglar orqali havoga suv chiqarish."
+      },
+      "para": 1
+    },
+    {
+      "id": "b1-17-city-parks-q3",
+      "type": "tfng",
+      "statement": "Tashkent has more parks than Bukhara.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Matnda shaharlardagi bogʻlar soni solishtirilmagan — Not Given."
+      },
+      "para": 0
+    },
+    {
+      "id": "b1-17-city-parks-q4",
+      "type": "tfng",
+      "statement": "Experts believe that planting a tree is enough to help a city.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "4-xatboshi: «experts warn that planting a tree is only the beginning» — daraxtni yillar davomida sugʻorish kerak."
+      },
+      "para": 3
+    },
+    {
+      "id": "b1-17-city-parks-q5",
+      "type": "heading",
+      "para": 1,
+      "options": [
+        "How trees cool a hot city",
+        "Where to find the best parks",
+        "The history of Uzbek gardens"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "2-xatboshi shahar nega isishi va daraxtlar havoni qanday salqinlatishi haqida: «Trees help in two ways»."
+      }
+    },
+    {
+      "id": "b1-17-city-parks-q6",
+      "type": "choice",
+      "prompt": "In paragraph 3, the word \"trap\" is closest in meaning to …",
+      "options": [
+        "catch and hold",
+        "produce",
+        "throw away"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "«Trees can trap some of the dust in the air» — daraxtlar changni ushlab qoladi, yaʼni havoni tozalaydi."
+      },
+      "para": 2
+    },
+    {
+      "id": "b1-17-city-parks-q7",
+      "type": "choice",
+      "prompt": "Why might some young trees die in a long, dry summer?",
+      "options": [
+        "They need a lot of water.",
+        "They are planted in autumn.",
+        "They grow too close to roads."
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "4-xatboshi: «Trees that need a lot of water may not survive a long, dry summer»."
+      },
+      "para": 3
+    },
+    {
+      "id": "b1-17-city-parks-q8",
+      "type": "gap",
+      "prompt": "When a city is hotter than the countryside around it, this is called the urban heat ___ effect.",
+      "answers": [
+        "island"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "2-xatboshi: «This is known as the urban heat island effect»."
+      },
+      "para": 1
+    },
+    {
+      "id": "b1-17-city-parks-q9",
+      "type": "gap",
+      "prompt": "People who live near parks tend to walk more and feel less ___.",
+      "answers": [
+        "stressed"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "3-xatboshi: «tend to walk more and often feel less stressed»."
+      },
+      "para": 2
+    }
+  ]
+}

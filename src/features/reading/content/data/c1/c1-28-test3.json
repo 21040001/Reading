@@ -1,0 +1,349 @@
+{
+  "id": "c1-28-test3",
+  "title": {
+    "uz": "3-test: Qadimgi irrigatsiya"
+  },
+  "en": "Water, Salt and Civilisation",
+  "level": "C1",
+  "kind": "exam",
+  "tag": {
+    "uz": "Tarix va arxeologiya",
+    "en": "History and archaeology"
+  },
+  "intro": {
+    "uz": "Toʻliq mashq testi (C1): Mesopotamiya va Xorazmdagi qadimgi sugʻorish tizimlari hamda tuproq shoʻrlanishi haqidagi matn. Haqiqiy IELTS Academic imtihonidagidek bitta matnga 14 ta savol beriladi: Matching headings, True/False/Not Given, summary completion (NO MORE THAN TWO WORDS) va 4 variantli test savollari. Taxminan 20 daqiqa ajrating. Tavsiya etiladigan tartib: avval 2–3 daqiqada matnga koʻz yugurtirib, har bir xatboshining asosiy gʻoyasini belgilang va sarlavhalarni moslang; soʻng TFNG savollarini matn tartibida bajaring; keyin xulosadagi boʻshliqlarni matndagi soʻzlar bilan aynan toʻldiring; test savollarini esa oxiriga qoldiring."
+  },
+  "paragraphs": [
+    {
+      "en": "Long before modern dams and pumps, farmers in some of the driest regions of the ancient world learned to move water from rivers to fields on a remarkable scale. In the floodplains of the Tigris and Euphrates, and along the lower course of the Amu Darya in Central Asia, irrigation made it possible to grow crops where rainfall alone would never have sustained them. The surplus food that resulted supported towns, specialised crafts and, eventually, complex states. Yet the same technology that underpinned these societies also carried a hidden cost, one that unfolded so slowly that it may have been barely perceptible to any single generation."
+    },
+    {
+      "en": "Southern Mesopotamia presented farmers with both an opportunity and a challenge. The soils were fertile and the rivers abundant, but rainfall was insufficient for reliable farming, and the annual floods tended to arrive in spring, when winter crops were nearing harvest, rather than when water was most needed. Farmers therefore built canals to distribute water, along with embankments to protect fields from unwanted floods. A once-influential theory held that the need to manage such systems gave rise to powerful centralised governments. Archaeological evidence has since complicated this picture, suggesting that many early canals were modest in scale and could have been maintained by local communities long before large states appeared."
+    },
+    {
+      "en": "In ancient Khorezm, on the lower Amu Darya south of the Aral Sea, irrigation likewise shaped human settlement for many centuries. Archaeologists have traced networks of canals across areas that are now desert, some of them stretching for many kilometres, along with the remains of fortified settlements whose walls still stand in parts of present-day Karakalpakstan and the Khorezm region. The origins of irrigated farming there are generally placed at least as early as the first millennium BC, although precise dates remain debated. What is clear is that the landscape once supported far more cultivation than its current appearance would suggest."
+    },
+    {
+      "en": "Studying ancient canals poses particular problems. A canal is essentially a ditch, and once abandoned it fills with wind-blown sand and silt, becoming almost invisible at ground level. A long-running Soviet archaeological expedition in Khorezm, begun in the late 1930s, came to make extensive use of aerial photography, which revealed the lines of former channels as faint marks on the surface; today, satellite imagery serves a similar purpose. Dating, however, remains difficult. Canals were frequently cleaned, deepened and redirected over centuries, so a single channel may contain layers from very different periods, and pottery found nearby does not necessarily indicate when the water was flowing."
+    },
+    {
+      "en": "The hidden cost mentioned earlier is salinisation, the gradual accumulation of salts in the soil. All river water carries small quantities of dissolved salts. When it is spread over fields in a hot, dry climate, much of the water evaporates or is taken up by plants, while the salts remain behind. Over-irrigation creates a further danger: if more water is applied than can drain away, the water table rises, and once it comes close to the surface, groundwater is drawn upwards and evaporates, leaving a white crust of salt. Without adequate drainage, land that has been cultivated for generations can gradually lose its fertility."
+    },
+    {
+      "en": "Whether salinisation contributed to the decline of particular ancient societies is a matter of continuing debate. Some scholars, drawing on ancient texts from southern Mesopotamia, have argued that over a period of centuries farmers grew less wheat and more barley, a crop known to be more tolerant of salt, and that recorded yields fell. Others have cautioned that the written evidence is fragmentary and open to different interpretations, and that changes in crop choice may also reflect economic or dietary preferences. Most specialists would probably accept that salinity was a real and recurring problem, while doubting that it alone can explain the rise and fall of cities."
+    },
+    {
+      "en": "In Khorezm, too, the abandonment of irrigated land seems to have had several causes. The Amu Darya has shifted its course more than once over the centuries, leaving some canal heads without water, and periods of warfare and political instability may have disrupted the collective labour that maintenance required. Salinity probably played a part in some areas. Disentangling these factors is difficult, not least because the archaeological record seldom reveals why people left, only that they did."
+    },
+    {
+      "en": "These ancient experiences are of more than historical interest. Large parts of Central Asia today face serious problems of soil salinity, linked to the extensive irrigation developed during the twentieth century and to inadequate drainage. Modern engineers can measure salt levels and install drainage systems that ancient farmers lacked, yet the underlying chemistry is unchanged. Not only do the canals of Khorezm and Mesopotamia testify to human ingenuity, but they also remind us that a system which works well for decades may still be unsustainable over centuries."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "floodplain",
+      "uz": "daryo qayiri, toshqin tekisligi"
+    },
+    {
+      "en": "sustain",
+      "uz": "ushlab turmoq, taʼminlamoq"
+    },
+    {
+      "en": "surplus",
+      "uz": "ortiqcha mahsulot"
+    },
+    {
+      "en": "underpin",
+      "uz": "asos boʻlmoq, tayanch boʻlmoq"
+    },
+    {
+      "en": "perceptible",
+      "uz": "sezilarli, payqash mumkin boʻlgan"
+    },
+    {
+      "en": "embankment",
+      "uz": "damba, qirgʻoq uyumi"
+    },
+    {
+      "en": "give rise to / gave rise to",
+      "uz": "yuzaga keltirmoq, sabab boʻlmoq"
+    },
+    {
+      "en": "fortified",
+      "uz": "mustahkamlangan, qalʼa devori bilan oʻralgan"
+    },
+    {
+      "en": "silt",
+      "uz": "loyqa, il"
+    },
+    {
+      "en": "aerial photography",
+      "uz": "havodan suratga olish"
+    },
+    {
+      "en": "salinisation",
+      "uz": "shoʻrlanish"
+    },
+    {
+      "en": "accumulation",
+      "uz": "toʻplanish"
+    },
+    {
+      "en": "water table",
+      "uz": "yer osti suvlari sathi"
+    },
+    {
+      "en": "fragmentary",
+      "uz": "parcha-parcha, toʻliq boʻlmagan"
+    },
+    {
+      "en": "recurring",
+      "uz": "takrorlanib turadigan"
+    },
+    {
+      "en": "disentangle",
+      "uz": "ajratib olmoq, chigalini yechmoq"
+    },
+    {
+      "en": "ingenuity",
+      "uz": "zukkolik, ixtirochilik"
+    },
+    {
+      "en": "unsustainable",
+      "uz": "uzoq davom ettirib boʻlmaydigan, barqaror boʻlmagan"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "c58-inversion",
+      "title": {
+        "uz": "Inversiya: Not only do … but … also"
+      },
+      "example": "Not only do the canals of Khorezm and Mesopotamia testify to human ingenuity"
+    },
+    {
+      "topicId": "c60-nominalisation",
+      "title": {
+        "uz": "Nominalizatsiya: the gradual accumulation of salts"
+      },
+      "example": "the gradual accumulation of salts in the soil"
+    }
+  ],
+  "questions": [
+    {
+      "id": "c1-28-test3-q1",
+      "type": "heading",
+      "para": 2,
+      "options": [
+        "Seasonal floods and a contested theory of power",
+        "Traces of a once-cultivated landscape",
+        "Why old channels are hard to find and to date",
+        "The chemistry behind a slow decline",
+        "Disputed evidence from ancient crop records",
+        "Several reasons for leaving the land",
+        "Ancient problems with present-day relevance",
+        "The engineering of the first great dams",
+        "Trade between Khorezm and Mesopotamia"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "Xatboshi C: hozir choʻl boʻlgan joylarda kanallar va qalʼalar izlari — «the landscape once supported far more cultivation than its current appearance would suggest»."
+      }
+    },
+    {
+      "id": "c1-28-test3-q2",
+      "type": "heading",
+      "para": 3,
+      "options": [
+        "Seasonal floods and a contested theory of power",
+        "Traces of a once-cultivated landscape",
+        "Why old channels are hard to find and to date",
+        "The chemistry behind a slow decline",
+        "Disputed evidence from ancient crop records",
+        "Several reasons for leaving the land",
+        "Ancient problems with present-day relevance",
+        "The engineering of the first great dams",
+        "Trade between Khorezm and Mesopotamia"
+      ],
+      "answer": 2,
+      "explain": {
+        "uz": "Xatboshi D: tashlab ketilgan kanal qum bilan toʻlib koʻrinmay qoladi, sanasini aniqlash esa «remains difficult»."
+      }
+    },
+    {
+      "id": "c1-28-test3-q3",
+      "type": "heading",
+      "para": 4,
+      "options": [
+        "Seasonal floods and a contested theory of power",
+        "Traces of a once-cultivated landscape",
+        "Why old channels are hard to find and to date",
+        "The chemistry behind a slow decline",
+        "Disputed evidence from ancient crop records",
+        "Several reasons for leaving the land",
+        "Ancient problems with present-day relevance",
+        "The engineering of the first great dams",
+        "Trade between Khorezm and Mesopotamia"
+      ],
+      "answer": 3,
+      "explain": {
+        "uz": "Xatboshi E: shoʻrlanish mexanizmi — bugʻlanish, tuzlarning qolishi, yer osti suvi koʻtarilishi; asta-sekin hosildorlik yoʻqoladi."
+      }
+    },
+    {
+      "id": "c1-28-test3-q4",
+      "type": "heading",
+      "para": 5,
+      "options": [
+        "Seasonal floods and a contested theory of power",
+        "Traces of a once-cultivated landscape",
+        "Why old channels are hard to find and to date",
+        "The chemistry behind a slow decline",
+        "Disputed evidence from ancient crop records",
+        "Several reasons for leaving the land",
+        "Ancient problems with present-day relevance",
+        "The engineering of the first great dams",
+        "Trade between Khorezm and Mesopotamia"
+      ],
+      "answer": 4,
+      "explain": {
+        "uz": "Xatboshi F: bugʻdoy oʻrniga arpa ekilgani haqidagi yozma maʼlumotlar bahsli — «fragmentary and open to different interpretations»."
+      }
+    },
+    {
+      "id": "c1-28-test3-q5",
+      "type": "heading",
+      "para": 6,
+      "options": [
+        "Seasonal floods and a contested theory of power",
+        "Traces of a once-cultivated landscape",
+        "Why old channels are hard to find and to date",
+        "The chemistry behind a slow decline",
+        "Disputed evidence from ancient crop records",
+        "Several reasons for leaving the land",
+        "Ancient problems with present-day relevance",
+        "The engineering of the first great dams",
+        "Trade between Khorezm and Mesopotamia"
+      ],
+      "answer": 5,
+      "explain": {
+        "uz": "Xatboshi G: Xorazmda yerlar tashlab ketilishining bir necha sababi — daryo oʻzanining oʻzgarishi, urushlar, shoʻrlanish. «Trade between Khorezm and Mesopotamia» chalgʻitadi: savdo haqida gap yoʻq."
+      }
+    },
+    {
+      "id": "c1-28-test3-q6",
+      "type": "tfng",
+      "statement": "In southern Mesopotamia, the annual floods usually came at the time when crops most needed water.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "Toshqinlar bahorda, hosil yigʻishga yaqin kelgan — «rather than when water was most needed»."
+      },
+      "para": 1
+    },
+    {
+      "id": "c1-28-test3-q7",
+      "type": "tfng",
+      "statement": "Archaeological evidence suggests that some early canals may have been managed without large states.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«could have been maintained by local communities long before large states appeared»."
+      },
+      "para": 1
+    },
+    {
+      "id": "c1-28-test3-q8",
+      "type": "tfng",
+      "statement": "The Soviet expedition in Khorezm discovered more canals than any later archaeological project.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Ekspeditsiya aerofotosuratdan foydalangani aytilgan, lekin topilgan kanallar sonini keyingi loyihalar bilan solishtirish yoʻq."
+      },
+      "para": 3
+    },
+    {
+      "id": "c1-28-test3-q9",
+      "type": "tfng",
+      "statement": "Barley is described as more able to cope with salty soil than wheat.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«barley, a crop known to be more tolerant of salt» — more tolerant = more able to cope with."
+      },
+      "para": 5
+    },
+    {
+      "id": "c1-28-test3-q10",
+      "type": "gap",
+      "prompt": "Summary: Once abandoned, a canal fills with wind-blown sand and ___, and becomes almost invisible.",
+      "answers": [
+        "silt"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«it fills with wind-blown sand and silt, becoming almost invisible at ground level»."
+      },
+      "para": 3
+    },
+    {
+      "id": "c1-28-test3-q11",
+      "type": "gap",
+      "prompt": "Summary: When too much water is applied to fields, the ___ rises towards the surface.",
+      "answers": [
+        "water table"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«if more water is applied than can drain away, the water table rises»."
+      },
+      "para": 4
+    },
+    {
+      "id": "c1-28-test3-q12",
+      "type": "gap",
+      "prompt": "Summary: As groundwater evaporates, it leaves a white ___ of salt on the land.",
+      "answers": [
+        "crust"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«leaving a white crust of salt»."
+      },
+      "para": 4
+    },
+    {
+      "id": "c1-28-test3-q13",
+      "type": "choice",
+      "prompt": "According to paragraph D, why can pottery found near a canal be misleading?",
+      "options": [
+        "It is usually too damaged to identify.",
+        "It may not show when the canal actually carried water.",
+        "It was often brought from distant regions.",
+        "It is always older than the canal itself."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«pottery found nearby does not necessarily indicate when the water was flowing»."
+      },
+      "para": 3
+    },
+    {
+      "id": "c1-28-test3-q14",
+      "type": "choice",
+      "prompt": "What is the writer's main point in the final paragraph?",
+      "options": [
+        "Modern engineering has fully solved the problem of salinity.",
+        "A system that succeeds for decades may still fail in the long term.",
+        "Ancient canals were more efficient than modern ones.",
+        "Central Asia should return to traditional methods of irrigation."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«a system which works well for decades may still be unsustainable over centuries». Muhandislar tuz darajasini oʻlchay oladi, lekin «the underlying chemistry is unchanged» — muammo toʻliq hal boʻlgani aytilmaydi."
+      },
+      "para": 7
+    }
+  ]
+}

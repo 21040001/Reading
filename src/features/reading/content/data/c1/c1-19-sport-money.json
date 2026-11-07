@@ -1,0 +1,291 @@
+{
+  "id": "c1-19-sport-money",
+  "title": {
+    "uz": "Sport va pul"
+  },
+  "en": "Sport and Money",
+  "level": "C1",
+  "kind": "exam",
+  "tag": {
+    "uz": "Sport va jamiyat",
+    "en": "Sport and society"
+  },
+  "intro": {
+    "uz": "Fikr-mulohaza matni (argumentativ esse): sportning tijoratlashuvi, transfer summalari, ommaviy sportni moliyalashtirish va muxlislarning «mijoz»ga aylanishi haqida. Bu matnda True/False/Not Given savollari muallifning qarashlari haqida — IELTSdagi YES / NO / NOT GIVEN kabi: TRUE (YES) — muallif shu fikrni bildiradi; FALSE (NO) — muallif bunga zid fikrda; NOT GIVEN — muallif bu masalada fikr bildirmagan. Faktlarni emas, muallifning munosabatini koʻrsatuvchi soʻzlarni qidiring: I would argue, in my view, arguably, it seems to me, with some justification. Muallif uchta muammoni ketma-ket sanaydi (The first … The second … A third …) — bu tuzilma savollarni tez topishga yordam beradi. Taxminan 20 daqiqa ajrating."
+  },
+  "paragraphs": [
+    {
+      "en": "Professional sport has never been entirely separate from money. Even in eras that are now remembered with affection as more innocent, clubs charged admission, owners sought profit and talented players were tempted by better offers elsewhere. What has changed in recent decades is the scale. Broadcasting deals, global sponsorship and the arrival of extremely wealthy owners have transformed the leading clubs in the most popular sports into international businesses, and the sum paid to transfer a single player can now exceed the annual budget of a small town. Few would deny that these changes have made elite sport more spectacular; the harder question is what they have done to everything around it."
+    },
+    {
+      "en": "Defenders of this transformation make several reasonable points. Commercial income has paid for modern stadiums, better medical care for athletes and a standard of play that would have been unthinkable a few generations ago. Elite athletes, whose careers are short and physically punishing, are arguably entitled to a share of the wealth their performances generate. And the global audience for top competitions suggests that, whatever purists may say, very large numbers of people enjoy the product they are offered."
+    },
+    {
+      "en": "The difficulties lie elsewhere. The first is concentration. When broadcasting revenue rewards success, the most successful clubs grow richer, attract the best players and become more successful still. Competitions in which the same handful of teams win year after year risk losing the uncertainty of outcome that makes sport compelling in the first place. Some leagues have attempted to counter this through limits on salaries or by sharing income more evenly, and although such measures are imperfect, they at least acknowledge that a sporting contest is not the same as an ordinary market."
+    },
+    {
+      "en": "The second concern is the neglect of the grassroots. Almost every professional athlete began by playing in a local park, school or amateur club, often coached by volunteers. These are the foundations on which the entire structure rests, yet they frequently receive a tiny fraction of the money that flows through the professional game. Pitches fall into disrepair, youth teams struggle to pay for equipment, and children from poorer families may be priced out of sports that were once accessible to almost everyone. It seems to me both unwise and unjust that so little of the wealth at the top finds its way back to the base."
+    },
+    {
+      "en": "A third, subtler change concerns the relationship between clubs and their supporters. Fans were once regarded, and regarded themselves, as members of a community whose loyalty gave a club its identity. Increasingly, they are treated as customers, to be offered premium seating, expensive replica shirts and subscription packages. The distinction matters. A customer who is dissatisfied can simply take their business elsewhere; a lifelong supporter cannot, and it is precisely this loyalty that makes them vulnerable to rising prices. When long-standing fans can no longer afford to attend matches, something of value is lost that no balance sheet records."
+    },
+    {
+      "en": "None of this means that money should be driven out of sport, which would be neither possible nor desirable. The question is how it is distributed and on what terms. A modest levy on transfer fees or broadcasting income, directed to community facilities and youth programmes, would cost the wealthiest clubs relatively little while making a considerable difference at local level. Giving supporters a formal voice in the running of their clubs, as some leagues and clubs already do in various forms, could help to ensure that commercial decisions take account of those with the deepest attachment to the game."
+    },
+    {
+      "en": "Sport occupies an unusual position: it is at once an industry, a form of entertainment and, for many people, a part of who they are. Treating it purely as a business misunderstands why people care about it so deeply. The challenge is to keep the benefits that commercial success has brought while remembering that the game's value has never been measured only in money. Getting that balance right will require clubs, governing bodies and governments to act together rather than leaving the matter to the market alone."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "remember with affection",
+      "uz": "iliqlik bilan eslamoq"
+    },
+    {
+      "en": "tempt",
+      "uz": "vasvasaga solmoq, oʻziga tortmoq"
+    },
+    {
+      "en": "broadcasting deal",
+      "uz": "teleradio translyatsiya shartnomasi"
+    },
+    {
+      "en": "punishing",
+      "uz": "juda ogʻir, toliqtiruvchi"
+    },
+    {
+      "en": "purist",
+      "uz": "anʼanaparast, «sof» qoidalar tarafdori"
+    },
+    {
+      "en": "concentration",
+      "uz": "toʻplanib qolish, jamlanish"
+    },
+    {
+      "en": "compelling",
+      "uz": "qiziqtiruvchi, oʻziga tortuvchi"
+    },
+    {
+      "en": "counter",
+      "uz": "qarshi chora koʻrmoq"
+    },
+    {
+      "en": "grassroots",
+      "uz": "quyi boʻgʻin, ommaviy (havaskor) daraja"
+    },
+    {
+      "en": "fall into disrepair",
+      "uz": "yaroqsiz holga kelmoq"
+    },
+    {
+      "en": "priced out",
+      "uz": "narx tufayli chetda qolgan"
+    },
+    {
+      "en": "subtle",
+      "uz": "nozik, sezilmas"
+    },
+    {
+      "en": "replica shirt",
+      "uz": "jamoa formasining nusxasi"
+    },
+    {
+      "en": "vulnerable",
+      "uz": "zaif, himoyasiz"
+    },
+    {
+      "en": "levy",
+      "uz": "yigʻim, majburiy toʻlov"
+    },
+    {
+      "en": "take account of",
+      "uz": "hisobga olmoq"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "c43-comparison-advanced",
+      "title": {
+        "uz": "Kuchaytirilgan qiyos: richer … more successful still"
+      },
+      "example": "the most successful clubs grow richer, attract the best players and become more successful still"
+    },
+    {
+      "topicId": "c34-participle-clauses",
+      "title": {
+        "uz": "Sifatdosh oborot: directed to …"
+      },
+      "example": "A modest levy on transfer fees or broadcasting income, directed to community facilities and youth programmes, would cost the wealthiest clubs relatively little"
+    }
+  ],
+  "questions": [
+    {
+      "id": "c1-19-sport-money-q1",
+      "type": "tfng",
+      "statement": "The writer believes that sport used to be completely free of financial motives.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«Professional sport has never been entirely separate from money» — eski davrlarda ham chipta, foyda boʻlgan. Oʻzgargan narsa — miqyos."
+      },
+      "para": 0
+    },
+    {
+      "id": "c1-19-sport-money-q2",
+      "type": "tfng",
+      "statement": "The writer accepts that top athletes may deserve a share of the money they help to create.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«Elite athletes … are arguably entitled to a share of the wealth their performances generate» — YES."
+      },
+      "para": 1
+    },
+    {
+      "id": "c1-19-sport-money-q3",
+      "type": "tfng",
+      "statement": "The writer believes that limits on salaries have completely solved the problem of concentration.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«although such measures are imperfect» — muammoni toʻliq hal qilmagan."
+      },
+      "para": 2
+    },
+    {
+      "id": "c1-19-sport-money-q4",
+      "type": "tfng",
+      "statement": "The writer thinks that volunteer coaches should be paid by professional clubs.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Koʻngilli murabbiylar tilga olinadi («often coached by volunteers»), lekin ularga haq toʻlash kerakmi — muallif fikr bildirmaydi."
+      },
+      "para": 3
+    },
+    {
+      "id": "c1-19-sport-money-q5",
+      "type": "tfng",
+      "statement": "The writer believes that ticket prices for international matches have risen faster than those for league matches.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Narx oshishi haqida umumiy gap bor, ammo xalqaro va liga oʻyinlari narxlari solishtirilmaydi."
+      }
+    },
+    {
+      "id": "c1-19-sport-money-q6",
+      "type": "tfng",
+      "statement": "According to the writer, loyal supporters are more exposed to price increases than ordinary customers.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "Mijoz boshqa joyga keta oladi, sodiq muxlis esa yoʻq — «it is precisely this loyalty that makes them vulnerable to rising prices»."
+      },
+      "para": 4
+    },
+    {
+      "id": "c1-19-sport-money-q7",
+      "type": "choice",
+      "prompt": "How does the writer regard the arguments of those who defend the commercialisation of sport?",
+      "options": [
+        "The writer considers all of them misleading.",
+        "The writer accepts that some of them are reasonable.",
+        "The writer believes they are supported only by purists.",
+        "The writer thinks they matter more than the problems the essay raises."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«Defenders of this transformation make several reasonable points», keyin «The difficulties lie elsewhere» — dalillarini tan oladi, lekin muammo boshqa joyda deydi."
+      },
+      "para": 1
+    },
+    {
+      "id": "c1-19-sport-money-q8",
+      "type": "choice",
+      "prompt": "Why does the writer refer to «the uncertainty of outcome»?",
+      "options": [
+        "To explain what makes sport attractive and what concentration threatens.",
+        "To argue that results in sport are random.",
+        "To praise leagues that share income evenly.",
+        "To show that fans prefer the same teams to win."
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "Bir xil jamoalar yutaversa, raqobat «risk losing the uncertainty of outcome that makes sport compelling» — sport aynan shu noaniqlik tufayli qiziqarli."
+      },
+      "para": 2
+    },
+    {
+      "id": "c1-19-sport-money-q9",
+      "type": "choice",
+      "prompt": "What does the writer propose in paragraph F?",
+      "options": [
+        "Banning wealthy owners from buying clubs.",
+        "Removing money from sport altogether.",
+        "A small charge on transfer fees or broadcasting income to fund local sport.",
+        "Lower salaries for elite athletes."
+      ],
+      "answer": 2,
+      "explain": {
+        "uz": "«A modest levy on transfer fees or broadcasting income, directed to community facilities and youth programmes». B javob rad etilgan: «neither possible nor desirable»."
+      },
+      "para": 5
+    },
+    {
+      "id": "c1-19-sport-money-q10",
+      "type": "choice",
+      "prompt": "Which statement best describes the writer's overall approach?",
+      "options": [
+        "The writer argues that commercialisation has destroyed sport.",
+        "The writer presents commercial success as entirely positive.",
+        "The writer recognises the benefits of money but calls for fairer distribution.",
+        "The writer focuses mainly on the problems of individual athletes."
+      ],
+      "answer": 2,
+      "explain": {
+        "uz": "«The question is how it is distributed and on what terms» va «keep the benefits … while remembering …» — muvozanatli pozitsiya."
+      },
+      "para": 6
+    },
+    {
+      "id": "c1-19-sport-money-q11",
+      "type": "gap",
+      "prompt": "Summary: Because of rising costs, children from poorer families may be ___ out of sports that were once open to almost everyone.",
+      "answers": [
+        "priced"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«children from poorer families may be priced out of sports»."
+      },
+      "para": 3
+    },
+    {
+      "id": "c1-19-sport-money-q12",
+      "type": "gap",
+      "prompt": "Summary: Fans, once seen as members of a community, are increasingly treated as ___.",
+      "answers": [
+        "customers"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«Increasingly, they are treated as customers»."
+      },
+      "para": 4
+    },
+    {
+      "id": "c1-19-sport-money-q13",
+      "type": "gap",
+      "prompt": "Summary: The writer suggests that supporters should be given a formal ___ in the running of their clubs.",
+      "answers": [
+        "voice"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«Giving supporters a formal voice in the running of their clubs»."
+      },
+      "para": 5
+    }
+  ]
+}

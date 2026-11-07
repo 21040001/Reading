@@ -1,0 +1,227 @@
+{
+  "id": "b1-25-workplace",
+  "title": {
+    "uz": "Ish joyida muloqot"
+  },
+  "en": "A Misunderstanding at Work",
+  "level": "B1",
+  "kind": "dialogue",
+  "tag": {
+    "uz": "Ish dunyosi",
+    "en": "The world of work"
+  },
+  "intro": {
+    "uz": "Ikki hamkasb — Dilnoza va Timur — hisobot muddati boʻyicha tushunmovchilikni muhokama qiladi. Oʻqishdan oldin oʻylab koʻring: ishda yoki oʻqishda sizda ham shunday holat boʻlganmi?"
+  },
+  "paragraphs": [
+    {
+      "en": "Dilnoza: Timur, have you got a minute? The manager asked me this morning why the sales report wasn't ready yesterday. I thought you were working on it. Timur: Yesterday? I'm sorry, but I was sure the deadline was Friday. That's what I understood from your email last week."
+    },
+    {
+      "en": "Dilnoza: Really? Let me check. Here it is. I wrote that you should send the report by the end of the week, ideally before the meeting with the regional team. That meeting was on Wednesday, so I meant Wednesday. Timur: I see. But for me, the end of the week means Friday. I didn't know when the meeting was, because I wasn't invited to it."
+    },
+    {
+      "en": "Dilnoza: You're right, I should have written the exact date. I'm afraid I assumed everyone knew about the meeting. Timur: And I should have asked you if I wasn't sure. To be honest, I noticed the word ideally, but I didn't think it was important."
+    },
+    {
+      "en": "Dilnoza: Well, it's not a disaster. The manager wasn't angry, just a bit surprised. How much of the report have you finished? Timur: Most of it. I only need to add the figures from the Samarkand office. If they send them today, I can finish it by tomorrow lunchtime."
+    },
+    {
+      "en": "Dilnoza: That's great. I'll call Samarkand myself and ask them to hurry. And I'll explain to the manager that it was my mistake, not yours. Timur: Thanks, that's kind of you. Maybe we could agree on something for the future? When there is a deadline, let's always write the day and the date."
+    },
+    {
+      "en": "Dilnoza: Good idea. And if something isn't clear, we ask each other straight away, even if the question seems silly. Timur: Agreed. I'll send you the report as soon as it's ready, and next time I'll put the deadline in my calendar the moment I get the email."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "have you got a minute?",
+      "uz": "bir daqiqangiz bormi?"
+    },
+    {
+      "en": "deadline",
+      "uz": "muddat, oxirgi sana"
+    },
+    {
+      "en": "ideally",
+      "uz": "eng yaxshisi, iloji boʻlsa"
+    },
+    {
+      "en": "regional",
+      "uz": "hududiy, viloyat (boʻlimi)"
+    },
+    {
+      "en": "invite",
+      "uz": "taklif qilmoq"
+    },
+    {
+      "en": "I'm afraid",
+      "uz": "afsuski (muloyim ohangda)"
+    },
+    {
+      "en": "assume",
+      "uz": "oʻzicha deb oʻylamoq, taxmin qilmoq"
+    },
+    {
+      "en": "to be honest",
+      "uz": "rostini aytsam"
+    },
+    {
+      "en": "disaster",
+      "uz": "falokat, ofat"
+    },
+    {
+      "en": "figures",
+      "uz": "raqamlar, koʻrsatkichlar"
+    },
+    {
+      "en": "hurry",
+      "uz": "shoshilmoq"
+    },
+    {
+      "en": "agree on",
+      "uz": "… ga kelishmoq"
+    },
+    {
+      "en": "straight away",
+      "uz": "darhol"
+    },
+    {
+      "en": "silly",
+      "uz": "arzimas, ahmoqona"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "i23-should-have-neednt-have",
+      "title": {
+        "uz": "should have + V3: oʻtmishdagi xato"
+      },
+      "example": "I should have written the exact date."
+    },
+    {
+      "topicId": "i16-future-time-clauses",
+      "title": {
+        "uz": "Kelasi zamon payt ergash gapi: as soon as"
+      },
+      "example": "I'll send you the report as soon as it's ready"
+    }
+  ],
+  "questions": [
+    {
+      "id": "b1-25-workplace-q1",
+      "type": "tfng",
+      "statement": "Timur thought the deadline was Friday.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«I was sure the deadline was Friday»."
+      },
+      "para": 0
+    },
+    {
+      "id": "b1-25-workplace-q2",
+      "type": "tfng",
+      "statement": "Timur has worked in the company for less than a year.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Timur qancha vaqtdan beri ishlashi haqida dialogda hech narsa aytilmagan."
+      },
+      "para": 0
+    },
+    {
+      "id": "b1-25-workplace-q3",
+      "type": "tfng",
+      "statement": "Timur had been invited to the meeting with the regional team.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«I wasn't invited to it» — uni yigʻilishga taklif qilishmagan."
+      },
+      "para": 1
+    },
+    {
+      "id": "b1-25-workplace-q4",
+      "type": "tfng",
+      "statement": "The manager was very angry about the late report.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«The manager wasn't angry, just a bit surprised»."
+      },
+      "para": 3
+    },
+    {
+      "id": "b1-25-workplace-q5",
+      "type": "choice",
+      "prompt": "What was the main cause of the misunderstanding?",
+      "options": [
+        "Timur forgot about the report.",
+        "The email did not give an exact date.",
+        "The manager changed the deadline."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "Dilnoza tan oladi: «I should have written the exact date» — emailda aniq sana yoʻq edi."
+      },
+      "para": 2
+    },
+    {
+      "id": "b1-25-workplace-q6",
+      "type": "choice",
+      "prompt": "What does Dilnoza offer to do?",
+      "options": [
+        "finish the report herself",
+        "tell the manager that the mistake was hers",
+        "move the meeting to Friday"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«I'll explain to the manager that it was my mistake, not yours»."
+      },
+      "para": 4
+    },
+    {
+      "id": "b1-25-workplace-q7",
+      "type": "choice",
+      "prompt": "In the last paragraph, «straight away» means …",
+      "options": [
+        "immediately",
+        "in a straight line",
+        "after some time"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "Tushunarsiz narsa boʻlsa, «darhol» soʻrashga kelishishadi: «we ask each other straight away»."
+      },
+      "para": 5
+    },
+    {
+      "id": "b1-25-workplace-q8",
+      "type": "gap",
+      "prompt": "Timur still needs to add the ___ from the Samarkand office.",
+      "answers": [
+        "figures"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«I only need to add the figures from the Samarkand office»."
+      },
+      "para": 3
+    },
+    {
+      "id": "b1-25-workplace-q9",
+      "type": "gap",
+      "prompt": "In future, they will always write the day and the ___ of a deadline.",
+      "answers": [
+        "date"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«let's always write the day and the date»."
+      },
+      "para": 4
+    }
+  ]
+}

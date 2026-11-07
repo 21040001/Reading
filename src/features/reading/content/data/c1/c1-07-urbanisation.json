@@ -1,0 +1,362 @@
+{
+  "id": "c1-07-urbanisation",
+  "title": {
+    "uz": "Shaharlashuv"
+  },
+  "en": "Urbanisation",
+  "level": "C1",
+  "kind": "exam",
+  "tag": {
+    "uz": "Jamiyat",
+    "en": "Society"
+  },
+  "intro": {
+    "uz": "Akademik matn: odamlar nega shaharlarga koʻchadi, norasmiy turar joylar, infratuzilmaga bosim va zichlikning iqtisodiy afzalliklari. Asosiy topshiriq: Matching headings — 9 ta sarlavhadan har bir xatboshiga bittasini tanlang (ikkitasi ortiqcha). Sarlavha xatboshining umumiy gʻoyasini ifodalaydi, bitta mos soʻzga aldanmang: avval xatboshining birinchi va oxirgi jumlasini oʻqing. Keyin TFNG, boʻshliq va test savollari. Taxminan 20 daqiqa."
+  },
+  "paragraphs": [
+    {
+      "en": "For most of human history, the overwhelming majority of people lived in the countryside. That balance has now shifted decisively. It is widely reported that, at some point in the first decade of this century, the number of people living in urban areas overtook the rural population for the first time, and demographers expect the urban share to keep rising for decades, with most of the growth concentrated in Asia and Africa. The process, known as urbanisation, is among the defining transformations of the modern era, yet its consequences remain the subject of lively debate among economists, planners and the residents of cities themselves."
+    },
+    {
+      "en": "Explanations of why people move to cities typically distinguish between push and pull factors. On the one hand, rural life may offer limited prospects: farm incomes are often low and unpredictable, land may be divided into ever smaller plots between heirs, and a drought or flood can wipe out a year's work. On the other hand, cities appear to promise higher wages, a wider range of jobs and better access to schools and hospitals. Migrants do not always find what they were hoping for, but for many the decision is a rational calculation: even an insecure urban job may pay more than agricultural labour, and the presence of relatives who have already made the move can ease the transition considerably."
+    },
+    {
+      "en": "Economists have long argued that cities are not merely large collections of people but engines of productivity. When firms, workers and suppliers are concentrated in one place, they benefit from what are known as agglomeration economies. Businesses can draw on a deep pool of skilled labour, workers can change employers without relocating, and ideas spread more rapidly through informal contact. It is partly for this reason that a disproportionate share of national output in many countries is generated in a handful of large cities. Density also makes certain services cheaper to provide per person, since a single water main or bus route can serve thousands of households."
+    },
+    {
+      "en": "Rapid growth, however, frequently outpaces the capacity of governments to plan for it. When new arrivals cannot afford formal housing, they often build their own homes on land they do not legally own, typically on the urban fringe or on sites considered unsuitable for construction, such as steep slopes or riverbanks prone to flooding. Such informal settlements now house a very large number of people worldwide. Living conditions in them vary enormously, but residents commonly lack secure tenure, adequate sanitation and reliable access to clean water, and the constant threat of eviction discourages them from investing in their homes."
+    },
+    {
+      "en": "It would be misleading, however, to regard informal settlements purely as places of misery. Many are vibrant communities with active local economies, in which residents run shops, workshops and services and gradually improve their dwellings as their incomes rise. Some urban planners now argue that demolishing such neighbourhoods and relocating their inhabitants to distant housing estates has often done more harm than good, cutting people off from jobs and social networks. Instead, they advocate upgrading in place: providing legal title, paved roads, drainage and electricity while allowing communities to remain where they are."
+    },
+    {
+      "en": "Even in more prosperous cities, growth places considerable strain on infrastructure. Roads become congested, public transport is overcrowded, and the cost of housing may rise faster than incomes, pushing lower-paid workers ever further from their jobs. Air pollution, much of it caused by traffic and heating, is a persistent problem in many large cities. Because major infrastructure takes years to plan, finance and build, cities that grow quickly are often perpetually catching up, investing to meet yesterday's demand rather than tomorrow's."
+    },
+    {
+      "en": "Whether urbanisation proves beneficial thus depends less on the movement of people itself than on how it is managed. Cities that invest early in transport, coordinate the use of land and include informal neighbourhoods in their plans appear better able to translate density into prosperity. Those that do not risk concentrating poverty rather than reducing it. The question for policymakers is therefore not whether to allow urban growth, which is in any case largely unstoppable, but how to ensure that its benefits are widely shared."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "overwhelming majority",
+      "uz": "mutlaq koʻpchilik"
+    },
+    {
+      "en": "decisively",
+      "uz": "qatʼiy, hal qiluvchi tarzda"
+    },
+    {
+      "en": "defining transformation",
+      "uz": "davrni belgilovchi oʻzgarish"
+    },
+    {
+      "en": "prospects",
+      "uz": "istiqbol, imkoniyatlar"
+    },
+    {
+      "en": "heir",
+      "uz": "merosxoʻr"
+    },
+    {
+      "en": "ease the transition",
+      "uz": "oʻtishni yengillashtirmoq"
+    },
+    {
+      "en": "agglomeration economies",
+      "uz": "aglomeratsiya samarasi (bir joyda toʻplanishdan foyda)"
+    },
+    {
+      "en": "disproportionate share",
+      "uz": "nomutanosib (haddan ortiq) ulush"
+    },
+    {
+      "en": "outpace",
+      "uz": "ortda qoldirmoq, oʻzib ketmoq"
+    },
+    {
+      "en": "urban fringe",
+      "uz": "shahar chekkasi"
+    },
+    {
+      "en": "prone to",
+      "uz": "… ga moyil, … xavfi yuqori"
+    },
+    {
+      "en": "informal settlement",
+      "uz": "norasmiy (rejasiz) turar joy"
+    },
+    {
+      "en": "secure tenure",
+      "uz": "mulk/turar joyga kafolatlangan huquq"
+    },
+    {
+      "en": "eviction",
+      "uz": "majburan koʻchirish, uydan chiqarish"
+    },
+    {
+      "en": "vibrant",
+      "uz": "jonli, gavjum"
+    },
+    {
+      "en": "advocate",
+      "uz": "yoqlamoq, targʻib qilmoq"
+    },
+    {
+      "en": "congested",
+      "uz": "tirband, gavjum"
+    },
+    {
+      "en": "perpetually",
+      "uz": "doimo, toʻxtovsiz"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "c16-reporting-passive",
+      "title": {
+        "uz": "Xabar qiluvchi majhul nisbat: It is widely reported that …"
+      },
+      "example": "It is widely reported that"
+    },
+    {
+      "topicId": "c39-it-there",
+      "title": {
+        "uz": "Kirish «it»: It would be misleading … to regard …"
+      },
+      "example": "It would be misleading, however, to regard informal settlements purely as places of misery"
+    }
+  ],
+  "questions": [
+    {
+      "id": "c1-07-urbanisation-q1",
+      "type": "heading",
+      "para": 0,
+      "options": [
+        "Weighing the reasons for leaving the land",
+        "Homes built outside the official system",
+        "Management, not movement, as the decisive factor",
+        "Why concentration makes economic sense",
+        "Governments that have halted migration to cities",
+        "Pressures felt even by wealthier cities",
+        "A more positive view of unplanned neighbourhoods",
+        "A historic change in where people live",
+        "The decline of farming as an occupation"
+      ],
+      "answer": 7,
+      "explain": {
+        "uz": "Xatboshi A: «the number of people living in urban areas overtook the rural population for the first time» — odamlar yashaydigan joyda tarixiy burilish."
+      }
+    },
+    {
+      "id": "c1-07-urbanisation-q2",
+      "type": "heading",
+      "para": 1,
+      "options": [
+        "Weighing the reasons for leaving the land",
+        "Homes built outside the official system",
+        "Management, not movement, as the decisive factor",
+        "Why concentration makes economic sense",
+        "Governments that have halted migration to cities",
+        "Pressures felt even by wealthier cities",
+        "A more positive view of unplanned neighbourhoods",
+        "A historic change in where people live",
+        "The decline of farming as an occupation"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "Xatboshi B: «push and pull factors» — qishloqdan ketish sabablari tarozida tortiladi, qaror «a rational calculation». «The decline of farming as an occupation» chalgʻitadi: dehqonchilik kamayishi emas, migratsiya sabablari muhokama qilinadi."
+      }
+    },
+    {
+      "id": "c1-07-urbanisation-q3",
+      "type": "heading",
+      "para": 2,
+      "options": [
+        "Weighing the reasons for leaving the land",
+        "Homes built outside the official system",
+        "Management, not movement, as the decisive factor",
+        "Why concentration makes economic sense",
+        "Governments that have halted migration to cities",
+        "Pressures felt even by wealthier cities",
+        "A more positive view of unplanned neighbourhoods",
+        "A historic change in where people live",
+        "The decline of farming as an occupation"
+      ],
+      "answer": 3,
+      "explain": {
+        "uz": "Xatboshi C: firmalar va ishchilar bir joyda toʻplansa unumdorlik oshadi — «agglomeration economies», «engines of productivity». Bu — zichlikning iqtisodiy mantigʻi."
+      }
+    },
+    {
+      "id": "c1-07-urbanisation-q4",
+      "type": "heading",
+      "para": 3,
+      "options": [
+        "Weighing the reasons for leaving the land",
+        "Homes built outside the official system",
+        "Management, not movement, as the decisive factor",
+        "Why concentration makes economic sense",
+        "Governments that have halted migration to cities",
+        "Pressures felt even by wealthier cities",
+        "A more positive view of unplanned neighbourhoods",
+        "A historic change in where people live",
+        "The decline of farming as an occupation"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "Xatboshi D: odamlar oʻzlariga tegishli boʻlmagan yerda uy quradi — «land they do not legally own», «informal settlements». «official system» = formal housing / legal ownership."
+      }
+    },
+    {
+      "id": "c1-07-urbanisation-q5",
+      "type": "heading",
+      "para": 4,
+      "options": [
+        "Weighing the reasons for leaving the land",
+        "Homes built outside the official system",
+        "Management, not movement, as the decisive factor",
+        "Why concentration makes economic sense",
+        "Governments that have halted migration to cities",
+        "Pressures felt even by wealthier cities",
+        "A more positive view of unplanned neighbourhoods",
+        "A historic change in where people live",
+        "The decline of farming as an occupation"
+      ],
+      "answer": 6,
+      "explain": {
+        "uz": "Xatboshi E: «It would be misleading … to regard informal settlements purely as places of misery» — norasmiy mahallalarga ijobiyroq qarash, «upgrading in place»."
+      }
+    },
+    {
+      "id": "c1-07-urbanisation-q6",
+      "type": "heading",
+      "para": 5,
+      "options": [
+        "Weighing the reasons for leaving the land",
+        "Homes built outside the official system",
+        "Management, not movement, as the decisive factor",
+        "Why concentration makes economic sense",
+        "Governments that have halted migration to cities",
+        "Pressures felt even by wealthier cities",
+        "A more positive view of unplanned neighbourhoods",
+        "A historic change in where people live",
+        "The decline of farming as an occupation"
+      ],
+      "answer": 5,
+      "explain": {
+        "uz": "Xatboshi F: yoʻllar, transport, uy-joy oʻsishga ulgurmaydi — «strain on infrastructure», «Even in more prosperous cities» — boy shaharlar ham bosimni his qiladi; «perpetually catching up»."
+      }
+    },
+    {
+      "id": "c1-07-urbanisation-q7",
+      "type": "heading",
+      "para": 6,
+      "options": [
+        "Weighing the reasons for leaving the land",
+        "Homes built outside the official system",
+        "Management, not movement, as the decisive factor",
+        "Why concentration makes economic sense",
+        "Governments that have halted migration to cities",
+        "Pressures felt even by wealthier cities",
+        "A more positive view of unplanned neighbourhoods",
+        "A historic change in where people live",
+        "The decline of farming as an occupation"
+      ],
+      "answer": 2,
+      "explain": {
+        "uz": "Xatboshi G: «depends less on the movement of people itself than on how it is managed» — sarlavha shu fikrning aniq qayta ifodasi. «Governments that have halted migration» notoʻgʻri: oʻsish «largely unstoppable» deyilgan."
+      }
+    },
+    {
+      "id": "c1-07-urbanisation-q8",
+      "type": "tfng",
+      "statement": "Most future urban growth is expected to take place in Europe and North America.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«most of the growth concentrated in Asia and Africa» — Yevropa va Shimoliy Amerika emas."
+      },
+      "para": 0
+    },
+    {
+      "id": "c1-07-urbanisation-q9",
+      "type": "tfng",
+      "statement": "Having family members already living in a city can make moving there easier.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«the presence of relatives who have already made the move can ease the transition considerably»."
+      },
+      "para": 1
+    },
+    {
+      "id": "c1-07-urbanisation-q10",
+      "type": "tfng",
+      "statement": "Informal settlements are more common in coastal cities than in inland ones.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Matnda daryo boʻyidagi xavfli joylar («riverbanks prone to flooding») tilga olingan, lekin qirgʻoqboʻyi va ichki shaharlar solishtirilmagan — NOT GIVEN."
+      },
+      "para": 3
+    },
+    {
+      "id": "c1-07-urbanisation-q11",
+      "type": "gap",
+      "prompt": "Rather than relocating residents, some planners prefer ___ in place.",
+      "answers": [
+        "upgrading"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«they advocate upgrading in place» — «advocate» = «prefer / support»."
+      },
+      "para": 4
+    },
+    {
+      "id": "c1-07-urbanisation-q12",
+      "type": "gap",
+      "prompt": "When firms and workers cluster together, they gain from what economists call ___ economies.",
+      "answers": [
+        "agglomeration"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«they benefit from what are known as agglomeration economies»."
+      },
+      "para": 2
+    },
+    {
+      "id": "c1-07-urbanisation-q13",
+      "type": "choice",
+      "prompt": "What does the writer mean by saying that fast-growing cities are \"perpetually catching up\"?",
+      "options": [
+        "They copy the infrastructure of older cities.",
+        "Their investment always responds to past rather than future needs.",
+        "They grow faster than any other type of settlement.",
+        "They eventually overtake richer cities economically."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "Izoh darhol keladi: «investing to meet yesterday's demand rather than tomorrow's» — sarmoya kechikib, oʻtgan ehtiyojga javob beradi."
+      },
+      "para": 5
+    },
+    {
+      "id": "c1-07-urbanisation-q14",
+      "type": "choice",
+      "prompt": "What is the writer's main conclusion about urbanisation?",
+      "options": [
+        "It should be slowed down by governments.",
+        "Its outcome depends mainly on the quality of planning.",
+        "It inevitably increases poverty.",
+        "Its benefits are mostly limited to rich countries."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«depends less on the movement of people itself than on how it is managed»; sekinlashtirish emas — oʻsish «largely unstoppable»."
+      },
+      "para": 6
+    }
+  ]
+}

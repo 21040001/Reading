@@ -1,0 +1,337 @@
+{
+  "id": "c1-29-test4",
+  "title": {
+    "uz": "4-test: Tovush yutuvchi materiallar"
+  },
+  "en": "Absorbing the Noise: How Acoustic Materials Work",
+  "level": "C1",
+  "kind": "exam",
+  "tag": {
+    "uz": "Fizika va arxitektura",
+    "en": "Physics and architecture"
+  },
+  "intro": {
+    "uz": "Toʻliq mashq testi (C1): tovushni yutuvchi va izolyatsiya qiluvchi materiallar qanday ishlashi haqidagi ilmiy-texnik matn. Haqiqiy IELTS Academic imtihonidagidek bitta matnga 14 ta savol beriladi: Matching headings, True/False/Not Given, summary completion (NO MORE THAN TWO WORDS) va 4 variantli test savollari. Taxminan 20 daqiqa ajrating. Tavsiya etiladigan tartib: avval 2–3 daqiqada matnga koʻz yugurtirib, har bir xatboshining asosiy gʻoyasini belgilang va sarlavhalarni moslang; soʻng TFNG savollarini matn tartibida bajaring; keyin xulosadagi boʻshliqlarni matndagi soʻzlar bilan aynan toʻldiring; test savollarini esa oxiriga qoldiring."
+  },
+  "paragraphs": [
+    {
+      "en": "Anyone who has tried to quieten a noisy flat by fixing soft foam panels to the walls is likely to have been disappointed. The panels may make the room itself sound less echoey, but the neighbour's television remains stubbornly audible. This common experience points to a distinction that lies at the heart of architectural acoustics and is frequently misunderstood. Controlling sound within a space and preventing sound from passing between spaces are different problems, and they are solved by materials that work in fundamentally different ways."
+    },
+    {
+      "en": "Sound is a pressure wave travelling through the air, and when it strikes a surface, its energy is divided in three ways. Part of it is reflected back into the room, part is absorbed by the material, and part passes through to the other side. Hard, smooth surfaces such as concrete, glass and tiles reflect most of the energy that reaches them, which is why empty rooms with bare walls tend to sound harsh. Sound absorption refers to reducing the reflected portion and thus improving conditions inside a room, whereas sound insulation is concerned with limiting the portion that is transmitted."
+    },
+    {
+      "en": "The most familiar absorbers are porous materials, including mineral wool, open-cell foam and heavy fabrics. Their effectiveness depends on a network of tiny interconnected air spaces. As a sound wave enters the material, it forces air to move back and forth through these narrow passages, and friction between the moving air and the fibres converts some of the sound energy into heat. The amount of heat produced is minute, far too small to be felt, but the cumulative effect on the reflected sound can be considerable. It follows that a porous absorber whose surface is sealed, for example by a thick coat of paint, may lose much of its effectiveness, since air can no longer enter it freely."
+    },
+    {
+      "en": "Porous absorbers have an important limitation, however. They work best at middle and high frequencies, whose wavelengths are relatively short. Low-frequency sounds, such as the hum of machinery or the bass in music, have wavelengths that can be several metres long, and to absorb them effectively, a porous layer generally needs to be very thick. Designers sometimes compensate by mounting panels at a distance from the wall, because the air gap behind the material allows it to work over a broader range of frequencies. Even so, deep bass remains among the hardest sounds to control."
+    },
+    {
+      "en": "Insulation relies on quite different principles. To stop sound passing from one room to another, a barrier should above all be heavy and airtight. A massive wall is harder for a pressure wave to set into vibration, and the less it vibrates, the less sound it radiates on the other side. Increasing mass brings diminishing returns, though, so builders often use a further technique: dividing a wall into two layers that are not rigidly connected, with absorbent material in the cavity between them. Equally important is the elimination of gaps, since even a small opening around a door or pipe can allow a surprising amount of sound to leak through."
+    },
+    {
+      "en": "A third category, resonant absorbers, is designed specifically to deal with the low frequencies that porous materials struggle with. One type consists of a thin panel mounted over an enclosed air space; the panel vibrates most strongly at a particular frequency and loses energy as it does so. Another, known as a Helmholtz resonator, works on the same principle as the note produced by blowing across the neck of a bottle: the air in the neck oscillates against the cushion of air inside, absorbing energy most efficiently around one frequency. Because such devices are tuned to a narrow range, they are typically used to solve a specific problem rather than to treat a room in general. Interestingly, a Roman writer on architecture described bronze vessels placed in theatres to modify their sound, although how effective such devices actually were is uncertain."
+    },
+    {
+      "en": "Getting the acoustics of a room right is rarely a matter of maximising absorption. A space that absorbs too much sounds unnaturally dead, and speech and music lose their liveliness. Concert halls require a degree of reverberation, the persistence of sound after its source has stopped, while classrooms and offices need much less, because excessive reverberation blurs the consonants on which the intelligibility of speech depends. It is this balance, rather than the elimination of echoes, that acoustic designers aim to achieve, and it explains why the same material may be ideal in one setting and inappropriate in another."
+    },
+    {
+      "en": "Similar principles are increasingly applied on the scale of whole cities. Barriers along busy roads block the direct path between traffic and nearby homes, and some road surfaces are made porous so that they absorb part of the noise generated by tyres. Trees and shrubs, by contrast, tend to reduce traffic noise only modestly unless they are planted in deep belts, although they may make an environment feel quieter. Researchers are also exploring engineered structures, sometimes called acoustic metamaterials, which might control sound in ways that ordinary materials cannot, though most remain at an experimental stage."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "stubbornly",
+      "uz": "oʻjarlik bilan, qaysarlarcha"
+    },
+    {
+      "en": "audible",
+      "uz": "eshitiladigan"
+    },
+    {
+      "en": "porous",
+      "uz": "gʻovak, teshikchali"
+    },
+    {
+      "en": "interconnected",
+      "uz": "oʻzaro bogʻlangan"
+    },
+    {
+      "en": "friction",
+      "uz": "ishqalanish"
+    },
+    {
+      "en": "minute",
+      "uz": "juda kichik, arzimas"
+    },
+    {
+      "en": "cumulative",
+      "uz": "jamlangan, yigʻilib boradigan"
+    },
+    {
+      "en": "compensate",
+      "uz": "oʻrnini toʻldirmoq"
+    },
+    {
+      "en": "airtight",
+      "uz": "havo oʻtkazmaydigan, germetik"
+    },
+    {
+      "en": "diminishing returns",
+      "uz": "kamayib boruvchi samara"
+    },
+    {
+      "en": "cavity",
+      "uz": "boʻshliq"
+    },
+    {
+      "en": "resonant",
+      "uz": "rezonansli"
+    },
+    {
+      "en": "oscillate",
+      "uz": "tebranmoq"
+    },
+    {
+      "en": "reverberation",
+      "uz": "reverberatsiya, tovushning sekin soʻnishi"
+    },
+    {
+      "en": "intelligibility",
+      "uz": "tushunarlilik, aniq eshitilish"
+    },
+    {
+      "en": "modestly",
+      "uz": "ozgina, kamtarona darajada"
+    },
+    {
+      "en": "experimental stage",
+      "uz": "tajriba bosqichi"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "c57-cleft-sentences",
+      "title": {
+        "uz": "Taʼkidli gap: It is … that …"
+      },
+      "example": "It is this balance, rather than the elimination of echoes, that acoustic designers aim to achieve"
+    },
+    {
+      "topicId": "c43-comparison-advanced",
+      "title": {
+        "uz": "Murakkab qiyoslash: the less …, the less …"
+      },
+      "example": "the less it vibrates, the less sound it radiates on the other side"
+    }
+  ],
+  "questions": [
+    {
+      "id": "c1-29-test4-q1",
+      "type": "heading",
+      "para": 1,
+      "options": [
+        "A common mistake reveals two separate problems",
+        "Where the energy of a sound wave goes",
+        "Turning sound into a little warmth",
+        "The particular challenge of deep sounds",
+        "Weight, airtightness and separate layers",
+        "Devices tuned to a narrow range",
+        "Aiming for balance rather than silence",
+        "Why modern buildings are noisier than old ones",
+        "The effects of urban noise on health"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "Xatboshi B: tovush energiyasi uch yoʻlga boʻlinadi — «reflected … absorbed … passes through»."
+      }
+    },
+    {
+      "id": "c1-29-test4-q2",
+      "type": "heading",
+      "para": 2,
+      "options": [
+        "A common mistake reveals two separate problems",
+        "Where the energy of a sound wave goes",
+        "Turning sound into a little warmth",
+        "The particular challenge of deep sounds",
+        "Weight, airtightness and separate layers",
+        "Devices tuned to a narrow range",
+        "Aiming for balance rather than silence",
+        "Why modern buildings are noisier than old ones",
+        "The effects of urban noise on health"
+      ],
+      "answer": 2,
+      "explain": {
+        "uz": "Xatboshi C: gʻovak materialda ishqalanish tovush energiyasining bir qismini issiqlikka aylantiradi — «converts some of the sound energy into heat», issiqlik esa «minute»."
+      }
+    },
+    {
+      "id": "c1-29-test4-q3",
+      "type": "heading",
+      "para": 4,
+      "options": [
+        "A common mistake reveals two separate problems",
+        "Where the energy of a sound wave goes",
+        "Turning sound into a little warmth",
+        "The particular challenge of deep sounds",
+        "Weight, airtightness and separate layers",
+        "Devices tuned to a narrow range",
+        "Aiming for balance rather than silence",
+        "Why modern buildings are noisier than old ones",
+        "The effects of urban noise on health"
+      ],
+      "answer": 4,
+      "explain": {
+        "uz": "Xatboshi E: izolyatsiya — devor «heavy and airtight» boʻlishi, ikki qatlam va tirqishlarni yoʻqotish."
+      }
+    },
+    {
+      "id": "c1-29-test4-q4",
+      "type": "heading",
+      "para": 6,
+      "options": [
+        "A common mistake reveals two separate problems",
+        "Where the energy of a sound wave goes",
+        "Turning sound into a little warmth",
+        "The particular challenge of deep sounds",
+        "Weight, airtightness and separate layers",
+        "Devices tuned to a narrow range",
+        "Aiming for balance rather than silence",
+        "Why modern buildings are noisier than old ones",
+        "The effects of urban noise on health"
+      ],
+      "answer": 6,
+      "explain": {
+        "uz": "Xatboshi G: maqsad maksimal yutish emas, muvozanat — «It is this balance, rather than the elimination of echoes». «Why modern buildings are noisier» chalgʻitadi: bu haqda gap yoʻq."
+      }
+    },
+    {
+      "id": "c1-29-test4-q5",
+      "type": "tfng",
+      "statement": "Fixing soft foam panels to the walls is an effective way to stop a neighbour's television being heard.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«the neighbour's television remains stubbornly audible» — panellar faqat xona ichidagi aks-sadoni kamaytiradi."
+      },
+      "para": 0
+    },
+    {
+      "id": "c1-29-test4-q6",
+      "type": "tfng",
+      "statement": "Rooms with bare walls tend to sound harsh because hard surfaces reflect most of the sound energy.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«reflect most of the energy that reaches them, which is why empty rooms with bare walls tend to sound harsh»."
+      },
+      "para": 1
+    },
+    {
+      "id": "c1-29-test4-q7",
+      "type": "tfng",
+      "statement": "Mineral wool absorbs high frequencies more effectively than open-cell foam.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Ikkalasi ham gʻovak material sifatida sanab oʻtilgan, lekin ular bir-biri bilan solishtirilmagan."
+      },
+      "para": 2
+    },
+    {
+      "id": "c1-29-test4-q8",
+      "type": "tfng",
+      "statement": "Covering a porous absorber with thick paint may make it less effective.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«a porous absorber whose surface is sealed, for example by a thick coat of paint, may lose much of its effectiveness»."
+      },
+      "para": 2
+    },
+    {
+      "id": "c1-29-test4-q9",
+      "type": "tfng",
+      "statement": "Trees and shrubs usually reduce traffic noise substantially, even when planted in narrow rows.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«reduce traffic noise only modestly unless they are planted in deep belts» — substantially emas, modestly."
+      },
+      "para": 7
+    },
+    {
+      "id": "c1-29-test4-q10",
+      "type": "gap",
+      "prompt": "Summary: Low-frequency sounds have wavelengths that may be several ___ long.",
+      "answers": [
+        "metres",
+        "meters"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«have wavelengths that can be several metres long»."
+      },
+      "para": 3
+    },
+    {
+      "id": "c1-29-test4-q11",
+      "type": "gap",
+      "prompt": "Summary: Panels are sometimes mounted away from the wall, because the ___ behind them lets them work over more frequencies.",
+      "answers": [
+        "air gap"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«the air gap behind the material allows it to work over a broader range of frequencies»."
+      },
+      "para": 3
+    },
+    {
+      "id": "c1-29-test4-q12",
+      "type": "gap",
+      "prompt": "Summary: In classrooms, excessive reverberation blurs the ___ that make speech understandable.",
+      "answers": [
+        "consonants"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«excessive reverberation blurs the consonants on which the intelligibility of speech depends»."
+      },
+      "para": 6
+    },
+    {
+      "id": "c1-29-test4-q13",
+      "type": "choice",
+      "prompt": "Why does the writer mention blowing across the neck of a bottle?",
+      "options": [
+        "to explain the principle behind one type of resonant absorber",
+        "to show that glass reflects most sound",
+        "to describe a device used in ancient theatres",
+        "to illustrate how porous materials absorb sound"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "«known as a Helmholtz resonator, works on the same principle as the note produced by blowing across the neck of a bottle». Qadimgi teatrlar haqida esa bronza idishlar tilga olinadi."
+      },
+      "para": 5
+    },
+    {
+      "id": "c1-29-test4-q14",
+      "type": "choice",
+      "prompt": "What does the writer say about acoustic metamaterials?",
+      "options": [
+        "They have already replaced roadside barriers in many cities.",
+        "Most of them are still being tested.",
+        "They are less effective than trees and shrubs.",
+        "They work only at high frequencies."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«though most remain at an experimental stage» — koʻpchiligi hali sinov bosqichida."
+      },
+      "para": 7
+    }
+  ]
+}

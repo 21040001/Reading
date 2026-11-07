@@ -1,0 +1,247 @@
+{
+  "id": "b2-09-food-waste",
+  "title": {
+    "uz": "Ovqat isrofi"
+  },
+  "en": "Wasted Food",
+  "level": "B2",
+  "kind": "exam",
+  "tag": {
+    "uz": "Jamiyat va atrof-muhit",
+    "en": "Society and environment"
+  },
+  "intro": {
+    "uz": "Topshiriq: True / False / Not Given. Sabab-natija tuzogʻidan ehtiyot boʻling: savolda matndagi ikki fakt toʻgʻri boʻlishi mumkin, lekin ular orasidagi «because» bogʻlanishi notoʻgʻri koʻrsatilgan. Faqat faktlarni emas, sababni ham matn bilan solishtiring."
+  },
+  "paragraphs": [
+    {
+      "en": "A large share of the food produced around the world is never eaten. It is lost or thrown away at almost every stage between the farm and the plate, and when this happens, the water, energy, land and labour used to produce it are wasted as well. Food that rots in landfill sites also releases methane, a powerful greenhouse gas."
+    },
+    {
+      "en": "Some of the loss occurs before food even leaves the farm. Crops may be damaged by pests or bad weather, or simply left unharvested when market prices are too low to cover the cost of picking them. Some produce is also damaged during harvesting or packing. In places where roads and storage facilities are poor, fruit and vegetables can spoil on the way to market, especially in hot climates without refrigeration."
+    },
+    {
+      "en": "Supermarkets contribute in other ways. Many shops reject produce that is the wrong shape or size, even though it is perfectly safe to eat, because they believe customers will not buy it. Special offers that encourage people to buy more than they need may simply move waste from the shop to the home. Confusion about date labels adds to the problem: a best-before date refers to quality rather than safety, yet many people throw food away as soon as this date has passed."
+    },
+    {
+      "en": "In wealthier countries, households are thought to be responsible for a significant part of all food waste. People buy too much, forget what is in the fridge, cook larger portions than they can eat, or throw away leftovers. Because each family wastes only a little at a time, the problem is easy to overlook, but across a whole country the amounts are considerable."
+    },
+    {
+      "en": "A number of solutions are being tried. Food banks collect surplus food from shops, restaurants and producers and pass it on to people in need. Some cities have introduced separate collection of food scraps, which can be composted and returned to the soil as fertiliser. In some places, shops now sell imperfect vegetables at lower prices instead of rejecting them. Restaurants, too, can cut waste by offering smaller portions."
+    },
+    {
+      "en": "Experts generally agree that preventing waste is better than dealing with it afterwards. Simple habits, such as planning meals, writing a shopping list and storing food properly, can make a real difference. In many traditional cultures, including that of Uzbekistan, where bread is treated with great respect and should never be thrown away, wasting food has long been considered wrong."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "share",
+      "uz": "ulush"
+    },
+    {
+      "en": "labour",
+      "uz": "mehnat"
+    },
+    {
+      "en": "landfill",
+      "uz": "chiqindixona"
+    },
+    {
+      "en": "release",
+      "uz": "chiqarmoq, ajratmoq"
+    },
+    {
+      "en": "pest",
+      "uz": "zararkunanda"
+    },
+    {
+      "en": "unharvested",
+      "uz": "yigʻib olinmagan"
+    },
+    {
+      "en": "spoil",
+      "uz": "buzilmoq, aynimoq"
+    },
+    {
+      "en": "refrigeration",
+      "uz": "sovutish"
+    },
+    {
+      "en": "reject",
+      "uz": "rad etmoq, qabul qilmaslik"
+    },
+    {
+      "en": "produce",
+      "uz": "meva-sabzavot; ishlab chiqarmoq"
+    },
+    {
+      "en": "leftovers",
+      "uz": "ortib qolgan ovqat"
+    },
+    {
+      "en": "overlook",
+      "uz": "eʼtibordan chetda qoldirmoq"
+    },
+    {
+      "en": "surplus",
+      "uz": "ortiqcha"
+    },
+    {
+      "en": "compost",
+      "uz": "kompost qilmoq (chiritib oʻgʻitga aylantirmoq)"
+    },
+    {
+      "en": "fertiliser",
+      "uz": "oʻgʻit"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "i31-it-is-said",
+      "title": {
+        "uz": "Majhul: are thought to be"
+      },
+      "example": "households are thought to be responsible for a significant part"
+    },
+    {
+      "topicId": "i61-although-despite",
+      "title": {
+        "uz": "even though / yet"
+      },
+      "example": "even though it is perfectly safe to eat"
+    }
+  ],
+  "questions": [
+    {
+      "id": "b2-09-food-waste-q1",
+      "type": "tfng",
+      "statement": "When food is wasted, the resources used to produce it are lost too.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«the water, energy, land and labour used to produce it are wasted as well»."
+      },
+      "para": 0
+    },
+    {
+      "id": "b2-09-food-waste-q2",
+      "type": "tfng",
+      "statement": "Farmers sometimes leave crops in the fields because picking them would cost more than they could earn.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«left unharvested when market prices are too low to cover the cost of picking them»."
+      },
+      "para": 1
+    },
+    {
+      "id": "b2-09-food-waste-q3",
+      "type": "tfng",
+      "statement": "Food is more likely to spoil during transport in cold countries than in hot ones.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«especially in hot climates without refrigeration» — aksincha, issiq iqlimda."
+      },
+      "para": 1
+    },
+    {
+      "id": "b2-09-food-waste-q4",
+      "type": "tfng",
+      "statement": "Supermarkets refuse oddly shaped produce because it is unsafe to eat.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "Sabab-natija tuzogʻi: «even though it is perfectly safe to eat, because they believe customers will not buy it» — sabab xavfsizlik emas, xaridorlar olmaydi degan fikr."
+      },
+      "para": 2
+    },
+    {
+      "id": "b2-09-food-waste-q5",
+      "type": "tfng",
+      "statement": "Most customers would happily buy misshapen vegetables if shops offered them.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Matnda faqat doʻkonlar nima deb oʻylashi aytilgan; xaridorlarning haqiqiy fikri haqida maʼlumot yoʻq."
+      },
+      "para": 2
+    },
+    {
+      "id": "b2-09-food-waste-q6",
+      "type": "tfng",
+      "statement": "Food that has passed its best-before date is dangerous to eat.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«a best-before date refers to quality rather than safety» — xavfsizlik haqida emas."
+      },
+      "para": 2
+    },
+    {
+      "id": "b2-09-food-waste-q7",
+      "type": "tfng",
+      "statement": "Household food waste is easy to miss because each family throws away small amounts at a time.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«Because each family wastes only a little at a time, the problem is easy to overlook»."
+      },
+      "para": 3
+    },
+    {
+      "id": "b2-09-food-waste-q8",
+      "type": "tfng",
+      "statement": "Restaurants that offer smaller portions have attracted more customers.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Restoranlar kichikroq porsiya bilan isrofni kamaytirishi mumkinligi aytilgan, lekin mijozlar soni haqida hech narsa yoʻq."
+      },
+      "para": 4
+    },
+    {
+      "id": "b2-09-food-waste-q9",
+      "type": "gap",
+      "prompt": "Rotting food in landfill sites produces a greenhouse gas called ___.",
+      "answers": [
+        "methane"
+      ],
+      "maxWords": 1,
+      "explain": {
+        "uz": "«releases methane, a powerful greenhouse gas»."
+      },
+      "para": 0
+    },
+    {
+      "id": "b2-09-food-waste-q10",
+      "type": "gap",
+      "prompt": "Composted food scraps can be returned to the soil as ___.",
+      "answers": [
+        "fertiliser",
+        "fertilizer"
+      ],
+      "maxWords": 1,
+      "explain": {
+        "uz": "«composted and returned to the soil as fertiliser»."
+      },
+      "para": 4
+    },
+    {
+      "id": "b2-09-food-waste-q11",
+      "type": "choice",
+      "prompt": "What does the writer suggest in the final paragraph?",
+      "options": [
+        "Food banks are the best answer to food waste.",
+        "Avoiding waste in the first place is the most effective approach.",
+        "Traditional cultures waste more food than modern ones.",
+        "Shopping lists are rarely useful."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«preventing waste is better than dealing with it afterwards». Food banks oldingi xatboshida, eng yaxshi yechim deb aytilmagan; anʼanaviy madaniyatlar aksincha isrofni yomon deb biladi."
+      },
+      "para": 5
+    }
+  ]
+}

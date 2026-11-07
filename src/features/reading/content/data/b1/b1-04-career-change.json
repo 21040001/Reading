@@ -1,0 +1,228 @@
+{
+  "id": "b1-04-career-change",
+  "title": {
+    "uz": "Kasbni oʻzgartirish"
+  },
+  "en": "From Numbers to Bread",
+  "level": "B1",
+  "kind": "biography",
+  "tag": {
+    "uz": "Ish va kasb",
+    "en": "Work and careers"
+  },
+  "intro": {
+    "uz": "Bu matn 35 yoshida buxgalterlikdan novvoylikka oʻtgan ayol haqida. Oʻqishdan oldin oʻylab koʻring: kattaroq yoshda kasbni oʻzgartirish oson deb oʻylaysizmi?"
+  },
+  "paragraphs": [
+    {
+      "en": "For twelve years, Shahlo Karimova worked as an accountant in a large office in Namangan. She had a good salary, a comfortable chair and a computer full of numbers. Her family was proud of her stable job. But every evening, when she came home, she did the one thing that really made her happy: she baked. Cakes, bread, biscuits with walnuts: her kitchen always smelled of something warm."
+    },
+    {
+      "en": "For a long time, baking was only a hobby. Friends and neighbours often ordered cakes for birthdays, and Shahlo never asked them to pay much. Then, in the year she turned thirty-five, her company was reorganised and her department was closed. She was offered a similar job in another city, but it would have meant leaving her children with her parents for most of the week."
+    },
+    {
+      "en": "Shahlo remembers that this was the moment when she had to make a decision. Her husband encouraged her to try baking professionally, but her mother was less sure. She told Shahlo that a bakery was a risky business and that an accountant should know this better than anyone. Shahlo agreed that it was risky. However, she also knew that if she did not try, she would always wonder what might have happened."
+    },
+    {
+      "en": "She started small. She rented a tiny room near a busy market, bought a second-hand oven and got up at four every morning to bake. Her experience as an accountant turned out to be very useful: she knew exactly how much each loaf cost to make, and she kept careful records of every sale. In the first six months, she earned less than she had earned in the office. More than once, she wanted to give up."
+    },
+    {
+      "en": "Today, three years later, Shahlo's bakery employs five people, and customers queue outside on Friday mornings for her walnut bread. She works longer hours than before, but she says that she is much happier. When young people ask her for advice, she tells them that it is never too late to change direction. They do not have to throw away their old skills, she explains. They just have to find a new place to use them."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "accountant",
+      "uz": "buxgalter, hisobchi"
+    },
+    {
+      "en": "salary",
+      "uz": "maosh, oylik"
+    },
+    {
+      "en": "stable",
+      "uz": "barqaror, ishonchli"
+    },
+    {
+      "en": "order",
+      "uz": "buyurtma bermoq"
+    },
+    {
+      "en": "reorganise",
+      "uz": "qayta tashkil qilmoq"
+    },
+    {
+      "en": "department",
+      "uz": "boʻlim"
+    },
+    {
+      "en": "encourage",
+      "uz": "ruhlantirmoq, ragʻbatlantirmoq"
+    },
+    {
+      "en": "risky",
+      "uz": "tavakkalli, xavfli"
+    },
+    {
+      "en": "wonder",
+      "uz": "oʻylanib qolmoq, qiziqmoq"
+    },
+    {
+      "en": "rent",
+      "uz": "ijaraga olmoq"
+    },
+    {
+      "en": "second-hand",
+      "uz": "ishlatilgan, eski"
+    },
+    {
+      "en": "records",
+      "uz": "hisob yozuvlari"
+    },
+    {
+      "en": "give up",
+      "uz": "taslim boʻlmoq, voz kechmoq"
+    },
+    {
+      "en": "queue",
+      "uz": "navbatda turmoq"
+    },
+    {
+      "en": "employ",
+      "uz": "ishga olmoq, ish bilan taʼminlamoq"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "i30-passive-tenses",
+      "title": {
+        "uz": "Majhul nisbat: was reorganised, was closed"
+      },
+      "example": "her company was reorganised and her department was closed"
+    },
+    {
+      "topicId": "i33-reported-speech",
+      "title": {
+        "uz": "Koʻchirma gap: She told Shahlo that …"
+      },
+      "example": "She told Shahlo that a bakery was a risky business"
+    }
+  ],
+  "questions": [
+    {
+      "id": "b1-04-career-change-q1",
+      "type": "tfng",
+      "statement": "Shahlo worked as an accountant for more than ten years.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«For twelve years, Shahlo Karimova worked as an accountant» — 12 yil."
+      },
+      "para": 0
+    },
+    {
+      "id": "b1-04-career-change-q2",
+      "type": "tfng",
+      "statement": "Before she opened her bakery, people paid Shahlo a lot of money for her cakes.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "Aksincha: «Shahlo never asked them to pay much»."
+      },
+      "para": 1
+    },
+    {
+      "id": "b1-04-career-change-q3",
+      "type": "tfng",
+      "statement": "Shahlo's husband had his own business.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Eri uni ruhlantirgani aytilgan, lekin uning ishi haqida hech narsa yoʻq."
+      },
+      "para": 2
+    },
+    {
+      "id": "b1-04-career-change-q4",
+      "type": "tfng",
+      "statement": "Shahlo's mother supported her plan from the beginning.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "Onasi ikkilangan: «her mother was less sure» va biznesni «risky» degan."
+      },
+      "para": 2
+    },
+    {
+      "id": "b1-04-career-change-q5",
+      "type": "choice",
+      "prompt": "Why did Shahlo not accept the job in another city?",
+      "options": [
+        "The salary was too low.",
+        "She would have had to leave her children for most of the week.",
+        "She did not want to work as an accountant any more."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«it would have meant leaving her children with her parents for most of the week»."
+      },
+      "para": 1
+    },
+    {
+      "id": "b1-04-career-change-q6",
+      "type": "choice",
+      "prompt": "How did her experience as an accountant help her?",
+      "options": [
+        "She knew the costs and kept careful records.",
+        "Her old company gave her money.",
+        "Her old colleagues became her first customers."
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "«she knew exactly how much each loaf cost to make, and she kept careful records of every sale»."
+      },
+      "para": 3
+    },
+    {
+      "id": "b1-04-career-change-q7",
+      "type": "gap",
+      "prompt": "Shahlo rented a tiny room and bought a ___ oven.",
+      "answers": [
+        "second-hand",
+        "second hand"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«bought a second-hand oven»."
+      },
+      "para": 3
+    },
+    {
+      "id": "b1-04-career-change-q8",
+      "type": "heading",
+      "para": 4,
+      "options": [
+        "Success after a difficult start",
+        "Why the bakery closed",
+        "Her first day at the market"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "5-xatboshi: uch yildan keyin besh kishi ishlaydi, mijozlar navbatda turadi — qiyin boshlanishdan keyingi muvaffaqiyat."
+      }
+    },
+    {
+      "id": "b1-04-career-change-q9",
+      "type": "gap",
+      "prompt": "On Friday mornings, customers queue outside for her walnut ___.",
+      "answers": [
+        "bread"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«customers queue outside on Friday mornings for her walnut bread»."
+      },
+      "para": 4
+    }
+  ]
+}

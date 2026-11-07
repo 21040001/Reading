@@ -1,0 +1,326 @@
+{
+  "id": "c1-12-attention",
+  "title": {
+    "uz": "Diqqat va chalgʻish"
+  },
+  "en": "The Limits of Attention",
+  "level": "C1",
+  "kind": "exam",
+  "tag": {
+    "uz": "Psixologiya",
+    "en": "Psychology"
+  },
+  "intro": {
+    "uz": "Akademik matn: diqqatning chegaralari, «multitasking» haqidagi afsona va diqqatni jamlash uchun muhitni qanday tashkil qilish haqida. Topshiriqlar: Matching headings, True/False/Not Given, boʻshliq toʻldirish (NO MORE THAN TWO WORDS) va test savollari. Taxminan 20 daqiqa. Maslahat: boʻshliq toʻldirishda avval kerakli soʻz turkumini (ot, sifat …) aniqlang, soʻng matndagi parafrazani qidiring; javobni matndan aynan koʻchiring."
+  },
+  "paragraphs": [
+    {
+      "en": "At any given moment, the senses deliver far more information than the brain could possibly process in detail. The hum of traffic, the pressure of a chair, the movement of leaves at the edge of vision: almost all of it passes unnoticed. Attention is the set of processes by which some of this information is selected for further analysis while the rest is filtered out. Far from being a weakness, this selectivity is essential, since a mind that attended equally to everything would be overwhelmed. Its limits, however, have consequences that most people consistently underestimate."
+    },
+    {
+      "en": "Nowhere is this more evident than in the popular belief in multitasking. When people claim to be doing several things at once, what is usually happening, at least for tasks that require thought, is rapid switching between them. Laboratory studies of task switching have shown repeatedly that each shift carries a cost: performance slows, errors become more frequent, and some time is needed to reconfigure the mind for a new set of rules. Individually these costs are small, but across a working day in which attention is redirected again and again, they may add up to a substantial loss of efficiency. Paradoxically, people who habitually multitask do not necessarily become better at it, and some research suggests that they may even be more easily distracted."
+    },
+    {
+      "en": "The practical significance of these limits is especially clear on the road. A number of studies have suggested that holding a telephone conversation while driving impairs performance even when the phone is used hands-free. This finding appears counter-intuitive only if one assumes that the problem is a manual one. The real bottleneck, it seems, lies not in the hands but in the mind: a demanding conversation draws on the same limited capacity that is needed to monitor the road and to respond to unexpected events. Talking to a passenger may be less risky, possibly because a passenger can see the traffic and tends to fall silent when conditions become difficult."
+    },
+    {
+      "en": "Perhaps the most striking demonstration of attentional limits comes from research on what is known as inattentional blindness. In a famous experiment, participants watched a short video in which two teams, one dressed in white and the other in black, passed basketballs among themselves. Viewers were asked to count the passes made by the team in white. Midway through the clip, a person wearing a gorilla costume walked into the middle of the scene, paused to face the camera and walked off again. Remarkably, a large proportion of viewers, absorbed in their counting, failed to notice the gorilla at all, and many were astonished when the clip was shown to them a second time."
+    },
+    {
+      "en": "What makes such findings unsettling is not merely that we miss things, but that we are generally unaware of missing them. People tend to assume that anything sufficiently unusual would capture their attention, and this confidence is precisely what the experiment undermines. Expertise offers less protection than might be expected: in a later study, many radiologists searching lung scans for signs of disease failed to notice an image of a gorilla that had been inserted into the scans. Such results have implications well beyond the laboratory, from the reliability of eyewitness testimony to the design of safety-critical work."
+    },
+    {
+      "en": "Modern digital environments place these limited resources under constant pressure. Notifications are, in effect, designed to capture attention, and each one invites a switch with all its associated costs. Even after an interruption has ended, thoughts about the unfinished task may linger and interfere with whatever comes next. It has also been suggested that the mere presence of a smartphone on the desk can reduce the mental capacity available for other work, although attempts to replicate this finding have produced mixed results, and it should therefore be treated with caution."
+    },
+    {
+      "en": "If attention is limited and easily captured, then relying on willpower alone to stay focused is likely to be an uphill struggle. A more realistic strategy is to design environments in which distraction is less likely to arise in the first place. At an individual level, this may involve silencing notifications during periods of concentrated work, keeping only the materials needed for the current task within reach, and grouping similar activities such as answering messages into dedicated blocks of time. Organisations, too, can contribute by protecting periods free from meetings and by questioning the expectation that every message deserves an immediate reply."
+    },
+    {
+      "en": "None of this implies that attention is a fixed quantity that can only be rationed. Its selectivity allows us to follow a single conversation in a crowded room and to become deeply absorbed in a demanding task. The challenge, rather, is to recognise that what we notice is always a small and partly arbitrary sample of what is there, and to arrange our surroundings so that the sample includes what matters most."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "selectivity",
+      "uz": "tanlab olish xususiyati"
+    },
+    {
+      "en": "overwhelmed",
+      "uz": "haddan tashqari yuklangan, bosib ketilgan"
+    },
+    {
+      "en": "underestimate",
+      "uz": "yetarlicha baholamaslik, kam baholamoq"
+    },
+    {
+      "en": "reconfigure",
+      "uz": "qayta sozlamoq"
+    },
+    {
+      "en": "substantial",
+      "uz": "salmoqli, katta"
+    },
+    {
+      "en": "impair",
+      "uz": "yomonlashtirmoq, susaytirmoq"
+    },
+    {
+      "en": "counter-intuitive",
+      "uz": "kutilmagan, sogʻlom fikrga zid tuyuladigan"
+    },
+    {
+      "en": "bottleneck",
+      "uz": "tor joy, toʻsiq"
+    },
+    {
+      "en": "inattentional blindness",
+      "uz": "diqqat boshqa narsaga band boʻlgani uchun koʻrmaslik (eʼtiborsizlik koʻrligi)"
+    },
+    {
+      "en": "absorbed in",
+      "uz": "… ga berilib ketgan"
+    },
+    {
+      "en": "unsettling",
+      "uz": "bezovta qiluvchi, xavotirga soladigan"
+    },
+    {
+      "en": "undermine",
+      "uz": "putur yetkazmoq, zaiflashtirmoq"
+    },
+    {
+      "en": "eyewitness testimony",
+      "uz": "guvohlik koʻrsatmasi"
+    },
+    {
+      "en": "linger",
+      "uz": "saqlanib qolmoq, ketmay turmoq"
+    },
+    {
+      "en": "replicate",
+      "uz": "takrorlamoq, natijani qayta olish"
+    },
+    {
+      "en": "uphill struggle",
+      "uz": "mashaqqatli kurash"
+    },
+    {
+      "en": "ration",
+      "uz": "tejab taqsimlamoq"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "c58-inversion",
+      "title": {
+        "uz": "Inversiya: Nowhere is this more evident than …"
+      },
+      "example": "Nowhere is this more evident than in the popular belief in multitasking"
+    },
+    {
+      "topicId": "c16-reporting-passive",
+      "title": {
+        "uz": "Majhul nisbatda xabar: It has been suggested that …"
+      },
+      "example": "It has also been suggested that the mere presence of a smartphone on the desk can reduce the mental capacity available for other work"
+    }
+  ],
+  "questions": [
+    {
+      "id": "c1-12-attention-q1",
+      "type": "heading",
+      "para": 1,
+      "options": [
+        "An overlooked figure in plain view",
+        "Why moving between activities has a price",
+        "Shaping surroundings to protect concentration",
+        "The problem lies in the mind, not the hands",
+        "False confidence in what we perceive",
+        "Why experts never miss important details",
+        "Technology that has finally solved distraction",
+        "A brief history of attention research"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "Xatboshi B: vazifalar orasida almashish har safar «cost» keltiradi — sekinlashuv va xatolar. «has a price» = «carries a cost»."
+      }
+    },
+    {
+      "id": "c1-12-attention-q2",
+      "type": "heading",
+      "para": 2,
+      "options": [
+        "An overlooked figure in plain view",
+        "Why moving between activities has a price",
+        "Shaping surroundings to protect concentration",
+        "The problem lies in the mind, not the hands",
+        "False confidence in what we perceive",
+        "Why experts never miss important details",
+        "Technology that has finally solved distraction",
+        "A brief history of attention research"
+      ],
+      "answer": 3,
+      "explain": {
+        "uz": "Xatboshi C: hands-free telefon ham xavfli, chunki «The real bottleneck … lies not in the hands but in the mind»."
+      }
+    },
+    {
+      "id": "c1-12-attention-q3",
+      "type": "heading",
+      "para": 3,
+      "options": [
+        "An overlooked figure in plain view",
+        "Why moving between activities has a price",
+        "Shaping surroundings to protect concentration",
+        "The problem lies in the mind, not the hands",
+        "False confidence in what we perceive",
+        "Why experts never miss important details",
+        "Technology that has finally solved distraction",
+        "A brief history of attention research"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "Xatboshi D: gorilla kostyumidagi odam sahna oʻrtasidan oʻtsa ham koʻpchilik uni sezmagan — «overlooked figure in plain view»."
+      }
+    },
+    {
+      "id": "c1-12-attention-q4",
+      "type": "heading",
+      "para": 4,
+      "options": [
+        "An overlooked figure in plain view",
+        "Why moving between activities has a price",
+        "Shaping surroundings to protect concentration",
+        "The problem lies in the mind, not the hands",
+        "False confidence in what we perceive",
+        "Why experts never miss important details",
+        "Technology that has finally solved distraction",
+        "A brief history of attention research"
+      ],
+      "answer": 4,
+      "explain": {
+        "uz": "Xatboshi E: biz nimani oʻtkazib yuborganimizni bilmaymiz va hissiyotimizga ortiqcha ishonamiz — «this confidence is precisely what the experiment undermines». «Why experts never miss …» xato: radiologlar ham gorillani sezmagan."
+      }
+    },
+    {
+      "id": "c1-12-attention-q5",
+      "type": "tfng",
+      "statement": "The writer regards the brain's tendency to filter out information as a design flaw.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«Far from being a weakness, this selectivity is essential» — muallif buni zaruriy xususiyat deb biladi."
+      },
+      "para": 0
+    },
+    {
+      "id": "c1-12-attention-q6",
+      "type": "tfng",
+      "statement": "In the video experiment, viewers who failed to see the gorilla also counted the passes less accurately.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Matnda faqat koʻpchilik gorillani sezmagani aytilgan; sanash aniqligi haqida hech narsa yoʻq."
+      },
+      "para": 3
+    },
+    {
+      "id": "c1-12-attention-q7",
+      "type": "tfng",
+      "statement": "Thoughts about an interrupted task can continue to affect performance after the interruption is over.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«Even after an interruption has ended, thoughts about the unfinished task may linger and interfere with whatever comes next»."
+      },
+      "para": 5
+    },
+    {
+      "id": "c1-12-attention-q8",
+      "type": "gap",
+      "prompt": "Research on ___ shows that moving from one activity to another slows people down and leads to more errors.",
+      "answers": [
+        "task switching"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«Laboratory studies of task switching have shown repeatedly that each shift carries a cost: performance slows, errors become more frequent»."
+      },
+      "para": 1
+    },
+    {
+      "id": "c1-12-attention-q9",
+      "type": "gap",
+      "prompt": "Failing to notice an unexpected object because attention is focused elsewhere is known as ___.",
+      "answers": [
+        "inattentional blindness"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«research on what is known as inattentional blindness» — keyin gorilla tajribasi shu hodisaga misol qilib keltiriladi."
+      },
+      "para": 3
+    },
+    {
+      "id": "c1-12-attention-q10",
+      "type": "gap",
+      "prompt": "Organisations can help by questioning the assumption that each message requires an ___.",
+      "answers": [
+        "immediate reply"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«questioning the expectation that every message deserves an immediate reply» — «assumption» = «expectation», «requires» = «deserves»."
+      },
+      "para": 6
+    },
+    {
+      "id": "c1-12-attention-q11",
+      "type": "choice",
+      "prompt": "According to paragraph C, why may talking to a passenger be less risky than a phone conversation?",
+      "options": [
+        "Passengers usually talk about less demanding subjects.",
+        "The driver does not need to hold anything in his or her hands.",
+        "A passenger can see the road and may stop talking when it becomes difficult.",
+        "Conversations in a car are generally shorter."
+      ],
+      "answer": 2,
+      "explain": {
+        "uz": "«possibly because a passenger can see the traffic and tends to fall silent when conditions become difficult». Ikkinchi variant hands-free telefon uchun ham toʻgʻri, demak farqni tushuntirmaydi."
+      },
+      "para": 2
+    },
+    {
+      "id": "c1-12-attention-q12",
+      "type": "choice",
+      "prompt": "How does the writer present the claim about the presence of a smartphone on a desk?",
+      "options": [
+        "As a well-established fact",
+        "As a finding that should be treated cautiously",
+        "As a claim that has been completely disproved",
+        "As the writer's own discovery"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«attempts to replicate this finding have produced mixed results, and it should therefore be treated with caution»."
+      },
+      "para": 5
+    },
+    {
+      "id": "c1-12-attention-q13",
+      "type": "choice",
+      "prompt": "What is the main point of the final paragraph?",
+      "options": [
+        "Attention can be increased through regular training.",
+        "People should avoid crowded places when they need to concentrate.",
+        "Selective attention is valuable, but we should organise our surroundings so that we notice what matters.",
+        "Most of what we notice is unimportant and can be ignored."
+      ],
+      "answer": 2,
+      "explain": {
+        "uz": "Muallif selektivlik foydali ekanini («allows us to follow a single conversation …») va muhitni shunday tashkil qilish kerakligini aytadi: «so that the sample includes what matters most»."
+      },
+      "para": 7
+    }
+  ]
+}

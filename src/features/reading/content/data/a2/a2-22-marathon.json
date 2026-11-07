@@ -1,0 +1,204 @@
+{
+  "id": "a2-22-marathon",
+  "title": {
+    "uz": "Marafon"
+  },
+  "en": "My First Marathon",
+  "level": "A2",
+  "kind": "blog",
+  "tag": {
+    "uz": "Sport",
+    "en": "Sport"
+  },
+  "intro": {
+    "uz": "Nilufar birinchi marafoniga tayyorlanyapti va blogida bu haqda yozadi. Oʻqishdan oldin: siz bir martada qancha masofaga yugura olasiz?"
+  },
+  "paragraphs": [
+    {
+      "en": "Hi everyone! My name is Nilufar, and I am a nurse in Tashkent. Two years ago I couldn't run for more than five minutes. Next month I am going to run my first marathon. A marathon is about 42 kilometres long, so it is a big challenge for me!",
+      "uz": "Hammaga salom! Mening ismim Nilufar, men Toshkentda hamshira boʻlib ishlayman. Ikki yil oldin besh daqiqadan ortiq yugura olmasdim. Kelasi oy birinchi marta marafonda yugurmoqchiman. Marafon taxminan 42 kilometr, shuning uchun bu men uchun katta sinov!"
+    },
+    {
+      "en": "I started slowly. At first, I ran for ten minutes three times a week. Then I ran a little longer every week. Last spring I finished a ten-kilometre race in the park. I was slower than most runners, but I was very happy.",
+      "uz": "Men sekin boshladim. Avvaliga haftasiga uch marta oʻn daqiqadan yugurdim. Keyin har hafta biroz uzoqroq yugurdim. Oʻtgan bahorda bogʻdagi oʻn kilometrlik poygani tugatdim. Koʻpchilik yuguruvchilardan sekinroq edim, lekin juda xursand boʻldim."
+    },
+    {
+      "en": "Now I run five days a week. On Sundays I do a long run of twenty or thirty kilometres. I have to get up at five o'clock, because the streets are quieter and the air is cooler in the early morning.",
+      "uz": "Hozir haftasiga besh kun yuguraman. Yakshanba kunlari yigirma-oʻttiz kilometr masofaga uzoq yuguraman. Soat beshda turishimga toʻgʻri keladi, chunki erta tongda koʻchalar tinchroq, havo esa salqinroq boʻladi."
+    },
+    {
+      "en": "Food and rest are important too. I eat more rice, bread and vegetables, and I drink a lot of water. I sleep eight hours every night. I don't run on Mondays, because my legs need a rest.",
+      "uz": "Ovqat va dam olish ham muhim. Men koʻproq guruch, non va sabzavot yeyman, koʻp suv ichaman. Har kecha sakkiz soat uxlayman. Dushanba kunlari yugurmayman, chunki oyoqlarim dam olishi kerak."
+    },
+    {
+      "en": "I am a little nervous, but my friends are going to wait for me at the finish line. I don't want to win. I just want to finish! Wish me luck!",
+      "uz": "Biroz hayajondaman, lekin doʻstlarim meni marra chizigʻida kutib turishadi. Men gʻolib boʻlishni xohlamayman. Shunchaki marragacha yetib borishni xohlayman! Menga omad tilang!"
+    }
+  ],
+  "glossary": [
+    {
+      "en": "nurse",
+      "uz": "hamshira"
+    },
+    {
+      "en": "challenge",
+      "uz": "sinov, qiyin vazifa"
+    },
+    {
+      "en": "slowly",
+      "uz": "sekin"
+    },
+    {
+      "en": "at first",
+      "uz": "avvaliga, dastlab"
+    },
+    {
+      "en": "race",
+      "uz": "poyga"
+    },
+    {
+      "en": "runner",
+      "uz": "yuguruvchi"
+    },
+    {
+      "en": "quiet",
+      "uz": "tinch, sokin"
+    },
+    {
+      "en": "rest",
+      "uz": "dam olish; dam olmoq"
+    },
+    {
+      "en": "nervous",
+      "uz": "hayajonlangan, xavotirda"
+    },
+    {
+      "en": "finish line",
+      "uz": "marra chizigʻi"
+    },
+    {
+      "en": "Wish me luck!",
+      "uz": "Menga omad tilang!"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "e28-have-to",
+      "title": {
+        "uz": "have to — majburiyat"
+      },
+      "example": "I have to get up at five o'clock"
+    },
+    {
+      "topicId": "e45-comparatives",
+      "title": {
+        "uz": "Qiyosiy daraja: quieter, cooler"
+      },
+      "example": "the streets are quieter and the air is cooler"
+    }
+  ],
+  "questions": [
+    {
+      "id": "a2-22-marathon-q1",
+      "type": "tfng",
+      "statement": "Nilufar works as a teacher.",
+      "answer": "F",
+      "explain": {
+        "uz": "U hamshira: «I am a nurse in Tashkent.»"
+      },
+      "para": 0
+    },
+    {
+      "id": "a2-22-marathon-q2",
+      "type": "gap",
+      "prompt": "A marathon is about ___ kilometres long.",
+      "answers": [
+        "42",
+        "forty-two"
+      ],
+      "maxWords": 1,
+      "explain": {
+        "uz": "«A marathon is about 42 kilometres long» — aniqrogʻi 42,195 km."
+      },
+      "para": 0
+    },
+    {
+      "id": "a2-22-marathon-q3",
+      "type": "tfng",
+      "statement": "Two years ago Nilufar could run for a long time.",
+      "answer": "F",
+      "explain": {
+        "uz": "«Two years ago I couldn't run for more than five minutes.»"
+      },
+      "para": 0
+    },
+    {
+      "id": "a2-22-marathon-q4",
+      "type": "choice",
+      "prompt": "What did Nilufar do last spring?",
+      "options": [
+        "She finished a ten-kilometre race.",
+        "She ran a marathon.",
+        "She won a race in the park."
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "«Last spring I finished a ten-kilometre race in the park.» Marafon hali oldinda — kelasi oy."
+      },
+      "para": 1
+    },
+    {
+      "id": "a2-22-marathon-q5",
+      "type": "tfng",
+      "statement": "In the ten-kilometre race, Nilufar was faster than most runners.",
+      "answer": "F",
+      "explain": {
+        "uz": "«I was slower than most runners» — u sekinroq edi."
+      },
+      "para": 1
+    },
+    {
+      "id": "a2-22-marathon-q6",
+      "type": "choice",
+      "prompt": "Why does Nilufar run in the early morning?",
+      "options": [
+        "Her work starts at seven.",
+        "The streets are quieter and the air is cooler.",
+        "Her friends run with her then."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«because the streets are quieter and the air is cooler in the early morning»."
+      },
+      "para": 2
+    },
+    {
+      "id": "a2-22-marathon-q7",
+      "type": "gap",
+      "prompt": "Nilufar doesn't run on ___.",
+      "answers": [
+        "Mondays"
+      ],
+      "maxWords": 1,
+      "explain": {
+        "uz": "«I don't run on Mondays, because my legs need a rest.»"
+      },
+      "para": 3
+    },
+    {
+      "id": "a2-22-marathon-q8",
+      "type": "choice",
+      "prompt": "What is Nilufar's goal in the marathon?",
+      "options": [
+        "to win",
+        "to finish",
+        "to meet new friends"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«I don't want to win. I just want to finish!»"
+      },
+      "para": 4
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "id": "a2-10-old-tale",
+  "title": {
+    "uz": "Qushlar va quduq"
+  },
+  "en": "The Birds and the Well",
+  "level": "A2",
+  "kind": "story",
+  "tag": {
+    "uz": "Ertaklar",
+    "en": "Tales"
+  },
+  "intro": {
+    "uz": "Bu — qadimgi qishloq, ochkoʻz savdogar va zukko qiz haqidagi ertak. Oʻqishdan oldin: odamlar uchun suv nega bunchalik qadrli?"
+  },
+  "paragraphs": [
+    {
+      "en": "Long ago, in a small village near the mountains, there was only one well. It belonged to a rich and greedy merchant called Bahrom. Every summer, the river dried up, so the villagers had to buy water from him. He asked for one silver coin for each jug.",
+      "uz": "Qadim zamonda togʻlar yaqinidagi kichik bir qishloqda faqat bitta quduq bor ekan. U Bahrom ismli boy va ochkoʻz savdogarga tegishli ekan. Har yozda daryo qurib qolar, shuning uchun qishloq ahli suvni undan sotib olishga majbur boʻlar ekan. U har bir koʻza suv uchun bitta kumush tanga soʻrar ekan."
+    },
+    {
+      "en": "A poor girl called Oysha lived in the village with her old grandmother. They had no money, and they were often thirsty. One summer, Oysha noticed something strange. Every morning, small birds flew to the hill behind the village, and an hour later they came back with wet feathers.",
+      "uz": "Qishloqda Oysha ismli kambagʻal qiz keksa buvisi bilan yashar ekan. Ularning puli yoʻq, koʻpincha chanqab yurishar ekan. Bir yozda Oysha gʻalati bir narsani payqabdi. Har kuni ertalab kichkina qushlar qishloq ortidagi tepalikka uchib ketar, bir soatdan keyin esa patlari hoʻl boʻlib qaytar ekan."
+    },
+    {
+      "en": "The next day, Oysha followed the birds. She climbed between the rocks. Suddenly she heard a quiet sound. It was water! A small, clean spring was coming out of the ground under an old tree.",
+      "uz": "Ertasi kuni Oysha qushlarning ortidan ergashibdi. U qoyalar orasidan yuqoriga chiqibdi. Birdan u sokin bir tovushni eshitibdi. Bu suv edi! Keksa daraxt tagidan kichkina, toza buloq otilib chiqayotgan ekan."
+    },
+    {
+      "en": "Oysha ran back and told everyone. The merchant laughed loudly. 'Birds can't find water for people!' he said. But the villagers went with Oysha to the hill. For ten days they worked hard and dug a long channel, and soon cold water ran into the village square.",
+      "uz": "Oysha orqasiga yugurib qaytibdi va hammaga aytibdi. Savdogar baland ovozda kulibdi. «Qushlar odamlarga suv topib berolmaydi!» — debdi u. Lekin qishloq ahli Oysha bilan tepalikka boribdi. Oʻn kun davomida ular qattiq mehnat qilib, uzun ariq qazishibdi va tez orada qishloq maydoniga salqin suv oqib kelibdi."
+    },
+    {
+      "en": "Nobody bought water from Bahrom after that. At first he was angry, but then he felt ashamed. He opened his well to everyone for free. And the old people still say: 'Water belongs to everyone, like the sky.'",
+      "uz": "Shundan keyin hech kim Bahromdan suv sotib olmabdi. Avvaliga u jahli chiqibdi, keyin esa uyalibdi. U qudugʻini hamma uchun tekin ochib qoʻyibdi. Keksalar hozir ham shunday deyishadi: «Suv osmon kabi hammaniki»."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "well",
+      "uz": "quduq"
+    },
+    {
+      "en": "belong to",
+      "uz": "tegishli boʻlmoq"
+    },
+    {
+      "en": "greedy",
+      "uz": "ochkoʻz"
+    },
+    {
+      "en": "merchant",
+      "uz": "savdogar"
+    },
+    {
+      "en": "dry up / dried up",
+      "uz": "qurib qolmoq"
+    },
+    {
+      "en": "jug",
+      "uz": "koʻza"
+    },
+    {
+      "en": "thirsty",
+      "uz": "chanqagan"
+    },
+    {
+      "en": "notice",
+      "uz": "payqamoq, sezib qolmoq"
+    },
+    {
+      "en": "feather",
+      "uz": "pat"
+    },
+    {
+      "en": "spring",
+      "uz": "buloq"
+    },
+    {
+      "en": "channel",
+      "uz": "ariq, kanal"
+    },
+    {
+      "en": "ashamed",
+      "uz": "uyalgan"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "e53-and-but-so-because",
+      "title": {
+        "uz": "so — shuning uchun"
+      },
+      "example": "Every summer, the river dried up, so the villagers had to buy water from him."
+    },
+    {
+      "topicId": "e07-past-irregular",
+      "title": {
+        "uz": "Notoʻgʻri feʼllar: fly → flew, come → came"
+      },
+      "example": "small birds flew to the hill behind the village"
+    }
+  ],
+  "questions": [
+    {
+      "id": "a2-10-old-tale-q1",
+      "type": "tfng",
+      "statement": "There were many wells in the village.",
+      "answer": "F",
+      "explain": {
+        "uz": "Faqat bitta quduq bor edi: «there was only one well»."
+      },
+      "para": 0
+    },
+    {
+      "id": "a2-10-old-tale-q2",
+      "type": "choice",
+      "prompt": "Why did the villagers have to buy water from Bahrom?",
+      "options": [
+        "The river dried up every summer.",
+        "The river water was dirty.",
+        "The king told them to."
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "«Every summer, the river dried up, so the villagers had to buy water from him.»"
+      },
+      "para": 0
+    },
+    {
+      "id": "a2-10-old-tale-q3",
+      "type": "gap",
+      "prompt": "Bahrom asked for one silver coin for each ___.",
+      "answers": [
+        "jug"
+      ],
+      "explain": {
+        "uz": "«He asked for one silver coin for each jug.»"
+      },
+      "para": 0
+    },
+    {
+      "id": "a2-10-old-tale-q4",
+      "type": "choice",
+      "prompt": "What did Oysha notice about the birds?",
+      "options": [
+        "They came back with wet feathers.",
+        "They sang in the merchant's garden.",
+        "They never came back."
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "«an hour later they came back with wet feathers»."
+      },
+      "para": 1
+    },
+    {
+      "id": "a2-10-old-tale-q5",
+      "type": "choice",
+      "prompt": "What did Oysha do after she found the spring?",
+      "options": [
+        "She ran back and told everyone.",
+        "She sold the water to Bahrom.",
+        "She stayed on the hill for ten days."
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "«Oysha ran back and told everyone.» Oʻn kun — qishloq ahli ariq qazigan vaqt."
+      },
+      "para": 3
+    },
+    {
+      "id": "a2-10-old-tale-q6",
+      "type": "tfng",
+      "statement": "The merchant believed Oysha at first.",
+      "answer": "F",
+      "explain": {
+        "uz": "U kuldi: «Birds can't find water for people!»"
+      },
+      "para": 3
+    },
+    {
+      "id": "a2-10-old-tale-q7",
+      "type": "gap",
+      "prompt": "The villagers worked for ___ days to dig the channel.",
+      "answers": [
+        "ten",
+        "10"
+      ],
+      "explain": {
+        "uz": "«For ten days they worked hard and dug a long channel»."
+      },
+      "para": 3
+    },
+    {
+      "id": "a2-10-old-tale-q8",
+      "type": "tfng",
+      "statement": "In the end, Bahrom opened his well to everyone for free.",
+      "answer": "T",
+      "explain": {
+        "uz": "«He opened his well to everyone for free.»"
+      },
+      "para": 4
+    }
+  ]
+}

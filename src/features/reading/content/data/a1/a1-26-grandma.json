@@ -1,0 +1,182 @@
+{
+  "id": "a1-26-grandma",
+  "title": {
+    "uz": "Buvim"
+  },
+  "en": "My Grandmother",
+  "level": "A1",
+  "kind": "story",
+  "tag": {
+    "uz": "Oila",
+    "en": "Family"
+  },
+  "intro": {
+    "uz": "Gulnora buvisi haqida hikoya qiladi. Oʻqishdan oldin oʻylab koʻring: buvingiz yoki bobongiz har kuni nima qiladi?"
+  },
+  "paragraphs": [
+    {
+      "en": "My name is Gulnora. This is my grandmother, Saodat. She is seventy years old. She has got short grey hair and kind brown eyes. She always wears a white scarf and glasses.",
+      "uz": "Mening ismim Gulnora. Bu — buvim, Saodat. U yetmish yoshda. Uning sochi kalta va oqargan, koʻzlari mehribon va jigarrang. U doim oq roʻmol oʻraydi va koʻzoynak taqadi."
+    },
+    {
+      "en": "My grandmother is a retired teacher. She doesn't work now, but she is always busy. She gets up at six every morning and makes tea for the family. She often makes somsa on Sundays.",
+      "uz": "Buvim nafaqadagi oʻqituvchi. U hozir ishlamaydi, lekin doim band. U har kuni ertalab soat oltida turadi va oila uchun choy damlaydi. Yakshanba kunlari u tez-tez somsa pishiradi."
+    },
+    {
+      "en": "Fifty years ago, Grandma could run very fast. Now she can't run, but she walks in the park every evening. Her doctor says she should walk every day.",
+      "uz": "Ellik yil oldin buvim juda tez yugura olardi. Hozir u yugura olmaydi, lekin har oqshom bogʻda sayr qiladi. Shifokori unga har kuni piyoda yurish kerakligini aytadi."
+    },
+    {
+      "en": "I love my grandmother. She tells me old stories and helps me with my homework.",
+      "uz": "Men buvimni juda yaxshi koʻraman. U menga qadimiy hikoyalar aytib beradi va uy vazifamda yordam beradi."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "grey hair",
+      "uz": "oq (oqargan) soch"
+    },
+    {
+      "en": "kind",
+      "uz": "mehribon"
+    },
+    {
+      "en": "scarf",
+      "uz": "roʻmol"
+    },
+    {
+      "en": "glasses",
+      "uz": "koʻzoynak"
+    },
+    {
+      "en": "retired",
+      "uz": "nafaqadagi"
+    },
+    {
+      "en": "busy",
+      "uz": "band"
+    },
+    {
+      "en": "get up",
+      "uz": "oʻrnidan turmoq"
+    },
+    {
+      "en": "ago",
+      "uz": "oldin (… yil oldin)"
+    },
+    {
+      "en": "fast",
+      "uz": "tez"
+    },
+    {
+      "en": "should",
+      "uz": "kerak, … gani maʼqul (maslahat)"
+    },
+    {
+      "en": "story",
+      "uz": "hikoya, ertak"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "b46-have-got",
+      "title": {
+        "uz": "have got / has got — bor"
+      },
+      "example": "She has got short grey hair and kind brown eyes."
+    },
+    {
+      "topicId": "b41-can-could",
+      "title": {
+        "uz": "could — oʻtmishda qila olardi"
+      },
+      "example": "Fifty years ago, Grandma could run very fast."
+    }
+  ],
+  "questions": [
+    {
+      "id": "a1-26-grandma-q1",
+      "type": "tfng",
+      "statement": "Saodat is seventy years old.",
+      "answer": "T",
+      "explain": {
+        "uz": "1-xatboshi: «She is seventy years old.»"
+      },
+      "para": 0
+    },
+    {
+      "id": "a1-26-grandma-q2",
+      "type": "choice",
+      "prompt": "What does Grandma always wear?",
+      "options": [
+        "a white scarf",
+        "a blue hat",
+        "a red dress"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "«She always wears a white scarf and glasses.»"
+      },
+      "para": 0
+    },
+    {
+      "id": "a1-26-grandma-q3",
+      "type": "tfng",
+      "statement": "Grandma works at a school now.",
+      "answer": "F",
+      "explain": {
+        "uz": "U nafaqada: «She doesn't work now»."
+      },
+      "para": 1
+    },
+    {
+      "id": "a1-26-grandma-q4",
+      "type": "gap",
+      "prompt": "Grandma often makes ___ on Sundays.",
+      "answers": [
+        "somsa"
+      ],
+      "explain": {
+        "uz": "«She often makes somsa on Sundays.»"
+      },
+      "para": 1
+    },
+    {
+      "id": "a1-26-grandma-q5",
+      "type": "tfng",
+      "statement": "Grandma can run very fast now.",
+      "answer": "F",
+      "explain": {
+        "uz": "Ellik yil oldin tez yugura olardi, hozir esa: «Now she can't run»."
+      },
+      "para": 2
+    },
+    {
+      "id": "a1-26-grandma-q6",
+      "type": "gap",
+      "prompt": "Her doctor says she should ___ every day.",
+      "answers": [
+        "walk"
+      ],
+      "explain": {
+        "uz": "«Her doctor says she should walk every day.»"
+      },
+      "para": 2
+    },
+    {
+      "id": "a1-26-grandma-q7",
+      "type": "choice",
+      "prompt": "What does Grandma help Gulnora with?",
+      "options": [
+        "her homework",
+        "her cooking",
+        "her music"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "«She … helps me with my homework.»"
+      },
+      "para": 3
+    }
+  ]
+}

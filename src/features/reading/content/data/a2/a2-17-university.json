@@ -1,0 +1,206 @@
+{
+  "id": "a2-17-university",
+  "title": {
+    "uz": "Universitetga hujjat topshirish"
+  },
+  "en": "Applying to University",
+  "level": "A2",
+  "kind": "email",
+  "tag": {
+    "uz": "Ish va oʻqish",
+    "en": "Work and study"
+  },
+  "intro": {
+    "uz": "Talaba Kamola universitetga hujjat topshirmoqchi boʻlgan amakivachchasiga maslahat yozadi. Oʻqishdan oldin: siz qaysi fanni oʻqishni xohlaysiz va nima uchun?"
+  },
+  "paragraphs": [
+    {
+      "en": "Hi Nodira, Thank you for your message. You asked me about applying to university, so I would like to tell you about my experience. I applied two years ago, and now I am a student at a university in Tashkent.",
+      "uz": "Salom, Nodira! Xating uchun rahmat. Sen mendan universitetga hujjat topshirish haqida soʻragan eding, shuning uchun oʻz tajribam haqida aytib bermoqchiman. Men ikki yil oldin hujjat topshirganman, hozir esa Toshkentdagi universitetda talabaman."
+    },
+    {
+      "en": "First, you have to choose your subject. Don't choose it only because your friends like it. Think about your future job. I chose economics because I have always liked maths.",
+      "uz": "Avvalo, yoʻnalishingni tanlashing kerak. Uni faqat doʻstlaringga yoqqani uchun tanlama. Kelajakdagi kasbing haqida oʻyla. Men iqtisodiyotni tanladim, chunki matematikani doim yaxshi koʻrganman."
+    },
+    {
+      "en": "Then you need to prepare your documents. Every university has its own rules, so read its website carefully. Often they ask for a copy of your passport, your school certificate and some photos. Check the dates, because you mustn't be late!",
+      "uz": "Keyin hujjatlaringni tayyorlashing kerak. Har bir universitetning oʻz qoidalari bor, shuning uchun uning saytini diqqat bilan oʻqi. Koʻpincha pasport nusxasi, maktab attestati va bir nechta surat soʻrashadi. Sanalarni tekshir, chunki kechikmasliging kerak!"
+    },
+    {
+      "en": "The entrance exam was the hardest part for me. I studied for six months. I did a lot of practice tests and went to extra lessons on Saturdays. Have you started studying yet?",
+      "uz": "Men uchun eng qiyini kirish imtihoni boʻldi. Olti oy tayyorlandim. Koʻp sinov testlarini yechdim va shanba kunlari qoʻshimcha darslarga bordim. Sen tayyorlanishni boshladingmi?"
+    },
+    {
+      "en": "Don't worry too much. You are a clever girl, and I am sure you will do well. Write to me if you have any questions. Love, Kamola",
+      "uz": "Ortiqcha xavotir olma. Sen aqlli qizsan, yaxshi natija koʻrsatishingga ishonaman. Savollaring boʻlsa, menga yoz. Mehr bilan, Kamola"
+    }
+  ],
+  "glossary": [
+    {
+      "en": "apply",
+      "uz": "hujjat topshirmoq, ariza bermoq"
+    },
+    {
+      "en": "subject",
+      "uz": "fan; yoʻnalish"
+    },
+    {
+      "en": "economics",
+      "uz": "iqtisodiyot"
+    },
+    {
+      "en": "prepare",
+      "uz": "tayyorlamoq"
+    },
+    {
+      "en": "document",
+      "uz": "hujjat"
+    },
+    {
+      "en": "rule",
+      "uz": "qoida"
+    },
+    {
+      "en": "carefully",
+      "uz": "diqqat bilan"
+    },
+    {
+      "en": "copy",
+      "uz": "nusxa"
+    },
+    {
+      "en": "certificate",
+      "uz": "attestat, guvohnoma"
+    },
+    {
+      "en": "entrance exam",
+      "uz": "kirish imtihoni"
+    },
+    {
+      "en": "practice test",
+      "uz": "sinov (mashq) testi"
+    },
+    {
+      "en": "worry",
+      "uz": "xavotir olmoq"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "e28-have-to",
+      "title": {
+        "uz": "have to — kerak, majbur"
+      },
+      "example": "you have to choose your subject"
+    },
+    {
+      "topicId": "e14-just-already-yet",
+      "title": {
+        "uz": "Present Perfect: yet (soʻroqda)"
+      },
+      "example": "Have you started studying yet?"
+    }
+  ],
+  "questions": [
+    {
+      "id": "a2-17-university-q1",
+      "type": "tfng",
+      "statement": "Kamola is a university student now.",
+      "answer": "T",
+      "explain": {
+        "uz": "«now I am a student at a university in Tashkent»."
+      },
+      "para": 0
+    },
+    {
+      "id": "a2-17-university-q2",
+      "type": "choice",
+      "prompt": "Why did Kamola choose economics?",
+      "options": [
+        "because her friends chose it",
+        "because she has always liked maths",
+        "because her parents told her to"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«I chose economics because I have always liked maths.»"
+      },
+      "para": 1
+    },
+    {
+      "id": "a2-17-university-q3",
+      "type": "tfng",
+      "statement": "Kamola thinks you should choose a subject because your friends like it.",
+      "answer": "F",
+      "explain": {
+        "uz": "Aksincha: «Don't choose it only because your friends like it.»"
+      },
+      "para": 1
+    },
+    {
+      "id": "a2-17-university-q4",
+      "type": "choice",
+      "prompt": "Why should Nodira read the university website carefully?",
+      "options": [
+        "because every university has its own rules",
+        "because the website has practice tests",
+        "because Kamola works there"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "«Every university has its own rules, so read its website carefully.»"
+      },
+      "para": 2
+    },
+    {
+      "id": "a2-17-university-q5",
+      "type": "gap",
+      "prompt": "Kamola studied for the entrance exam for ___ months.",
+      "answers": [
+        "six",
+        "6"
+      ],
+      "explain": {
+        "uz": "«I studied for six months.»"
+      },
+      "para": 3
+    },
+    {
+      "id": "a2-17-university-q6",
+      "type": "tfng",
+      "statement": "Kamola went to extra lessons on Sundays.",
+      "answer": "F",
+      "explain": {
+        "uz": "Shanba kunlari: «went to extra lessons on Saturdays»."
+      },
+      "para": 3
+    },
+    {
+      "id": "a2-17-university-q7",
+      "type": "choice",
+      "prompt": "Which part was the hardest for Kamola?",
+      "options": [
+        "choosing a subject",
+        "the entrance exam",
+        "preparing the photos"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«The entrance exam was the hardest part for me.»"
+      },
+      "para": 3
+    },
+    {
+      "id": "a2-17-university-q8",
+      "type": "gap",
+      "prompt": "Kamola is sure that Nodira will do ___.",
+      "answers": [
+        "well"
+      ],
+      "explain": {
+        "uz": "«I am sure you will do well.»"
+      },
+      "para": 4
+    }
+  ]
+}

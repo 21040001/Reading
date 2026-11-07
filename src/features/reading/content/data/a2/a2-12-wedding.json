@@ -1,0 +1,205 @@
+{
+  "id": "a2-12-wedding",
+  "title": {
+    "uz": "Oʻzbek toʻyi"
+  },
+  "en": "An Uzbek Wedding",
+  "level": "A2",
+  "kind": "story",
+  "tag": {
+    "uz": "Anʼanalar",
+    "en": "Traditions"
+  },
+  "intro": {
+    "uz": "Kamola akasining toʻyi haqida hikoya qiladi. Oʻqishdan oldin oʻylab koʻring: siz oxirgi marta qachon toʻyda boʻlgansiz?"
+  },
+  "paragraphs": [
+    {
+      "en": "My name is Kamola. Last summer, my older brother Sardor got married. In Uzbekistan, a wedding is a big event for the whole family. We started to prepare two months before the day. My parents invited more than three hundred guests!",
+      "uz": "Mening ismim Kamola. Oʻtgan yozda akam Sardor uylandi. Oʻzbekistonda toʻy butun oila uchun katta voqea. Biz toʻydan ikki oy oldin tayyorgarlik koʻrishni boshladik. Ota-onam uch yuzdan ortiq mehmon taklif qildi!"
+    },
+    {
+      "en": "My mother and my aunts were very busy. They cleaned the house, bought new dishes and made a lot of sweets. My father and his friends found a big restaurant for the party. Everybody helped, even my little cousins.",
+      "uz": "Onam va xolalarim juda band edi. Ular uyni tozalashdi, yangi idishlar sotib olishdi va juda koʻp shirinlik tayyorlashdi. Otam va uning doʻstlari bazm uchun katta restoran topishdi. Hamma yordam berdi, hatto kichkina amakivachchalarim ham."
+    },
+    {
+      "en": "On the morning of the wedding, there was a special plov called nahor oshi. Many men from our neighbourhood came to it. They ate plov early in the morning and gave their good wishes to my brother.",
+      "uz": "Toʻy kuni ertalab nahor oshi deb ataladigan maxsus osh boʻldi. Unga mahallamizdan koʻplab erkaklar keldi. Ular erta tongda osh yeyishdi va akamga ezgu tilaklarini bildirishdi."
+    },
+    {
+      "en": "In the evening, the main party started at the restaurant. The bride wore a beautiful white dress. There was live music, and everybody danced for hours. The tables were full of fruit, salads and delicious food.",
+      "uz": "Kechqurun asosiy bazm restoranda boshlandi. Kelin chiroyli oq libos kiygan edi. Jonli musiqa yangradi, hamma soatlab raqsga tushdi. Dasturxonlar meva, salatlar va mazali taomlarga toʻla edi."
+    },
+    {
+      "en": "It was a long and tiring day, but I was very happy. Now I have a sister-in-law, and our family is bigger!",
+      "uz": "Bu uzoq va charchatadigan kun boʻldi, lekin men juda xursand edim. Endi mening kelinoyim bor, oilamiz esa kattaroq boʻldi!"
+    }
+  ],
+  "glossary": [
+    {
+      "en": "got married",
+      "uz": "turmush qurdi, uylandi (get married)"
+    },
+    {
+      "en": "whole",
+      "uz": "butun"
+    },
+    {
+      "en": "prepare",
+      "uz": "tayyorlanmoq, tayyorlamoq"
+    },
+    {
+      "en": "invite",
+      "uz": "taklif qilmoq"
+    },
+    {
+      "en": "guest",
+      "uz": "mehmon"
+    },
+    {
+      "en": "busy",
+      "uz": "band"
+    },
+    {
+      "en": "neighbourhood",
+      "uz": "mahalla"
+    },
+    {
+      "en": "wishes",
+      "uz": "tilaklar"
+    },
+    {
+      "en": "bride",
+      "uz": "kelin"
+    },
+    {
+      "en": "live music",
+      "uz": "jonli musiqa"
+    },
+    {
+      "en": "tiring",
+      "uz": "charchatadigan"
+    },
+    {
+      "en": "sister-in-law",
+      "uz": "kelinoyi; yanga"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "e06-past-regular",
+      "title": {
+        "uz": "Past Simple: -ed bilan (invited, started)"
+      },
+      "example": "My parents invited more than three hundred guests"
+    },
+    {
+      "topicId": "e07-past-irregular",
+      "title": {
+        "uz": "Past Simple: notoʻgʻri feʼllar (wear → wore)"
+      },
+      "example": "The bride wore a beautiful white dress."
+    }
+  ],
+  "questions": [
+    {
+      "id": "a2-12-wedding-q1",
+      "type": "tfng",
+      "statement": "Sardor got married last summer.",
+      "answer": "T",
+      "explain": {
+        "uz": "«Last summer, my older brother Sardor got married.»"
+      },
+      "para": 0
+    },
+    {
+      "id": "a2-12-wedding-q2",
+      "type": "choice",
+      "prompt": "When did the family start to prepare?",
+      "options": [
+        "two weeks before the day",
+        "two months before the day",
+        "one year before the day"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«We started to prepare two months before the day.»"
+      },
+      "para": 0
+    },
+    {
+      "id": "a2-12-wedding-q3",
+      "type": "gap",
+      "prompt": "The parents invited more than three ___ guests.",
+      "answers": [
+        "hundred"
+      ],
+      "explain": {
+        "uz": "«more than three hundred guests»."
+      },
+      "para": 0
+    },
+    {
+      "id": "a2-12-wedding-q4",
+      "type": "tfng",
+      "statement": "Only Kamola's mother prepared for the wedding.",
+      "answer": "F",
+      "explain": {
+        "uz": "Hamma yordam berdi: «Everybody helped, even my little cousins.»"
+      },
+      "para": 1
+    },
+    {
+      "id": "a2-12-wedding-q5",
+      "type": "choice",
+      "prompt": "What is nahor oshi?",
+      "options": [
+        "a wedding dress",
+        "a morning plov",
+        "a kind of music"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«On the morning of the wedding, there was a special plov called nahor oshi.»"
+      },
+      "para": 2
+    },
+    {
+      "id": "a2-12-wedding-q6",
+      "type": "tfng",
+      "statement": "The main party was in the morning.",
+      "answer": "F",
+      "explain": {
+        "uz": "Asosiy bazm kechqurun: «In the evening, the main party started»."
+      },
+      "para": 3
+    },
+    {
+      "id": "a2-12-wedding-q7",
+      "type": "gap",
+      "prompt": "The bride wore a beautiful ___ dress.",
+      "answers": [
+        "white"
+      ],
+      "explain": {
+        "uz": "«The bride wore a beautiful white dress.»"
+      },
+      "para": 3
+    },
+    {
+      "id": "a2-12-wedding-q8",
+      "type": "choice",
+      "prompt": "How did Kamola feel at the end of the day?",
+      "options": [
+        "tired but happy",
+        "sad and bored",
+        "angry"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "«It was a long and tiring day, but I was very happy.»"
+      },
+      "para": 4
+    }
+  ]
+}

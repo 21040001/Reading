@@ -1,0 +1,207 @@
+{
+  "id": "a2-02-morning-habits",
+  "title": {
+    "uz": "Mening ertalabki odatlarim"
+  },
+  "en": "My Morning Habits",
+  "level": "A2",
+  "kind": "dialogue",
+  "tag": {
+    "uz": "Kundalik hayot",
+    "en": "Daily life"
+  },
+  "intro": {
+    "uz": "Bu — Nilufar va sinfdoshi Bekzod oʻrtasidagi suhbat. Oʻqishdan oldin: siz ertalab birinchi boʻlib nima qilasiz?"
+  },
+  "paragraphs": [
+    {
+      "en": "Nilufar: Bekzod, you always come to class first, and you never look tired. What time do you get up? Bekzod: I usually get up at half past five. Last year I used to sleep until seven, but I changed my habits.",
+      "uz": "Nilufar: Bekzod, sen doim sinfga birinchi kelasan va hech qachon charchagan koʻrinmaysan. Soat nechada turasan? Bekzod: Odatda besh yarimda turaman. Oʻtgan yili yettigacha uxlardim, lekin odatlarimni oʻzgartirdim."
+    },
+    {
+      "en": "Nilufar: Half past five! That's really early. What do you do first? Bekzod: First I drink a glass of water. Then I go running in the park near our house for twenty minutes. My dad comes with me on Saturdays.",
+      "uz": "Nilufar: Besh yarimda! Bu juda erta-ku. Birinchi nima qilasan? Bekzod: Avval bir stakan suv ichaman. Keyin uyimiz yaqinidagi bogʻda yigirma daqiqa yuguraman. Shanba kunlari dadam ham men bilan boradi."
+    },
+    {
+      "en": "Nilufar: And what do you have for breakfast? Bekzod: My mum makes tea, and we eat bread, eggs and some fruit together. I don't look at my phone at breakfast. I think breakfast is better without it.",
+      "uz": "Nilufar: Nonushtaga nima yeysan? Bekzod: Oyim choy damlaydi, biz birga non, tuxum va biroz meva yeymiz. Nonushta paytida telefonimga qaramayman. Menimcha, nonushta telefonsiz yaxshiroq."
+    },
+    {
+      "en": "Nilufar: Why did you change your habits? Bekzod: Last year I was always late, and I felt tired in lessons. Our sports teacher told me to sleep earlier and move more in the morning. Now I go to bed at ten.",
+      "uz": "Nilufar: Nega odatlaringni oʻzgartirding? Bekzod: Oʻtgan yili doim kechikardim va darslarda charchagan boʻlardim. Jismoniy tarbiya oʻqituvchimiz menga ertaroq uxlashni va ertalab koʻproq harakat qilishni maslahat berdi. Hozir soat oʻnda yotaman."
+    },
+    {
+      "en": "Nilufar: Is it difficult? Bekzod: It was difficult in the first week, but now it's easy. I feel healthier, and my marks are better too.",
+      "uz": "Nilufar: Qiyinmi? Bekzod: Birinchi haftada qiyin edi, lekin hozir oson. Oʻzimni sogʻlomroq his qilyapman, baholarim ham yaxshilandi."
+    },
+    {
+      "en": "Nilufar: I think I'm going to try it next month! Bekzod: Great idea! We can run in the park together.",
+      "uz": "Nilufar: Menimcha, kelasi oy men ham sinab koʻraman! Bekzod: Zoʻr fikr! Bogʻda birga yugurishimiz mumkin."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "usually",
+      "uz": "odatda"
+    },
+    {
+      "en": "habit",
+      "uz": "odat"
+    },
+    {
+      "en": "tired",
+      "uz": "charchagan"
+    },
+    {
+      "en": "early",
+      "uz": "erta"
+    },
+    {
+      "en": "glass",
+      "uz": "stakan"
+    },
+    {
+      "en": "breakfast",
+      "uz": "nonushta"
+    },
+    {
+      "en": "late",
+      "uz": "kechikkan, kech"
+    },
+    {
+      "en": "lesson",
+      "uz": "dars"
+    },
+    {
+      "en": "healthy",
+      "uz": "sogʻlom"
+    },
+    {
+      "en": "mark",
+      "uz": "baho"
+    },
+    {
+      "en": "difficult",
+      "uz": "qiyin"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "e11-used-to",
+      "title": {
+        "uz": "used to — ilgari qilardim"
+      },
+      "example": "Last year I used to sleep until seven"
+    },
+    {
+      "topicId": "e45-comparatives",
+      "title": {
+        "uz": "Qiyosiy daraja: healthier, better"
+      },
+      "example": "I feel healthier, and my marks are better too."
+    }
+  ],
+  "questions": [
+    {
+      "id": "a2-02-morning-habits-q1",
+      "type": "gap",
+      "prompt": "Bekzod usually gets up at half past ___.",
+      "answers": [
+        "five",
+        "5"
+      ],
+      "explain": {
+        "uz": "«I usually get up at half past five»."
+      },
+      "para": 0
+    },
+    {
+      "id": "a2-02-morning-habits-q2",
+      "type": "tfng",
+      "statement": "Last year Bekzod got up later than he does now.",
+      "answer": "T",
+      "explain": {
+        "uz": "«Last year I used to sleep until seven» — hozir esa besh yarimda turadi."
+      },
+      "para": 0
+    },
+    {
+      "id": "a2-02-morning-habits-q3",
+      "type": "choice",
+      "prompt": "What does Bekzod do first in the morning?",
+      "options": [
+        "He goes running.",
+        "He drinks a glass of water.",
+        "He makes tea."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«First I drink a glass of water. Then I go running»."
+      },
+      "para": 1
+    },
+    {
+      "id": "a2-02-morning-habits-q4",
+      "type": "tfng",
+      "statement": "Bekzod runs in the park with his dad every day.",
+      "answer": "F",
+      "explain": {
+        "uz": "Dadasi faqat shanba kunlari boradi: «My dad comes with me on Saturdays»."
+      },
+      "para": 1
+    },
+    {
+      "id": "a2-02-morning-habits-q5",
+      "type": "choice",
+      "prompt": "Who makes tea in the morning?",
+      "options": [
+        "Bekzod",
+        "his dad",
+        "his mum"
+      ],
+      "answer": 2,
+      "explain": {
+        "uz": "«My mum makes tea»."
+      },
+      "para": 2
+    },
+    {
+      "id": "a2-02-morning-habits-q6",
+      "type": "tfng",
+      "statement": "Bekzod looks at his phone at breakfast.",
+      "answer": "F",
+      "explain": {
+        "uz": "«I don't look at my phone at breakfast»."
+      },
+      "para": 2
+    },
+    {
+      "id": "a2-02-morning-habits-q7",
+      "type": "choice",
+      "prompt": "Why did Bekzod change his habits?",
+      "options": [
+        "He was often late and tired.",
+        "His mum asked him.",
+        "He wanted to win a race."
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "«Last year I was always late, and I felt tired in lessons»."
+      },
+      "para": 3
+    },
+    {
+      "id": "a2-02-morning-habits-q8",
+      "type": "gap",
+      "prompt": "Now Bekzod goes to bed at ___.",
+      "answers": [
+        "ten",
+        "10"
+      ],
+      "explain": {
+        "uz": "«Now I go to bed at ten»."
+      },
+      "para": 3
+    }
+  ]
+}

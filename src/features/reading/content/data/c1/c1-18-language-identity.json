@@ -1,0 +1,331 @@
+{
+  "id": "c1-18-language-identity",
+  "title": {
+    "uz": "Til va milliy oʻzlik"
+  },
+  "en": "Language and Identity",
+  "level": "C1",
+  "kind": "exam",
+  "tag": {
+    "uz": "Til va jamiyat",
+    "en": "Language and society"
+  },
+  "intro": {
+    "uz": "Fikr-mulohaza matni (argumentativ esse): ona tili milliy oʻzlik sifatida va global tillarning amaliy foydasi, koʻp tillilik haqida. Bu matnda True/False/Not Given savollari muallifning qarashlari haqida — IELTSdagi YES / NO / NOT GIVEN kabi: TRUE (YES) — muallif shu fikrni bildiradi; FALSE (NO) — muallif bunga zid fikrda; NOT GIVEN — muallif bu masalada fikr bildirmagan. Faktlarni emas, muallifning munosabatini koʻrsatuvchi soʻzlarni qidiring: I would argue, in my view, arguably, it seems to me, with some justification. Muallif ikki tomonni ham hurmat bilan koʻrib chiqadi — «both positions … rest on a mistaken assumption» kabi jumlalar uning haqiqiy fikrini koʻrsatadi. Taxminan 20 daqiqa ajrating."
+  },
+  "paragraphs": [
+    {
+      "en": "Language is rarely just a tool for exchanging information. The words a child first hears, the songs sung at family celebrations and the proverbs repeated by grandparents carry a sense of belonging that is difficult to describe and harder still to replace. It is hardly surprising, then, that debates about which languages should be taught, used in government or required for employment so often arouse strong feelings. They touch not only on practical arrangements but on people's sense of who they are."
+    },
+    {
+      "en": "At the same time, it would be naive to ignore the practical value of languages spoken across borders. A small number of languages dominate international science, business and online communication, and proficiency in one of them can open doors to education abroad, better-paid work and a vast body of knowledge. A shared language also allows people from very different backgrounds to cooperate, trade and learn from one another. Parents who encourage their children to study such languages are not betraying their heritage; they are responding sensibly to the world as it is, and to criticise them for doing so would be both unfair and unrealistic."
+    },
+    {
+      "en": "The difficulty arises when these two considerations are presented as a choice. Some voices warn that every hour devoted to a global language weakens the national one, while others treat the mother tongue as a sentimental attachment with little relevance to modern life. Both positions, in my view, rest on a mistaken assumption: that a person has room for only one language that truly matters. A large part of the world's population has always lived with several languages, and there is no convincing reason to believe that the human mind is overwhelmed by more than one. On the contrary, researchers have often suggested that learning several languages may bring cognitive and social benefits, although the precise nature of these advantages continues to be debated."
+    },
+    {
+      "en": "Uzbekistan offers an instructive example. Many Uzbeks, particularly in the cities, move comfortably between Uzbek and Russian, and growing numbers of young people are adding English, alongside other languages, to their repertoire. This is a considerable asset. Yet a language does not remain strong merely because it is spoken at home. It needs to be used in science, technology, law and the media, to acquire new vocabulary for new ideas, and to be the language in which people choose to write when they have something important to say. If ambitious young people come to associate their mother tongue only with the kitchen and the village, and a foreign language with success, the national language may gradually lose prestige even while remaining widely spoken."
+    },
+    {
+      "en": "This is why investment in the national language is not an act of nostalgia but a practical necessity. Good dictionaries, up-to-date textbooks, translated scientific works and high-quality writing for children all help to ensure that a language can express the full range of modern experience. Such efforts do not require hostility to other languages. A country can promote its own language with confidence while also encouraging its citizens to master English, Russian or any other language that serves them well. Equally important is the example set by writers, teachers and public figures who use the national language with skill and evident pride."
+    },
+    {
+      "en": "Nor should identity be understood as fixed. Languages have always borrowed from one another, and the presence of foreign words is not in itself a sign of decline; Uzbek, like English, has absorbed vocabulary from many sources over the centuries and remains unmistakably itself. What matters is less the purity of a language than its vitality: whether people continue to use it creatively, argue in it, joke in it and pass it on to their children."
+    },
+    {
+      "en": "The most productive approach, then, is to regard languages as complementary rather than competing. A strong first language provides a foundation of identity and, arguably, a firmer base for learning others, while additional languages extend a person's reach into the wider world. The aim should not be to choose between roots and wings, but to ensure that young people are offered both. Such an approach asks more of schools and families, but it respects both the practical and the emotional dimensions of language."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "arouse",
+      "uz": "uygʻotmoq, qoʻzgʻatmoq (his-tuygʻu)"
+    },
+    {
+      "en": "naive",
+      "uz": "soddadil, yuzaki"
+    },
+    {
+      "en": "proficiency",
+      "uz": "yuqori malaka, erkin bilish"
+    },
+    {
+      "en": "betray",
+      "uz": "xiyonat qilmoq"
+    },
+    {
+      "en": "heritage",
+      "uz": "meros"
+    },
+    {
+      "en": "devote",
+      "uz": "bagʻishlamoq, ajratmoq"
+    },
+    {
+      "en": "sentimental attachment",
+      "uz": "hissiy bogʻliqlik"
+    },
+    {
+      "en": "overwhelm",
+      "uz": "haddan tashqari yuklamoq, bosib ketmoq"
+    },
+    {
+      "en": "instructive",
+      "uz": "ibratli, saboq beruvchi"
+    },
+    {
+      "en": "repertoire",
+      "uz": "toʻplam, egallangan koʻnikmalar doirasi"
+    },
+    {
+      "en": "asset",
+      "uz": "boylik, afzallik"
+    },
+    {
+      "en": "prestige",
+      "uz": "nufuz, obroʻ"
+    },
+    {
+      "en": "nostalgia",
+      "uz": "oʻtmishni qoʻmsash, nostalgiya"
+    },
+    {
+      "en": "master",
+      "uz": "puxta egallamoq"
+    },
+    {
+      "en": "absorb",
+      "uz": "oʻziga singdirmoq"
+    },
+    {
+      "en": "vitality",
+      "uz": "hayotiylik, jonlilik"
+    },
+    {
+      "en": "complementary",
+      "uz": "bir-birini toʻldiruvchi"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "c58-inversion",
+      "title": {
+        "uz": "Inversiya: Nor should identity be understood …"
+      },
+      "example": "Nor should identity be understood as fixed"
+    },
+    {
+      "topicId": "c57-cleft-sentences",
+      "title": {
+        "uz": "Pseudo-cleft: What matters is …"
+      },
+      "example": "What matters is less the purity of a language than its vitality"
+    }
+  ],
+  "questions": [
+    {
+      "id": "c1-18-language-identity-q1",
+      "type": "heading",
+      "para": 2,
+      "options": [
+        "Language as a source of belonging",
+        "The real advantages of global languages",
+        "A false choice between languages",
+        "Why being spoken at home is not enough",
+        "Supporting one language without rejecting others",
+        "Borrowing as a sign of life rather than decline",
+        "Why young people abandon their parents' language",
+        "The case for a single official language"
+      ],
+      "answer": 2,
+      "explain": {
+        "uz": "Xatboshi C: ikki qarash ham «rest on a mistaken assumption: that a person has room for only one language» — tanlov yolgʻon qoʻyilgan."
+      }
+    },
+    {
+      "id": "c1-18-language-identity-q2",
+      "type": "heading",
+      "para": 3,
+      "options": [
+        "Language as a source of belonging",
+        "The real advantages of global languages",
+        "A false choice between languages",
+        "Why being spoken at home is not enough",
+        "Supporting one language without rejecting others",
+        "Borrowing as a sign of life rather than decline",
+        "Why young people abandon their parents' language",
+        "The case for a single official language"
+      ],
+      "answer": 3,
+      "explain": {
+        "uz": "Xatboshi D: «a language does not remain strong merely because it is spoken at home» — fan, huquq, mediada ham ishlatilishi kerak."
+      }
+    },
+    {
+      "id": "c1-18-language-identity-q3",
+      "type": "heading",
+      "para": 4,
+      "options": [
+        "Language as a source of belonging",
+        "The real advantages of global languages",
+        "A false choice between languages",
+        "Why being spoken at home is not enough",
+        "Supporting one language without rejecting others",
+        "Borrowing as a sign of life rather than decline",
+        "Why young people abandon their parents' language",
+        "The case for a single official language"
+      ],
+      "answer": 4,
+      "explain": {
+        "uz": "Xatboshi E: milliy tilga sarmoya + «Such efforts do not require hostility to other languages»."
+      }
+    },
+    {
+      "id": "c1-18-language-identity-q4",
+      "type": "heading",
+      "para": 5,
+      "options": [
+        "Language as a source of belonging",
+        "The real advantages of global languages",
+        "A false choice between languages",
+        "Why being spoken at home is not enough",
+        "Supporting one language without rejecting others",
+        "Borrowing as a sign of life rather than decline",
+        "Why young people abandon their parents' language",
+        "The case for a single official language"
+      ],
+      "answer": 5,
+      "explain": {
+        "uz": "Xatboshi F: «the presence of foreign words is not in itself a sign of decline» — muhimi hayotiylik (vitality). «Why young people abandon …» chalgʻitadi: bu D dagi ehtimol, F emas."
+      }
+    },
+    {
+      "id": "c1-18-language-identity-q5",
+      "type": "tfng",
+      "statement": "The writer criticises parents who encourage their children to learn global languages.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«Parents … are not betraying their heritage; they are responding sensibly» va «to criticise them for doing so would be both unfair and unrealistic» — muallif ularni tanqid qilmaydi (NO)."
+      },
+      "para": 1
+    },
+    {
+      "id": "c1-18-language-identity-q6",
+      "type": "tfng",
+      "statement": "The writer believes that learning more than one language overloads the human mind.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«there is no convincing reason to believe that the human mind is overwhelmed by more than one» — aksi."
+      },
+      "para": 2
+    },
+    {
+      "id": "c1-18-language-identity-q7",
+      "type": "tfng",
+      "statement": "The writer suggests that a language which is widely spoken may still lose status.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«the national language may gradually lose prestige even while remaining widely spoken» — prestige = status."
+      },
+      "para": 3
+    },
+    {
+      "id": "c1-18-language-identity-q8",
+      "type": "tfng",
+      "statement": "The writer believes that English should be compulsory at all universities.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Muallif ingliz tilini oʻrganishni ragʻbatlantirish mumkin deydi, lekin uni universitetlarda majburiy qilish haqida fikr bildirmaydi."
+      }
+    },
+    {
+      "id": "c1-18-language-identity-q9",
+      "type": "tfng",
+      "statement": "The writer believes that schools should teach every subject in two languages.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Muallif faqat «Such an approach asks more of schools and families» deydi; har bir fanni ikki tilda oʻqitish haqida hech narsa aytilmagan."
+      },
+      "para": 6
+    },
+    {
+      "id": "c1-18-language-identity-q10",
+      "type": "choice",
+      "prompt": "What is the writer's attitude to the research on the benefits of learning several languages?",
+      "options": [
+        "The writer rejects it as unconvincing.",
+        "The writer regards its conclusions as fully proven.",
+        "The writer accepts it as suggestive while noting that details are still debated.",
+        "The writer believes it applies only to children."
+      ],
+      "answer": 2,
+      "explain": {
+        "uz": "«researchers have often suggested that … may bring … benefits, although the precise nature of these advantages continues to be debated» — ehtiyotkor qabul qilish."
+      },
+      "para": 2
+    },
+    {
+      "id": "c1-18-language-identity-q11",
+      "type": "choice",
+      "prompt": "In paragraph E, why does the writer mention dictionaries, textbooks and translated scientific works?",
+      "options": [
+        "To show that the national language is already fully developed.",
+        "To give examples of practical steps that keep a language able to express modern life.",
+        "To argue that foreign books should not be translated.",
+        "To criticise the quality of existing teaching materials."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "Ular «help to ensure that a language can express the full range of modern experience» — amaliy chora-tadbirlar."
+      },
+      "para": 4
+    },
+    {
+      "id": "c1-18-language-identity-q12",
+      "type": "choice",
+      "prompt": "What does the writer mean by choosing between «roots and wings»?",
+      "options": [
+        "Choosing between living in the village and moving to the city.",
+        "Choosing between a secure identity and access to the wider world.",
+        "Choosing between Russian and English.",
+        "Choosing between traditional and modern teaching methods."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "Oldingi jumla: birinchi til «a foundation of identity» (roots), qoʻshimcha tillar «extend a person's reach into the wider world» (wings). Muallif ikkalasi ham kerak deydi."
+      },
+      "para": 6
+    },
+    {
+      "id": "c1-18-language-identity-q13",
+      "type": "gap",
+      "prompt": "According to the writer, what matters is less the purity of a language than its ___.",
+      "answers": [
+        "vitality"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«What matters is less the purity of a language than its vitality»."
+      },
+      "para": 5
+    },
+    {
+      "id": "c1-18-language-identity-q14",
+      "type": "gap",
+      "prompt": "The writer argues that investment in the national language is a practical necessity, not an act of ___.",
+      "answers": [
+        "nostalgia"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«not an act of nostalgia but a practical necessity»."
+      },
+      "para": 4
+    }
+  ]
+}

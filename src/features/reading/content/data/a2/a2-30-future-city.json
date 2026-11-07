@@ -1,0 +1,205 @@
+{
+  "id": "a2-30-future-city",
+  "title": {
+    "uz": "Kelajak shahri"
+  },
+  "en": "The City of the Future",
+  "level": "A2",
+  "kind": "article",
+  "tag": {
+    "uz": "Texnologiya",
+    "en": "Technology"
+  },
+  "intro": {
+    "uz": "Bu maqolada 2050-yildagi shaharlar qanday boʻlishi mumkinligi haqida soʻz boradi. Oʻqishdan oldin: sizningcha, 2050-yilga kelib shahringiz qanday oʻzgaradi?"
+  },
+  "paragraphs": [
+    {
+      "en": "What will our cities look like in 2050? Engineers and students in Uzbekistan are already sharing their ideas. Here are some of them.",
+      "uz": "2050-yilda shaharlarimiz qanday koʻrinishda boʻladi? Oʻzbekistondagi muhandislar va talabalar hozirdanoq oʻz gʻoyalari bilan oʻrtoqlashmoqda. Mana ulardan baʼzilari."
+    },
+    {
+      "en": "First, transport will be cleaner. Most buses and cars will be electric, and some of them will drive themselves. Streets might be quieter than they are today. Small drones may deliver letters and medicine.",
+      "uz": "Birinchidan, transport tozaroq boʻladi. Avtobus va mashinalarning aksariyati elektr bilan yuradi, ularning baʼzilari esa haydovchisiz harakatlanadi. Koʻchalar bugungidan jimroq boʻlishi mumkin. Kichik dronlar xat va dori-darmonlarni yetkazib berishi mumkin."
+    },
+    {
+      "en": "Second, buildings will be smarter. Houses will produce their own energy from the sun. This is good news for sunny cities like Termez and Bukhara. Lights and air conditioners will switch off when nobody is in the room. If we save energy, we will pay less for it.",
+      "uz": "Ikkinchidan, binolar aqlliroq boʻladi. Uylar oʻz energiyasini quyoshdan ishlab chiqaradi. Bu Termiz va Buxoro kabi quyoshli shaharlar uchun yaxshi xabar. Xonada hech kim boʻlmasa, chiroqlar va konditsionerlar oʻchib qoladi. Agar energiyani tejasak, unga kamroq pul toʻlaymiz."
+    },
+    {
+      "en": "But a future city might have problems too. Robots may do many jobs, so some people will need to learn new skills. If everything is online, computer crime will be a bigger danger. Some older people might find the new technology difficult.",
+      "uz": "Lekin kelajak shahrida muammolar ham boʻlishi mumkin. Koʻp ishlarni robotlar bajarishi mumkin, shuning uchun baʼzi odamlar yangi koʻnikmalarni oʻrganishiga toʻgʻri keladi. Agar hamma narsa internetda boʻlsa, kompyuter jinoyatlari kattaroq xavfga aylanadi. Baʼzi keksa odamlarga yangi texnologiyalar qiyin boʻlishi mumkin."
+    },
+    {
+      "en": "Nodira Rashidova, a young architect from Tashkent, says: \"The future city must be green, not only smart. We need more parks, more trees and more places to walk.\"",
+      "uz": "Toshkentlik yosh meʼmor Nodira Rashidova shunday deydi: «Kelajak shahri faqat aqlli emas, balki yashil ham boʻlishi kerak. Bizga koʻproq bogʻlar, koʻproq daraxtlar va sayr qilish uchun koʻproq joylar kerak»."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "engineer",
+      "uz": "muhandis"
+    },
+    {
+      "en": "electric",
+      "uz": "elektr bilan ishlaydigan"
+    },
+    {
+      "en": "drone",
+      "uz": "dron, uchuvchisiz apparat"
+    },
+    {
+      "en": "deliver",
+      "uz": "yetkazib bermoq"
+    },
+    {
+      "en": "medicine",
+      "uz": "dori"
+    },
+    {
+      "en": "produce",
+      "uz": "ishlab chiqarmoq"
+    },
+    {
+      "en": "energy",
+      "uz": "energiya, quvvat"
+    },
+    {
+      "en": "air conditioner",
+      "uz": "konditsioner"
+    },
+    {
+      "en": "save",
+      "uz": "tejamoq"
+    },
+    {
+      "en": "skill",
+      "uz": "koʻnikma, mahorat"
+    },
+    {
+      "en": "crime",
+      "uz": "jinoyat"
+    },
+    {
+      "en": "architect",
+      "uz": "meʼmor, arxitektor"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "e23-will",
+      "title": {
+        "uz": "will — kelajak haqida bashorat"
+      },
+      "example": "Most buses and cars will be electric"
+    },
+    {
+      "topicId": "e54-when-if",
+      "title": {
+        "uz": "Birinchi shart gap: If … will"
+      },
+      "example": "If we save energy, we will pay less for it."
+    }
+  ],
+  "questions": [
+    {
+      "id": "a2-30-future-city-q1",
+      "type": "tfng",
+      "statement": "The article says most cars in 2050 will be electric.",
+      "answer": "T",
+      "explain": {
+        "uz": "«Most buses and cars will be electric»."
+      },
+      "para": 1
+    },
+    {
+      "id": "a2-30-future-city-q2",
+      "type": "choice",
+      "prompt": "What might drones do in the future?",
+      "options": [
+        "build houses",
+        "deliver letters and medicine",
+        "clean the streets"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«Small drones may deliver letters and medicine.»"
+      },
+      "para": 1
+    },
+    {
+      "id": "a2-30-future-city-q3",
+      "type": "gap",
+      "prompt": "Houses will produce their own energy from the ___.",
+      "answers": [
+        "sun"
+      ],
+      "explain": {
+        "uz": "«Houses will produce their own energy from the sun.»"
+      },
+      "para": 2
+    },
+    {
+      "id": "a2-30-future-city-q4",
+      "type": "choice",
+      "prompt": "Why does the article mention Termez and Bukhara?",
+      "options": [
+        "They are very sunny.",
+        "They have many robots.",
+        "They are the biggest cities."
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "«good news for sunny cities like Termez and Bukhara» — ular quyoshli shaharlar."
+      },
+      "para": 2
+    },
+    {
+      "id": "a2-30-future-city-q5",
+      "type": "tfng",
+      "statement": "In future buildings, lights will stay on when the room is empty.",
+      "answer": "F",
+      "explain": {
+        "uz": "«Lights and air conditioners will switch off when nobody is in the room.»"
+      },
+      "para": 2
+    },
+    {
+      "id": "a2-30-future-city-q6",
+      "type": "choice",
+      "prompt": "Why will some people need to learn new skills?",
+      "options": [
+        "Because schools will close.",
+        "Because robots may do many jobs.",
+        "Because cars will drive themselves."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«Robots may do many jobs, so some people will need to learn new skills.»"
+      },
+      "para": 3
+    },
+    {
+      "id": "a2-30-future-city-q7",
+      "type": "tfng",
+      "statement": "The article says the new technology will be easy for everybody.",
+      "answer": "F",
+      "explain": {
+        "uz": "«Some older people might find the new technology difficult.»"
+      },
+      "para": 3
+    },
+    {
+      "id": "a2-30-future-city-q8",
+      "type": "gap",
+      "prompt": "Nodira Rashidova is a young ___ from Tashkent.",
+      "answers": [
+        "architect"
+      ],
+      "explain": {
+        "uz": "«Nodira Rashidova, a young architect from Tashkent»."
+      },
+      "para": 4
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "id": "a1-01-dilnoza",
+  "title": {
+    "uz": "Salom, men Dilnozaman"
+  },
+  "en": "Hello, I'm Dilnoza",
+  "level": "A1",
+  "kind": "story",
+  "tag": {
+    "uz": "Tanishuv",
+    "en": "Introductions"
+  },
+  "intro": {
+    "uz": "Dilnoza oʻzi haqida gapirib beradi. Oʻqishdan oldin oʻylab koʻring: siz oʻzingizni inglizcha qanday tanishtirasiz?"
+  },
+  "paragraphs": [
+    {
+      "en": "Hello! My name is Dilnoza. I am fifteen years old. I am from Uzbekistan. I live in Bukhara with my family.",
+      "uz": "Salom! Mening ismim Dilnoza. Men oʻn besh yoshdaman. Men Oʻzbekistondanman. Men oilam bilan Buxoroda yashayman."
+    },
+    {
+      "en": "I am a student. I go to School Number 12. My favourite subject is English. I also like music. I can play the dutar.",
+      "uz": "Men oʻquvchiman. Men 12-maktabda oʻqiyman. Mening sevimli fanim — ingliz tili. Men musiqani ham yoqtiraman. Men dutor chala olaman."
+    },
+    {
+      "en": "Bukhara is an old and beautiful city. Many tourists come here every year. I want to be a tour guide in the future.",
+      "uz": "Buxoro — qadimiy va goʻzal shahar. Har yili bu yerga koʻplab sayyohlar keladi. Men kelajakda gid boʻlishni xohlayman."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "student",
+      "uz": "oʻquvchi, talaba"
+    },
+    {
+      "en": "subject",
+      "uz": "fan (maktabdagi)"
+    },
+    {
+      "en": "favourite",
+      "uz": "sevimli"
+    },
+    {
+      "en": "also",
+      "uz": "ham"
+    },
+    {
+      "en": "old",
+      "uz": "qadimiy; eski; keksa"
+    },
+    {
+      "en": "tourist",
+      "uz": "sayyoh"
+    },
+    {
+      "en": "every year",
+      "uz": "har yili"
+    },
+    {
+      "en": "tour guide",
+      "uz": "gid, ekskursiya boshlovchisi"
+    },
+    {
+      "en": "in the future",
+      "uz": "kelajakda"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "b03-about-yourself",
+      "title": {
+        "uz": "to be: am / is / are"
+      },
+      "example": "I am fifteen years old."
+    },
+    {
+      "topicId": "b29-can",
+      "title": {
+        "uz": "can — qila olmoq"
+      },
+      "example": "I can play the dutar."
+    }
+  ],
+  "questions": [
+    {
+      "id": "a1-01-dilnoza-q1",
+      "type": "tfng",
+      "statement": "Dilnoza is fifteen years old.",
+      "answer": "T",
+      "explain": {
+        "uz": "1-xatboshi: «I am fifteen years old.»"
+      },
+      "para": 0
+    },
+    {
+      "id": "a1-01-dilnoza-q2",
+      "type": "tfng",
+      "statement": "Dilnoza lives in Samarkand.",
+      "answer": "F",
+      "explain": {
+        "uz": "U Buxoroda yashaydi: «I live in Bukhara»."
+      },
+      "para": 0
+    },
+    {
+      "id": "a1-01-dilnoza-q3",
+      "type": "tfng",
+      "statement": "Her favourite subject is music.",
+      "answer": "F",
+      "explain": {
+        "uz": "Sevimli fani — ingliz tili. Musiqani «ham» yoqtiradi."
+      },
+      "para": 1
+    },
+    {
+      "id": "a1-01-dilnoza-q4",
+      "type": "choice",
+      "prompt": "What can Dilnoza play?",
+      "options": [
+        "the piano",
+        "the dutar",
+        "football"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«I can play the dutar.»"
+      },
+      "para": 1
+    },
+    {
+      "id": "a1-01-dilnoza-q5",
+      "type": "choice",
+      "prompt": "What does Dilnoza want to be?",
+      "options": [
+        "a teacher",
+        "a doctor",
+        "a tour guide"
+      ],
+      "answer": 2,
+      "explain": {
+        "uz": "«I want to be a tour guide in the future.»"
+      },
+      "para": 2
+    },
+    {
+      "id": "a1-01-dilnoza-q6",
+      "type": "gap",
+      "prompt": "Bukhara is an old and ___ city.",
+      "answers": [
+        "beautiful"
+      ],
+      "explain": {
+        "uz": "3-xatboshi: «an old and beautiful city»."
+      },
+      "para": 2
+    },
+    {
+      "id": "a1-01-dilnoza-q7",
+      "type": "gap",
+      "prompt": "Many ___ come to Bukhara every year.",
+      "answers": [
+        "tourists"
+      ],
+      "explain": {
+        "uz": "Har yili koʻplab sayyohlar keladi — tourists."
+      },
+      "para": 2
+    }
+  ]
+}

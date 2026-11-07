@@ -1,0 +1,187 @@
+{
+  "id": "a1-22-hotel",
+  "title": {
+    "uz": "Mehmonxonada"
+  },
+  "en": "At the Hotel",
+  "level": "A1",
+  "kind": "dialogue",
+  "tag": {
+    "uz": "Mehmonxona",
+    "en": "Hotel"
+  },
+  "intro": {
+    "uz": "Bu — mehmonxona qabulxonasidagi suhbat. Oʻqishdan oldin: mehmonxonaga kelganda qanday savollar berasiz?"
+  },
+  "paragraphs": [
+    {
+      "en": "Receptionist: Good evening! Welcome to our hotel. Can I help you? Kamola: Good evening. My name is Kamola Rahimova. I have a room for two nights.",
+      "uz": "Administrator: Xayrli kech! Mehmonxonamizga xush kelibsiz. Sizga yordam bera olamanmi? Kamola: Xayrli kech. Mening ismim Kamola Rahimova. Menga ikki kechaga xona band qilingan."
+    },
+    {
+      "en": "Receptionist: Yes, Ms Rahimova. Your room is 205. It is on the second floor. Here is your key.",
+      "uz": "Administrator: Ha, Rahimova xonim. Sizning xonangiz — 205. U ikkinchi qavatda. Mana kalitingiz."
+    },
+    {
+      "en": "Kamola: Thank you. Is there a lift? Receptionist: Yes, there is. It is next to the stairs.",
+      "uz": "Kamola: Rahmat. Lift bormi? Administrator: Ha, bor. U zinapoyaning yonida."
+    },
+    {
+      "en": "Kamola: What time is breakfast? Receptionist: Breakfast is from seven to ten in the restaurant.",
+      "uz": "Kamola: Nonushta soat nechada? Administrator: Nonushta restoranda soat yettidan oʻngacha."
+    },
+    {
+      "en": "Kamola: Can I use the wifi? Receptionist: Yes, of course. The password is on this card. Have a nice evening!",
+      "uz": "Kamola: Wi-Fiʼdan foydalansam boʻladimi? Administrator: Ha, albatta. Parol mana shu kartochkada. Kechingiz xayrli oʻtsin!"
+    }
+  ],
+  "glossary": [
+    {
+      "en": "receptionist",
+      "uz": "administrator (qabulxonada)"
+    },
+    {
+      "en": "welcome",
+      "uz": "xush kelibsiz"
+    },
+    {
+      "en": "night",
+      "uz": "kecha, tun"
+    },
+    {
+      "en": "floor",
+      "uz": "qavat"
+    },
+    {
+      "en": "key",
+      "uz": "kalit"
+    },
+    {
+      "en": "lift",
+      "uz": "lift"
+    },
+    {
+      "en": "stairs",
+      "uz": "zinapoya"
+    },
+    {
+      "en": "breakfast",
+      "uz": "nonushta"
+    },
+    {
+      "en": "password",
+      "uz": "parol"
+    },
+    {
+      "en": "of course",
+      "uz": "albatta"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "b17-short-answers",
+      "title": {
+        "uz": "Qisqa javoblar: Yes, there is."
+      },
+      "example": "Yes, there is."
+    },
+    {
+      "topicId": "b29-can",
+      "title": {
+        "uz": "Can I …? — ruxsat soʻrash"
+      },
+      "example": "Can I use the wifi?"
+    }
+  ],
+  "questions": [
+    {
+      "id": "a1-22-hotel-q1",
+      "type": "tfng",
+      "statement": "Kamola has a room for two nights.",
+      "answer": "T",
+      "explain": {
+        "uz": "«I have a room for two nights.»"
+      },
+      "para": 0
+    },
+    {
+      "id": "a1-22-hotel-q2",
+      "type": "choice",
+      "prompt": "Which floor is the room on?",
+      "options": [
+        "the first",
+        "the second",
+        "the third"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«It is on the second floor.»"
+      },
+      "para": 1
+    },
+    {
+      "id": "a1-22-hotel-q3",
+      "type": "gap",
+      "prompt": "Kamola's room number is ___.",
+      "answers": [
+        "205"
+      ],
+      "explain": {
+        "uz": "«Your room is 205.»"
+      },
+      "para": 1
+    },
+    {
+      "id": "a1-22-hotel-q4",
+      "type": "tfng",
+      "statement": "There is no lift in the hotel.",
+      "answer": "F",
+      "explain": {
+        "uz": "Lift bor: «Yes, there is. It is next to the stairs.»"
+      },
+      "para": 2
+    },
+    {
+      "id": "a1-22-hotel-q5",
+      "type": "choice",
+      "prompt": "Where is the lift?",
+      "options": [
+        "next to the restaurant",
+        "next to the stairs",
+        "next to room 205"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«It is next to the stairs.»"
+      },
+      "para": 2
+    },
+    {
+      "id": "a1-22-hotel-q6",
+      "type": "choice",
+      "prompt": "When is breakfast?",
+      "options": [
+        "from six to nine",
+        "from seven to ten",
+        "from eight to eleven"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«Breakfast is from seven to ten in the restaurant.»"
+      },
+      "para": 3
+    },
+    {
+      "id": "a1-22-hotel-q7",
+      "type": "gap",
+      "prompt": "The wifi password is on a ___.",
+      "answers": [
+        "card"
+      ],
+      "explain": {
+        "uz": "«The password is on this card.»"
+      },
+      "para": 4
+    }
+  ]
+}

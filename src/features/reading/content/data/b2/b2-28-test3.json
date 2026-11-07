@@ -1,0 +1,303 @@
+{
+  "id": "b2-28-test3",
+  "title": {
+    "uz": "3-test: Togʻ muzliklari"
+  },
+  "en": "Mountain Glaciers of Central Asia",
+  "level": "B2",
+  "kind": "exam",
+  "tag": {
+    "uz": "Atrof-muhit",
+    "en": "Environment"
+  },
+  "intro": {
+    "uz": "Toʻliq mashq testi: Markaziy Osiyo togʻ muzliklari va suv taqdiri haqidagi matn. Haqiqiy imtihondagidek bitta matnga 13 ta savol va bir nechta topshiriq turi beriladi: Matching headings, True/False/Not Given, boʻshliq toʻldirish va test savollari. Taxminan 20 daqiqa ajrating: avval matnga tez koʻz yugurtirib sarlavhalarni moslang, keyin TFNG va boʻshliqlarni bajaring, test savollarini esa oxiriga qoldiring."
+  },
+  "paragraphs": [
+    {
+      "en": "Much of Central Asia is dry, with long hot summers and little rain on the plains. Yet great rivers manage to flow through its deserts, supporting farms and cities along their banks. The secret lies high in the mountains of the Tian Shan and the Pamir, where thousands of glaciers store enormous quantities of frozen water. For millions of people in the lowlands, the condition of these distant glaciers is therefore a matter of daily importance."
+    },
+    {
+      "en": "Glaciers act as natural water towers. In winter, snow builds up on the high slopes and, over many years, is pressed into dense ice. In summer, part of this ice melts, releasing water precisely in the hot, dry months when farmers downstream need it most for irrigation. The Amu Darya draws much of its water from the Pamir and neighbouring ranges, while the Syr Darya is fed mainly by the Tian Shan."
+    },
+    {
+      "en": "Scientists who study the region report that many of these glaciers have become smaller and thinner in recent decades as average temperatures have risen. The change is not the same everywhere. Small glaciers at lower altitudes appear to be the most vulnerable, and some of them are thought to have disappeared completely, while certain larger glaciers at higher elevations have changed more slowly. Shrinking glaciers are often described as one of the clearest visible signs of a warming climate."
+    },
+    {
+      "en": "At first, this loss of ice can seem to bring good news. As glaciers melt faster, rivers may carry more water than before, and some farmers may notice little difference. Researchers warn, however, that this increase is likely to be temporary. Once a glacier has shrunk beyond a certain point, there is simply less ice left to melt, and summer flow may eventually decline. Exactly when this turning point will arrive in each river basin is still uncertain."
+    },
+    {
+      "en": "The possible consequences are serious. Agriculture in the lowlands depends heavily on summer meltwater, and countries upstream rely on the same rivers to generate hydroelectric power. Because upstream countries tend to need water for electricity in winter, while downstream farmers need it in summer, sharing the rivers has long required careful negotiation. Melting ice can also create new lakes held back by unstable walls of ice or rock, and if these walls fail, sudden floods may threaten villages in the valleys below."
+    },
+    {
+      "en": "Keeping track of these changes is far from easy. Many glaciers lie in remote areas at great heights, where the weather is harsh and the working season is short. Researchers therefore combine satellite images with measurements taken on the ground. In some places, they drill stakes into the ice to record how much melts each year, and they install weather stations nearby. Sharing such data between neighbouring countries is widely seen as essential."
+    },
+    {
+      "en": "Local action cannot stop glaciers from melting, since that depends largely on global temperatures. However, it can soften the effects. Repairing leaking canals, adopting more efficient irrigation methods and planning water use more carefully could help the region cope with whatever the mountains provide in the future. Education also plays a part, since farmers who understand the changes are more likely to try new methods."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "glacier",
+      "uz": "muzlik"
+    },
+    {
+      "en": "enormous",
+      "uz": "ulkan"
+    },
+    {
+      "en": "irrigation",
+      "uz": "sugʻorish"
+    },
+    {
+      "en": "downstream",
+      "uz": "quyi oqimda (daryoning)"
+    },
+    {
+      "en": "altitude",
+      "uz": "balandlik (dengiz sathidan)"
+    },
+    {
+      "en": "vulnerable",
+      "uz": "zaif, xavf ostidagi"
+    },
+    {
+      "en": "elevation",
+      "uz": "balandlik"
+    },
+    {
+      "en": "temporary",
+      "uz": "vaqtinchalik"
+    },
+    {
+      "en": "shrink",
+      "uz": "kichraymoq"
+    },
+    {
+      "en": "decline",
+      "uz": "kamaymoq, pasaymoq"
+    },
+    {
+      "en": "basin",
+      "uz": "havza"
+    },
+    {
+      "en": "hydroelectric",
+      "uz": "gidroelektr"
+    },
+    {
+      "en": "negotiation",
+      "uz": "muzokara"
+    },
+    {
+      "en": "unstable",
+      "uz": "beqaror, mustahkam boʻlmagan"
+    },
+    {
+      "en": "remote",
+      "uz": "olis, chekka"
+    },
+    {
+      "en": "cope with",
+      "uz": "uddalamoq, bardosh bermoq"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "i31-it-is-said",
+      "title": {
+        "uz": "Majhul nisbat bilan xabar: are thought to have disappeared"
+      },
+      "example": "some of them are thought to have disappeared completely"
+    },
+    {
+      "topicId": "i16-future-time-clauses",
+      "title": {
+        "uz": "Once + Present Perfect: vaqt ergash gapi"
+      },
+      "example": "Once a glacier has shrunk beyond a certain point"
+    }
+  ],
+  "questions": [
+    {
+      "id": "b2-28-test3-q1",
+      "type": "heading",
+      "para": 2,
+      "options": [
+        "Signs of retreat in a warming climate",
+        "A temporary gain that may not last",
+        "Risks for farms, power and neighbours",
+        "Measuring ice in difficult places",
+        "Why the deserts are getting wetter",
+        "New glaciers forming in the Pamir"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "Xatboshi C: harorat koʻtarilishi bilan muzliklar kichraymoqda — chekinish belgilari."
+      }
+    },
+    {
+      "id": "b2-28-test3-q2",
+      "type": "heading",
+      "para": 3,
+      "options": [
+        "Signs of retreat in a warming climate",
+        "A temporary gain that may not last",
+        "Risks for farms, power and neighbours",
+        "Measuring ice in difficult places",
+        "Why the deserts are getting wetter",
+        "New glaciers forming in the Pamir"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "Xatboshi D: suvning koʻpayishi vaqtinchalik — «this increase is likely to be temporary»."
+      }
+    },
+    {
+      "id": "b2-28-test3-q3",
+      "type": "heading",
+      "para": 4,
+      "options": [
+        "Signs of retreat in a warming climate",
+        "A temporary gain that may not last",
+        "Risks for farms, power and neighbours",
+        "Measuring ice in difficult places",
+        "Why the deserts are getting wetter",
+        "New glaciers forming in the Pamir"
+      ],
+      "answer": 2,
+      "explain": {
+        "uz": "Xatboshi E: dehqonchilik, gidroelektr va qoʻshni davlatlar oʻrtasida suv taqsimoti, toshqin xavfi."
+      }
+    },
+    {
+      "id": "b2-28-test3-q4",
+      "type": "heading",
+      "para": 5,
+      "options": [
+        "Signs of retreat in a warming climate",
+        "A temporary gain that may not last",
+        "Risks for farms, power and neighbours",
+        "Measuring ice in difficult places",
+        "Why the deserts are getting wetter",
+        "New glaciers forming in the Pamir"
+      ],
+      "answer": 3,
+      "explain": {
+        "uz": "Xatboshi F: olis, baland joylarda muzni oʻlchash — sunʼiy yoʻldosh va yerdagi oʻlchovlar. «New glaciers forming in the Pamir» — matnda yangi muzliklar haqida gap yoʻq."
+      }
+    },
+    {
+      "id": "b2-28-test3-q5",
+      "type": "tfng",
+      "statement": "Glaciers release water at the time of year when it is most needed for farming.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«releasing water precisely in the hot, dry months when farmers downstream need it most»."
+      },
+      "para": 1
+    },
+    {
+      "id": "b2-28-test3-q6",
+      "type": "tfng",
+      "statement": "The Syr Darya depends mainly on glaciers in the Pamir.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«the Syr Darya is fed mainly by the Tian Shan» — Pomir emas."
+      },
+      "para": 1
+    },
+    {
+      "id": "b2-28-test3-q7",
+      "type": "tfng",
+      "statement": "Small glaciers at lower altitudes seem to be more at risk than large glaciers higher up.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«Small glaciers at lower altitudes appear to be the most vulnerable … certain larger glaciers at higher elevations have changed more slowly»."
+      },
+      "para": 2
+    },
+    {
+      "id": "b2-28-test3-q8",
+      "type": "tfng",
+      "statement": "Faster melting will permanently increase the amount of water in the rivers.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«this increase is likely to be temporary … summer flow may eventually decline»."
+      },
+      "para": 3
+    },
+    {
+      "id": "b2-28-test3-q9",
+      "type": "tfng",
+      "statement": "The countries of the region recently signed a treaty on glacier research.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Maʼlumot almashish muhimligi aytilgan, lekin shartnoma haqida hech narsa yoʻq."
+      },
+      "para": 5
+    },
+    {
+      "id": "b2-28-test3-q10",
+      "type": "gap",
+      "prompt": "Melting ice can form new ___ that are held back by unstable walls of ice or rock.",
+      "answers": [
+        "lakes"
+      ],
+      "maxWords": 1,
+      "explain": {
+        "uz": "«Melting ice can also create new lakes held back by unstable walls»."
+      },
+      "para": 4
+    },
+    {
+      "id": "b2-28-test3-q11",
+      "type": "gap",
+      "prompt": "To record yearly melting, researchers drill ___ into the ice.",
+      "answers": [
+        "stakes"
+      ],
+      "maxWords": 1,
+      "explain": {
+        "uz": "«they drill stakes into the ice to record how much melts each year»."
+      },
+      "para": 5
+    },
+    {
+      "id": "b2-28-test3-q12",
+      "type": "choice",
+      "prompt": "Why has sharing the rivers required careful negotiation?",
+      "options": [
+        "Upstream and downstream countries need the water at different times of year.",
+        "The rivers change their direction every summer.",
+        "Hydroelectric stations use up most of the water."
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "Yuqori oqimdagilar suvni qishda elektr uchun, quyidagilar yozda dehqonchilik uchun talab qiladi."
+      },
+      "para": 4
+    },
+    {
+      "id": "b2-28-test3-q13",
+      "type": "choice",
+      "prompt": "What is the writer's main point in the last paragraph?",
+      "options": [
+        "Local efforts can stop glaciers from melting.",
+        "Better water management can reduce the impact of glacier loss.",
+        "New canals should be built in the mountains.",
+        "Global temperatures are no longer rising."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«Local action cannot stop glaciers from melting … However, it can soften the effects»."
+      },
+      "para": 6
+    }
+  ]
+}

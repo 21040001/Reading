@@ -1,0 +1,270 @@
+{
+  "id": "b2-25-books-screens",
+  "title": {
+    "uz": "Kitob va ekran"
+  },
+  "en": "Paper or Screen?",
+  "level": "B2",
+  "kind": "exam",
+  "tag": {
+    "uz": "Oʻqish va madaniyat",
+    "en": "Reading and culture"
+  },
+  "intro": {
+    "uz": "Topshiriq: Multiple choice (muallif munosabati). Ehtiyotkor soʻzlarga eʼtibor bering: «may», «perhaps», «suspect», «is still debated». Agar matnda shunday soʻzlar boʻlsa, «the writer is certain» yoki «it has been proven» degan variant notoʻgʻri boʻladi. Ikkinchi qism: True / False / Not Given — bu matnda TRUE = muallif shu fikrga qoʻshiladi (YES), FALSE = muallif fikri bunga zid (NO), NOT GIVEN = muallif bu haqda oʻz fikrini bildirmagan."
+  },
+  "paragraphs": [
+    {
+      "en": "Not long ago, it was widely predicted that the printed book would soon disappear. Screens were becoming cheaper and lighter, a single device could hold an entire library, and newspapers were moving online. Yet paper books have proved surprisingly stubborn. Bookshops still exist, and many readers who spend all day in front of a screen say that, in the evening, they prefer to hold something made of paper."
+    },
+    {
+      "en": "Digital reading certainly has advantages that are difficult to argue with. A student in a small town can open texts that would once have required a trip to a big library. Font sizes can be enlarged for people with weak eyesight, unfamiliar words can be looked up with a single touch, and a dozen novels weigh no more than one. For travellers and for people with little space at home, these are not small benefits."
+    },
+    {
+      "en": "Some researchers and teachers, however, suspect that the medium affects the way we read. On a screen, many people tend to skim: their eyes jump down the page in search of key words, a habit encouraged by years of reading short messages and web pages. This may be perfectly adequate for checking the news, but it is less suited to a long argument or a complex novel, where the meaning builds up slowly."
+    },
+    {
+      "en": "There may also be something about the physical object itself. With a paper book, readers can feel how far they have come and how much remains, and some say they remember where on a page a particular sentence appeared. These small clues may help the mind to build a kind of map of the text. Whether this really improves understanding is still debated, and the answer may differ from one reader to another."
+    },
+    {
+      "en": "It would be a mistake, though, to turn this into a battle between good paper and bad screens. Much depends on the reader's intention and habits. A person who reads slowly and attentively on a tablet, with notifications switched off, is probably reading better than someone who flicks distractedly through a printed magazine. The device does not decide everything; the reader does."
+    },
+    {
+      "en": "For learners, including those preparing for exams, a sensible approach might combine both. Screens are excellent for finding material and for quick reference, while longer or more difficult texts may be worth printing, or at least reading without interruptions. What matters most, in the end, is not the surface on which words appear but the attention we bring to them."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "predict",
+      "uz": "bashorat qilmoq"
+    },
+    {
+      "en": "stubborn",
+      "uz": "oʻjar, bardoshli"
+    },
+    {
+      "en": "device",
+      "uz": "qurilma"
+    },
+    {
+      "en": "enlarge",
+      "uz": "kattalashtirmoq"
+    },
+    {
+      "en": "eyesight",
+      "uz": "koʻrish qobiliyati"
+    },
+    {
+      "en": "medium",
+      "uz": "vosita, muhit"
+    },
+    {
+      "en": "skim",
+      "uz": "yuzaki koʻz yugurtirmoq"
+    },
+    {
+      "en": "adequate",
+      "uz": "yetarli"
+    },
+    {
+      "en": "complex",
+      "uz": "murakkab"
+    },
+    {
+      "en": "physical",
+      "uz": "jismoniy, moddiy"
+    },
+    {
+      "en": "clue",
+      "uz": "belgi, ishora"
+    },
+    {
+      "en": "debate",
+      "uz": "munozara qilmoq"
+    },
+    {
+      "en": "attentively",
+      "uz": "diqqat bilan"
+    },
+    {
+      "en": "distractedly",
+      "uz": "chalgʻigan holda"
+    },
+    {
+      "en": "interruption",
+      "uz": "uzilish, xalaqit"
+    },
+    {
+      "en": "reference",
+      "uz": "maʼlumot uchun qarash"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "i31-it-is-said",
+      "title": {
+        "uz": "it was predicted that: …deb bashorat qilingan"
+      },
+      "example": "it was widely predicted that the printed book would soon disappear"
+    },
+    {
+      "topicId": "c57-cleft-sentences",
+      "title": {
+        "uz": "What … is …: urgʻuli gap"
+      },
+      "example": "What matters most, in the end, is not the surface on which words appear"
+    }
+  ],
+  "questions": [
+    {
+      "id": "b2-25-books-screens-q1",
+      "type": "choice",
+      "prompt": "What is the main idea of the passage?",
+      "options": [
+        "Paper books are always better than screens.",
+        "Printed books will soon disappear.",
+        "How attentively we read matters more than whether we use paper or a screen.",
+        "Students should stop using digital texts."
+      ],
+      "answer": 2,
+      "explain": {
+        "uz": "Xulosa: «What matters most … is not the surface … but the attention we bring to them»."
+      },
+      "para": 5
+    },
+    {
+      "id": "b2-25-books-screens-q2",
+      "type": "choice",
+      "prompt": "What is the purpose of paragraph A?",
+      "options": [
+        "to show that a prediction about printed books has not come true",
+        "to describe the history of newspapers",
+        "to argue that screens are too expensive"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "«it was widely predicted that the printed book would soon disappear. Yet paper books have proved surprisingly stubborn»."
+      },
+      "para": 0
+    },
+    {
+      "id": "b2-25-books-screens-q3",
+      "type": "choice",
+      "prompt": "In paragraph A, «paper books have proved surprisingly stubborn» means that they",
+      "options": [
+        "are difficult to open and read",
+        "have continued to survive despite expectations",
+        "refuse to change their design"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«Stubborn» bu yerda — yoʻqolmay, saqlanib qolgan: kitob doʻkonlari hali bor."
+      },
+      "para": 0
+    },
+    {
+      "id": "b2-25-books-screens-q4",
+      "type": "choice",
+      "prompt": "Why does the writer mention «short messages and web pages» in paragraph C?",
+      "options": [
+        "to suggest where the habit of skimming may come from",
+        "to show that people read more than before",
+        "to recommend reading the news online"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "«a habit encouraged by years of reading short messages and web pages» — skimming odati shu yerdan."
+      },
+      "para": 2
+    },
+    {
+      "id": "b2-25-books-screens-q5",
+      "type": "choice",
+      "prompt": "What is the writer's attitude to the idea that paper helps readers build «a kind of map of the text»?",
+      "options": [
+        "fully convinced",
+        "open to it, but not certain",
+        "completely dismissive"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«may help», «is still debated», «may differ from one reader to another» — muallif inkor ham etmaydi, ishonch bilan ham aytmaydi."
+      },
+      "para": 3
+    },
+    {
+      "id": "b2-25-books-screens-q6",
+      "type": "choice",
+      "prompt": "What can be inferred from paragraph E?",
+      "options": [
+        "Tablets are designed for careless readers.",
+        "A careful reader using a tablet may understand more than a careless reader of paper.",
+        "Printed magazines are not worth reading."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«reads slowly and attentively on a tablet … is probably reading better than someone who flicks distractedly through a printed magazine»."
+      },
+      "para": 4
+    },
+    {
+      "id": "b2-25-books-screens-q7",
+      "type": "choice",
+      "prompt": "Which piece of advice would the writer most likely give to an exam candidate?",
+      "options": [
+        "Use only paper books when preparing.",
+        "Use screens to find material, but read difficult texts without interruptions.",
+        "Skim every text quickly to save time."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«Screens are excellent for finding material … longer or more difficult texts may be worth printing, or at least reading without interruptions»."
+      },
+      "para": 5
+    },
+    {
+      "id": "b2-25-books-screens-q8",
+      "type": "tfng",
+      "statement": "Digital books are useful for people who have limited space at home.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "TRUE (muallif qoʻshiladi): «For travellers and for people with little space at home, these are not small benefits»."
+      },
+      "para": 1
+    },
+    {
+      "id": "b2-25-books-screens-q9",
+      "type": "tfng",
+      "statement": "Skimming is never an acceptable way of reading.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "FALSE: «This may be perfectly adequate for checking the news»."
+      },
+      "para": 2
+    },
+    {
+      "id": "b2-25-books-screens-q10",
+      "type": "tfng",
+      "statement": "It has been proven that paper books improve understanding for every reader.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "FALSE: «is still debated, and the answer may differ from one reader to another»."
+      },
+      "para": 3
+    },
+    {
+      "id": "b2-25-books-screens-q11",
+      "type": "tfng",
+      "statement": "Over several years, an electronic reader costs less than buying printed books.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "NOT GIVEN: ekranlar arzonlashgani aytilgan, lekin uzoq muddatdagi xarajatni muallif solishtirmaydi."
+      },
+      "para": 0
+    }
+  ]
+}

@@ -1,0 +1,297 @@
+{
+  "id": "c1-02-memory",
+  "title": {
+    "uz": "Xotiraning ishonchsizligi"
+  },
+  "en": "The Unreliable Memory",
+  "level": "C1",
+  "kind": "exam",
+  "tag": {
+    "uz": "Psixologiya",
+    "en": "Psychology"
+  },
+  "intro": {
+    "uz": "Ilmiy-ommabop matn: xotira videoyozuv emas, balki har safar qayta tiklanadigan jarayon; soxta xotiralar va guvohlar koʻrsatmasi. Asosiy topshiriq — True / False / Not Given. FALSE uchun matnda aniq zid gap boʻlishi kerak; agar matn shunchaki bu haqda gapirmasa — NOT GIVEN. «most», «all», «fully» kabi soʻzlarga alohida eʼtibor bering. Taxminan 20 daqiqa ajrating."
+  },
+  "paragraphs": [
+    {
+      "en": "Most people, if asked to describe how memory works, reach for a technological metaphor. Remembering, they assume, is rather like replaying a video: the original experience has been recorded somewhere in the brain, and recalling it is simply a matter of pressing play. The metaphor is intuitive and deeply rooted, and it shapes everything from the way we argue about the past with relatives to the weight that courts have traditionally attached to eyewitness testimony. Decades of psychological research, however, suggest that it is fundamentally misleading."
+    },
+    {
+      "en": "According to the view that now dominates the field, memory is reconstructive rather than reproductive. What is stored is not a complete record but a set of fragments, and each act of remembering involves assembling those fragments into a coherent account. Gaps are filled, often without our awareness, with information drawn from general knowledge, expectations and later experience. Someone recalling a visit to a restaurant, for instance, may remember a waiter bringing the bill simply because that is what usually happens in restaurants. Some researchers have further proposed that a memory becomes temporarily unstable each time it is retrieved and must then be stored again, which would offer an opportunity for it to be altered in the process, although the details of this mechanism remain under investigation."
+    },
+    {
+      "en": "Among the most influential demonstrations of this malleability is a series of experiments conducted in the 1970s. Participants watched short films of traffic accidents and were then asked questions about what they had seen. The crucial manipulation lay in a single verb. Some participants were asked how fast the cars were going when they hit each other; others heard the same question with the word smashed instead. Those who heard the more violent verb tended to give higher estimates of speed. Strikingly, when participants were questioned again a week later, those who had heard the word smashed were more likely to report having seen broken glass, even though the film had shown none. A subtle change in wording, in other words, appeared not merely to bias an answer but to alter the memory itself."
+    },
+    {
+      "en": "Later research went considerably further, showing that it is possible to create memories of entire events that never occurred. In studies of this kind, participants are presented with descriptions of several childhood episodes, supposedly supplied by family members, one of which has been invented. After repeated attempts to remember, a minority of participants come to report at least partial memories of the fictitious event, sometimes elaborating it with sensory details. Such findings do not imply that all memories are unreliable, nor that people can be persuaded to remember anything at all; rather, they reveal that the subjective experience of remembering is not, in itself, proof that an event took place."
+    },
+    {
+      "en": "Perhaps the most counterintuitive finding concerns the relationship between confidence and accuracy. It might be supposed that vivid, emotionally charged memories would be especially reliable. Yet when researchers have asked people to describe where they were on hearing news of a major public event, and then questioned them again months or years later, the accounts have frequently changed in significant ways, while the confidence with which they were reported has remained high. Confidence, it seems, can grow with each retelling, even as the details drift further from what actually happened."
+    },
+    {
+      "en": "Nowhere are the consequences of these findings more serious than in the criminal justice system. Cases in which convicted people were later cleared by DNA evidence have shown that mistaken identification by eyewitnesses contributed to a large proportion of those wrongful convictions. Crucially, most of the witnesses involved were not lying; they were sincerely reporting what they believed they remembered. In response, psychologists have recommended a number of reforms: identification procedures run by an officer who does not know which person is the suspect, the recording of a witness's confidence at the moment of the first identification, and interview techniques that avoid leading questions. Several jurisdictions have adopted some of these practices, though their implementation remains uneven."
+    },
+    {
+      "en": "It would be tempting to conclude from all this that human memory is simply defective. Many researchers, however, argue the opposite. A system that stored every experience in exhaustive detail would be costly and, arguably, less useful than one that extracts general patterns and discards specifics. The same flexibility that allows memories to be distorted also enables us to generalise from experience, to imagine alternatives and to plan for the future by recombining elements of the past. Seen in this light, the fallibility of memory is less a design flaw than the price of a mind built for prediction rather than for archiving."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "metaphor",
+      "uz": "metafora, koʻchma oʻxshatish"
+    },
+    {
+      "en": "deeply rooted",
+      "uz": "chuqur ildiz otgan"
+    },
+    {
+      "en": "testimony",
+      "uz": "koʻrsatma, guvohlik"
+    },
+    {
+      "en": "reconstructive",
+      "uz": "qayta tiklovchi, qayta quruvchi"
+    },
+    {
+      "en": "coherent",
+      "uz": "izchil, mantiqan bogʻlangan"
+    },
+    {
+      "en": "retrieve",
+      "uz": "(xotiradan) chiqarib olmoq, eslamoq"
+    },
+    {
+      "en": "malleability",
+      "uz": "oʻzgaruvchanlik, yumshoqlik (shakl olish qobiliyati)"
+    },
+    {
+      "en": "manipulation",
+      "uz": "(tajribada) ataylab oʻzgartirilgan omil"
+    },
+    {
+      "en": "fictitious",
+      "uz": "toʻqima, oʻylab topilgan"
+    },
+    {
+      "en": "elaborate",
+      "uz": "tafsilotlar bilan boyitmoq"
+    },
+    {
+      "en": "counterintuitive",
+      "uz": "sezgiga zid, kutilmagan"
+    },
+    {
+      "en": "emotionally charged",
+      "uz": "kuchli hissiyotli"
+    },
+    {
+      "en": "wrongful conviction",
+      "uz": "nohaq hukm qilinish"
+    },
+    {
+      "en": "leading question",
+      "uz": "yoʻnaltiruvchi (javobni ichiga olgan) savol"
+    },
+    {
+      "en": "jurisdiction",
+      "uz": "yurisdiksiya, sud hokimiyati hududi"
+    },
+    {
+      "en": "exhaustive",
+      "uz": "toʻliq, har tomonlama"
+    },
+    {
+      "en": "fallibility",
+      "uz": "xatoga moyillik"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "c58-inversion",
+      "title": {
+        "uz": "Inkor maʼnoli ravishdan keyin inversiya: Nowhere are …"
+      },
+      "example": "Nowhere are the consequences of these findings more serious than in the criminal justice system"
+    },
+    {
+      "topicId": "c34-participle-clauses",
+      "title": {
+        "uz": "Sifatdoshli ergash gap: Seen in this light, …"
+      },
+      "example": "Seen in this light, the fallibility of memory is less a design flaw than the price of a mind built for prediction"
+    }
+  ],
+  "questions": [
+    {
+      "id": "c1-02-memory-q1",
+      "type": "tfng",
+      "statement": "Most people compare memory to a form of recording technology.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«Most people … reach for a technological metaphor», yaʼni xotirani videoni qayta qoʻyishga oʻxshatadi."
+      },
+      "para": 0
+    },
+    {
+      "id": "c1-02-memory-q2",
+      "type": "tfng",
+      "statement": "According to the reconstructive view, the brain keeps a complete record of each experience.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "Matnda aksi: «What is stored is not a complete record but a set of fragments»."
+      },
+      "para": 1
+    },
+    {
+      "id": "c1-02-memory-q3",
+      "type": "tfng",
+      "statement": "Scientists have fully explained how a retrieved memory is stored again.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«the details of this mechanism remain under investigation» — toʻliq tushuntirilmagan."
+      },
+      "para": 1
+    },
+    {
+      "id": "c1-02-memory-q4",
+      "type": "tfng",
+      "statement": "The films shown to participants in the traffic experiments included broken glass.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«even though the film had shown none» — filmda singan oyna boʻlmagan."
+      },
+      "para": 2
+    },
+    {
+      "id": "c1-02-memory-q5",
+      "type": "tfng",
+      "statement": "The researchers later repeated the traffic experiments with children and obtained similar results.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Matnda tajribaning bolalar bilan takrorlangani haqida hech narsa yoʻq."
+      },
+      "para": 2
+    },
+    {
+      "id": "c1-02-memory-q6",
+      "type": "tfng",
+      "statement": "In studies of invented childhood events, most participants came to remember the false event.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«a minority of participants» — koʻpchilik emas, ozchilik."
+      },
+      "para": 3
+    },
+    {
+      "id": "c1-02-memory-q7",
+      "type": "tfng",
+      "statement": "The studies of memories of major public events were all carried out in a single country.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Matn bu tadqiqotlarda hikoyalar oʻzgargani, ishonch esa yuqori qolganini aytadi, lekin ular qaysi yoki nechta mamlakatda oʻtkazilgani haqida hech narsa demaydi."
+      },
+      "para": 4
+    },
+    {
+      "id": "c1-02-memory-q8",
+      "type": "tfng",
+      "statement": "Most eyewitnesses in the wrongful conviction cases were deliberately giving false evidence.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«most of the witnesses involved were not lying; they were sincerely reporting…» — ataylab emas."
+      },
+      "para": 5
+    },
+    {
+      "id": "c1-02-memory-q9",
+      "type": "tfng",
+      "statement": "The writer believes that the flexibility of memory brings advantages as well as costs.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«The same flexibility that allows memories to be distorted also enables us to generalise … plan for the future»."
+      },
+      "para": 6
+    },
+    {
+      "id": "c1-02-memory-q10",
+      "type": "gap",
+      "prompt": "Psychologists recommend that identification procedures be run by an officer who does not know who the ___ is.",
+      "answers": [
+        "suspect"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«run by an officer who does not know which person is the suspect»."
+      },
+      "para": 5
+    },
+    {
+      "id": "c1-02-memory-q11",
+      "type": "gap",
+      "prompt": "A witness should have their confidence recorded at the moment of the ___.",
+      "answers": [
+        "first identification"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«the recording of a witness's confidence at the moment of the first identification»."
+      },
+      "para": 5
+    },
+    {
+      "id": "c1-02-memory-q12",
+      "type": "gap",
+      "prompt": "Interview techniques should avoid ___.",
+      "answers": [
+        "leading questions"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«interview techniques that avoid leading questions»."
+      },
+      "para": 5
+    },
+    {
+      "id": "c1-02-memory-q13",
+      "type": "choice",
+      "prompt": "What is the main purpose of the first paragraph?",
+      "options": [
+        "To explain how video recording technology works",
+        "To criticise courts for relying on eyewitnesses",
+        "To describe typical arguments between family members",
+        "To introduce a common belief that the rest of the passage challenges"
+      ],
+      "answer": 3,
+      "explain": {
+        "uz": "Xatboshi xotira haqidagi keng tarqalgan «video» tasavvurini taqdim etadi va oxirida «fundamentally misleading» deydi — matnning qolgan qismi shuni rad etadi."
+      },
+      "para": 0
+    },
+    {
+      "id": "c1-02-memory-q14",
+      "type": "choice",
+      "prompt": "In the final paragraph, the writer suggests that memory distortion is best seen as",
+      "options": [
+        "a defect that technology may one day correct",
+        "a side effect of abilities that are useful",
+        "a problem that affects only emotional memories",
+        "evidence that memory evolved mainly for storage"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«less a design flaw than the price of a mind built for prediction» — buzilish foydali qobiliyatlarning «narxi», yaʼni yon taʼsiri."
+      },
+      "para": 6
+    }
+  ]
+}

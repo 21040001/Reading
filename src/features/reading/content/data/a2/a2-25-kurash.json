@@ -1,0 +1,207 @@
+{
+  "id": "a2-25-kurash",
+  "title": {
+    "uz": "Kurash"
+  },
+  "en": "Kurash",
+  "level": "A2",
+  "kind": "article",
+  "tag": {
+    "uz": "Sport",
+    "en": "Sport"
+  },
+  "intro": {
+    "uz": "Kurash — oʻzbek xalqining qadimiy milliy sporti. Oʻqishdan oldin: siz kurash bellashuvini koʻrganmisiz? Uning qanday qoidalarini bilasiz?"
+  },
+  "paragraphs": [
+    {
+      "en": "Kurash is a traditional Uzbek form of wrestling. It is very old, and for hundreds of years people in Uzbekistan have enjoyed it at weddings, holidays and village festivals. In Uzbek, the word kurash simply means wrestling.",
+      "uz": "Kurash — oʻzbeklarning anʼanaviy milliy olishuv turi. U juda qadimiy va yuzlab yillardan beri Oʻzbekistonda odamlar uni toʻylarda, bayramlarda va qishloq sayllarida tomosha qilib keladi. Oʻzbek tilida «kurash» soʻzi shunchaki olishuv, bellashuv degani."
+    },
+    {
+      "en": "In kurash, the two wrestlers stand during the whole fight. Each wrestler wears a jacket and a belt. In competitions, one wrestler usually wears a green jacket and the other wears a blue one. They hold each other's belts or jackets and try to throw the other person onto their back.",
+      "uz": "Kurashda ikki kurashchi butun bellashuv davomida tik turadi. Har bir kurashchi yaktak kiyib, belbogʻ bogʻlaydi. Musobaqalarda odatda bir kurashchi yashil, ikkinchisi esa koʻk yaktak kiyadi. Ular bir-birining belbogʻi yoki yaktagidan ushlab, raqibini chalqancha yiqitishga harakat qiladi."
+    },
+    {
+      "en": "Kurash has some important rules. Wrestlers mustn't fight on the ground, and they mustn't hold their opponent's legs. Respect is very important too. Before and after the fight, the wrestlers greet each other politely.",
+      "uz": "Kurashning muhim qoidalari bor. Kurashchilar yerda olishmasligi kerak va raqibining oyogʻidan ushlamasligi kerak. Hurmat ham juda muhim. Bellashuvdan oldin va keyin kurashchilar bir-biriga hurmat bilan salom beradi."
+    },
+    {
+      "en": "Today kurash is not only an Uzbek sport. People practise it in many countries around the world, and it has been part of big Asian competitions. Many young Uzbek wrestlers dream of winning international medals.",
+      "uz": "Bugun kurash faqat oʻzbek sporti emas. Odamlar u bilan dunyoning koʻplab mamlakatlarida shugʻullanadi, u katta Osiyo musobaqalari dasturiga ham kiritilgan. Koʻplab yosh oʻzbek kurashchilari xalqaro medallar yutishni orzu qiladi."
+    },
+    {
+      "en": "Kurash is a good sport for young people. It makes your body strong and teaches you to be patient and respect other people. Many boys and girls in Uzbekistan train in sports clubs after school.",
+      "uz": "Kurash yoshlar uchun yaxshi sport turi. U tanangizni baquvvat qiladi, sabrli boʻlishga va boshqalarni hurmat qilishga oʻrgatadi. Oʻzbekistonda koʻplab oʻgʻil va qizlar darsdan keyin sport toʻgaraklarida shugʻullanadi."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "traditional",
+      "uz": "anʼanaviy"
+    },
+    {
+      "en": "wrestling",
+      "uz": "kurash, olishuv"
+    },
+    {
+      "en": "wedding",
+      "uz": "toʻy"
+    },
+    {
+      "en": "wrestler",
+      "uz": "kurashchi, polvon"
+    },
+    {
+      "en": "jacket",
+      "uz": "yaktak, kurtka"
+    },
+    {
+      "en": "belt",
+      "uz": "belbogʻ"
+    },
+    {
+      "en": "throw",
+      "uz": "otmoq, yiqitmoq"
+    },
+    {
+      "en": "rule",
+      "uz": "qoida"
+    },
+    {
+      "en": "opponent",
+      "uz": "raqib"
+    },
+    {
+      "en": "respect",
+      "uz": "hurmat; hurmat qilmoq"
+    },
+    {
+      "en": "practise",
+      "uz": "shugʻullanmoq, mashq qilmoq"
+    },
+    {
+      "en": "patient",
+      "uz": "sabrli"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "e16-for-since",
+      "title": {
+        "uz": "for — davomiylik (Present Perfect bilan)"
+      },
+      "example": "for hundreds of years people in Uzbekistan have enjoyed it"
+    },
+    {
+      "topicId": "e27-must-mustnt-neednt",
+      "title": {
+        "uz": "mustn't — taqiq"
+      },
+      "example": "Wrestlers mustn't fight on the ground"
+    }
+  ],
+  "questions": [
+    {
+      "id": "a2-25-kurash-q1",
+      "type": "tfng",
+      "statement": "Kurash is a new sport from Europe.",
+      "answer": "F",
+      "explain": {
+        "uz": "«Kurash is a traditional Uzbek form of wrestling. It is very old»."
+      },
+      "para": 0
+    },
+    {
+      "id": "a2-25-kurash-q2",
+      "type": "gap",
+      "prompt": "In Uzbek, the word kurash simply means ___.",
+      "answers": [
+        "wrestling"
+      ],
+      "maxWords": 1,
+      "explain": {
+        "uz": "«In Uzbek, the word kurash simply means wrestling.»"
+      },
+      "para": 0
+    },
+    {
+      "id": "a2-25-kurash-q3",
+      "type": "choice",
+      "prompt": "What does each wrestler wear?",
+      "options": [
+        "a jacket and a belt",
+        "only shorts",
+        "a helmet"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "«Each wrestler wears a jacket and a belt.»"
+      },
+      "para": 1
+    },
+    {
+      "id": "a2-25-kurash-q4",
+      "type": "tfng",
+      "statement": "In kurash, wrestlers stand during the whole fight.",
+      "answer": "T",
+      "explain": {
+        "uz": "«the two wrestlers stand during the whole fight»."
+      },
+      "para": 1
+    },
+    {
+      "id": "a2-25-kurash-q5",
+      "type": "choice",
+      "prompt": "Which of these is NOT allowed in kurash?",
+      "options": [
+        "holding the opponent's jacket",
+        "holding the opponent's legs",
+        "holding the opponent's belt"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«they mustn't hold their opponent's legs». Belbogʻ va yaktakdan ushlash mumkin."
+      },
+      "para": 2
+    },
+    {
+      "id": "a2-25-kurash-q6",
+      "type": "tfng",
+      "statement": "Wrestlers greet each other only after the fight.",
+      "answer": "F",
+      "explain": {
+        "uz": "Oldin ham, keyin ham: «Before and after the fight, the wrestlers greet each other politely.»"
+      },
+      "para": 2
+    },
+    {
+      "id": "a2-25-kurash-q7",
+      "type": "choice",
+      "prompt": "Where do people practise kurash today?",
+      "options": [
+        "only in Uzbekistan",
+        "only in villages",
+        "in many countries around the world"
+      ],
+      "answer": 2,
+      "explain": {
+        "uz": "«People practise it in many countries around the world»."
+      },
+      "para": 3
+    },
+    {
+      "id": "a2-25-kurash-q8",
+      "type": "gap",
+      "prompt": "Kurash teaches you to be ___ and respect other people.",
+      "answers": [
+        "patient"
+      ],
+      "maxWords": 1,
+      "explain": {
+        "uz": "«teaches you to be patient and respect other people»."
+      },
+      "para": 4
+    }
+  ]
+}

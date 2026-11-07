@@ -1,0 +1,227 @@
+{
+  "id": "b1-24-startup",
+  "title": {
+    "uz": "Startap hikoyasi"
+  },
+  "en": "A Startup Story",
+  "level": "B1",
+  "kind": "story",
+  "tag": {
+    "uz": "Ish dunyosi",
+    "en": "The world of work"
+  },
+  "intro": {
+    "uz": "Bu hikoya fermerlar mahsulotini shaharga yetkazib beradigan kichik startap haqida. Oʻqishdan oldin oʻylab koʻring: yangi biznes boshlaganda qanday qiyinchiliklar boʻlishi mumkin?"
+  },
+  "paragraphs": [
+    {
+      "en": "Three years ago, Malika and her friend Bekzod were both working in offices in Tashkent. Malika's parents grew fruit and vegetables in a village in the Fergana Valley, and every summer she heard the same complaint: traders paid farmers very low prices, while people in the city paid a lot for the same tomatoes. Malika wondered if there was a way to connect farmers directly with customers."
+    },
+    {
+      "en": "The idea was simple. Customers would order a box of fresh seasonal fruit and vegetables online, and the box would be delivered to their door within a day of being picked. Bekzod, who had studied programming, built a basic website in his free time. They borrowed a small van from Malika's uncle and started with twelve customers, most of whom were their own friends and colleagues."
+    },
+    {
+      "en": "The first months were exciting but exhausting. They both kept their office jobs, so they packed boxes late at night and delivered them at weekends. Then, in their first summer, the van broke down on a hot day, and a whole load of strawberries was ruined before it reached the city. They lost money and several customers. Bekzod admits that he nearly gave up. \"If Malika hadn't been so stubborn, I would have stopped,\" he says."
+    },
+    {
+      "en": "Instead of giving up, they learned from their mistakes. They invested in a second-hand refrigerated van, and they started to plan their routes more carefully so that the fruit spent less time on the road. They also began to send customers a short message with the name of the farmer who had grown their vegetables. Customers loved this personal touch, and many of them told their friends."
+    },
+    {
+      "en": "Today, the business works with around forty farming families and delivers several hundred boxes a week. Malika and Bekzod have left their office jobs and employ eight people. Farmers receive better prices than they did from traders, and customers know exactly where their food comes from."
+    },
+    {
+      "en": "Their advice to young people who want to start a business is practical: start small, listen to your customers, and do not be afraid of failure. \"Every problem taught us something,\" says Malika. \"The broken van was the best lesson we ever had.\""
+    }
+  ],
+  "glossary": [
+    {
+      "en": "complaint",
+      "uz": "shikoyat"
+    },
+    {
+      "en": "trader",
+      "uz": "savdogar, vositachi (chayqovchi)"
+    },
+    {
+      "en": "connect",
+      "uz": "bogʻlamoq"
+    },
+    {
+      "en": "seasonal",
+      "uz": "mavsumiy"
+    },
+    {
+      "en": "borrow",
+      "uz": "qarzga olmoq"
+    },
+    {
+      "en": "exhausting",
+      "uz": "juda charchatadigan"
+    },
+    {
+      "en": "break down / broke down",
+      "uz": "buzilib qolmoq"
+    },
+    {
+      "en": "ruin",
+      "uz": "buzmoq, yaroqsiz qilmoq"
+    },
+    {
+      "en": "give up / gave up",
+      "uz": "taslim boʻlmoq, voz kechmoq"
+    },
+    {
+      "en": "stubborn",
+      "uz": "qaysar, oʻjar"
+    },
+    {
+      "en": "invest in",
+      "uz": "… ga sarmoya kiritmoq"
+    },
+    {
+      "en": "second-hand",
+      "uz": "ishlatilgan"
+    },
+    {
+      "en": "refrigerated",
+      "uz": "sovutgichli"
+    },
+    {
+      "en": "employ",
+      "uz": "ishga olmoq"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "i27-third-conditional",
+      "title": {
+        "uz": "Uchinchi shart gap: If … hadn't been …, I would have …"
+      },
+      "example": "If Malika hadn't been so stubborn, I would have stopped"
+    },
+    {
+      "topicId": "i11-past-perfect",
+      "title": {
+        "uz": "Past Perfect: who had grown"
+      },
+      "example": "the name of the farmer who had grown their vegetables"
+    }
+  ],
+  "questions": [
+    {
+      "id": "b1-24-startup-q1",
+      "type": "tfng",
+      "statement": "Malika's parents were farmers.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«Malika's parents grew fruit and vegetables in a village in the Fergana Valley»."
+      },
+      "para": 0
+    },
+    {
+      "id": "b1-24-startup-q2",
+      "type": "tfng",
+      "statement": "Bekzod built the website as part of his office job.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "U saytni boʻsh vaqtida qilgan: «built a basic website in his free time»."
+      },
+      "para": 1
+    },
+    {
+      "id": "b1-24-startup-q3",
+      "type": "tfng",
+      "statement": "In the first months, Malika and Bekzod worked on the business full-time.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«They both kept their office jobs» — ofisdagi ishlarini tashlamagan."
+      },
+      "para": 2
+    },
+    {
+      "id": "b1-24-startup-q4",
+      "type": "tfng",
+      "statement": "They borrowed money from a bank to buy the refrigerated van.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Furgon sotib olingani aytilgan, lekin pul qayerdan olingani haqida maʼlumot yoʻq."
+      },
+      "para": 3
+    },
+    {
+      "id": "b1-24-startup-q5",
+      "type": "choice",
+      "prompt": "Why did Malika want to start the business?",
+      "options": [
+        "She wanted to leave Tashkent.",
+        "Farmers got low prices while city customers paid a lot.",
+        "Her uncle asked her to sell his van."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«traders paid farmers very low prices, while people in the city paid a lot for the same tomatoes»."
+      },
+      "para": 0
+    },
+    {
+      "id": "b1-24-startup-q6",
+      "type": "choice",
+      "prompt": "When Bekzod says Malika was «stubborn», he means that she …",
+      "options": [
+        "did not want to give up",
+        "was often angry with him",
+        "did not listen to customers"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "Bekzod deyarli taslim boʻlgan, lekin Malika qaysar boʻlgani uchun davom etishgan: «If Malika hadn't been so stubborn, I would have stopped»."
+      },
+      "para": 2
+    },
+    {
+      "id": "b1-24-startup-q7",
+      "type": "heading",
+      "para": 3,
+      "options": [
+        "Learning from mistakes",
+        "A difficult summer",
+        "Advice for young people"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "4-xatboshi «they learned from their mistakes» bilan boshlanadi: yangi furgon, yaxshi yoʻnalishlar, mijozlarga xabar."
+      }
+    },
+    {
+      "id": "b1-24-startup-q8",
+      "type": "gap",
+      "prompt": "Each box was delivered within a day of being ___.",
+      "answers": [
+        "picked"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«delivered to their door within a day of being picked»."
+      },
+      "para": 1
+    },
+    {
+      "id": "b1-24-startup-q9",
+      "type": "gap",
+      "prompt": "Today, Malika and Bekzod employ ___ people.",
+      "answers": [
+        "eight",
+        "8"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«have left their office jobs and employ eight people»."
+      },
+      "para": 4
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "id": "a1-30-new-student",
+  "title": {
+    "uz": "Sinfimizdagi yangi oʻquvchi"
+  },
+  "en": "A New Student in Our Class",
+  "level": "A1",
+  "kind": "email",
+  "tag": {
+    "uz": "Maktab",
+    "en": "School"
+  },
+  "intro": {
+    "uz": "Nilufar dugonasi Azizaga elektron xat yozadi. Oʻqishdan oldin: sinfingizga boshqa davlatdan oʻquvchi kelsa, unga qanday yordam berasiz?"
+  },
+  "paragraphs": [
+    {
+      "en": "Hi Aziza, how are you? I have got some news. We have got a new student in our class! His name is Min-jun, and he is from Seoul, South Korea. His father works in Tashkent now.",
+      "uz": "Salom, Aziza! Qalaysan? Menda bir yangilik bor. Sinfimizga yangi oʻquvchi keldi! Uning ismi Min-jun, u Janubiy Koreyaning Seul shahridan. Uning otasi hozir Toshkentda ishlaydi."
+    },
+    {
+      "en": "Min-jun is twelve, like me. He is short and he has got black hair and glasses. He is very friendly. He can speak Korean and English, but he can't speak Uzbek yet.",
+      "uz": "Min-jun ham men kabi oʻn ikki yoshda. U past boʻyli, sochi qora va koʻzoynak taqadi. U juda samimiy. U koreys va ingliz tillarida gapira oladi, lekin hali oʻzbekcha gapira olmaydi."
+    },
+    {
+      "en": "In the lessons, he sits next to me. I help him with Uzbek words, and he helps me with English. He is very good at maths and art.",
+      "uz": "Darslarda u mening yonimda oʻtiradi. Men unga oʻzbekcha soʻzlarda yordam beraman, u esa menga ingliz tilida yordam beradi. U matematika va tasviriy sanʼatni juda yaxshi biladi."
+    },
+    {
+      "en": "Min-jun loves Uzbek food. His favourite is plov! Can you come to our school next week? You can meet him. Write soon! Nilufar",
+      "uz": "Min-jun oʻzbek taomlarini juda yaxshi koʻradi. Uning eng sevimlisi — palov! Kelasi hafta maktabimizga kela olasanmi? U bilan tanishasan. Tezroq javob yoz! Nilufar"
+    }
+  ],
+  "glossary": [
+    {
+      "en": "news",
+      "uz": "yangilik"
+    },
+    {
+      "en": "new",
+      "uz": "yangi"
+    },
+    {
+      "en": "short",
+      "uz": "past boʻyli"
+    },
+    {
+      "en": "friendly",
+      "uz": "samimiy, doʻstona"
+    },
+    {
+      "en": "speak",
+      "uz": "gapirmoq"
+    },
+    {
+      "en": "yet",
+      "uz": "hali (inkorda)"
+    },
+    {
+      "en": "next to",
+      "uz": "yonida"
+    },
+    {
+      "en": "be good at",
+      "uz": "… ni yaxshi bilmoq"
+    },
+    {
+      "en": "favourite",
+      "uz": "sevimli"
+    },
+    {
+      "en": "meet",
+      "uz": "tanishmoq, uchrashmoq"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "b02-countries",
+      "title": {
+        "uz": "Qayerdan: he is from …"
+      },
+      "example": "His name is Min-jun, and he is from Seoul, South Korea."
+    },
+    {
+      "topicId": "b29-can",
+      "title": {
+        "uz": "can / can’t — qila olmoq / qila olmaslik"
+      },
+      "example": "He can speak Korean and English, but he can't speak Uzbek yet."
+    }
+  ],
+  "questions": [
+    {
+      "id": "a1-30-new-student-q1",
+      "type": "tfng",
+      "statement": "The new student is from Japan.",
+      "answer": "F",
+      "explain": {
+        "uz": "U Koreyadan: «he is from Seoul, South Korea»."
+      },
+      "para": 0
+    },
+    {
+      "id": "a1-30-new-student-q2",
+      "type": "choice",
+      "prompt": "Why is Min-jun in Tashkent?",
+      "options": [
+        "His father works there.",
+        "He likes plov.",
+        "His grandmother lives there."
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "«His father works in Tashkent now.»"
+      },
+      "para": 0
+    },
+    {
+      "id": "a1-30-new-student-q3",
+      "type": "tfng",
+      "statement": "Min-jun is twelve years old.",
+      "answer": "T",
+      "explain": {
+        "uz": "«Min-jun is twelve, like me.»"
+      },
+      "para": 1
+    },
+    {
+      "id": "a1-30-new-student-q4",
+      "type": "choice",
+      "prompt": "Which language can't Min-jun speak?",
+      "options": [
+        "Korean",
+        "English",
+        "Uzbek"
+      ],
+      "answer": 2,
+      "explain": {
+        "uz": "«he can't speak Uzbek yet»."
+      },
+      "para": 1
+    },
+    {
+      "id": "a1-30-new-student-q5",
+      "type": "gap",
+      "prompt": "In the lessons, Min-jun sits ___ to Nilufar.",
+      "answers": [
+        "next"
+      ],
+      "explain": {
+        "uz": "«In the lessons, he sits next to me.»"
+      },
+      "para": 2
+    },
+    {
+      "id": "a1-30-new-student-q6",
+      "type": "choice",
+      "prompt": "What is Min-jun good at?",
+      "options": [
+        "maths and art",
+        "music and sport",
+        "Uzbek and history"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "«He is very good at maths and art.»"
+      },
+      "para": 2
+    },
+    {
+      "id": "a1-30-new-student-q7",
+      "type": "gap",
+      "prompt": "Min-jun's favourite Uzbek food is ___.",
+      "answers": [
+        "plov"
+      ],
+      "explain": {
+        "uz": "«His favourite is plov!»"
+      },
+      "para": 3
+    }
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "id": "b2-24-city-village",
+  "title": {
+    "uz": "Shahar yoki qishloq?"
+  },
+  "en": "City or Village?",
+  "level": "B2",
+  "kind": "exam",
+  "tag": {
+    "uz": "Turmush tarzi",
+    "en": "Lifestyle"
+  },
+  "intro": {
+    "uz": "Topshiriq: Multiple choice («muallif nimaga qoʻshiladi?»). Haddan tashqari keskin variantlarni («always», «never», «everyone», «only») birinchi boʻlib chiqarib tashlang — muvozanatli matn muallifi kamdan-kam mutlaq fikr aytadi. Qolgan variantlarni oxirgi xatboshidagi xulosa bilan solishtiring. Ikkinchi qism: True / False / Not Given — bu matnda TRUE = muallif shu fikrga qoʻshiladi (YES), FALSE = muallif fikri bunga zid (NO), NOT GIVEN = muallif bu haqda oʻz fikrini bildirmagan."
+  },
+  "paragraphs": [
+    {
+      "en": "Every year, large numbers of young people leave their villages for the city, and in many countries, including Uzbekistan, the capital and regional centres continue to grow. At the same time, a smaller but noticeable group is moving in the opposite direction: city families buying old houses in the countryside, or people who work online deciding they no longer need to live near an office. So which is the better place to live? I would argue that the question itself is slightly misleading."
+    },
+    {
+      "en": "The attractions of the city are easy to list. Universities, hospitals, theatres and a wide choice of jobs are concentrated there, and for an ambitious young person this concentration of opportunity can be decisive. Cities also offer a certain freedom. In a large population, it is easier to find people who share your interests, and nobody pays much attention to how you dress or whom you spend time with."
+    },
+    {
+      "en": "That same anonymity, however, has a cost. Many city dwellers admit that they hardly know their neighbours, and loneliness can exist even in the busiest streets. Add traffic, noise, polluted air in winter and the high price of flats, and it is not surprising that some people begin to dream of a quieter life."
+    },
+    {
+      "en": "The village offers precisely what the city lacks: space, fresh air, home-grown fruit and a community in which people look after one another. When someone falls ill or a family celebrates a wedding, neighbours appear without being asked. For children, a yard, a garden and the freedom to play outside can be worth more than any shopping centre."
+    },
+    {
+      "en": "Rural life, though, is rarely as idyllic as it looks from a car window. Work can be hard to find and is often poorly paid. Schools and clinics may be far away, and young people with specialised ambitions may have to leave anyway. The close community that supports you can also watch you closely, and not everyone enjoys having their private decisions discussed by the whole street."
+    },
+    {
+      "en": "Perhaps, then, the honest answer is that the right place depends on the stage of life a person has reached. A student hungry for experience and a retired couple who want peace are looking for different things. As transport improves and more work can be done remotely, the choice may become less permanent than it was for our grandparents, who often spent their whole lives in one place. The aim should be to make both cities and villages better places to live, so that people can move because they want to, not because they have to."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "misleading",
+      "uz": "chalgʻituvchi"
+    },
+    {
+      "en": "concentrated",
+      "uz": "bir joyga toʻplangan"
+    },
+    {
+      "en": "ambitious",
+      "uz": "intiluvchan, katta maqsadli"
+    },
+    {
+      "en": "decisive",
+      "uz": "hal qiluvchi"
+    },
+    {
+      "en": "anonymity",
+      "uz": "notanishlik, hech kim tanimasligi"
+    },
+    {
+      "en": "dweller",
+      "uz": "aholi, yashovchi"
+    },
+    {
+      "en": "loneliness",
+      "uz": "yolgʻizlik"
+    },
+    {
+      "en": "polluted",
+      "uz": "ifloslangan"
+    },
+    {
+      "en": "precisely",
+      "uz": "aynan"
+    },
+    {
+      "en": "rural",
+      "uz": "qishloqqa oid"
+    },
+    {
+      "en": "idyllic",
+      "uz": "osoyishta va goʻzal, orzudagidek"
+    },
+    {
+      "en": "specialised",
+      "uz": "maxsus, ixtisoslashgan"
+    },
+    {
+      "en": "remotely",
+      "uz": "masofadan"
+    },
+    {
+      "en": "permanent",
+      "uz": "doimiy"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "i54-whose-whom-where",
+      "title": {
+        "uz": "whom: kim bilan"
+      },
+      "example": "how you dress or whom you spend time with"
+    },
+    {
+      "topicId": "i64-so-that-in-order-to",
+      "title": {
+        "uz": "so that: …sin deb"
+      },
+      "example": "so that people can move because they want to"
+    }
+  ],
+  "questions": [
+    {
+      "id": "b2-24-city-village-q1",
+      "type": "choice",
+      "prompt": "What is the writer's main point?",
+      "options": [
+        "City life is better for most people.",
+        "Villages offer a healthier way of life than cities.",
+        "The best place to live depends on a person's stage of life.",
+        "People should stop moving from villages to cities."
+      ],
+      "answer": 2,
+      "explain": {
+        "uz": "Xulosa F da: «the right place depends on the stage of life a person has reached»."
+      },
+      "para": 5
+    },
+    {
+      "id": "b2-24-city-village-q2",
+      "type": "choice",
+      "prompt": "Why does the writer call the question «slightly misleading»?",
+      "options": [
+        "because there is no single answer that suits everyone",
+        "because most people have already chosen the city",
+        "because the facts about migration are not clear"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "Savol «qaysi biri yaxshiroq» deb bitta javob kutadi, muallif esa oxirida javob odamga bogʻliq deydi."
+      },
+      "para": 0
+    },
+    {
+      "id": "b2-24-city-village-q3",
+      "type": "choice",
+      "prompt": "What is the purpose of paragraph C?",
+      "options": [
+        "to describe the history of cities",
+        "to show that a feature praised in paragraph B also has disadvantages",
+        "to explain why flats are expensive"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«That same anonymity, however, has a cost» — B dagi erkinlik (hech kim eʼtibor bermaydi) yolgʻizlikka olib keladi."
+      },
+      "para": 2
+    },
+    {
+      "id": "b2-24-city-village-q4",
+      "type": "choice",
+      "prompt": "What does «as idyllic as it looks from a car window» suggest?",
+      "options": [
+        "Village life seems more perfect to outsiders than it really is.",
+        "The countryside is best seen while travelling.",
+        "Villages have very bad roads."
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "Oʻtib ketayotgan odamga qishloq goʻzal koʻrinadi, lekin keyin muammolar sanaladi: ish yoʻq, maktab uzoq."
+      },
+      "para": 4
+    },
+    {
+      "id": "b2-24-city-village-q5",
+      "type": "choice",
+      "prompt": "What can be inferred from paragraph E about privacy in a village?",
+      "options": [
+        "It is better protected than in a city.",
+        "It may be limited because neighbours know a lot about each other.",
+        "It is not important to village people."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«The close community … can also watch you closely» — yaqin jamoa shaxsiy hayotni ham kuzatadi."
+      },
+      "para": 4
+    },
+    {
+      "id": "b2-24-city-village-q6",
+      "type": "choice",
+      "prompt": "Which statement would the writer most likely agree with?",
+      "options": [
+        "Everyone should live in a village when they retire.",
+        "Both cities and villages need to be improved.",
+        "Young people should never leave their villages."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«The aim should be to make both cities and villages better places to live». Boshqa variantlar juda keskin."
+      },
+      "para": 5
+    },
+    {
+      "id": "b2-24-city-village-q7",
+      "type": "tfng",
+      "statement": "A big city makes it easier to meet people with the same interests.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "TRUE (muallif qoʻshiladi): «it is easier to find people who share your interests»."
+      },
+      "para": 1
+    },
+    {
+      "id": "b2-24-city-village-q8",
+      "type": "tfng",
+      "statement": "Living in a busy city protects people from loneliness.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "FALSE: «loneliness can exist even in the busiest streets»."
+      },
+      "para": 2
+    },
+    {
+      "id": "b2-24-city-village-q9",
+      "type": "tfng",
+      "statement": "Most city families who move to the countryside later regret it.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "NOT GIVEN: qishloqqa koʻchayotganlar tilga olingan, lekin ular afsuslanishi haqida muallif hech narsa demaydi."
+      },
+      "para": 0
+    },
+    {
+      "id": "b2-24-city-village-q10",
+      "type": "tfng",
+      "statement": "Young people with special career goals can always fulfil them in a village.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "FALSE: «young people with specialised ambitions may have to leave anyway»."
+      },
+      "para": 4
+    }
+  ]
+}

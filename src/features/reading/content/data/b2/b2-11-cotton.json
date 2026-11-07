@@ -1,0 +1,309 @@
+{
+  "id": "b2-11-cotton",
+  "title": {
+    "uz": "Paxta tolasidan kiyimgacha"
+  },
+  "en": "From Cotton Field to Clothing",
+  "level": "B2",
+  "kind": "exam",
+  "tag": {
+    "uz": "Iqtisod va sanoat",
+    "en": "Economy and industry"
+  },
+  "intro": {
+    "uz": "Topshiriq: Matching headings, True/False/Not Given va gap. Har bir xatboshining birinchi va oxirgi jumlasiga alohida eʼtibor bering — asosiy gʻoya koʻpincha shu yerda boʻladi. Lekin «however», «by contrast» kabi soʻzlardan keyin fikr burilishi mumkin, shuning uchun xatboshini oxirigacha oʻqing."
+  },
+  "paragraphs": [
+    {
+      "en": "Most of us wear cotton every day, yet few people stop to think about where it comes from. Cotton is a natural fibre that grows around the seeds of the cotton plant, protecting them inside a round pod known as a boll. The plant is demanding: it needs a long, hot growing season, plenty of sunshine and a reliable supply of water. For this reason, it is cultivated mainly in warm regions of Asia, Africa and the Americas."
+    },
+    {
+      "en": "When the bolls ripen and burst open, the soft white fibre is ready to be collected. For centuries, this was done entirely by hand, and in many countries it still is. Hand-picking is slow and physically exhausting, but it has one clear advantage: pickers can select only the ripe bolls and leave behind leaves and stems. Harvesting machines, by contrast, can clear a large field in a fraction of the time, although the cotton they gather usually contains more unwanted plant material."
+    },
+    {
+      "en": "The next stage takes place in a factory called a gin. Here, machines separate the fibre, known as lint, from the seeds, which make up a large part of the weight of the harvested crop. Little is wasted at this point. The seeds can be pressed to produce cooking oil, and what remains is often used as animal feed. The clean lint, meanwhile, is squeezed into large, tightly packed bales so that it can be stored and transported easily."
+    },
+    {
+      "en": "At a spinning mill, the bales are opened and the fibres are cleaned once more. They are then carded, a process that untangles them and lays them roughly parallel, and are gradually drawn out into a thin, loose rope. Finally, this rope is twisted to make yarn. The quality of the yarn depends largely on the raw material: as a general rule, longer fibres produce yarn that is finer and stronger."
+    },
+    {
+      "en": "Yarn becomes fabric in one of two main ways. In weaving, two sets of threads cross each other at right angles, creating a firm material suitable for shirts, sheets and jeans. In knitting, a single thread is formed into rows of connected loops, which gives the fabric its stretch, as in a typical T-shirt. Most fabric is then dyed and finished, processes that can require considerable amounts of water, energy and chemicals."
+    },
+    {
+      "en": "It is this heavy use of resources that has made cotton the subject of growing debate. The crop is often described as thirsty, and in dry regions it depends almost completely on irrigation. The shrinking of the Aral Sea, caused largely by the diversion of river water for irrigation, much of it for cotton, is frequently given as a warning. In response, many farmers have begun to adopt water-saving methods such as drip irrigation, while some producers are trying to reduce their use of pesticides."
+    },
+    {
+      "en": "Uzbekistan has long been one of the world's major cotton producers, and the crop has shaped the country's landscape and economy for generations. For much of the twentieth century, however, most of the harvest was exported as raw fibre, so the greater profits from making yarn, fabric and clothing were earned elsewhere. In recent years, the country has set out to change this by building spinning mills and textile factories at home. The aim is to keep more of the value inside the country and to create jobs."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "fibre",
+      "uz": "tola"
+    },
+    {
+      "en": "demanding",
+      "uz": "talabchan"
+    },
+    {
+      "en": "cultivate",
+      "uz": "yetishtirmoq"
+    },
+    {
+      "en": "ripen",
+      "uz": "pishmoq, yetilmoq"
+    },
+    {
+      "en": "exhausting",
+      "uz": "juda charchatadigan"
+    },
+    {
+      "en": "advantage",
+      "uz": "afzallik"
+    },
+    {
+      "en": "separate",
+      "uz": "ajratmoq"
+    },
+    {
+      "en": "bale",
+      "uz": "toy (presslangan paxta)"
+    },
+    {
+      "en": "parallel",
+      "uz": "parallel, bir yoʻnalishda yonma-yon"
+    },
+    {
+      "en": "yarn",
+      "uz": "ip, kalava"
+    },
+    {
+      "en": "weaving",
+      "uz": "toʻqish (dastgohda)"
+    },
+    {
+      "en": "dye",
+      "uz": "boʻyamoq"
+    },
+    {
+      "en": "irrigation",
+      "uz": "sugʻorish"
+    },
+    {
+      "en": "diversion",
+      "uz": "boshqa tomonga burish"
+    },
+    {
+      "en": "pesticide",
+      "uz": "pestitsid, zararkunandalarga qarshi kimyoviy modda"
+    },
+    {
+      "en": "export",
+      "uz": "eksport qilmoq"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "c57-cleft-sentences",
+      "title": {
+        "uz": "Ajratib koʻrsatish: It is … that …"
+      },
+      "example": "It is this heavy use of resources that has made cotton the subject of growing debate."
+    },
+    {
+      "topicId": "i30-passive-tenses",
+      "title": {
+        "uz": "Majhul nisbat: is cultivated, was exported"
+      },
+      "example": "it is cultivated mainly in warm regions of Asia, Africa and the Americas"
+    }
+  ],
+  "questions": [
+    {
+      "id": "b2-11-cotton-q1",
+      "type": "heading",
+      "para": 0,
+      "options": [
+        "Separating fibre from seed",
+        "Hand or machine: a choice with costs",
+        "Machines that replace spinning workers",
+        "A demanding plant and where it grows",
+        "Keeping more of the profit at home",
+        "From loose fibres to strong thread",
+        "Why seeds are worth more than fibre",
+        "Two ways of making cloth, and what follows",
+        "A thirsty crop under criticism"
+      ],
+      "answer": 3,
+      "explain": {
+        "uz": "Xatboshi A: paxta qanday oʻsimlik va unga nima kerak (issiqlik, quyosh, suv), qayerda ekiladi. «Thirsty crop under criticism» emas — bu yerda tanqid yoʻq."
+      }
+    },
+    {
+      "id": "b2-11-cotton-q2",
+      "type": "heading",
+      "para": 1,
+      "options": [
+        "Separating fibre from seed",
+        "Hand or machine: a choice with costs",
+        "Machines that replace spinning workers",
+        "A demanding plant and where it grows",
+        "Keeping more of the profit at home",
+        "From loose fibres to strong thread",
+        "Why seeds are worth more than fibre",
+        "Two ways of making cloth, and what follows",
+        "A thirsty crop under criticism"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "Xatboshi B: qoʻlda terish sekin, lekin toza; mashina tez, lekin ortiqcha oʻsimlik qismlari koʻp — har bir usulning oʻz «narxi» bor."
+      }
+    },
+    {
+      "id": "b2-11-cotton-q3",
+      "type": "heading",
+      "para": 2,
+      "options": [
+        "Separating fibre from seed",
+        "Hand or machine: a choice with costs",
+        "Machines that replace spinning workers",
+        "A demanding plant and where it grows",
+        "Keeping more of the profit at home",
+        "From loose fibres to strong thread",
+        "Why seeds are worth more than fibre",
+        "Two ways of making cloth, and what follows",
+        "A thirsty crop under criticism"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "Xatboshi C: jinda tola (lint) chigitdan ajratiladi. «Why seeds are worth more…» — chigit haqida gap bor, lekin u toladan qimmatroq deyilmagan."
+      }
+    },
+    {
+      "id": "b2-11-cotton-q4",
+      "type": "heading",
+      "para": 3,
+      "options": [
+        "Separating fibre from seed",
+        "Hand or machine: a choice with costs",
+        "Machines that replace spinning workers",
+        "A demanding plant and where it grows",
+        "Keeping more of the profit at home",
+        "From loose fibres to strong thread",
+        "Why seeds are worth more than fibre",
+        "Two ways of making cloth, and what follows",
+        "A thirsty crop under criticism"
+      ],
+      "answer": 5,
+      "explain": {
+        "uz": "Xatboshi D: tolalar tozalanadi, titilib bir yoʻnalishga keltiriladi va eshilib ipga aylanadi. «Machines that replace spinning workers» — ishchilar haqida hech narsa yoʻq."
+      }
+    },
+    {
+      "id": "b2-11-cotton-q5",
+      "type": "heading",
+      "para": 4,
+      "options": [
+        "Separating fibre from seed",
+        "Hand or machine: a choice with costs",
+        "Machines that replace spinning workers",
+        "A demanding plant and where it grows",
+        "Keeping more of the profit at home",
+        "From loose fibres to strong thread",
+        "Why seeds are worth more than fibre",
+        "Two ways of making cloth, and what follows",
+        "A thirsty crop under criticism"
+      ],
+      "answer": 7,
+      "explain": {
+        "uz": "Xatboshi E: toʻqish (weaving) va trikotaj (knitting) — ikki usul, keyin boʻyash va pardozlash."
+      }
+    },
+    {
+      "id": "b2-11-cotton-q6",
+      "type": "heading",
+      "para": 5,
+      "options": [
+        "Separating fibre from seed",
+        "Hand or machine: a choice with costs",
+        "Machines that replace spinning workers",
+        "A demanding plant and where it grows",
+        "Keeping more of the profit at home",
+        "From loose fibres to strong thread",
+        "Why seeds are worth more than fibre",
+        "Two ways of making cloth, and what follows",
+        "A thirsty crop under criticism"
+      ],
+      "answer": 8,
+      "explain": {
+        "uz": "Xatboshi F: paxta «thirsty» — koʻp suv talab qiladi, Orol misoli, tanqidga javob choralari."
+      }
+    },
+    {
+      "id": "b2-11-cotton-q7",
+      "type": "heading",
+      "para": 6,
+      "options": [
+        "Separating fibre from seed",
+        "Hand or machine: a choice with costs",
+        "Machines that replace spinning workers",
+        "A demanding plant and where it grows",
+        "Keeping more of the profit at home",
+        "From loose fibres to strong thread",
+        "Why seeds are worth more than fibre",
+        "Two ways of making cloth, and what follows",
+        "A thirsty crop under criticism"
+      ],
+      "answer": 4,
+      "explain": {
+        "uz": "Xatboshi G: Oʻzbekiston xom tolani emas, ip va gazlamani oʻzi ishlab chiqarib, foydani mamlakatda qoldirmoqchi."
+      }
+    },
+    {
+      "id": "b2-11-cotton-q8",
+      "type": "tfng",
+      "statement": "Cotton gathered by machines is usually cleaner than cotton picked by hand.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "Aksincha: mashina yigʻgan paxtada «more unwanted plant material» boʻladi; qoʻl bilan terganda barg va poyalar qoldiriladi."
+      },
+      "para": 1
+    },
+    {
+      "id": "b2-11-cotton-q9",
+      "type": "gap",
+      "prompt": "Generally, yarn made from longer fibres is finer and ___.",
+      "answers": [
+        "stronger"
+      ],
+      "maxWords": 1,
+      "explain": {
+        "uz": "«longer fibres produce yarn that is finer and stronger»."
+      },
+      "para": 3
+    },
+    {
+      "id": "b2-11-cotton-q10",
+      "type": "tfng",
+      "statement": "Knitted fabric is more popular with shoppers than woven fabric.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Matnda ikki usul tasvirlangan, lekin qaysi biri xaridorlarga koʻproq yoqishi aytilmagan."
+      },
+      "para": 4
+    },
+    {
+      "id": "b2-11-cotton-q11",
+      "type": "tfng",
+      "statement": "In the past, much of Uzbekistan's cotton left the country before it was made into yarn.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«most of the harvest was exported as raw fibre» — xom tola holida eksport qilingan."
+      },
+      "para": 6
+    }
+  ]
+}

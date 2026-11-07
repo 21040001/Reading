@@ -1,0 +1,261 @@
+{
+  "id": "b2-17-honey",
+  "title": {
+    "uz": "Asal"
+  },
+  "en": "Honey",
+  "level": "B2",
+  "kind": "exam",
+  "tag": {
+    "uz": "Tabiat",
+    "en": "Nature"
+  },
+  "intro": {
+    "uz": "Topshiriq: Summary va sentence completion. Maslahat: soʻz chegarasiga qatʼiy amal qiling — «NO MORE THAN TWO WORDS» boʻlsa, uch soʻz yozgan javob xato hisoblanadi, hatto maʼnosi toʻgʻri boʻlsa ham. Ortiqcha artikl yoki sifat qoʻshmang va soʻzni matndagidek (birlik/koʻplik) koʻchiring."
+  },
+  "paragraphs": [
+    {
+      "en": "Honey is one of the oldest sweet foods known to humans, and the process that creates it is remarkable. It begins when worker bees visit flowers and collect nectar, a sugary liquid that plants produce to attract insects. A single bee carries only a tiny amount on each trip, so a colony must make an enormous number of flights to fill even one jar."
+    },
+    {
+      "en": "Back in the hive, the transformation begins. The bees pass the nectar from one to another, adding enzymes that break down larger sugar molecules into simpler ones. They then deposit it in the wax cells of the honeycomb. At this stage the liquid still contains a great deal of water, so the bees fan it with their wings to speed up evaporation. When the honey has become thick enough, they seal each cell with a thin cap of wax."
+    },
+    {
+      "en": "This careful process explains one of honey's most unusual qualities: it can keep for an extremely long time. Because honey contains very little water, bacteria and moulds find it difficult to grow in it. It is also slightly acidic, which creates further unfavourable conditions for microorganisms. Over time, honey may crystallise and turn solid, but this is a natural change, and gentle warming usually returns it to a liquid state."
+    },
+    {
+      "en": "Not all honey tastes the same. Its colour, aroma and flavour depend largely on the flowers the bees have visited. Honey from some plants is pale and mild, while honey from others is dark and strong. Beekeepers sometimes move their hives to areas where a particular plant is in flower in order to produce a honey with a distinctive character."
+    },
+    {
+      "en": "In Uzbekistan, beekeeping has a long tradition, especially in the mountain and foothill areas, where wild herbs and flowering meadows provide rich sources of nectar. Families often pass their knowledge from one generation to the next, and mountain honey is widely valued at local markets. In summer, some beekeepers move their hives higher up the slopes, as flowers bloom later at higher altitudes."
+    },
+    {
+      "en": "Honey has also been used in traditional remedies for centuries, and many people believe it soothes a sore throat. Such claims should be treated with some caution, however: honey is not a medicine, and since it consists mainly of sugar, eating large amounts is not healthy. Doctors also generally advise that it should not be given to babies under one year old. Enjoyed in moderation, though, honey remains a natural product that reflects both the work of bees and the landscape around them."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "nectar",
+      "uz": "gul shirasi, nektar"
+    },
+    {
+      "en": "colony",
+      "uz": "asalarilar oilasi, koloniya"
+    },
+    {
+      "en": "hive",
+      "uz": "asalari uyasi, qutisi"
+    },
+    {
+      "en": "enzyme",
+      "uz": "ferment"
+    },
+    {
+      "en": "deposit",
+      "uz": "joylamoq, toʻplamoq"
+    },
+    {
+      "en": "honeycomb",
+      "uz": "mum kataklar (asal kataklari)"
+    },
+    {
+      "en": "seal",
+      "uz": "yopmoq, muhrlamoq"
+    },
+    {
+      "en": "mould",
+      "uz": "mogʻor"
+    },
+    {
+      "en": "acidic",
+      "uz": "nordon, kislotali"
+    },
+    {
+      "en": "crystallise",
+      "uz": "kristallanmoq, qotmoq"
+    },
+    {
+      "en": "aroma",
+      "uz": "xushboʻy hid"
+    },
+    {
+      "en": "distinctive",
+      "uz": "oʻziga xos"
+    },
+    {
+      "en": "foothill",
+      "uz": "togʻ etagi"
+    },
+    {
+      "en": "meadow",
+      "uz": "yaylov, oʻtloq"
+    },
+    {
+      "en": "remedy",
+      "uz": "davo, dori"
+    },
+    {
+      "en": "moderation",
+      "uz": "meʼyor, chegara"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "i64-so-that-in-order-to",
+      "title": {
+        "uz": "in order to: maqsad"
+      },
+      "example": "in order to produce a honey with a distinctive character"
+    },
+    {
+      "topicId": "i30-passive-tenses",
+      "title": {
+        "uz": "Modal + passive: should not be given"
+      },
+      "example": "it should not be given to babies under one year old"
+    }
+  ],
+  "questions": [
+    {
+      "id": "b2-17-honey-q1",
+      "type": "gap",
+      "prompt": "Plants produce nectar in order to ___.",
+      "answers": [
+        "attract insects"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "1-xatboshi: «a sugary liquid that plants produce to attract insects». Ikki soʻz — chegaradan oshmaydi."
+      },
+      "para": 0
+    },
+    {
+      "id": "b2-17-honey-q2",
+      "type": "gap",
+      "prompt": "Inside the hive, bees add ___ which break sugars down into simpler ones.",
+      "answers": [
+        "enzymes"
+      ],
+      "maxWords": 1,
+      "explain": {
+        "uz": "2-xatboshi: «adding enzymes that break down larger sugar molecules». Koʻplikda yozing — «which break» koʻplikni talab qiladi."
+      },
+      "para": 1
+    },
+    {
+      "id": "b2-17-honey-q3",
+      "type": "gap",
+      "prompt": "To remove water from the nectar, the bees ___ it with their wings.",
+      "answers": [
+        "fan"
+      ],
+      "maxWords": 1,
+      "explain": {
+        "uz": "«the bees fan it with their wings to speed up evaporation». Bu yerda «fan» — feʼl."
+      },
+      "para": 1
+    },
+    {
+      "id": "b2-17-honey-q4",
+      "type": "gap",
+      "prompt": "Finally, each cell is closed with a thin ___ of wax.",
+      "answers": [
+        "cap"
+      ],
+      "maxWords": 1,
+      "explain": {
+        "uz": "«they seal each cell with a thin cap of wax». «thin» savolda bor — uni takrorlamang, bitta soʻz kifoya."
+      },
+      "para": 1
+    },
+    {
+      "id": "b2-17-honey-q5",
+      "type": "gap",
+      "prompt": "Honey keeps well because it has little water and is slightly ___.",
+      "answers": [
+        "acidic"
+      ],
+      "maxWords": 1,
+      "explain": {
+        "uz": "3-xatboshi: «It is also slightly acidic». «is slightly»dan keyin sifat keladi."
+      },
+      "para": 2
+    },
+    {
+      "id": "b2-17-honey-q6",
+      "type": "gap",
+      "prompt": "Honey that has turned solid can usually be made liquid again by ___.",
+      "answers": [
+        "gentle warming",
+        "warming"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«gentle warming usually returns it to a liquid state». Ikki soʻz — aynan chegarada."
+      },
+      "para": 2
+    },
+    {
+      "id": "b2-17-honey-q7",
+      "type": "gap",
+      "prompt": "The colour and taste of honey depend mainly on the ___ that bees visit.",
+      "answers": [
+        "flowers"
+      ],
+      "maxWords": 1,
+      "explain": {
+        "uz": "4-xatboshi: «depend largely on the flowers the bees have visited». «largely» = «mainly»."
+      },
+      "para": 3
+    },
+    {
+      "id": "b2-17-honey-q8",
+      "type": "tfng",
+      "statement": "Each bee collects a large quantity of nectar on every flight.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "1-xatboshi: «A single bee carries only a tiny amount on each trip» — juda oz miqdor."
+      },
+      "para": 0
+    },
+    {
+      "id": "b2-17-honey-q9",
+      "type": "tfng",
+      "statement": "When honey crystallises, it means the honey has gone bad.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "3-xatboshi: «this is a natural change» — buzilish emas, tabiiy oʻzgarish."
+      },
+      "para": 2
+    },
+    {
+      "id": "b2-17-honey-q10",
+      "type": "tfng",
+      "statement": "Mountain honey from Uzbekistan is more expensive than honey from other regions.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "5-xatboshi: «mountain honey is widely valued» — qadrlanadi, lekin narxi solishtirilmagan."
+      },
+      "para": 4
+    },
+    {
+      "id": "b2-17-honey-q11",
+      "type": "choice",
+      "prompt": "What is the writer's attitude to claims that honey is good for health?",
+      "options": [
+        "strongly supportive",
+        "cautious",
+        "completely dismissive",
+        "uninterested"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "6-xatboshi: «Such claims should be treated with some caution» — ehtiyotkor munosabat. Muallif ularni butunlay rad etmaydi, «in moderation» tavsiya qiladi."
+      },
+      "para": 5
+    }
+  ]
+}

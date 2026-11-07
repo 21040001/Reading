@@ -1,0 +1,225 @@
+{
+  "id": "b1-06-blue-sky",
+  "title": {
+    "uz": "Nega osmon koʻk?"
+  },
+  "en": "Why Is the Sky Blue?",
+  "level": "B1",
+  "kind": "article",
+  "tag": {
+    "uz": "Ilm-fan",
+    "en": "Science"
+  },
+  "intro": {
+    "uz": "Bu ilmiy-ommabop maqola osmonning rangi va quyosh botishi haqida. Oʻqishdan oldin oʻylab koʻring: nega kunduzi osmon koʻk, kechqurun esa qizgʻish boʻladi?"
+  },
+  "paragraphs": [
+    {
+      "en": "Have you ever wondered why the sky is blue on a clear day? It is one of the first questions that many children ask, and it is a surprisingly good one. The answer has nothing to do with the colour of the sea or with the colour of the air itself. In fact, the air is almost completely transparent. To understand the blue sky, we need to start with sunlight."
+    },
+    {
+      "en": "Sunlight looks white, but it is really a mixture of all the colours of the rainbow. You can see this when sunlight passes through a glass prism or through raindrops: the white light is separated into red, orange, yellow, green, blue and violet. Each colour travels as a wave, and the waves have different lengths. Red light has the longest waves, while blue and violet light have much shorter ones."
+    },
+    {
+      "en": "When sunlight enters the atmosphere, it meets billions of tiny gas molecules, mostly nitrogen and oxygen. These molecules are much smaller than the waves of light, and they scatter some of the light in all directions. However, they do not treat all colours equally. Light with short waves is scattered far more strongly than light with long waves. So blue light is bounced around the sky, and it reaches our eyes from every direction. That is why, wherever we look, the sky appears blue. This effect was explained in the nineteenth century by a British scientist, Lord Rayleigh, and it is now called Rayleigh scattering."
+    },
+    {
+      "en": "If violet waves are even shorter, why isn't the sky violet? There are two main reasons. The Sun sends us less violet light than blue light, and our eyes are much more sensitive to blue. As a result, the mixture of scattered colours looks blue to us."
+    },
+    {
+      "en": "The same idea explains red and orange sunsets. When the Sun is low in the sky, its light has to travel through much more air before it reaches us. On this long journey, most of the blue light is scattered away to the sides, so the light that finally arrives is mostly red, orange and yellow. Dust or smoke in the air can make sunsets even more colourful. And on the Moon, where there is no air at all, the sky stays black even during the day."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "wonder",
+      "uz": "qiziqmoq, hayron boʻlib oʻylamoq"
+    },
+    {
+      "en": "transparent",
+      "uz": "shaffof, tiniq"
+    },
+    {
+      "en": "mixture",
+      "uz": "aralashma"
+    },
+    {
+      "en": "prism",
+      "uz": "prizma (uch qirrali shisha jism)"
+    },
+    {
+      "en": "separate",
+      "uz": "ajratmoq, boʻlmoq"
+    },
+    {
+      "en": "wave",
+      "uz": "toʻlqin"
+    },
+    {
+      "en": "atmosphere",
+      "uz": "atmosfera, havo qatlami"
+    },
+    {
+      "en": "molecule",
+      "uz": "molekula"
+    },
+    {
+      "en": "scatter",
+      "uz": "sochmoq, har tomonga tarqatmoq"
+    },
+    {
+      "en": "equally",
+      "uz": "teng, bir xilda"
+    },
+    {
+      "en": "bounce",
+      "uz": "urilib qaytmoq, sakramoq"
+    },
+    {
+      "en": "sensitive to",
+      "uz": "… ga sezgir"
+    },
+    {
+      "en": "as a result",
+      "uz": "natijada"
+    },
+    {
+      "en": "sunset",
+      "uz": "quyosh botishi"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "i05-present-perfect",
+      "title": {
+        "uz": "Present Perfect: Have you ever wondered …?"
+      },
+      "example": "Have you ever wondered why the sky is blue on a clear day?"
+    },
+    {
+      "topicId": "i29-passive-basics",
+      "title": {
+        "uz": "Majhul nisbat: is scattered"
+      },
+      "example": "Light with short waves is scattered far more strongly than light with long waves."
+    }
+  ],
+  "questions": [
+    {
+      "id": "b1-06-blue-sky-q1",
+      "type": "tfng",
+      "statement": "Air has a strong blue colour of its own.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "Matnda aksi aytilgan: «the air is almost completely transparent» — havo deyarli shaffof."
+      },
+      "para": 0
+    },
+    {
+      "id": "b1-06-blue-sky-q2",
+      "type": "tfng",
+      "statement": "Red light has longer waves than blue light.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«Red light has the longest waves, while blue and violet light have much shorter ones.»"
+      },
+      "para": 1
+    },
+    {
+      "id": "b1-06-blue-sky-q3",
+      "type": "tfng",
+      "statement": "Lord Rayleigh discovered this effect by studying sunsets.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Matnda faqat «This effect was explained in the nineteenth century by … Lord Rayleigh» deyilgan; u buni qanday yoʻl bilan kashf etgani haqida maʼlumot yoʻq."
+      },
+      "para": 2
+    },
+    {
+      "id": "b1-06-blue-sky-q4",
+      "type": "tfng",
+      "statement": "At sunset, sunlight passes through less air than at midday.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "Aksincha: «its light has to travel through much more air» — quyosh past boʻlganda yorugʻlik koʻproq havodan oʻtadi."
+      },
+      "para": 4
+    },
+    {
+      "id": "b1-06-blue-sky-q5",
+      "type": "heading",
+      "para": 1,
+      "options": [
+        "White light is a mix of colours",
+        "Why sunsets are red",
+        "The size of air molecules"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "2-xatboshining asosiy gʻoyasi: «Sunlight looks white, but it is really a mixture of all the colours»."
+      }
+    },
+    {
+      "id": "b1-06-blue-sky-q6",
+      "type": "choice",
+      "prompt": "Why does the sky look blue from every direction?",
+      "options": [
+        "because blue light is scattered all around the sky",
+        "because the sea reflects blue light into the sky",
+        "because the Sun sends out only blue light"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "«blue light is bounced around the sky, and it reaches our eyes from every direction». Dengiz bilan aloqasi yoʻq (1-xatboshi)."
+      },
+      "para": 2
+    },
+    {
+      "id": "b1-06-blue-sky-q7",
+      "type": "choice",
+      "prompt": "According to the text, why is the sky not violet?",
+      "options": [
+        "Violet light has the longest waves.",
+        "The Sun sends less violet light, and our eyes are more sensitive to blue.",
+        "Violet light cannot pass through the air at all."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "4-xatboshida ikki sabab bor: «The Sun sends us less violet light» va «our eyes are much more sensitive to blue»."
+      },
+      "para": 3
+    },
+    {
+      "id": "b1-06-blue-sky-q8",
+      "type": "choice",
+      "prompt": "In paragraph 3, the word \"scatter\" is closest in meaning to …",
+      "options": [
+        "send in many different directions",
+        "make warmer",
+        "change into another colour"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "«scatter some of the light in all directions» — yorugʻlikni har tomonga tarqatish."
+      },
+      "para": 2
+    },
+    {
+      "id": "b1-06-blue-sky-q9",
+      "type": "gap",
+      "prompt": "On the Moon, there is no air, so the sky stays ___ even during the day.",
+      "answers": [
+        "black"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«on the Moon, where there is no air at all, the sky stays black even during the day»."
+      },
+      "para": 4
+    }
+  ]
+}

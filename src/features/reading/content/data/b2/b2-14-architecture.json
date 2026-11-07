@@ -1,0 +1,309 @@
+{
+  "id": "b2-14-architecture",
+  "title": {
+    "uz": "Arxitektura va iqlim"
+  },
+  "en": "Architecture and Climate",
+  "level": "B2",
+  "kind": "exam",
+  "tag": {
+    "uz": "Arxitektura",
+    "en": "Architecture"
+  },
+  "intro": {
+    "uz": "Topshiriq: Matching headings, True/False/Not Given va gap. Sarlavhalarga qarashdan oldin xatboshining mazmunini oʻzbekcha 3–5 soʻz bilan ifodalang, masalan «qalin devor issiqni ushlaydi». Soʻng shu gʻoyaga eng yaqin sarlavhani qidiring."
+  },
+  "paragraphs": [
+    {
+      "en": "Long before electric fans and air conditioning, people living in some of the hottest places on Earth managed to keep their homes comfortable. They did so not with machines but with careful design, using local materials and knowledge passed down through generations. Today, as the cost of cooling buildings rises and summers become hotter in many regions, architects are taking a fresh look at these traditional solutions."
+    },
+    {
+      "en": "One of the most important features was the wall itself. Houses across Central Asia and the Middle East were traditionally built from mud brick or packed earth, often with walls of considerable thickness. Such walls absorb the heat of the sun very slowly, so that often, by the time the warmth reaches the interior, the day is almost over. At night, when the air outside cools, the stored heat escapes again. Small windows further limited the amount of sunlight entering the rooms."
+    },
+    {
+      "en": "Many homes were also organised around an open courtyard, known in Uzbekistan as a hovli. Instead of facing the hot, dusty street, the rooms looked inward onto this private space. Trees and vines provided shade, and a small pool or channel of water helped to cool the air as it evaporated. The courtyard was not only a cooling device but also the centre of family life, where children played and guests were received."
+    },
+    {
+      "en": "Facing the courtyard, many Uzbek houses had an ayvon, a covered veranda supported by wooden columns that were often beautifully carved. This semi-open space allowed air to move freely while keeping out the direct rays of the sun. During the hottest months, families would spend much of the day there, eating, working and resting, and on summer nights some people even slept outdoors."
+    },
+    {
+      "en": "In parts of Iran and the Persian Gulf, builders developed an even more ingenious solution: the wind catcher. These tall towers rise above the roofline and have openings near the top to capture breezes, which are usually stronger higher up than at street level. The moving air is directed down into the rooms below, while warmer air is pushed out. In some buildings, the air passes over water or through underground spaces first, which cools it further."
+    },
+    {
+      "en": "Cooling was considered at the scale of whole towns as well. In many old cities, narrow, winding streets and closely packed houses meant that buildings shaded one another and the lanes between them for much of the day. In some regions, walls were finished in pale colours, which reflect rather than absorb sunlight. On a summer afternoon, the old quarter of such a city can feel noticeably cooler than a wide modern avenue."
+    },
+    {
+      "en": "None of this means that modern cities should simply copy the past. People today expect more light, more space and different standards of comfort. Nevertheless, many architects argue that the principles behind traditional buildings, such as using thick walls to delay heat, shading open spaces and allowing air to flow naturally, can be combined with modern materials. Buildings designed in this way may need far less energy for cooling."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "air conditioning",
+      "uz": "havoni sovutish tizimi, konditsioner"
+    },
+    {
+      "en": "generation",
+      "uz": "avlod"
+    },
+    {
+      "en": "feature",
+      "uz": "xususiyat, element"
+    },
+    {
+      "en": "mud brick",
+      "uz": "xom gʻisht"
+    },
+    {
+      "en": "considerable",
+      "uz": "ancha katta"
+    },
+    {
+      "en": "absorb",
+      "uz": "yutmoq, singdirmoq"
+    },
+    {
+      "en": "interior",
+      "uz": "ichki qism"
+    },
+    {
+      "en": "courtyard",
+      "uz": "hovli"
+    },
+    {
+      "en": "evaporate",
+      "uz": "bugʻlanmoq"
+    },
+    {
+      "en": "veranda",
+      "uz": "ayvon, peshayvon"
+    },
+    {
+      "en": "carved",
+      "uz": "oʻymakor, naqsh oʻyilgan"
+    },
+    {
+      "en": "ingenious",
+      "uz": "mohirona oʻylab topilgan, topqir"
+    },
+    {
+      "en": "capture",
+      "uz": "tutib olmoq"
+    },
+    {
+      "en": "winding",
+      "uz": "egri-bugri"
+    },
+    {
+      "en": "reflect",
+      "uz": "qaytarmoq (nurni)"
+    },
+    {
+      "en": "principle",
+      "uz": "tamoyil"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "c45-time-clauses",
+      "title": {
+        "uz": "by the time … — «… ga qadar»"
+      },
+      "example": "by the time the warmth reaches the interior, the day is almost over"
+    },
+    {
+      "topicId": "i12-used-to-would",
+      "title": {
+        "uz": "would — oʻtmishdagi odat"
+      },
+      "example": "families would spend much of the day there"
+    }
+  ],
+  "questions": [
+    {
+      "id": "b2-14-architecture-q1",
+      "type": "heading",
+      "para": 0,
+      "options": [
+        "Towers built for defence",
+        "Keeping whole districts cool",
+        "Traditional wisdom rediscovered",
+        "Turning the breeze downwards",
+        "Walls that slow down the heat",
+        "Lessons rather than copies",
+        "Half indoors, half outdoors",
+        "The art of carving wood",
+        "A private world looking inward"
+      ],
+      "answer": 2,
+      "explain": {
+        "uz": "Xatboshi A: elektr va konditsionerdan oldingi anʼanaviy yechimlarga meʼmorlar qayta qaramoqda."
+      }
+    },
+    {
+      "id": "b2-14-architecture-q2",
+      "type": "heading",
+      "para": 1,
+      "options": [
+        "Towers built for defence",
+        "Keeping whole districts cool",
+        "Traditional wisdom rediscovered",
+        "Turning the breeze downwards",
+        "Walls that slow down the heat",
+        "Lessons rather than copies",
+        "Half indoors, half outdoors",
+        "The art of carving wood",
+        "A private world looking inward"
+      ],
+      "answer": 4,
+      "explain": {
+        "uz": "Xatboshi B: qalin loy devor issiqni sekin yutadi — issiqlik ichkariga kech kiradi."
+      }
+    },
+    {
+      "id": "b2-14-architecture-q3",
+      "type": "heading",
+      "para": 2,
+      "options": [
+        "Towers built for defence",
+        "Keeping whole districts cool",
+        "Traditional wisdom rediscovered",
+        "Turning the breeze downwards",
+        "Walls that slow down the heat",
+        "Lessons rather than copies",
+        "Half indoors, half outdoors",
+        "The art of carving wood",
+        "A private world looking inward"
+      ],
+      "answer": 8,
+      "explain": {
+        "uz": "Xatboshi C: xonalar koʻchaga emas, ichkaridagi hovliga qaragan — shaxsiy, ichkariga yoʻnalgan makon."
+      }
+    },
+    {
+      "id": "b2-14-architecture-q4",
+      "type": "heading",
+      "para": 3,
+      "options": [
+        "Towers built for defence",
+        "Keeping whole districts cool",
+        "Traditional wisdom rediscovered",
+        "Turning the breeze downwards",
+        "Walls that slow down the heat",
+        "Lessons rather than copies",
+        "Half indoors, half outdoors",
+        "The art of carving wood",
+        "A private world looking inward"
+      ],
+      "answer": 6,
+      "explain": {
+        "uz": "Xatboshi D: ayvon — yarim ochiq makon, oilalar kun boʻyi shu yerda. «The art of carving wood» — oʻymakor ustunlar faqat tafsilot."
+      }
+    },
+    {
+      "id": "b2-14-architecture-q5",
+      "type": "heading",
+      "para": 4,
+      "options": [
+        "Towers built for defence",
+        "Keeping whole districts cool",
+        "Traditional wisdom rediscovered",
+        "Turning the breeze downwards",
+        "Walls that slow down the heat",
+        "Lessons rather than copies",
+        "Half indoors, half outdoors",
+        "The art of carving wood",
+        "A private world looking inward"
+      ],
+      "answer": 3,
+      "explain": {
+        "uz": "Xatboshi E: shamol ushlagich minoralar shabadani pastga, xonalarga yoʻnaltiradi. «Towers built for defence» — minora bor, lekin mudofaa haqida emas."
+      }
+    },
+    {
+      "id": "b2-14-architecture-q6",
+      "type": "heading",
+      "para": 5,
+      "options": [
+        "Towers built for defence",
+        "Keeping whole districts cool",
+        "Traditional wisdom rediscovered",
+        "Turning the breeze downwards",
+        "Walls that slow down the heat",
+        "Lessons rather than copies",
+        "Half indoors, half outdoors",
+        "The art of carving wood",
+        "A private world looking inward"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "Xatboshi F: tor koʻchalar, zich uylar va och rangli devorlar butun mahallani salqin saqlaydi."
+      }
+    },
+    {
+      "id": "b2-14-architecture-q7",
+      "type": "heading",
+      "para": 6,
+      "options": [
+        "Towers built for defence",
+        "Keeping whole districts cool",
+        "Traditional wisdom rediscovered",
+        "Turning the breeze downwards",
+        "Walls that slow down the heat",
+        "Lessons rather than copies",
+        "Half indoors, half outdoors",
+        "The art of carving wood",
+        "A private world looking inward"
+      ],
+      "answer": 5,
+      "explain": {
+        "uz": "Xatboshi G: oʻtmishni nusxalash emas, balki uning tamoyillaridan saboq olish."
+      }
+    },
+    {
+      "id": "b2-14-architecture-q8",
+      "type": "tfng",
+      "statement": "Thick earth walls give back the heat they have stored once the outside air cools at night.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«At night, when the air outside cools, the stored heat escapes again»."
+      },
+      "para": 1
+    },
+    {
+      "id": "b2-14-architecture-q9",
+      "type": "gap",
+      "prompt": "In a hovli, a pool or channel of water cooled the air as the water ___.",
+      "answers": [
+        "evaporated"
+      ],
+      "maxWords": 1,
+      "explain": {
+        "uz": "«helped to cool the air as it evaporated»."
+      },
+      "para": 2
+    },
+    {
+      "id": "b2-14-architecture-q10",
+      "type": "tfng",
+      "statement": "Wind catchers are still included in many new houses in Iran today.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Matnda shamol ushlagichlar qanday ishlashi aytilgan, bugungi yangi uylar haqida maʼlumot yoʻq."
+      },
+      "para": 4
+    },
+    {
+      "id": "b2-14-architecture-q11",
+      "type": "tfng",
+      "statement": "The writer believes modern cities should reproduce traditional buildings exactly.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«None of this means that modern cities should simply copy the past» — nusxalash emas, tamoyillar."
+      },
+      "para": 6
+    }
+  ]
+}

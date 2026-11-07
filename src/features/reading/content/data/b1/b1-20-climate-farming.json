@@ -1,0 +1,224 @@
+{
+  "id": "b1-20-climate-farming",
+  "title": {
+    "uz": "Iqlim va qishloq xoʻjaligi"
+  },
+  "en": "A Letter from the Farm",
+  "level": "B1",
+  "kind": "email",
+  "tag": {
+    "uz": "Atrof-muhit",
+    "en": "Environment"
+  },
+  "intro": {
+    "uz": "Fermer ota universitetda oʻqiyotgan oʻgʻliga issiq yoz va suv tanqisligi haqida xat yozadi. Oʻqishdan oldin oʻylab koʻring: havo isib borsa, dehqonlar nimalarni oʻzgartirishi kerak?"
+  },
+  "paragraphs": [
+    {
+      "en": "Dear Farrukh, thank you for your message and the photos from your university. Your mother says you have been studying hard, and we are both very proud of you. You asked me how the farm is doing this year, so I will tell you honestly: it has been the most difficult summer I can remember."
+    },
+    {
+      "en": "When I was your age, the hottest days of July felt like an exception. Now we seem to have weeks of extreme heat almost every summer, and the heat starts earlier in the year. The canal that waters our fields also carried less water this year than it used to. By August, the water was arriving only every few days, and the melons on the lower field had dried up before they were ready."
+    },
+    {
+      "en": "But I don't want you to think we are giving up. Your uncle and I have decided to change the way we farm. We have planted part of the land with sorghum, which needs less water than many other crops and can survive long dry periods. After the wheat harvest, we sowed mung beans, which grow quickly and are good for the soil. We have also started covering the soil between the plants with straw. It keeps the ground cooler and stops the water from evaporating so fast."
+    },
+    {
+      "en": "We are also working at different times. In June and July, we start in the fields before sunrise and rest in the hottest hours of the afternoon. Karim aka from the next village laughed at us at first, but last week he came and asked us how the straw method works. Next spring, I would like to plant a few rows of pistachio trees. They can handle heat and dry soil well, although they take several years to produce a harvest."
+    },
+    {
+      "en": "This is where you come in, my son. You are learning things at university that I never had the chance to learn. When you come home for the winter holidays, I want you to look at our fields and tell me what else we could do. If my grandfather saw how we farm today, he would not believe his eyes, but I think he would understand that we must change with the weather. Take care of yourself. Your father"
+    }
+  ],
+  "glossary": [
+    {
+      "en": "exception",
+      "uz": "istisno"
+    },
+    {
+      "en": "extreme",
+      "uz": "haddan tashqari, keskin"
+    },
+    {
+      "en": "canal",
+      "uz": "kanal, ariq"
+    },
+    {
+      "en": "dry up",
+      "uz": "qurib qolmoq"
+    },
+    {
+      "en": "give up / giving up",
+      "uz": "taslim boʻlmoq, voz kechmoq"
+    },
+    {
+      "en": "crop",
+      "uz": "ekin"
+    },
+    {
+      "en": "sorghum",
+      "uz": "joʻxori"
+    },
+    {
+      "en": "survive",
+      "uz": "omon qolmoq, chidamoq"
+    },
+    {
+      "en": "sow",
+      "uz": "ekmoq, urugʻ sepmoq"
+    },
+    {
+      "en": "mung beans",
+      "uz": "mosh"
+    },
+    {
+      "en": "straw",
+      "uz": "somon"
+    },
+    {
+      "en": "evaporate",
+      "uz": "bugʻlanmoq"
+    },
+    {
+      "en": "handle",
+      "uz": "chidamoq, uddalamoq"
+    },
+    {
+      "en": "harvest",
+      "uz": "hosil"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "i11-past-perfect",
+      "title": {
+        "uz": "Past Perfect: had dried up"
+      },
+      "example": "the melons on the lower field had dried up before they were ready"
+    },
+    {
+      "topicId": "i55-non-defining",
+      "title": {
+        "uz": "Aniqlamaydigan nisbiy ergash gap: , which …"
+      },
+      "example": "sorghum, which needs less water than many other crops"
+    }
+  ],
+  "questions": [
+    {
+      "id": "b1-20-climate-farming-q1",
+      "type": "tfng",
+      "statement": "Farrukh is studying at a university.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "1-xatboshi: «the photos from your university» va 5-xatboshi: «You are learning things at university»."
+      },
+      "para": 0
+    },
+    {
+      "id": "b1-20-climate-farming-q2",
+      "type": "tfng",
+      "statement": "The canal carried more water this year than in the past.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "2-xatboshi: «carried less water this year than it used to»."
+      },
+      "para": 1
+    },
+    {
+      "id": "b1-20-climate-farming-q3",
+      "type": "tfng",
+      "statement": "Farrukh's mother also works on the farm.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Onasi faqat «Your mother says you have been studying hard» jumlasida tilga olinadi; u fermada ishlaydimi — maʼlumot yoʻq — Not Given."
+      },
+      "para": 0
+    },
+    {
+      "id": "b1-20-climate-farming-q4",
+      "type": "tfng",
+      "statement": "Karim aka liked the family's new methods from the very beginning.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "4-xatboshi: «Karim aka … laughed at us at first» — avvaliga kulgan, keyin qiziqib qolgan."
+      },
+      "para": 3
+    },
+    {
+      "id": "b1-20-climate-farming-q5",
+      "type": "choice",
+      "prompt": "Why did the family plant sorghum?",
+      "options": [
+        "It needs less water and can survive dry periods.",
+        "It sells for a very high price.",
+        "Farrukh recommended it."
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "3-xatboshi: «sorghum, which needs less water than many other crops and can survive long dry periods»."
+      },
+      "para": 2
+    },
+    {
+      "id": "b1-20-climate-farming-q6",
+      "type": "choice",
+      "prompt": "In paragraph 4, the word \"handle\" is closest in meaning to …",
+      "options": [
+        "deal with",
+        "avoid",
+        "produce"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "«They can handle heat and dry soil well» — issiq va quruq tuproqqa yaxshi chidaydi, yaʼni uddalaydi."
+      },
+      "para": 3
+    },
+    {
+      "id": "b1-20-climate-farming-q7",
+      "type": "choice",
+      "prompt": "What is the main purpose of the email?",
+      "options": [
+        "to explain how the farm is changing and ask for Farrukh's ideas",
+        "to ask Farrukh to leave university and come home",
+        "to complain about the neighbours"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "Ota fermadagi oʻzgarishlarni tushuntiradi va oxirida: «tell me what else we could do» — oʻgʻlining fikrini soʻraydi."
+      },
+      "para": 4
+    },
+    {
+      "id": "b1-20-climate-farming-q8",
+      "type": "gap",
+      "prompt": "The family covers the soil between the plants with ___.",
+      "answers": [
+        "straw"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "3-xatboshi: «covering the soil between the plants with straw»."
+      },
+      "para": 2
+    },
+    {
+      "id": "b1-20-climate-farming-q9",
+      "type": "gap",
+      "prompt": "In June and July, the family starts work in the fields before ___.",
+      "answers": [
+        "sunrise"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "4-xatboshi: «we start in the fields before sunrise»."
+      },
+      "para": 3
+    }
+  ]
+}

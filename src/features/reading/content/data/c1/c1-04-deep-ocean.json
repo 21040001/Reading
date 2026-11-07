@@ -1,0 +1,304 @@
+{
+  "id": "c1-04-deep-ocean",
+  "title": {
+    "uz": "Okean tubi"
+  },
+  "en": "The Deep Ocean",
+  "level": "C1",
+  "kind": "exam",
+  "tag": {
+    "uz": "Yer va okean",
+    "en": "Earth and ocean"
+  },
+  "intro": {
+    "uz": "Ilmiy-ommabop matn: okean tubi qanchalik kam oʻrganilgan, gidrotermal manbalar, xemosintez va chuqur dengizda qazib olish boʻyicha bahs. Asosiy topshiriq — Summary completion: qisqacha bayondagi boʻshliqlarni matndagi aynan soʻzlar bilan toʻldiring (soʻz soni chegarasiga rioya qiling). Bayon parafraz qilingan, shuning uchun avval kerakli xatboshini toping, soʻng grammatik jihatdan mos soʻzni ajrating. Taxminan 20 daqiqa ajrating."
+  },
+  "paragraphs": [
+    {
+      "en": "It is often remarked that humanity knows more about the surface of the Moon than about the floor of its own oceans. Like many memorable claims, this one is an oversimplification, but it contains a significant truth. Satellites can estimate the shape of the entire seabed indirectly, by measuring tiny variations in the height of the sea surface, yet the maps produced in this way are coarse and capable of revealing only large features. Detailed mapping requires ships equipped with sonar, which builds up a picture from the echoes of sound pulses, and recent estimates suggest that only around a quarter of the seafloor has been surveyed in this way. Direct observation of the deep sea, whether by human visitors or by cameras, covers a far smaller fraction still."
+    },
+    {
+      "en": "The reasons are largely physical. Sunlight fades rapidly with depth, and below roughly a thousand metres the ocean is in permanent darkness apart from light produced by living organisms. Temperatures in most of the deep sea hover only a few degrees above freezing. Most formidable of all is pressure, which increases by approximately one atmosphere for every ten metres of descent. At the bottom of the deepest trenches, more than ten kilometres down, the pressure exceeds a thousand times that at the surface. Vehicles capable of withstanding such conditions are expensive to build and operate, which is why much exploration today relies on remotely operated and autonomous machines rather than on crewed submersibles."
+    },
+    {
+      "en": "Precisely because it is so difficult to reach, the deep sea has continued to overturn scientific assumptions. In 1977, researchers exploring a volcanic ridge in the eastern Pacific near the Galápagos Islands came upon something few had anticipated: dense communities of animals clustered around hydrothermal vents. At such vents, seawater seeps into the crust, is heated by underlying magma and re-emerges laden with dissolved minerals. The emerging fluid can exceed 350 degrees Celsius, yet it does not boil, because the immense pressure raises its boiling point. Where it meets the cold surrounding water, the minerals precipitate, in some cases building tall chimneys that release dark, smoke-like plumes."
+    },
+    {
+      "en": "The discovery was remarkable not only for the abundance of life but for its source of energy. Almost every ecosystem on the surface ultimately depends on photosynthesis, the capture of energy from sunlight. Around the vents, by contrast, the foundation of the food web consists of microbes that obtain energy from chemical reactions, for example by oxidising hydrogen sulphide dissolved in the vent fluid, a process known as chemosynthesis. Some vent animals have formed intimate partnerships with these microbes. Giant tubeworms, for instance, lack a mouth and digestive system as adults and instead house vast numbers of chemosynthetic bacteria within their bodies, which supply them with nourishment. Such findings have encouraged speculation that life on Earth may have originated in comparable environments and that similar habitats might exist on icy moons elsewhere in the solar system, although both ideas remain hypotheses."
+    },
+    {
+      "en": "Beyond the vents, the deep seafloor hosts a diversity of life that scientists are only beginning to catalogue. Expeditions to poorly studied regions routinely return with species new to science. Many deep-sea organisms grow slowly, reproduce late and live for remarkably long periods; some deep-sea corals are thought to be hundreds or even thousands of years old. These characteristics, which are adaptations to a cold environment with scarce food, also mean that populations may take a very long time to recover from disturbance."
+    },
+    {
+      "en": "It is against this background that the debate over deep-sea mining has unfolded. On vast, flat abyssal plains, the seabed is scattered with potato-sized lumps known as polymetallic nodules, which contain metals such as nickel, cobalt, manganese and copper. Supporters of mining argue that these metals are needed in growing quantities for batteries and other technologies associated with the transition to cleaner energy, and that collecting nodules from the seafloor might avoid some of the environmental and social harms associated with mining on land, such as deforestation and the displacement of communities."
+    },
+    {
+      "en": "Critics counter that too little is known about deep-sea ecosystems to judge the risks responsibly. Nodules form extremely slowly, over millions of years, and many organisms live attached to them or depend on them, so their removal would be effectively permanent on any human timescale. Mining machines would also stir up plumes of sediment that could spread over wide areas. Small-scale disturbance experiments conducted decades ago have left tracks on the seabed that remain visible, and the affected communities have not fully recovered. For these reasons, a number of governments and scientists have called for a pause until more research has been done, while the international body responsible for regulating mining on the seabed beyond national jurisdiction has continued to negotiate rules."
+    },
+    {
+      "en": "Both sides, then, appeal to environmental concerns, which is part of what makes the dispute so difficult to resolve. What seems clear is that decisions about the deep sea will be made under considerable uncertainty, and that the gaps in our knowledge, once merely a curiosity, have become a matter of practical consequence."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "oversimplification",
+      "uz": "haddan tashqari soddalashtirish"
+    },
+    {
+      "en": "coarse",
+      "uz": "dagʻal, aniqligi past"
+    },
+    {
+      "en": "formidable",
+      "uz": "jiddiy, qoʻrqinchli darajada kuchli"
+    },
+    {
+      "en": "withstand",
+      "uz": "bardosh bermoq"
+    },
+    {
+      "en": "submersible",
+      "uz": "suv osti apparati"
+    },
+    {
+      "en": "overturn",
+      "uz": "agʻdarmoq, rad etmoq"
+    },
+    {
+      "en": "seep",
+      "uz": "sizib oʻtmoq"
+    },
+    {
+      "en": "laden with",
+      "uz": "… bilan toʻla, yuklangan"
+    },
+    {
+      "en": "precipitate",
+      "uz": "choʻkma hosil qilmoq"
+    },
+    {
+      "en": "abundance",
+      "uz": "moʻllik, koʻplik"
+    },
+    {
+      "en": "intimate partnership",
+      "uz": "yaqin hamkorlik (simbioz)"
+    },
+    {
+      "en": "speculation",
+      "uz": "taxmin, faraz"
+    },
+    {
+      "en": "scarce",
+      "uz": "kam, tanqis"
+    },
+    {
+      "en": "abyssal plain",
+      "uz": "okean tubidagi tekislik"
+    },
+    {
+      "en": "displacement",
+      "uz": "majburan koʻchirilish"
+    },
+    {
+      "en": "counter",
+      "uz": "eʼtiroz bildirmoq, javoban aytmoq"
+    },
+    {
+      "en": "stir up",
+      "uz": "koʻtarib yubormoq, loyqalatmoq"
+    },
+    {
+      "en": "beyond national jurisdiction",
+      "uz": "davlatlar yurisdiksiyasidan tashqarida"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "c59-fronting-emphasis",
+      "title": {
+        "uz": "Taʼkid uchun oldinga chiqarish: Most formidable of all is pressure"
+      },
+      "example": "Most formidable of all is pressure"
+    },
+    {
+      "topicId": "c57-cleft-sentences",
+      "title": {
+        "uz": "Ajratuvchi (cleft) gap: It is against this background that …"
+      },
+      "example": "It is against this background that the debate over deep-sea mining has unfolded"
+    }
+  ],
+  "questions": [
+    {
+      "id": "c1-04-deep-ocean-q1",
+      "type": "gap",
+      "prompt": "In 1977, scientists exploring a volcanic ridge found dense animal communities around hydrothermal ___.",
+      "answers": [
+        "vents"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«came upon … dense communities of animals clustered around hydrothermal vents»."
+      },
+      "para": 2
+    },
+    {
+      "id": "c1-04-deep-ocean-q2",
+      "type": "gap",
+      "prompt": "The hot vent fluid does not boil because the immense ___ raises its boiling point.",
+      "answers": [
+        "pressure"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«it does not boil, because the immense pressure raises its boiling point»."
+      },
+      "para": 2
+    },
+    {
+      "id": "c1-04-deep-ocean-q3",
+      "type": "gap",
+      "prompt": "Instead of relying on sunlight, the vent food web is based on a process called ___.",
+      "answers": [
+        "chemosynthesis"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«microbes that obtain energy from chemical reactions … a process known as chemosynthesis»."
+      },
+      "para": 3
+    },
+    {
+      "id": "c1-04-deep-ocean-q4",
+      "type": "gap",
+      "prompt": "Adult giant tubeworms have no mouth and are fed by ___ living inside their bodies.",
+      "answers": [
+        "chemosynthetic bacteria"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«house vast numbers of chemosynthetic bacteria within their bodies, which supply them with nourishment»."
+      },
+      "para": 3
+    },
+    {
+      "id": "c1-04-deep-ocean-q5",
+      "type": "gap",
+      "prompt": "Abyssal plains are covered with ___, which contain metals such as nickel and cobalt.",
+      "answers": [
+        "polymetallic nodules"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«potato-sized lumps known as polymetallic nodules, which contain metals such as nickel, cobalt…»."
+      },
+      "para": 5
+    },
+    {
+      "id": "c1-04-deep-ocean-q6",
+      "type": "gap",
+      "prompt": "Critics warn that mining machines would create ___ of sediment that could travel far.",
+      "answers": [
+        "plumes"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«Mining machines would also stir up plumes of sediment that could spread over wide areas»."
+      },
+      "para": 6
+    },
+    {
+      "id": "c1-04-deep-ocean-q7",
+      "type": "tfng",
+      "statement": "Satellite measurements can show small features of the seabed in detail.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«the maps produced in this way are coarse and capable of revealing only large features»."
+      },
+      "para": 0
+    },
+    {
+      "id": "c1-04-deep-ocean-q8",
+      "type": "tfng",
+      "statement": "Machines without people on board play a major part in deep-sea exploration today.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«much exploration today relies on remotely operated and autonomous machines rather than on crewed submersibles»."
+      },
+      "para": 1
+    },
+    {
+      "id": "c1-04-deep-ocean-q9",
+      "type": "tfng",
+      "statement": "The researchers who found the first vents in 1977 were searching for new species of fish.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Matnda ular vulqon tizmasini oʻrganayotgani aytilgan; baliqning yangi turlarini qidirgani haqida maʼlumot yoʻq."
+      },
+      "para": 2
+    },
+    {
+      "id": "c1-04-deep-ocean-q10",
+      "type": "tfng",
+      "statement": "Polymetallic nodules can form again within a few decades of being removed.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«Nodules form extremely slowly, over millions of years» — bir necha oʻn yil emas."
+      },
+      "para": 6
+    },
+    {
+      "id": "c1-04-deep-ocean-q11",
+      "type": "choice",
+      "prompt": "What is the writer's view of the claim that we know more about the Moon than about the ocean floor?",
+      "options": [
+        "It is completely accurate",
+        "It is a myth with no basis in fact",
+        "It exaggerates, but it reflects a real gap in our knowledge",
+        "It applies only to shallow coastal waters"
+      ],
+      "answer": 2,
+      "explain": {
+        "uz": "«this one is an oversimplification, but it contains a significant truth» — mubolagʻa, lekin haqiqat ulushi bor."
+      },
+      "para": 0
+    },
+    {
+      "id": "c1-04-deep-ocean-q12",
+      "type": "choice",
+      "prompt": "Why does the writer mention deforestation and the displacement of communities?",
+      "options": [
+        "To give examples of harms that supporters say seabed mining might avoid",
+        "To show that mining on land is no longer necessary",
+        "To argue that deep-sea mining causes the same problems",
+        "To explain why metal prices are rising"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "Bular «harms associated with mining on land» misollari; tarafdorlar nodul yigʻish shu zararlarning bir qismidan qochish imkonini beradi deydi."
+      },
+      "para": 5
+    },
+    {
+      "id": "c1-04-deep-ocean-q13",
+      "type": "choice",
+      "prompt": "What point does the writer make in the final paragraph?",
+      "options": [
+        "Mining should begin as soon as possible",
+        "Both supporters and opponents of mining use environmental arguments",
+        "The international rules are already complete",
+        "Scientific curiosity is the only reason to study the deep sea"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«Both sides, then, appeal to environmental concerns» — ikkala tomon ham ekologik dalillarga tayanadi."
+      },
+      "para": 7
+    }
+  ]
+}

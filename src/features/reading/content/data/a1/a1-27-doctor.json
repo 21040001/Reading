@@ -1,0 +1,188 @@
+{
+  "id": "a1-27-doctor",
+  "title": {
+    "uz": "Shifokorning bir kuni"
+  },
+  "en": "A Day in a Doctor's Life",
+  "level": "A1",
+  "kind": "blog",
+  "tag": {
+    "uz": "Kasblar",
+    "en": "Jobs"
+  },
+  "intro": {
+    "uz": "Bu — bolalar shifokorining blogi. Oʻqishdan oldin: shifokorlar sogʻliq uchun qanday maslahatlar beradi?"
+  },
+  "paragraphs": [
+    {
+      "en": "Hi, I'm Rustam. I am a doctor at a children's hospital in Samarkand. I love my job, but it is not easy.",
+      "uz": "Salom, men Rustamman. Men Samarqanddagi bolalar kasalxonasida shifokorman. Men ishimni yaxshi koʻraman, lekin u oson emas."
+    },
+    {
+      "en": "I usually get up at half past five. I start work at seven. Every morning I see about twenty children. Some children have got a cold, and some have got a stomachache.",
+      "uz": "Men odatda soat besh yarimda turaman. Ishni soat yettida boshlayman. Har kuni ertalab yigirmatacha bolani qabul qilaman. Baʼzi bolalar shamollagan, baʼzilarining esa qorni ogʻriydi."
+    },
+    {
+      "en": "Children are often scared of doctors. So I always smile and tell a funny joke. Then they aren't scared.",
+      "uz": "Bolalar koʻpincha shifokorlardan qoʻrqishadi. Shuning uchun men doim jilmayaman va kulgili hazil aytaman. Shunda ular qoʻrqmaydi."
+    },
+    {
+      "en": "Here is my advice for you. You should wash your hands before every meal. You must sleep nine or ten hours, and you shouldn't eat too many sweets!",
+      "uz": "Mana sizga maslahatim. Har safar ovqatdan oldin qoʻlingizni yuvishingiz kerak. Toʻqqiz-oʻn soat uxlashingiz shart, shirinliklarni esa juda koʻp yemasligingiz kerak!"
+    }
+  ],
+  "glossary": [
+    {
+      "en": "hospital",
+      "uz": "kasalxona"
+    },
+    {
+      "en": "easy",
+      "uz": "oson"
+    },
+    {
+      "en": "usually",
+      "uz": "odatda"
+    },
+    {
+      "en": "a cold",
+      "uz": "shamollash"
+    },
+    {
+      "en": "stomachache",
+      "uz": "qorin ogʻrigʻi"
+    },
+    {
+      "en": "scared",
+      "uz": "qoʻrqqan"
+    },
+    {
+      "en": "smile",
+      "uz": "jilmaymoq"
+    },
+    {
+      "en": "joke",
+      "uz": "hazil"
+    },
+    {
+      "en": "advice",
+      "uz": "maslahat"
+    },
+    {
+      "en": "wash",
+      "uz": "yuvmoq"
+    },
+    {
+      "en": "sweets",
+      "uz": "shirinliklar"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "b48-health",
+      "title": {
+        "uz": "should / must — sogʻliq uchun maslahat"
+      },
+      "example": "You should wash your hands before every meal."
+    },
+    {
+      "topicId": "b24-frequency",
+      "title": {
+        "uz": "usually, often, always"
+      },
+      "example": "I usually get up at half past five."
+    }
+  ],
+  "questions": [
+    {
+      "id": "a1-27-doctor-q1",
+      "type": "choice",
+      "prompt": "Where does Rustam work?",
+      "options": [
+        "at a school",
+        "at a children's hospital",
+        "at a pharmacy"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«I am a doctor at a children's hospital in Samarkand.»"
+      },
+      "para": 0
+    },
+    {
+      "id": "a1-27-doctor-q2",
+      "type": "tfng",
+      "statement": "Rustam thinks his job is easy.",
+      "answer": "F",
+      "explain": {
+        "uz": "U ishini yaxshi koʻradi, lekin: «it is not easy»."
+      },
+      "para": 0
+    },
+    {
+      "id": "a1-27-doctor-q3",
+      "type": "choice",
+      "prompt": "What time does Rustam get up?",
+      "options": [
+        "at half past five",
+        "at seven",
+        "at six"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "«I usually get up at half past five.» Soat yettida u ishni boshlaydi."
+      },
+      "para": 1
+    },
+    {
+      "id": "a1-27-doctor-q4",
+      "type": "gap",
+      "prompt": "Rustam starts work at ___.",
+      "answers": [
+        "seven",
+        "7"
+      ],
+      "explain": {
+        "uz": "«I start work at seven.»"
+      },
+      "para": 1
+    },
+    {
+      "id": "a1-27-doctor-q5",
+      "type": "tfng",
+      "statement": "All the children have got a cold.",
+      "answer": "F",
+      "explain": {
+        "uz": "Hammasi emas: «Some children have got a cold, and some have got a stomachache.»"
+      },
+      "para": 1
+    },
+    {
+      "id": "a1-27-doctor-q6",
+      "type": "choice",
+      "prompt": "What does Rustam do for scared children?",
+      "options": [
+        "He gives them sweets.",
+        "He smiles and tells a joke.",
+        "He calls their parents."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«So I always smile and tell a funny joke.»"
+      },
+      "para": 2
+    },
+    {
+      "id": "a1-27-doctor-q7",
+      "type": "gap",
+      "prompt": "You should wash your ___ before every meal.",
+      "answers": [
+        "hands"
+      ],
+      "explain": {
+        "uz": "«You should wash your hands before every meal.»"
+      },
+      "para": 3
+    }
+  ]
+}

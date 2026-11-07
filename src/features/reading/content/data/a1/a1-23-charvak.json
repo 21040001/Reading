@@ -1,0 +1,185 @@
+{
+  "id": "a1-23-charvak",
+  "title": {
+    "uz": "Chorvoq boʻyida"
+  },
+  "en": "At Charvak Lake",
+  "level": "A1",
+  "kind": "blog",
+  "tag": {
+    "uz": "Tabiat",
+    "en": "Nature"
+  },
+  "intro": {
+    "uz": "Jahongir blogida Chorvoqdagi dam olish haqida yozadi. Oʻqishdan oldin: siz dam olish kunlari qayerga borishni yoqtirasiz?"
+  },
+  "paragraphs": [
+    {
+      "en": "Hi, everyone! This weekend my family and I are at Charvak. It is a big lake in the mountains near Tashkent. The water is blue and very clean.",
+      "uz": "Hammaga salom! Bu dam olish kunlari men oilam bilan Chorvoqdaman. Bu — Toshkent yaqinidagi togʻlarda joylashgan katta koʻl. Suvi moviy va juda toza."
+    },
+    {
+      "en": "Today the weather is sunny and hot. My little brother is swimming now, and my father is sitting in the shade. My mother is making tea.",
+      "uz": "Bugun havo quyoshli va issiq. Ukam hozir suzyapti, otam esa soyada oʻtiribdi. Onam choy damlayapti."
+    },
+    {
+      "en": "There are a lot of hotels and small cafés here. In summer, many people come from Tashkent. You can swim, ride a boat or walk in the mountains.",
+      "uz": "Bu yerda koʻplab mehmonxonalar va kichik kafelar bor. Yozda Toshkentdan koʻp odamlar keladi. Bu yerda suzish, qayiqda sayr qilish yoki togʻlarda piyoda sayr qilish mumkin."
+    },
+    {
+      "en": "In the evening it is cool, so I wear a jacket. I love Charvak! I would like to come here again next summer.",
+      "uz": "Kechqurun salqin boʻladi, shuning uchun kurtka kiyaman. Men Chorvoqni yaxshi koʻraman! Kelasi yozda bu yerga yana kelishni xohlayman."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "lake",
+      "uz": "koʻl"
+    },
+    {
+      "en": "mountain",
+      "uz": "togʻ"
+    },
+    {
+      "en": "near",
+      "uz": "yaqinida"
+    },
+    {
+      "en": "clean",
+      "uz": "toza"
+    },
+    {
+      "en": "sunny",
+      "uz": "quyoshli"
+    },
+    {
+      "en": "swim",
+      "uz": "suzmoq"
+    },
+    {
+      "en": "shade",
+      "uz": "soya"
+    },
+    {
+      "en": "ride a boat",
+      "uz": "qayiqda sayr qilmoq"
+    },
+    {
+      "en": "cool",
+      "uz": "salqin"
+    },
+    {
+      "en": "jacket",
+      "uz": "kurtka"
+    },
+    {
+      "en": "again",
+      "uz": "yana"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "b36-weather-vocab",
+      "title": {
+        "uz": "Ob-havo: sunny, hot, cool"
+      },
+      "example": "Today the weather is sunny and hot."
+    },
+    {
+      "topicId": "b29-can",
+      "title": {
+        "uz": "can — mumkinlik"
+      },
+      "example": "You can swim, ride a boat or walk in the mountains."
+    }
+  ],
+  "questions": [
+    {
+      "id": "a1-23-charvak-q1",
+      "type": "tfng",
+      "statement": "Charvak is a big lake in the mountains.",
+      "answer": "T",
+      "explain": {
+        "uz": "«It is a big lake in the mountains near Tashkent.»"
+      },
+      "para": 0
+    },
+    {
+      "id": "a1-23-charvak-q2",
+      "type": "tfng",
+      "statement": "The water in the lake is dirty.",
+      "answer": "F",
+      "explain": {
+        "uz": "Suv toza: «The water is blue and very clean.»"
+      },
+      "para": 0
+    },
+    {
+      "id": "a1-23-charvak-q3",
+      "type": "choice",
+      "prompt": "What is the weather like today?",
+      "options": [
+        "cold and rainy",
+        "sunny and hot",
+        "cloudy and cool"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«Today the weather is sunny and hot.»"
+      },
+      "para": 1
+    },
+    {
+      "id": "a1-23-charvak-q4",
+      "type": "choice",
+      "prompt": "Who is swimming now?",
+      "options": [
+        "his father",
+        "his mother",
+        "his little brother"
+      ],
+      "answer": 2,
+      "explain": {
+        "uz": "«My little brother is swimming now»."
+      },
+      "para": 1
+    },
+    {
+      "id": "a1-23-charvak-q5",
+      "type": "gap",
+      "prompt": "His father is sitting in the ___.",
+      "answers": [
+        "shade"
+      ],
+      "explain": {
+        "uz": "«my father is sitting in the shade»."
+      },
+      "para": 1
+    },
+    {
+      "id": "a1-23-charvak-q6",
+      "type": "tfng",
+      "statement": "You can ride a boat at Charvak.",
+      "answer": "T",
+      "explain": {
+        "uz": "«You can swim, ride a boat or walk in the mountains.»"
+      },
+      "para": 2
+    },
+    {
+      "id": "a1-23-charvak-q7",
+      "type": "choice",
+      "prompt": "Why does Jahongir wear a jacket in the evening?",
+      "options": [
+        "It is cool.",
+        "It is rainy.",
+        "It is hot."
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "«In the evening it is cool, so I wear a jacket.»"
+      },
+      "para": 3
+    }
+  ]
+}

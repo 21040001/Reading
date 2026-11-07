@@ -1,0 +1,182 @@
+{
+  "id": "a1-16-football",
+  "title": {
+    "uz": "Futbol jamoamiz"
+  },
+  "en": "Our Football Team",
+  "level": "A1",
+  "kind": "story",
+  "tag": {
+    "uz": "Sport",
+    "en": "Sports"
+  },
+  "intro": {
+    "uz": "Otabek oʻz futbol jamoasi haqida gapirib beradi. Oʻqishdan oldin oʻylab koʻring: siz qaysi sportni yoqtirasiz?"
+  },
+  "paragraphs": [
+    {
+      "en": "My name is Otabek. I am twelve years old. I love football. I play in a team at a sports school in Tashkent. Our team is called Yulduz.",
+      "uz": "Mening ismim Otabek. Men oʻn ikki yoshdaman. Men futbolni juda yaxshi koʻraman. Men Toshkentdagi sport maktabida bir jamoada oʻynayman. Jamoamizning nomi «Yulduz»."
+    },
+    {
+      "en": "We train three times a week, on Monday, Wednesday and Friday. Our coach is Mr Rustamov. He is kind but strict. We run, pass the ball and play short games.",
+      "uz": "Biz haftasiga uch marta — dushanba, chorshanba va juma kunlari mashq qilamiz. Murabbiyimiz — Rustamov. U mehribon, lekin talabchan. Biz yuguramiz, toʻp oshiramiz va qisqa oʻyinlar oʻynaymiz."
+    },
+    {
+      "en": "I am a goalkeeper. I am tall and I can jump high. My friend Sardor is our captain. He can run very fast.",
+      "uz": "Men darvozabonman. Men baland boʻyliman va baland sakray olaman. Doʻstim Sardor — jamoamiz sardori. U juda tez yugura oladi."
+    },
+    {
+      "en": "On Sunday we have a big match against a team from Yunusobod. I am a little nervous, but I am happy too. Come and watch us!",
+      "uz": "Yakshanba kuni bizda Yunusoboddagi jamoaga qarshi katta oʻyin bor. Men biroz hayajondaman, lekin xursandman ham. Kelib bizni tomosha qiling!"
+    }
+  ],
+  "glossary": [
+    {
+      "en": "team",
+      "uz": "jamoa"
+    },
+    {
+      "en": "train",
+      "uz": "mashq qilmoq"
+    },
+    {
+      "en": "coach",
+      "uz": "murabbiy"
+    },
+    {
+      "en": "strict",
+      "uz": "talabchan, qattiqqoʻl"
+    },
+    {
+      "en": "pass the ball",
+      "uz": "toʻp oshirmoq"
+    },
+    {
+      "en": "goalkeeper",
+      "uz": "darvozabon"
+    },
+    {
+      "en": "jump",
+      "uz": "sakramoq"
+    },
+    {
+      "en": "captain",
+      "uz": "sardor, kapitan"
+    },
+    {
+      "en": "match",
+      "uz": "oʻyin, uchrashuv (sportda)"
+    },
+    {
+      "en": "against",
+      "uz": "qarshi"
+    },
+    {
+      "en": "nervous",
+      "uz": "hayajonlangan, xavotirli"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "b40-sports",
+      "title": {
+        "uz": "Sport soʻzlari: team, coach, match"
+      },
+      "example": "Our coach is Mr Rustamov."
+    },
+    {
+      "topicId": "b29-can",
+      "title": {
+        "uz": "can — qila olmoq"
+      },
+      "example": "He can run very fast."
+    }
+  ],
+  "questions": [
+    {
+      "id": "a1-16-football-q1",
+      "type": "tfng",
+      "statement": "Otabek is twelve years old.",
+      "answer": "T",
+      "explain": {
+        "uz": "1-xatboshi: «I am twelve years old.»"
+      },
+      "para": 0
+    },
+    {
+      "id": "a1-16-football-q2",
+      "type": "choice",
+      "prompt": "How often does the team train?",
+      "options": [
+        "once a week",
+        "three times a week",
+        "every day"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«We train three times a week» — dushanba, chorshanba va juma."
+      },
+      "para": 1
+    },
+    {
+      "id": "a1-16-football-q3",
+      "type": "tfng",
+      "statement": "The coach is never strict.",
+      "answer": "F",
+      "explain": {
+        "uz": "Murabbiy talabchan: «He is kind but strict.»"
+      },
+      "para": 1
+    },
+    {
+      "id": "a1-16-football-q4",
+      "type": "choice",
+      "prompt": "What does Otabek do in the team?",
+      "options": [
+        "He is the captain.",
+        "He is the goalkeeper.",
+        "He is the coach."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«I am a goalkeeper.» Jamoa sardori (captain) esa — Sardor."
+      },
+      "para": 2
+    },
+    {
+      "id": "a1-16-football-q5",
+      "type": "gap",
+      "prompt": "Sardor is the team ___.",
+      "answers": [
+        "captain"
+      ],
+      "explain": {
+        "uz": "«My friend Sardor is our captain.»"
+      },
+      "para": 2
+    },
+    {
+      "id": "a1-16-football-q6",
+      "type": "tfng",
+      "statement": "Sardor can run very fast.",
+      "answer": "T",
+      "explain": {
+        "uz": "«He can run very fast.» — he = Sardor."
+      },
+      "para": 2
+    },
+    {
+      "id": "a1-16-football-q7",
+      "type": "gap",
+      "prompt": "On Sunday, the team plays against a team from ___.",
+      "answers": [
+        "Yunusobod"
+      ],
+      "explain": {
+        "uz": "«a big match against a team from Yunusobod»."
+      },
+      "para": 3
+    }
+  ]
+}

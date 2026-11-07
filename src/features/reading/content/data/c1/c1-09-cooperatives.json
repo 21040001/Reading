@@ -1,0 +1,302 @@
+{
+  "id": "c1-09-cooperatives",
+  "title": {
+    "uz": "Kooperativlar"
+  },
+  "en": "Cooperatives",
+  "level": "C1",
+  "kind": "exam",
+  "tag": {
+    "uz": "Iqtisodiyot",
+    "en": "Economics"
+  },
+  "intro": {
+    "uz": "Akademik matn: kooperativlar — aʼzolari egalik qiladigan korxonalar, ularning tarixi (Rochdeyl kashshoflari), fermer va kredit kooperativlari, kuchli va zaif tomonlari. Asosiy topshiriq: summary completion — xulosa matnidagi boʻshliqlarni matndan olingan soʻzlar bilan toʻldiring (NO MORE THAN TWO WORDS). Xulosa matn tartibida boradi: avval boʻshliq atrofidagi sinonimlarni toping, keyin soʻzni aynan koʻchiring, grammatikasini tekshiring. Qolgan savollar — TFNG va test. Taxminan 20 daqiqa."
+  },
+  "paragraphs": [
+    {
+      "en": "Most businesses are owned by investors who expect a return on the capital they have provided. A cooperative works on a different principle. It is an enterprise owned and controlled by the people who use its services, whether as customers, workers, farmers or savers, and its primary purpose is to meet their needs rather than to maximise profit for outside shareholders. Cooperatives can be found in almost every country and in sectors as diverse as retail, agriculture, banking, housing and insurance, and their combined membership is very large indeed."
+    },
+    {
+      "en": "Although people have pooled resources for mutual benefit throughout history, the modern cooperative movement is usually traced to 1844, when a group of weavers and other workers in the English town of Rochdale opened a small shop selling basic goods such as flour, butter and sugar. Calling themselves the Rochdale Society of Equitable Pioneers, they were responding to hardship and to the widespread practice among traders of selling adulterated food at inflated prices. Their store was by no means the first cooperative venture, and several earlier attempts had failed, but it proved remarkably durable, and the rules the Pioneers adopted became a model for others."
+    },
+    {
+      "en": "Those rules contained several ideas that remain central to cooperatives today. Membership was open to anyone willing to accept its responsibilities. Each member had one vote, regardless of how much capital he or she had invested, which distinguished the society sharply from a conventional company, where voting power follows shareholding. Any surplus, after costs and reserves had been covered, was returned to members in proportion to their purchases rather than their investment, a payment commonly known as the dividend. Versions of these principles were later adopted by an international alliance of cooperatives founded at the end of the nineteenth century."
+    },
+    {
+      "en": "The idea soon spread beyond retail. In the countryside, farmers discovered that by combining their produce they could afford equipment that none of them could have bought alone, and could negotiate better prices with merchants. Denmark became a celebrated example, with cooperative dairies spreading rapidly across the country in the late nineteenth century. Somewhat earlier, from the middle of the century, credit cooperatives had emerged in Germany, where reformers sought to give farmers and craftsmen access to loans on fair terms. Because members knew one another and shared liability, these institutions could lend to people whom commercial banks considered too risky, relying on local knowledge and social pressure instead of collateral."
+    },
+    {
+      "en": "Supporters argue that cooperatives offer distinctive advantages. Because they are owned by their users, they have less incentive to exploit customers, and because profits are not paid out to distant shareholders, they tend to keep wealth within local communities. Some research suggests that cooperatives may be more resilient during economic crises, partly because they take a longer-term view and are less exposed to pressure for short-term returns. Worker cooperatives, in which employees own the business, have been credited with greater job security, since members may prefer to share reduced hours rather than dismiss colleagues."
+    },
+    {
+      "en": "The model is not without its difficulties. Raising capital can be hard, since outside investors cannot buy control, and members may be unwilling or unable to contribute large sums. Democratic decision-making can be slow, and as cooperatives grow, ordinary members may lose interest in governance, leaving power in the hands of professional managers whose priorities differ from their own. Some large cooperatives have struggled to compete with conventional rivals, and a number have converted into ordinary companies, sometimes because existing members stood to gain financially from the change."
+    },
+    {
+      "en": "The reputation of cooperatives also varies with history. In the Soviet Union and other socialist states, collective farms and many other enterprises were described as cooperatives but were in practice subject to tight state control, and membership was frequently far from voluntary. In some post-Soviet countries, this legacy appears to have left a degree of suspicion towards the very word. Elsewhere, cooperatives are associated with independence and self-help. Their future may depend on whether they can preserve the democratic spirit of the Rochdale weavers while adapting to markets far larger and more complex than those of the nineteenth century."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "maximise profit",
+      "uz": "foydani maksimal darajaga yetkazmoq"
+    },
+    {
+      "en": "pool resources",
+      "uz": "mablagʻlarni birlashtirmoq"
+    },
+    {
+      "en": "mutual benefit",
+      "uz": "oʻzaro manfaat"
+    },
+    {
+      "en": "be traced to",
+      "uz": "… dan boshlangan deb hisoblanmoq"
+    },
+    {
+      "en": "adulterated",
+      "uz": "aralashma qoʻshilgan, soxtalashtirilgan (oziq-ovqat)"
+    },
+    {
+      "en": "inflated prices",
+      "uz": "sunʼiy oshirilgan narxlar"
+    },
+    {
+      "en": "venture",
+      "uz": "tashabbus, korxona"
+    },
+    {
+      "en": "regardless of",
+      "uz": "… dan qatʼi nazar"
+    },
+    {
+      "en": "surplus",
+      "uz": "ortiqcha daromad, profitsit"
+    },
+    {
+      "en": "in proportion to",
+      "uz": "… ga mutanosib ravishda"
+    },
+    {
+      "en": "liability",
+      "uz": "javobgarlik (moliyaviy)"
+    },
+    {
+      "en": "collateral",
+      "uz": "garov"
+    },
+    {
+      "en": "incentive",
+      "uz": "ragʻbat, qiziqtiruvchi omil"
+    },
+    {
+      "en": "resilient",
+      "uz": "chidamli, barqaror"
+    },
+    {
+      "en": "be credited with",
+      "uz": "… ga erishgan deb eʼtirof etilmoq"
+    },
+    {
+      "en": "governance",
+      "uz": "boshqaruv"
+    },
+    {
+      "en": "stand to gain",
+      "uz": "foyda koʻrish imkoniga ega boʻlmoq"
+    },
+    {
+      "en": "legacy",
+      "uz": "meros, asorat"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "c34-participle-clauses",
+      "title": {
+        "uz": "Sifatdosh (-ing) oborot gap boshida: Calling themselves …"
+      },
+      "example": "Calling themselves the Rochdale Society of Equitable Pioneers, they were responding to hardship"
+    },
+    {
+      "topicId": "c33-relative-advanced",
+      "title": {
+        "uz": "Murakkab nisbiy gap: whom commercial banks considered too risky"
+      },
+      "example": "these institutions could lend to people whom commercial banks considered too risky"
+    }
+  ],
+  "questions": [
+    {
+      "id": "c1-09-cooperatives-q1",
+      "type": "gap",
+      "prompt": "Summary: The modern cooperative movement is usually said to have begun in 1844, when ___ and other workers in Rochdale opened a shop.",
+      "answers": [
+        "weavers"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«a group of weavers and other workers in the English town of Rochdale opened a small shop» — «traced to» = «said to have begun»."
+      },
+      "para": 1
+    },
+    {
+      "id": "c1-09-cooperatives-q2",
+      "type": "gap",
+      "prompt": "Summary: The founders were reacting partly to traders who sold ___ food at high prices.",
+      "answers": [
+        "adulterated"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«selling adulterated food at inflated prices» — «inflated» = «high»."
+      },
+      "para": 1
+    },
+    {
+      "id": "c1-09-cooperatives-q3",
+      "type": "gap",
+      "prompt": "Summary: Unlike in an ordinary company, where voting power depends on ___, every member had one vote.",
+      "answers": [
+        "shareholding"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«a conventional company, where voting power follows shareholding» — «follows» = «depends on»."
+      },
+      "para": 2
+    },
+    {
+      "id": "c1-09-cooperatives-q4",
+      "type": "gap",
+      "prompt": "Summary: Any surplus was returned according to what members had bought, in a payment called the ___.",
+      "answers": [
+        "dividend",
+        "the dividend"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«in proportion to their purchases … a payment commonly known as the dividend»."
+      },
+      "para": 2
+    },
+    {
+      "id": "c1-09-cooperatives-q5",
+      "type": "gap",
+      "prompt": "Summary: In Denmark, cooperative ___ spread quickly in the late nineteenth century.",
+      "answers": [
+        "dairies"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«cooperative dairies spreading rapidly across the country in the late nineteenth century»."
+      },
+      "para": 3
+    },
+    {
+      "id": "c1-09-cooperatives-q6",
+      "type": "gap",
+      "prompt": "Summary: German credit cooperatives relied on local knowledge and social pressure rather than ___.",
+      "answers": [
+        "collateral"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«relying on local knowledge and social pressure instead of collateral» — «instead of» = «rather than»."
+      },
+      "para": 3
+    },
+    {
+      "id": "c1-09-cooperatives-q7",
+      "type": "tfng",
+      "statement": "The Rochdale shop was the first cooperative ever established.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«Their store was by no means the first cooperative venture, and several earlier attempts had failed»."
+      },
+      "para": 1
+    },
+    {
+      "id": "c1-09-cooperatives-q8",
+      "type": "tfng",
+      "statement": "Credit cooperatives were able to lend to people whom ordinary banks were reluctant to lend to.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«could lend to people whom commercial banks considered too risky» — paraphrase."
+      },
+      "para": 3
+    },
+    {
+      "id": "c1-09-cooperatives-q9",
+      "type": "tfng",
+      "statement": "Worker cooperatives generally pay higher wages than conventional firms.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Matnda faqat ish oʻrni xavfsizligi («greater job security») aytilgan; maosh darajasi haqida maʼlumot yoʻq — NOT GIVEN."
+      },
+      "para": 4
+    },
+    {
+      "id": "c1-09-cooperatives-q10",
+      "type": "choice",
+      "prompt": "According to paragraph E, why may worker cooperatives offer greater job security?",
+      "options": [
+        "They are protected by special laws.",
+        "Members may choose to cut hours instead of dismissing staff.",
+        "They receive support from local communities.",
+        "They never face pressure from competitors."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«members may prefer to share reduced hours rather than dismiss colleagues»."
+      },
+      "para": 4
+    },
+    {
+      "id": "c1-09-cooperatives-q11",
+      "type": "choice",
+      "prompt": "Why can it be difficult for cooperatives to raise capital?",
+      "options": [
+        "Banks are not allowed to lend to them.",
+        "Outside investors cannot gain control in return for their money.",
+        "Their managers are unwilling to borrow.",
+        "Their profits are too small to attract members."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«Raising capital can be hard, since outside investors cannot buy control»."
+      },
+      "para": 5
+    },
+    {
+      "id": "c1-09-cooperatives-q12",
+      "type": "tfng",
+      "statement": "As cooperatives become larger, ordinary members may become less involved in running them.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«as cooperatives grow, ordinary members may lose interest in governance»."
+      },
+      "para": 5
+    },
+    {
+      "id": "c1-09-cooperatives-q13",
+      "type": "choice",
+      "prompt": "Why does the writer refer to collective farms in the Soviet Union?",
+      "options": [
+        "to show that cooperatives work best under state control",
+        "to explain why the word \"cooperative\" is viewed with suspicion in some places",
+        "to argue that cooperatives cannot succeed in large markets",
+        "to compare their efficiency with that of the Rochdale store"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "Ular faqat nomigagina kooperativ edi — «in practice subject to tight state control»; natijada «a degree of suspicion towards the very word»."
+      },
+      "para": 6
+    }
+  ]
+}

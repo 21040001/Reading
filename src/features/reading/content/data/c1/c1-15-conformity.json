@@ -1,0 +1,324 @@
+{
+  "id": "c1-15-conformity",
+  "title": {
+    "uz": "Guruh bosimi"
+  },
+  "en": "The Pressure to Conform",
+  "level": "C1",
+  "kind": "exam",
+  "tag": {
+    "uz": "Psixologiya",
+    "en": "Psychology"
+  },
+  "intro": {
+    "uz": "Akademik matn: konformizm — guruhga moslashish, Asch tajribalari, ularning turli mamlakat va davrlarda takrorlanishi hamda ozchilik taʼsiri haqida. Topshiriqlar: Matching headings, True/False/Not Given, boʻshliq toʻldirish va test savollari. Taxminan 20 daqiqa. Maslahat: «some», «many», «the majority», «never» kabi miqdor soʻzlariga alohida eʼtibor bering — TFNG savollarida javob koʻpincha aynan shularga bogʻliq."
+  },
+  "paragraphs": [
+    {
+      "en": "Human beings are profoundly social animals, and much of what we believe and do is shaped, often without our noticing, by the people around us. Psychologists use the term conformity to describe the tendency to adjust one's behaviour or judgements so that they match those of a group. In many situations this tendency is entirely sensible: following local customs, queuing in an orderly manner or adopting the vocabulary of a new workplace all make social life smoother. The question that has fascinated researchers is how far it extends, and in particular whether people will conform even when the group is plainly wrong."
+    },
+    {
+      "en": "The best-known attempt to answer this question was a series of experiments conducted in the United States in the early 1950s by the psychologist Solomon Asch. Participants were told that they were taking part in a study of visual perception. Seated with a group of other people, they were shown a single standard line together with three comparison lines and asked to state aloud which of the comparison lines matched the standard in length. The task was so straightforward that people judging alone almost never made mistakes. Unknown to the genuine participant, however, all the other members of the group were working with the experimenter, and on certain trials they unanimously gave the same obviously incorrect answer. The participant, seated so as to respond near the end, was thus confronted with a clear choice between the evidence of his own eyes and the verdict of the majority."
+    },
+    {
+      "en": "The results have been widely cited, and sometimes exaggerated. A substantial proportion of participants went along with the incorrect majority on at least some trials, and some yielded repeatedly. Yet the majority of responses overall remained correct, and a considerable number of participants never conformed at all. Asch also varied the conditions in revealing ways. When just one other group member departed from the majority and gave the correct answer, conformity fell sharply. When participants were allowed to write down their answers rather than announce them publicly, it also declined. Enlarging the unanimous majority raised conformity at first, but beyond a fairly small group, adding further members appeared to make little difference."
+    },
+    {
+      "en": "Researchers have generally distinguished two reasons why people conform. Normative influence reflects the desire to be accepted and to avoid the discomfort of standing out; it is consistent with the finding that conformity diminishes when answers are given in private. Informational influence, by contrast, arises when people treat the behaviour of others as evidence about what is true, particularly when a situation is ambiguous. Interestingly, when Asch questioned his participants afterwards, some reported that they had begun to doubt their own judgement, suggesting that even in an apparently unambiguous task the two forms of influence may operate together."
+    },
+    {
+      "en": "Later attempts to repeat the procedure have produced results that vary considerably across time and place. One study carried out with British students around 1980 found very little conformity, leading its authors to suggest that Asch's findings might reflect the particular climate of 1950s America. A large review combining studies from many countries suggested that conformity tended to be higher in societies that place greater emphasis on collective goals than on individual independence, and that in the United States it appeared to have declined since the original experiments. Such comparisons must be interpreted with care, however, since participants, procedures and even the meaning of agreeing with others may differ from one setting to another: what looks like weakness in one culture may be understood as tact or sensitivity in another."
+    },
+    {
+      "en": "It is also worth recalling that Asch himself did not regard his findings simply as evidence of human weakness. He appears to have been at least as interested in the participants who resisted the group as in those who yielded, and some scholars have argued that textbook accounts, by concentrating on conformity, have presented a one-sided picture of his work."
+    },
+    {
+      "en": "If majorities can sway individuals, can a minority ever change the majority? Research begun in Europe in the late 1960s suggests that it can, provided that the minority is consistent. In one well-known experiment, participants were shown a series of blue slides; when a small number of confederates consistently described the slides as green, some participants also began to call them green, whereas an inconsistent minority had little effect. Minority influence of this kind tends to operate more slowly than majority pressure and often produces private reconsideration rather than immediate public agreement."
+    },
+    {
+      "en": "Taken together, this body of research suggests that conformity is neither a simple flaw nor a fixed trait. It is a response to social circumstances, one that can be strengthened by unanimity and public scrutiny and weakened by a single dissenting voice. Few findings are more encouraging than this last one, for it implies that the willingness of one person to speak honestly may make it considerably easier for others to do the same."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "profoundly",
+      "uz": "chuqur, juda kuchli darajada"
+    },
+    {
+      "en": "conformity",
+      "uz": "konformizm, guruhga moslashish"
+    },
+    {
+      "en": "plainly",
+      "uz": "aniq-ravshan, ochiq-oydin"
+    },
+    {
+      "en": "unanimously",
+      "uz": "yakdillik bilan, bir ovozdan"
+    },
+    {
+      "en": "be confronted with",
+      "uz": "… ga roʻpara boʻlmoq, duch kelmoq"
+    },
+    {
+      "en": "verdict",
+      "uz": "hukm, qaror"
+    },
+    {
+      "en": "exaggerate",
+      "uz": "boʻrttirmoq, oshirib yubormoq"
+    },
+    {
+      "en": "yield",
+      "uz": "yon bermoq, boʻysunmoq"
+    },
+    {
+      "en": "diminish",
+      "uz": "kamaymoq, susaymoq"
+    },
+    {
+      "en": "ambiguous",
+      "uz": "noaniq, ikki maʼnoli"
+    },
+    {
+      "en": "emphasis on",
+      "uz": "… ga urgʻu, eʼtibor"
+    },
+    {
+      "en": "tact",
+      "uz": "odob-nazokat, ehtiyotkorlik"
+    },
+    {
+      "en": "one-sided",
+      "uz": "bir tomonlama"
+    },
+    {
+      "en": "sway",
+      "uz": "taʼsir qilib fikrini oʻzgartirmoq"
+    },
+    {
+      "en": "confederate",
+      "uz": "tajribachining yashirin yordamchisi"
+    },
+    {
+      "en": "dissenting",
+      "uz": "norozi, boshqacha fikrdagi"
+    },
+    {
+      "en": "scrutiny",
+      "uz": "nazorat, sinchkov kuzatuv"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "c34-participle-clauses",
+      "title": {
+        "uz": "Sifatdosh oborot: Seated with a group of other people, …"
+      },
+      "example": "Seated with a group of other people, they were shown a single standard line"
+    },
+    {
+      "topicId": "c51-supposing-provided",
+      "title": {
+        "uz": "Shart bogʻlovchisi: provided that …"
+      },
+      "example": "it can, provided that the minority is consistent"
+    }
+  ],
+  "questions": [
+    {
+      "id": "c1-15-conformity-q1",
+      "type": "heading",
+      "para": 1,
+      "options": [
+        "A simple task with a hidden twist",
+        "Factors that weakened or strengthened yielding",
+        "Two motives for going along with others",
+        "Results that depend on when and where",
+        "A neglected aspect of a famous study",
+        "How a persistent few can shift opinion",
+        "Why conformity has disappeared from modern societies",
+        "The danger of trusting one's own eyes"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "Xatboshi B: chiziqlarni solishtirish oson vazifa, lekin boshqa ishtirokchilar yashirincha tajribachi bilan ishlagan — «hidden twist». «The danger of trusting one's own eyes» tuzoq: matn bunday xulosa qilmaydi."
+      }
+    },
+    {
+      "id": "c1-15-conformity-q2",
+      "type": "heading",
+      "para": 3,
+      "options": [
+        "A simple task with a hidden twist",
+        "Factors that weakened or strengthened yielding",
+        "Two motives for going along with others",
+        "Results that depend on when and where",
+        "A neglected aspect of a famous study",
+        "How a persistent few can shift opinion",
+        "Why conformity has disappeared from modern societies",
+        "The danger of trusting one's own eyes"
+      ],
+      "answer": 2,
+      "explain": {
+        "uz": "Xatboshi D: konformizmning ikki sababi — normative va informational influence. «motives» = «reasons»."
+      }
+    },
+    {
+      "id": "c1-15-conformity-q3",
+      "type": "heading",
+      "para": 4,
+      "options": [
+        "A simple task with a hidden twist",
+        "Factors that weakened or strengthened yielding",
+        "Two motives for going along with others",
+        "Results that depend on when and where",
+        "A neglected aspect of a famous study",
+        "How a persistent few can shift opinion",
+        "Why conformity has disappeared from modern societies",
+        "The danger of trusting one's own eyes"
+      ],
+      "answer": 3,
+      "explain": {
+        "uz": "Xatboshi E: takroriy tadqiqotlar natijalari «vary considerably across time and place»."
+      }
+    },
+    {
+      "id": "c1-15-conformity-q4",
+      "type": "heading",
+      "para": 6,
+      "options": [
+        "A simple task with a hidden twist",
+        "Factors that weakened or strengthened yielding",
+        "Two motives for going along with others",
+        "Results that depend on when and where",
+        "A neglected aspect of a famous study",
+        "How a persistent few can shift opinion",
+        "Why conformity has disappeared from modern societies",
+        "The danger of trusting one's own eyes"
+      ],
+      "answer": 5,
+      "explain": {
+        "uz": "Xatboshi G: izchil ozchilik koʻpchilik fikriga taʼsir qila oladi — «provided that the minority is consistent». «persistent» = «consistent»."
+      }
+    },
+    {
+      "id": "c1-15-conformity-q5",
+      "type": "tfng",
+      "statement": "In Asch's experiments, people who judged the lines on their own rarely made errors.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«The task was so straightforward that people judging alone almost never made mistakes» — «rarely» = «almost never»."
+      },
+      "para": 1
+    },
+    {
+      "id": "c1-15-conformity-q6",
+      "type": "tfng",
+      "statement": "Most of the answers given by participants in Asch's experiments were wrong.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«Yet the majority of responses overall remained correct»."
+      },
+      "para": 2
+    },
+    {
+      "id": "c1-15-conformity-q7",
+      "type": "tfng",
+      "statement": "Participants who had conformed felt embarrassed when the true purpose of the study was explained to them.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Asch ishtirokchilarni keyin soʻroq qilgani va baʼzilari oʻz fikriga shubha qilgani aytilgan, lekin ularning uyalgani haqida maʼlumot yoʻq."
+      },
+      "para": 3
+    },
+    {
+      "id": "c1-15-conformity-q8",
+      "type": "tfng",
+      "statement": "In the slide experiment, an inconsistent minority was just as influential as a consistent one.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«whereas an inconsistent minority had little effect»."
+      },
+      "para": 6
+    },
+    {
+      "id": "c1-15-conformity-q9",
+      "type": "gap",
+      "prompt": "In one variation, conformity fell when participants were allowed to ___ their answers instead of saying them aloud.",
+      "answers": [
+        "write down"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«When participants were allowed to write down their answers rather than announce them publicly, it also declined»."
+      },
+      "para": 2
+    },
+    {
+      "id": "c1-15-conformity-q10",
+      "type": "gap",
+      "prompt": "When people treat the behaviour of others as evidence about what is true, this is known as ___ influence.",
+      "answers": [
+        "informational"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«Informational influence, by contrast, arises when people treat the behaviour of others as evidence about what is true»."
+      },
+      "para": 3
+    },
+    {
+      "id": "c1-15-conformity-q11",
+      "type": "choice",
+      "prompt": "What does the writer say about comparisons of conformity between cultures?",
+      "options": [
+        "They prove that some nations are weaker than others.",
+        "They should be interpreted cautiously because settings and meanings differ.",
+        "They show that conformity is the same everywhere.",
+        "They are less reliable than Asch's original experiments."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«Such comparisons must be interpreted with care … since participants, procedures and even the meaning of agreeing with others may differ»."
+      },
+      "para": 4
+    },
+    {
+      "id": "c1-15-conformity-q12",
+      "type": "choice",
+      "prompt": "According to paragraph F, some scholars believe that textbook accounts of Asch's work",
+      "options": [
+        "have exaggerated the number of participants",
+        "have focused too much on conformity and too little on resistance",
+        "have ignored the role of the experimenter",
+        "have misreported the dates of the experiments"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«textbook accounts, by concentrating on conformity, have presented a one-sided picture of his work»; Asch esa «at least as interested in the participants who resisted»."
+      },
+      "para": 5
+    },
+    {
+      "id": "c1-15-conformity-q13",
+      "type": "choice",
+      "prompt": "Why does the writer find the final finding encouraging?",
+      "options": [
+        "It shows that majorities are usually right.",
+        "It suggests that one honest voice can make it easier for others to resist pressure.",
+        "It proves that conformity is a fixed trait.",
+        "It means that public scrutiny always reduces conformity."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«the willingness of one person to speak honestly may make it considerably easier for others to do the same». Toʻrtinchi variant xato: matnda public scrutiny konformizmni kuchaytiradi deyilgan."
+      },
+      "para": 7
+    }
+  ]
+}

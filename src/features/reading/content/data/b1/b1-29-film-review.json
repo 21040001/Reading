@@ -1,0 +1,224 @@
+{
+  "id": "b1-29-film-review",
+  "title": {
+    "uz": "Kino tanqidi"
+  },
+  "en": "Film Review: The Last Apricot Tree",
+  "level": "B1",
+  "kind": "article",
+  "tag": {
+    "uz": "Kino",
+    "en": "Cinema"
+  },
+  "intro": {
+    "uz": "Bu — toʻqima (oʻylab topilgan) oʻzbek filmi haqidagi taqriz. Oʻqishdan oldin oʻylab koʻring: filmni koʻrishga borishdan oldin siz uning haqida fikr-mulohazalarni oʻqiysizmi?"
+  },
+  "paragraphs": [
+    {
+      "en": "The Last Apricot Tree, the second feature film by the young director Dilafruz Tojimurodova, arrived in cinemas this month, and it is already one of the most talked-about Uzbek films of the year. I went to see it with low expectations, because family dramas often feel too sweet. I was wrong. This is a warm, funny and sometimes painful film that stayed with me long after I had left the cinema."
+    },
+    {
+      "en": "The story is simple. Bekzod, a twelve-year-old boy from Tashkent who spends most of his time on his phone, is sent to his grandfather's village in the Fergana Valley for the summer. At first he is bored and angry. There is no internet, and his grandfather, Rustam ota, gets up at five every morning to work in his old apricot garden. Then Bekzod learns that a businessman wants to buy the garden and build a hotel on it."
+    },
+    {
+      "en": "What makes the film special is the relationship between the boy and the old man. Rustam ota is played by a veteran actor who says very little, but his face tells us everything. In one wonderful scene, he teaches Bekzod how to dry apricots on the roof, and neither of them speaks for almost two minutes. The young actor who plays Bekzod is also natural and believable, which is rare for a child in his first role."
+    },
+    {
+      "en": "The film is also beautiful to look at. The camera loves the valley: the morning light on the mountains, the green rows of trees, the busy local bazaar. You can almost smell the fruit. The music, played mostly on traditional instruments, is used carefully and never feels too loud."
+    },
+    {
+      "en": "However, the film is not perfect. The middle part is too slow, and a few scenes with the businessman feel like a cartoon. I also guessed the ending about half an hour before it came, although I will not tell you what it is. Even so, I would recommend The Last Apricot Tree to anyone who has ever spent a summer with their grandparents. I give it four stars out of five."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "feature film",
+      "uz": "badiiy film"
+    },
+    {
+      "en": "director",
+      "uz": "rejissyor"
+    },
+    {
+      "en": "expectations",
+      "uz": "kutilmalar, umidlar"
+    },
+    {
+      "en": "drama",
+      "uz": "drama (janr)"
+    },
+    {
+      "en": "painful",
+      "uz": "ogʻriqli, alamli"
+    },
+    {
+      "en": "be bored",
+      "uz": "zerikmoq"
+    },
+    {
+      "en": "relationship",
+      "uz": "munosabat"
+    },
+    {
+      "en": "veteran",
+      "uz": "tajribali, faxriy"
+    },
+    {
+      "en": "scene",
+      "uz": "sahna, lavha"
+    },
+    {
+      "en": "believable",
+      "uz": "ishonarli, hayotiy"
+    },
+    {
+      "en": "role",
+      "uz": "rol"
+    },
+    {
+      "en": "row",
+      "uz": "qator"
+    },
+    {
+      "en": "guess",
+      "uz": "taxmin qilmoq, topmoq"
+    },
+    {
+      "en": "recommend",
+      "uz": "tavsiya qilmoq"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "i53-who-which-that",
+      "title": {
+        "uz": "Nisbiy gap: who spends…"
+      },
+      "example": "a twelve-year-old boy from Tashkent who spends most of his time on his phone"
+    },
+    {
+      "topicId": "i29-passive-basics",
+      "title": {
+        "uz": "Majhul nisbat: is played by, is sent to"
+      },
+      "example": "Rustam ota is played by a veteran actor"
+    }
+  ],
+  "questions": [
+    {
+      "id": "b1-29-film-review-q1",
+      "type": "tfng",
+      "statement": "Before seeing the film, the reviewer expected to enjoy it very much.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«I went to see it with low expectations» — kutilmalari past boʻlgan."
+      },
+      "para": 0
+    },
+    {
+      "id": "b1-29-film-review-q2",
+      "type": "tfng",
+      "statement": "The businessman in the film wants to build a hotel on the garden.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«a businessman wants to buy the garden and build a hotel on it»."
+      },
+      "para": 1
+    },
+    {
+      "id": "b1-29-film-review-q3",
+      "type": "tfng",
+      "statement": "The boy who plays Bekzod has acted in many films before.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«a child in his first role» — bu uning birinchi roli."
+      },
+      "para": 2
+    },
+    {
+      "id": "b1-29-film-review-q4",
+      "type": "tfng",
+      "statement": "Dilafruz Tojimurodova also wrote the music for the film.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Musiqa haqida «played mostly on traditional instruments» deyilgan, kim yozgani aytilmagan."
+      },
+      "para": 3
+    },
+    {
+      "id": "b1-29-film-review-q5",
+      "type": "choice",
+      "prompt": "What does the reviewer like most about the film?",
+      "options": [
+        "the relationship between the boy and his grandfather",
+        "the scenes with the businessman",
+        "the surprising ending"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "«What makes the film special is the relationship between the boy and the old man»."
+      },
+      "para": 2
+    },
+    {
+      "id": "b1-29-film-review-q6",
+      "type": "choice",
+      "prompt": "In paragraph 3, the word «believable» means …",
+      "options": [
+        "realistic and easy to believe",
+        "very famous",
+        "difficult to understand"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "«natural and believable» — tabiiy va ishonarli, yaʼni hayotiy oʻynagan."
+      },
+      "para": 2
+    },
+    {
+      "id": "b1-29-film-review-q7",
+      "type": "choice",
+      "prompt": "What is one criticism the reviewer makes?",
+      "options": [
+        "The music is too loud.",
+        "The middle part is too slow.",
+        "The valley does not look beautiful."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«However, the film is not perfect. The middle part is too slow». Musiqa esa «never feels too loud»."
+      },
+      "para": 4
+    },
+    {
+      "id": "b1-29-film-review-q8",
+      "type": "gap",
+      "prompt": "In one scene, Rustam ota teaches Bekzod how to dry apricots on the ___.",
+      "answers": [
+        "roof"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«how to dry apricots on the roof»."
+      },
+      "para": 2
+    },
+    {
+      "id": "b1-29-film-review-q9",
+      "type": "gap",
+      "prompt": "The reviewer gives the film four ___ out of five.",
+      "answers": [
+        "stars"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«I give it four stars out of five»."
+      },
+      "para": 4
+    }
+  ]
+}

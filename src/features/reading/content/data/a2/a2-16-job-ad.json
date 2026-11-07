@@ -1,0 +1,208 @@
+{
+  "id": "a2-16-job-ad",
+  "title": {
+    "uz": "Ish eʼloni"
+  },
+  "en": "Summer Job at a Café",
+  "level": "A2",
+  "kind": "notice",
+  "tag": {
+    "uz": "Ish va oʻqish",
+    "en": "Work and study"
+  },
+  "intro": {
+    "uz": "Samarqanddagi kafe yozga ishchi qidirmoqda. Oʻqishdan oldin oʻylab koʻring: ish eʼlonida qanday maʼlumotlar boʻlishi kerak?"
+  },
+  "paragraphs": [
+    {
+      "en": "Bahor Café in Samarkand is looking for two waiters for the summer. The café is near the Registan, so a lot of tourists come here every day. The job starts on 1 June and finishes on 31 August.",
+      "uz": "Samarqanddagi «Bahor» kafesi yozga ikkita ofitsiant qidirmoqda. Kafe Registon yaqinida joylashgan, shuning uchun bu yerga har kuni koʻplab sayyohlar keladi. Ish 1-iyunda boshlanib, 31-avgustda tugaydi."
+    },
+    {
+      "en": "You have to be eighteen or older. You must be friendly and polite. You need to speak some English, because many of our guests are from other countries. You don't need any experience. We will teach you everything in your first week.",
+      "uz": "Siz 18 yoki undan katta yoshda boʻlishingiz shart. Siz xushmuomala va odobli boʻlishingiz kerak. Biroz inglizcha gapira olishingiz lozim, chunki mehmonlarimizning koʻpchiligi boshqa davlatlardan. Tajriba talab qilinmaydi. Birinchi haftada sizga hamma narsani oʻrgatamiz."
+    },
+    {
+      "en": "You will work five days a week, from ten in the morning to six in the evening. The pay is 4,000,000 sum a month. You can also keep your tips. Lunch is free for all our workers.",
+      "uz": "Haftasiga besh kun, ertalab soat oʻndan kechqurun soat oltigacha ishlaysiz. Maosh oyiga 4 000 000 soʻm. Choychaqalar ham sizda qoladi. Barcha xodimlarimiz uchun tushlik bepul."
+    },
+    {
+      "en": "Would you like to join our team? Please send a short letter about yourself to the café manager, Mr Rustamov. Write about the languages you speak and why you want this job. The last day to apply is 20 May.",
+      "uz": "Jamoamizga qoʻshilishni xohlaysizmi? Iltimos, oʻzingiz haqingizda qisqa xatni kafe menejeri janob Rustamovga yuboring. Qaysi tillarni bilishingiz va nima uchun bu ishni xohlashingiz haqida yozing. Ariza topshirishning oxirgi kuni — 20-may."
+    },
+    {
+      "en": "We are going to invite the best people for an interview at the end of May. Good luck!",
+      "uz": "Eng munosib nomzodlarni may oyi oxirida suhbatga taklif qilamiz. Omad!"
+    }
+  ],
+  "glossary": [
+    {
+      "en": "waiter",
+      "uz": "ofitsiant"
+    },
+    {
+      "en": "polite",
+      "uz": "odobli, xushmuomala"
+    },
+    {
+      "en": "guest",
+      "uz": "mehmon"
+    },
+    {
+      "en": "experience",
+      "uz": "tajriba"
+    },
+    {
+      "en": "pay",
+      "uz": "maosh, ish haqi"
+    },
+    {
+      "en": "tip",
+      "uz": "choychaqa"
+    },
+    {
+      "en": "worker",
+      "uz": "ishchi, xodim"
+    },
+    {
+      "en": "join",
+      "uz": "qoʻshilmoq"
+    },
+    {
+      "en": "team",
+      "uz": "jamoa"
+    },
+    {
+      "en": "manager",
+      "uz": "menejer, rahbar"
+    },
+    {
+      "en": "apply",
+      "uz": "ariza topshirmoq"
+    },
+    {
+      "en": "interview",
+      "uz": "suhbat (ishga qabul)"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "e28-have-to",
+      "title": {
+        "uz": "have to — majburiyat (shart)"
+      },
+      "example": "You have to be eighteen or older."
+    },
+    {
+      "topicId": "e27-must-mustnt-neednt",
+      "title": {
+        "uz": "must — shart, kerak"
+      },
+      "example": "You must be friendly and polite."
+    }
+  ],
+  "questions": [
+    {
+      "id": "a2-16-job-ad-q1",
+      "type": "tfng",
+      "statement": "The café needs workers for the whole year.",
+      "answer": "F",
+      "explain": {
+        "uz": "Faqat yozga: «for the summer… starts on 1 June and finishes on 31 August»."
+      },
+      "para": 0
+    },
+    {
+      "id": "a2-16-job-ad-q2",
+      "type": "tfng",
+      "statement": "You need experience to get this job.",
+      "answer": "F",
+      "explain": {
+        "uz": "Tajriba shart emas: «You don't need any experience.»"
+      },
+      "para": 1
+    },
+    {
+      "id": "a2-16-job-ad-q3",
+      "type": "choice",
+      "prompt": "Why do the workers need to speak some English?",
+      "options": [
+        "because the manager is English",
+        "because many guests are from other countries",
+        "because the menu is only in English"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«because many of our guests are from other countries» — mehmonlarning koʻpi chet elliklar."
+      },
+      "para": 1
+    },
+    {
+      "id": "a2-16-job-ad-q4",
+      "type": "choice",
+      "prompt": "How many days a week will the waiters work?",
+      "options": [
+        "four",
+        "five",
+        "six"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«You will work five days a week»."
+      },
+      "para": 2
+    },
+    {
+      "id": "a2-16-job-ad-q5",
+      "type": "tfng",
+      "statement": "Workers have to pay for their lunch.",
+      "answer": "F",
+      "explain": {
+        "uz": "Tushlik bepul: «Lunch is free for all our workers.»"
+      },
+      "para": 2
+    },
+    {
+      "id": "a2-16-job-ad-q6",
+      "type": "gap",
+      "prompt": "The workers can also keep their ___.",
+      "answers": [
+        "tips"
+      ],
+      "explain": {
+        "uz": "«You can also keep your tips.»"
+      },
+      "para": 2
+    },
+    {
+      "id": "a2-16-job-ad-q7",
+      "type": "gap",
+      "prompt": "The last day to apply is ___ May.",
+      "answers": [
+        "20",
+        "twenty",
+        "20th",
+        "twentieth"
+      ],
+      "explain": {
+        "uz": "«The last day to apply is 20 May.»"
+      },
+      "para": 3
+    },
+    {
+      "id": "a2-16-job-ad-q8",
+      "type": "choice",
+      "prompt": "What is going to happen at the end of May?",
+      "options": [
+        "The café is going to close.",
+        "Some people are going to have an interview.",
+        "The summer job is going to start."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«We are going to invite the best people for an interview at the end of May.» Ish esa 1-iyunda boshlanadi."
+      },
+      "para": 4
+    }
+  ]
+}

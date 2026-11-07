@@ -1,0 +1,345 @@
+{
+  "id": "c1-30-test5",
+  "title": {
+    "uz": "5-test: Ilm-fan va jamoatchilik"
+  },
+  "en": "Science, Trust and the Public",
+  "level": "C1",
+  "kind": "exam",
+  "tag": {
+    "uz": "Fan va jamiyat",
+    "en": "Science and society"
+  },
+  "intro": {
+    "uz": "Toʻliq mashq testi (C1): jamiyatning ilm-fanga ishonchi, noaniqlikni tushuntirish va fuqarolik ilmi loyihalari haqidagi matn. Haqiqiy IELTS Academic imtihonidagidek bitta matnga 14 ta savol beriladi: Matching headings, True/False/Not Given, summary completion (NO MORE THAN TWO WORDS) va 4 variantli test savollari. Taxminan 20 daqiqa ajrating. Tavsiya etiladigan tartib: avval 2–3 daqiqada matnga koʻz yugurtirib, har bir xatboshining asosiy gʻoyasini belgilang va sarlavhalarni moslang; soʻng TFNG savollarini matn tartibida bajaring; keyin xulosadagi boʻshliqlarni matndagi soʻzlar bilan aynan toʻldiring; test savollarini esa oxiriga qoldiring."
+  },
+  "paragraphs": [
+    {
+      "en": "Scientific knowledge shapes decisions in almost every area of modern life, from the medicines people take to the policies governments adopt on energy, food and the environment. It might be expected, therefore, that the relationship between scientists and the wider public would be a settled one. In reality, it is complex and at times uneasy. Surveys conducted in many countries generally suggest that scientists are among the more trusted groups in society, yet that trust is far from uniform. It can vary considerably between countries and social groups, and it tends to be weakest on issues that have become entangled with political or moral disputes."
+    },
+    {
+      "en": "For a long time, a widespread assumption among scientists and policymakers was that public scepticism stemmed largely from a lack of knowledge. If people only understood the facts, the reasoning went, they would accept the conclusions that experts had reached. This approach, which critics later labelled the deficit model, led to campaigns aimed at filling gaps in public understanding. Research on science communication has cast considerable doubt on it. Greater scientific knowledge does not reliably lead to greater acceptance, and on some contested issues, people with more knowledge appear to be more, not less, divided along the lines of their existing beliefs."
+    },
+    {
+      "en": "One explanation is that people evaluate scientific claims not in isolation but in the light of their values, their identities and their confidence in the institutions involved. A message may be rejected less because of its content than because of who delivers it, or because accepting it seems to imply changes that people regard as threatening to their way of life. Trust, in this sense, is not simply a judgement about whether a piece of information is accurate. It also reflects whether people believe that those providing it are competent, honest and acting in the public interest."
+    },
+    {
+      "en": "These insights bear directly on one of the most difficult questions in science communication: how to talk about uncertainty. Almost all scientific findings come with a degree of uncertainty, and much research consists precisely of estimating how large it is. Communicators, however, have often feared that acknowledging uncertainty would make science appear weak, give ammunition to critics or leave the public confused about what to do. As a result, findings have sometimes been presented with greater confidence than the evidence warranted."
+    },
+    {
+      "en": "Such caution may be misplaced. Some experimental research suggests that openly communicating uncertainty, for example by giving a range rather than a single figure, reduces trust only slightly, if at all, provided that it is done clearly. Overstated certainty, by contrast, carries a risk of its own: when confident advice later has to be revised, as new evidence inevitably emerges, the change can appear to be a reversal or even a sign of incompetence. Had the provisional nature of early advice been explained from the outset, many observers argue, later revisions might have been accepted as a normal part of the scientific process rather than as evidence of failure."
+    },
+    {
+      "en": "Alongside these debates, a different kind of relationship between science and the public has been expanding. In citizen science projects, members of the public contribute directly to research, most often by collecting or classifying data. Birdwatching offers some of the best-known examples. In one bird count in North America, which has been running for more than a century, volunteers record the birds they see within defined areas on a single day during a set period each winter, and similar counts take place in many other countries. More recently, online platforms have allowed thousands of people to help classify images of animals, plants or distant galaxies from their own homes."
+    },
+    {
+      "en": "Such projects can gather information on a scale that professional researchers could never achieve alone, covering wide areas over many years. Their value, however, depends on the quality of the data. Volunteers vary in skill, and they tend to survey places that are convenient or attractive rather than a representative sample of the landscape. Project organisers address these problems through standardised methods, training, checks on unusual records and statistical techniques that take account of differences in observer effort and experience. Used carefully, citizen science data have contributed to research on matters such as changes in the distribution of bird species."
+    },
+    {
+      "en": "Advocates also hope that participation will strengthen public understanding of how science works, including its routines of checking, revising and quantifying uncertainty. Whether it does so is harder to establish, since volunteers are often people who were already interested in science. There are ethical questions too, concerning how volunteers are credited and whether projects serve their interests as well as those of researchers. Nevertheless, citizen science illustrates a broader shift in thinking: the public is increasingly seen not merely as an audience to be informed but as a potential partner in the production of knowledge."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "uniform",
+      "uz": "bir xil, yagona"
+    },
+    {
+      "en": "entangled with",
+      "uz": "… bilan chirmashib ketgan"
+    },
+    {
+      "en": "scepticism",
+      "uz": "shubhali munosabat, skeptitsizm"
+    },
+    {
+      "en": "cast doubt on",
+      "uz": "… ni shubha ostiga qoʻymoq"
+    },
+    {
+      "en": "contested",
+      "uz": "bahsli, munozarali"
+    },
+    {
+      "en": "in isolation",
+      "uz": "alohida holda, boshqalardan ajratib"
+    },
+    {
+      "en": "competent",
+      "uz": "malakali, layoqatli"
+    },
+    {
+      "en": "acknowledge",
+      "uz": "tan olmoq"
+    },
+    {
+      "en": "ammunition",
+      "uz": "qarshi dalil, «oʻq-dori»"
+    },
+    {
+      "en": "warrant",
+      "uz": "asoslamoq, oqlamoq"
+    },
+    {
+      "en": "misplaced",
+      "uz": "oʻrinsiz, asossiz"
+    },
+    {
+      "en": "overstated",
+      "uz": "boʻrttirilgan"
+    },
+    {
+      "en": "provisional",
+      "uz": "vaqtinchalik, dastlabki"
+    },
+    {
+      "en": "from the outset",
+      "uz": "boshidanoq"
+    },
+    {
+      "en": "representative sample",
+      "uz": "reprezentativ (vakillik qiluvchi) tanlanma"
+    },
+    {
+      "en": "advocate",
+      "uz": "tarafdor, himoyachi"
+    },
+    {
+      "en": "credit",
+      "uz": "hissasini tan olmoq, muallif sifatida koʻrsatmoq"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "c50-inverted-conditionals",
+      "title": {
+        "uz": "Inversiyali shart gap: Had … been explained, … might have been"
+      },
+      "example": "Had the provisional nature of early advice been explained from the outset"
+    },
+    {
+      "topicId": "c34-participle-clauses",
+      "title": {
+        "uz": "Sifatdoshli ergash gap: Used carefully, …"
+      },
+      "example": "Used carefully, citizen science data have contributed to research"
+    }
+  ],
+  "questions": [
+    {
+      "id": "c1-30-test5-q1",
+      "type": "heading",
+      "para": 1,
+      "options": [
+        "Confidence in science is real but uneven",
+        "A discredited assumption about ignorance",
+        "Trust depends on more than information",
+        "A temptation to hide doubt",
+        "The hidden costs of overconfidence",
+        "Ordinary people as data collectors",
+        "Making volunteer records reliable",
+        "Why scientists receive less praise than doctors",
+        "Teaching science more effectively in schools"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "Xatboshi B: «deficit model» — shubha bilim yetishmasligidan degan taxmin; tadqiqotlar «cast considerable doubt on it». «Teaching science more effectively in schools» chalgʻitadi: maktab taʼlimi haqida gap yoʻq."
+      }
+    },
+    {
+      "id": "c1-30-test5-q2",
+      "type": "heading",
+      "para": 2,
+      "options": [
+        "Confidence in science is real but uneven",
+        "A discredited assumption about ignorance",
+        "Trust depends on more than information",
+        "A temptation to hide doubt",
+        "The hidden costs of overconfidence",
+        "Ordinary people as data collectors",
+        "Making volunteer records reliable",
+        "Why scientists receive less praise than doctors",
+        "Teaching science more effectively in schools"
+      ],
+      "answer": 2,
+      "explain": {
+        "uz": "Xatboshi C: ishonch faqat maʼlumot toʻgʻriligiga emas, qadriyatlar, oʻzlik va institutlarga ham bogʻliq — «Trust … is not simply a judgement about whether a piece of information is accurate»."
+      }
+    },
+    {
+      "id": "c1-30-test5-q3",
+      "type": "heading",
+      "para": 3,
+      "options": [
+        "Confidence in science is real but uneven",
+        "A discredited assumption about ignorance",
+        "Trust depends on more than information",
+        "A temptation to hide doubt",
+        "The hidden costs of overconfidence",
+        "Ordinary people as data collectors",
+        "Making volunteer records reliable",
+        "Why scientists receive less praise than doctors",
+        "Teaching science more effectively in schools"
+      ],
+      "answer": 3,
+      "explain": {
+        "uz": "Xatboshi D: muloqotchilar noaniqlikni tan olishdan qoʻrqqan va natijalarni haddan ortiq ishonch bilan berishgan — shubhani yashirish vasvasasi."
+      }
+    },
+    {
+      "id": "c1-30-test5-q4",
+      "type": "heading",
+      "para": 4,
+      "options": [
+        "Confidence in science is real but uneven",
+        "A discredited assumption about ignorance",
+        "Trust depends on more than information",
+        "A temptation to hide doubt",
+        "The hidden costs of overconfidence",
+        "Ordinary people as data collectors",
+        "Making volunteer records reliable",
+        "Why scientists receive less praise than doctors",
+        "Teaching science more effectively in schools"
+      ],
+      "answer": 4,
+      "explain": {
+        "uz": "Xatboshi E: haddan tashqari ishonch xavfli — maslahat oʻzgarsa, «a sign of incompetence» kabi koʻrinadi."
+      }
+    },
+    {
+      "id": "c1-30-test5-q5",
+      "type": "heading",
+      "para": 6,
+      "options": [
+        "Confidence in science is real but uneven",
+        "A discredited assumption about ignorance",
+        "Trust depends on more than information",
+        "A temptation to hide doubt",
+        "The hidden costs of overconfidence",
+        "Ordinary people as data collectors",
+        "Making volunteer records reliable",
+        "Why scientists receive less praise than doctors",
+        "Teaching science more effectively in schools"
+      ],
+      "answer": 6,
+      "explain": {
+        "uz": "Xatboshi G: koʻngillilar maʼlumotlari sifati muammosi va yechimlar — «standardised methods, training, checks…»."
+      }
+    },
+    {
+      "id": "c1-30-test5-q6",
+      "type": "tfng",
+      "statement": "According to the writer, trust in scientists is the same across different social groups.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«trust is far from uniform. It can vary considerably between countries and social groups»."
+      },
+      "para": 0
+    },
+    {
+      "id": "c1-30-test5-q7",
+      "type": "tfng",
+      "statement": "The term deficit model was introduced by people who supported this approach.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«which critics later labelled the deficit model» — atamani tarafdorlar emas, tanqidchilar qoʻllagan."
+      },
+      "para": 1
+    },
+    {
+      "id": "c1-30-test5-q8",
+      "type": "tfng",
+      "statement": "Scientific findings have sometimes been presented as more certain than the evidence justified.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«findings have sometimes been presented with greater confidence than the evidence warranted» — warranted = justified."
+      },
+      "para": 3
+    },
+    {
+      "id": "c1-30-test5-q9",
+      "type": "tfng",
+      "statement": "Volunteers in the North American bird count must pass a written identification test.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Koʻngillilar qushlarni qayd etishi aytilgan, lekin ular uchun imtihon haqida maʼlumot yoʻq."
+      },
+      "para": 5
+    },
+    {
+      "id": "c1-30-test5-q10",
+      "type": "gap",
+      "prompt": "Summary: Some research suggests that giving a ___ instead of a single figure reduces trust only slightly, if at all.",
+      "answers": [
+        "range"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«by giving a range rather than a single figure, reduces trust only slightly, if at all»."
+      },
+      "para": 4
+    },
+    {
+      "id": "c1-30-test5-q11",
+      "type": "gap",
+      "prompt": "Summary: Volunteers often survey convenient places instead of a ___ sample of the landscape.",
+      "answers": [
+        "representative"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«rather than a representative sample of the landscape»."
+      },
+      "para": 6
+    },
+    {
+      "id": "c1-30-test5-q12",
+      "type": "gap",
+      "prompt": "Summary: Statistical techniques take into account differences in observer ___ and experience.",
+      "answers": [
+        "effort"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«take account of differences in observer effort and experience»."
+      },
+      "para": 6
+    },
+    {
+      "id": "c1-30-test5-q13",
+      "type": "choice",
+      "prompt": "Why, according to the writer, is it hard to show that citizen science improves understanding of science?",
+      "options": [
+        "Volunteers are rarely asked about their views.",
+        "Participants are often already interested in science.",
+        "Most projects are too short to have any effect.",
+        "Researchers refuse to use volunteers' data."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«Whether it does so is harder to establish, since volunteers are often people who were already interested in science»."
+      },
+      "para": 7
+    },
+    {
+      "id": "c1-30-test5-q14",
+      "type": "choice",
+      "prompt": "Which statement best reflects the shift in thinking described in the final paragraph?",
+      "options": [
+        "The public should simply receive information from experts.",
+        "The public is increasingly regarded as a possible partner in research.",
+        "Members of the public cannot provide useful scientific data.",
+        "Public interest in science has declined in recent years."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«not merely as an audience to be informed but as a potential partner in the production of knowledge»."
+      },
+      "para": 7
+    }
+  ]
+}

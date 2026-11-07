@@ -1,0 +1,305 @@
+{
+  "id": "b2-29-test4",
+  "title": {
+    "uz": "4-test: Shahar dehqonchiligi"
+  },
+  "en": "Farming in the City",
+  "level": "B2",
+  "kind": "exam",
+  "tag": {
+    "uz": "Shahar va jamiyat",
+    "en": "Cities and society"
+  },
+  "intro": {
+    "uz": "Toʻliq mashq testi: shaharlar ichida oziq-ovqat yetishtirish haqidagi matn. Haqiqiy imtihondagidek bitta matnga 13 ta savol va bir nechta topshiriq turi beriladi: Matching headings, True/False/Not Given, boʻshliq toʻldirish va test savollari. Taxminan 20 daqiqa ajrating: avval matnga tez koʻz yugurtirib sarlavhalarni moslang, keyin TFNG va boʻshliqlarni bajaring, test savollarini esa oxiriga qoldiring."
+  },
+  "paragraphs": [
+    {
+      "en": "As cities grow, the distance between the people who eat food and the places where it is grown keeps increasing. Fruit and vegetables often travel long distances before they reach a shop. In response, a growing number of residents, businesses and local authorities are experimenting with urban farming, the practice of producing food within the city itself. Supporters believe that growing food closer to home could reduce transport, provide fresher produce and reconnect city dwellers with nature."
+    },
+    {
+      "en": "One of the most visible forms is the rooftop garden. Many buildings have flat roofs that are used for nothing at all, and these can be covered with raised beds or containers of soil. Supporters point out that such gardens do more than produce vegetables. A layer of plants can help keep the building beneath cooler in summer and can absorb some of the rainwater that would otherwise rush into drains. Before a garden is created, however, engineers should check whether the roof can carry the extra weight of wet soil."
+    },
+    {
+      "en": "A more technological approach is the vertical farm. Here, crops are grown indoors on shelves stacked one above another, under artificial lights. Instead of soil, the roots receive water containing nutrients, and the conditions can be controlled so carefully that harvests are possible all year round. Such farms often use much less water than open fields. Their main weakness is cost, since lighting and climate control consume a great deal of electricity. For this reason, they mostly grow leafy greens and herbs rather than staple crops."
+    },
+    {
+      "en": "Community gardens take a simpler and more social form. A piece of unused land is divided into small plots, and local people grow whatever they like. Gardeners often say that the friendships formed over the fence are as valuable as the tomatoes, and children who take part learn where their food actually comes from. Such gardens can also turn neglected corners of a neighbourhood into pleasant green spaces."
+    },
+    {
+      "en": "In Uzbekistan, this idea is hardly new. Traditional courtyard houses have long had grapevines, apricot trees and small vegetable beds, and many families still grow part of their own food. Some mahallas are now applying the same tradition on a shared scale, planting fruit trees and vegetables on unused land near schools or apartment blocks. Such projects are often carried out through hashar, the custom of neighbours working together voluntarily for the common good."
+    },
+    {
+      "en": "Despite the enthusiasm, urban farming has clear limits. Land in cities is expensive, and developers usually prefer to build on it. Soil in former industrial areas may be polluted, so it needs testing before anything edible is planted. Most importantly, city farms produce only a small share of what urban populations eat, and some critics argue that they are closer to a hobby than a real solution. Growing food in a small space also requires time and knowledge, which not every resident has."
+    },
+    {
+      "en": "Even so, it would be a mistake to judge urban farming only by the amount of food it produces. It can bring neighbours together, make cities greener and teach young people valuable skills. Rather than replacing rural agriculture, it is perhaps best understood as a useful addition to it."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "resident",
+      "uz": "aholi, yashovchi"
+    },
+    {
+      "en": "local authorities",
+      "uz": "mahalliy hokimiyat"
+    },
+    {
+      "en": "rooftop",
+      "uz": "tom usti"
+    },
+    {
+      "en": "raised bed",
+      "uz": "baland pushta (hoshiyali koʻtarma egat)"
+    },
+    {
+      "en": "absorb",
+      "uz": "shimmoq"
+    },
+    {
+      "en": "drain",
+      "uz": "yomgʻir suvi quvuri, drenaj"
+    },
+    {
+      "en": "artificial",
+      "uz": "sunʼiy"
+    },
+    {
+      "en": "nutrient",
+      "uz": "ozuqa moddasi"
+    },
+    {
+      "en": "harvest",
+      "uz": "hosil"
+    },
+    {
+      "en": "consume",
+      "uz": "sarflamoq, isteʼmol qilmoq"
+    },
+    {
+      "en": "staple crop",
+      "uz": "asosiy ekin (bugʻdoy, guruch kabi)"
+    },
+    {
+      "en": "plot",
+      "uz": "yer uchastkasi, boʻlak"
+    },
+    {
+      "en": "voluntarily",
+      "uz": "ixtiyoriy ravishda"
+    },
+    {
+      "en": "enthusiasm",
+      "uz": "ishtiyoq"
+    },
+    {
+      "en": "edible",
+      "uz": "yeyiladigan"
+    },
+    {
+      "en": "critic",
+      "uz": "tanqidchi"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "i64-so-that-in-order-to",
+      "title": {
+        "uz": "so … that: natija"
+      },
+      "example": "the conditions can be controlled so carefully that harvests are possible all year round"
+    },
+    {
+      "topicId": "i29-passive-basics",
+      "title": {
+        "uz": "Majhul nisbat: are grown, is divided"
+      },
+      "example": "A piece of unused land is divided into small plots"
+    }
+  ],
+  "questions": [
+    {
+      "id": "b2-29-test4-q1",
+      "type": "heading",
+      "para": 1,
+      "options": [
+        "Making use of empty roofs",
+        "Farming without soil or sunlight",
+        "An old local tradition on a shared scale",
+        "Why the enthusiasm has limits",
+        "Growing grain in city centres",
+        "How neighbours share the cost of energy"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "Xatboshi B: boʻsh tekis tomlardan bogʻ sifatida foydalanish."
+      }
+    },
+    {
+      "id": "b2-29-test4-q2",
+      "type": "heading",
+      "para": 2,
+      "options": [
+        "Making use of empty roofs",
+        "Farming without soil or sunlight",
+        "An old local tradition on a shared scale",
+        "Why the enthusiasm has limits",
+        "Growing grain in city centres",
+        "How neighbours share the cost of energy"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "Xatboshi C: vertikal fermalar — tuproq oʻrniga ozuqali suv, quyosh oʻrniga sunʼiy chiroq. «Growing grain in city centres» chalgʻitadi: aksincha, asosiy ekinlar yetishtirilmaydi."
+      }
+    },
+    {
+      "id": "b2-29-test4-q3",
+      "type": "heading",
+      "para": 4,
+      "options": [
+        "Making use of empty roofs",
+        "Farming without soil or sunlight",
+        "An old local tradition on a shared scale",
+        "Why the enthusiasm has limits",
+        "Growing grain in city centres",
+        "How neighbours share the cost of energy"
+      ],
+      "answer": 2,
+      "explain": {
+        "uz": "Xatboshi E: hovli bogʻlari va hashar — eski anʼana endi mahalla miqyosida."
+      }
+    },
+    {
+      "id": "b2-29-test4-q4",
+      "type": "heading",
+      "para": 5,
+      "options": [
+        "Making use of empty roofs",
+        "Farming without soil or sunlight",
+        "An old local tradition on a shared scale",
+        "Why the enthusiasm has limits",
+        "Growing grain in city centres",
+        "How neighbours share the cost of energy"
+      ],
+      "answer": 3,
+      "explain": {
+        "uz": "Xatboshi F: «Despite the enthusiasm, urban farming has clear limits»."
+      }
+    },
+    {
+      "id": "b2-29-test4-q5",
+      "type": "tfng",
+      "statement": "Rooftop gardens can help to lower the temperature of the building below them in summer.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«can help keep the building beneath cooler in summer»."
+      },
+      "para": 1
+    },
+    {
+      "id": "b2-29-test4-q6",
+      "type": "tfng",
+      "statement": "Vertical farms are mainly used to grow crops such as wheat and rice.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«they mostly grow leafy greens and herbs rather than staple crops»."
+      },
+      "para": 2
+    },
+    {
+      "id": "b2-29-test4-q7",
+      "type": "tfng",
+      "statement": "Most community gardens are managed by local authorities.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Jamoat bogʻlari tasvirlangan, lekin ularni kim boshqarishi aytilmagan (hokimiyat faqat A xatboshida umumiy tilga olinadi)."
+      },
+      "para": 3
+    },
+    {
+      "id": "b2-29-test4-q8",
+      "type": "tfng",
+      "statement": "People who take part in hashar are paid for their work.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«neighbours working together voluntarily» — ixtiyoriy, haq toʻlanmaydi."
+      },
+      "para": 4
+    },
+    {
+      "id": "b2-29-test4-q9",
+      "type": "gap",
+      "prompt": "Before a roof garden is built, ___ should check that the roof can hold the weight.",
+      "answers": [
+        "engineers"
+      ],
+      "maxWords": 1,
+      "explain": {
+        "uz": "«engineers should check whether the roof can carry the extra weight»."
+      },
+      "para": 1
+    },
+    {
+      "id": "b2-29-test4-q10",
+      "type": "gap",
+      "prompt": "In vertical farms, roots get water that contains ___.",
+      "answers": [
+        "nutrients"
+      ],
+      "maxWords": 1,
+      "explain": {
+        "uz": "«the roots receive water containing nutrients»."
+      },
+      "para": 2
+    },
+    {
+      "id": "b2-29-test4-q11",
+      "type": "gap",
+      "prompt": "Soil in former industrial areas may need ___ before food is planted in it.",
+      "answers": [
+        "testing"
+      ],
+      "maxWords": 1,
+      "explain": {
+        "uz": "«so it needs testing before anything edible is planted»."
+      },
+      "para": 5
+    },
+    {
+      "id": "b2-29-test4-q12",
+      "type": "choice",
+      "prompt": "What is the main disadvantage of vertical farms, according to the text?",
+      "options": [
+        "They need a lot of water.",
+        "They can only produce food in summer.",
+        "They use large amounts of electricity.",
+        "They take up valuable land."
+      ],
+      "answer": 2,
+      "explain": {
+        "uz": "«lighting and climate control consume a great deal of electricity». Suv aksincha kam ishlatiladi."
+      },
+      "para": 2
+    },
+    {
+      "id": "b2-29-test4-q13",
+      "type": "choice",
+      "prompt": "Which statement best reflects the writer's conclusion?",
+      "options": [
+        "Urban farming should replace farming in the countryside.",
+        "Urban farming is only a hobby with no real value.",
+        "Urban farming is valuable as a complement to rural agriculture."
+      ],
+      "answer": 2,
+      "explain": {
+        "uz": "«Rather than replacing rural agriculture, it is perhaps best understood as a useful addition to it». «hobby» fikri tanqidchilarniki, muallifniki emas."
+      },
+      "para": 6
+    }
+  ]
+}

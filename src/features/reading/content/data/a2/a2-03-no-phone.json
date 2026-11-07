@@ -1,0 +1,208 @@
+{
+  "id": "a2-03-no-phone",
+  "title": {
+    "uz": "Telefonsiz bir hafta"
+  },
+  "en": "A Week Without a Phone",
+  "level": "A2",
+  "kind": "story",
+  "tag": {
+    "uz": "Texnologiya",
+    "en": "Technology"
+  },
+  "intro": {
+    "uz": "Madina bir hafta telefonsiz yashab koʻradi. Oʻqishdan oldin: siz bir kun telefonsiz yasha olasizmi?"
+  },
+  "paragraphs": [
+    {
+      "en": "Last month, our English teacher gave us a strange task: live for one week without a phone. Most students in my class laughed, but I decided to try. My name is Madina, and I am sixteen. Before that week, I spent about five hours a day on my phone.",
+      "uz": "Oʻtgan oy ingliz tili oʻqituvchimiz bizga gʻalati topshiriq berdi: bir hafta telefonsiz yashash. Sinfimizdagi koʻp oʻquvchilar kulishdi, lekin men sinab koʻrishga qaror qildim. Mening ismim Madina, oʻn olti yoshdaman. Oʻsha haftagacha kuniga taxminan besh soatni telefonda oʻtkazardim."
+    },
+    {
+      "en": "The first two days were terrible. I didn't know the time, so I was late for school on Monday. In the evenings I felt bored and lonely. I wanted to check my messages every ten minutes.",
+      "uz": "Dastlabki ikki kun dahshatli oʻtdi. Soat nechaligini bilmadim, shuning uchun dushanba kuni maktabga kechikdim. Kechqurunlari zerikdim va oʻzimni yolgʻiz his qildim. Har oʻn daqiqada xabarlarimni tekshirgim kelardi."
+    },
+    {
+      "en": "On Wednesday, things got better. I found an old book on my sister's shelf and read it in two days. I also helped my grandmother in the garden, and she told me funny stories about her school years. I have never laughed so much with her!",
+      "uz": "Chorshanba kuni ishlar yaxshilandi. Opamning javonidan eski bir kitob topib, uni ikki kunda oʻqib chiqdim. Bogʻda buvimga ham yordam berdim, u menga maktab yillari haqida kulgili voqealarni aytib berdi. U bilan hech qachon bunchalik koʻp kulmagan edim!"
+    },
+    {
+      "en": "By the end of the week, I was sleeping better and I wasn't so tired in the morning. I also spent more time with my family. We talked at dinner instead of looking at our screens.",
+      "uz": "Hafta oxiriga kelib yaxshiroq uxlay boshladim va ertalab unchalik charchamasdim. Oilam bilan ham koʻproq vaqt oʻtkaza boshladim. Kechki ovqatda ekranlarga qarash oʻrniga suhbatlashdik."
+    },
+    {
+      "en": "Now I have my phone again, but I'm going to use it less. I put it in another room at night, and I read before bed. It was one of the best weeks of my life.",
+      "uz": "Hozir telefonim yana oʻzimda, lekin undan kamroq foydalanmoqchiman. Kechasi uni boshqa xonaga qoʻyaman, uxlashdan oldin kitob oʻqiyman. Bu hayotimdagi eng yaxshi haftalardan biri boʻldi."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "strange",
+      "uz": "gʻalati"
+    },
+    {
+      "en": "task",
+      "uz": "topshiriq, vazifa"
+    },
+    {
+      "en": "decide",
+      "uz": "qaror qilmoq"
+    },
+    {
+      "en": "terrible",
+      "uz": "dahshatli"
+    },
+    {
+      "en": "bored",
+      "uz": "zerikkan"
+    },
+    {
+      "en": "lonely",
+      "uz": "yolgʻiz, tanho"
+    },
+    {
+      "en": "message",
+      "uz": "xabar"
+    },
+    {
+      "en": "shelf",
+      "uz": "javon, tokcha"
+    },
+    {
+      "en": "spend time",
+      "uz": "vaqt oʻtkazmoq"
+    },
+    {
+      "en": "instead of",
+      "uz": "…ning oʻrniga"
+    },
+    {
+      "en": "screen",
+      "uz": "ekran"
+    },
+    {
+      "en": "less",
+      "uz": "kamroq"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "e15-ever-never",
+      "title": {
+        "uz": "Present Perfect + never"
+      },
+      "example": "I have never laughed so much with her!"
+    },
+    {
+      "topicId": "e22-going-to",
+      "title": {
+        "uz": "going to — reja"
+      },
+      "example": "I'm going to use it less."
+    }
+  ],
+  "questions": [
+    {
+      "id": "a2-03-no-phone-q1",
+      "type": "choice",
+      "prompt": "Who gave the students the task?",
+      "options": [
+        "their English teacher",
+        "their parents",
+        "the school director"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "«our English teacher gave us a strange task»."
+      },
+      "para": 0
+    },
+    {
+      "id": "a2-03-no-phone-q2",
+      "type": "gap",
+      "prompt": "Before the week, Madina spent about ___ hours a day on her phone.",
+      "answers": [
+        "five",
+        "5"
+      ],
+      "explain": {
+        "uz": "«I spent about five hours a day on my phone»."
+      },
+      "para": 0
+    },
+    {
+      "id": "a2-03-no-phone-q3",
+      "type": "tfng",
+      "statement": "Madina was late for school on Monday.",
+      "answer": "T",
+      "explain": {
+        "uz": "«I was late for school on Monday»."
+      },
+      "para": 1
+    },
+    {
+      "id": "a2-03-no-phone-q4",
+      "type": "choice",
+      "prompt": "Why was Madina late for school?",
+      "options": [
+        "She missed the bus.",
+        "She didn't know the time.",
+        "She was ill."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«I didn't know the time, so I was late» — so = shuning uchun."
+      },
+      "para": 1
+    },
+    {
+      "id": "a2-03-no-phone-q5",
+      "type": "tfng",
+      "statement": "Madina felt happy and busy in the evenings of the first two days.",
+      "answer": "F",
+      "explain": {
+        "uz": "«In the evenings I felt bored and lonely»."
+      },
+      "para": 1
+    },
+    {
+      "id": "a2-03-no-phone-q6",
+      "type": "gap",
+      "prompt": "Madina found an old book on her ___ shelf.",
+      "answers": [
+        "sister's",
+        "sisters",
+        "sister"
+      ],
+      "explain": {
+        "uz": "«on my sister's shelf» — opasining javonida."
+      },
+      "para": 2
+    },
+    {
+      "id": "a2-03-no-phone-q7",
+      "type": "choice",
+      "prompt": "What did her grandmother tell her about?",
+      "options": [
+        "her garden",
+        "her school years",
+        "her favourite books"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«she told me funny stories about her school years»."
+      },
+      "para": 2
+    },
+    {
+      "id": "a2-03-no-phone-q8",
+      "type": "tfng",
+      "statement": "Now Madina keeps her phone next to her bed at night.",
+      "answer": "F",
+      "explain": {
+        "uz": "Kechasi telefonni boshqa xonaga qoʻyadi: «I put it in another room at night»."
+      },
+      "para": 4
+    }
+  ]
+}

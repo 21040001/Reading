@@ -1,0 +1,258 @@
+{
+  "id": "b2-19-language-learning",
+  "title": {
+    "uz": "Til qanday oʻrganiladi"
+  },
+  "en": "How We Learn Languages",
+  "level": "B2",
+  "kind": "exam",
+  "tag": {
+    "uz": "Taʼlim",
+    "en": "Education"
+  },
+  "intro": {
+    "uz": "Topshiriq: Sentence completion (NO MORE THAN N WORDS) va True/False/Not Given. Maslahat: gaplar odatda matn tartibida keladi, shuning uchun bitta javobni topsangiz, keyingisini shu joydan keyin qidiring."
+  },
+  "paragraphs": [
+    {
+      "en": "Almost everyone who has tried to learn a foreign language has wondered why it seems so easy for some people and so difficult for others. Researchers who study second language learning do not agree on every point, but several ideas are widely accepted. Taken together, they suggest that there is no single secret method, but rather a combination of habits that make progress more likely."
+    },
+    {
+      "en": "The first is input. Learners need to hear and read a large amount of the language, and it helps if this material is understandable but slightly above their current level. Through repeated exposure, they gradually notice how words are combined and how sentences are built. Many teachers therefore recommend reading graded books or listening to podcasts on familiar topics, rather than struggling with material that is far too difficult."
+    },
+    {
+      "en": "Input alone, however, is rarely enough. To speak and write with confidence, learners also need practice in producing the language. When people try to express their own ideas, they discover gaps in their knowledge: a word they cannot remember, or a structure they are unsure about. Conversation, writing short texts and even talking to oneself can all provide valuable output practice."
+    },
+    {
+      "en": "Memory also plays a central role. New vocabulary is easily forgotten if it is studied only once. A technique known as spaced repetition addresses this problem by reviewing words at gradually increasing intervals: after a day, then a few days, then a week, and so on. Ideally, each review comes just as the word is about to be forgotten, which is thought to strengthen long-term memory. Flashcards, on paper or on a phone, are a common way of applying this idea."
+    },
+    {
+      "en": "Motivation is perhaps the hardest factor to control. Learners who have a clear personal reason, such as studying abroad, finding a job or communicating with relatives, often persist longer than those who study only because they must. Setting small, achievable goals and noticing one's own progress can help to maintain motivation during the difficult middle stage, when improvement seems slow."
+    },
+    {
+      "en": "Finally, it is worth rethinking the role of mistakes. Many learners are afraid of making errors, especially in front of others, and so they avoid speaking. Yet mistakes are a normal and even necessary part of learning, because they show that the learner is testing ideas about how the language works. Feedback from a teacher or a patient friend turns those errors into opportunities. In the end, for most learners, steady practice over months and years is likely to matter more than natural talent."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "combination",
+      "uz": "birikma, uygʻunlik"
+    },
+    {
+      "en": "input",
+      "uz": "oʻqib-eshitib qabul qilinadigan til materiali (input)"
+    },
+    {
+      "en": "exposure",
+      "uz": "tilga duch kelib turish, til muhitida boʻlish"
+    },
+    {
+      "en": "graded",
+      "uz": "darajalarga moslangan"
+    },
+    {
+      "en": "struggle with",
+      "uz": "qiynalmoq, kurashmoq"
+    },
+    {
+      "en": "confidence",
+      "uz": "ishonch, oʻziga ishonch"
+    },
+    {
+      "en": "output",
+      "uz": "oʻzi gapirish va yozish (output)"
+    },
+    {
+      "en": "vocabulary",
+      "uz": "lugʻat boyligi"
+    },
+    {
+      "en": "spaced repetition",
+      "uz": "oraliqli takrorlash"
+    },
+    {
+      "en": "interval",
+      "uz": "oraliq, vaqt oraligʻi"
+    },
+    {
+      "en": "strengthen",
+      "uz": "mustahkamlamoq"
+    },
+    {
+      "en": "persist",
+      "uz": "davom ettirmoq, qatʼiyat koʻrsatmoq"
+    },
+    {
+      "en": "achievable",
+      "uz": "erishsa boʻladigan"
+    },
+    {
+      "en": "feedback",
+      "uz": "fikr-mulohaza, qayta aloqa"
+    },
+    {
+      "en": "talent",
+      "uz": "isteʼdod"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "i66-adjective-preposition",
+      "title": {
+        "uz": "afraid of + -ing"
+      },
+      "example": "Many learners are afraid of making errors"
+    },
+    {
+      "topicId": "c34-participle-clauses",
+      "title": {
+        "uz": "Participle clause: Taken together, …"
+      },
+      "example": "Taken together, they suggest that there is no single secret method"
+    }
+  ],
+  "questions": [
+    {
+      "id": "b2-19-language-learning-q1",
+      "type": "gap",
+      "prompt": "Useful input is easy to understand but a little above the learner's ___.",
+      "answers": [
+        "current level",
+        "level"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "2-xatboshi: «slightly above their current level». «a little» = «slightly»."
+      },
+      "para": 1
+    },
+    {
+      "id": "b2-19-language-learning-q2",
+      "type": "gap",
+      "prompt": "Through repeated ___, learners start to notice how sentences are formed.",
+      "answers": [
+        "exposure"
+      ],
+      "maxWords": 1,
+      "explain": {
+        "uz": "«Through repeated exposure, they gradually notice how … sentences are built»."
+      },
+      "para": 1
+    },
+    {
+      "id": "b2-19-language-learning-q3",
+      "type": "gap",
+      "prompt": "When learners try to express their own ideas, they find ___ in what they know.",
+      "answers": [
+        "gaps"
+      ],
+      "maxWords": 1,
+      "explain": {
+        "uz": "3-xatboshi: «they discover gaps in their knowledge». Koʻplikda yozing."
+      },
+      "para": 2
+    },
+    {
+      "id": "b2-19-language-learning-q4",
+      "type": "gap",
+      "prompt": "With spaced repetition, words are reviewed at gradually increasing ___.",
+      "answers": [
+        "intervals"
+      ],
+      "maxWords": 1,
+      "explain": {
+        "uz": "4-xatboshi: «reviewing words at gradually increasing intervals»."
+      },
+      "para": 3
+    },
+    {
+      "id": "b2-19-language-learning-q5",
+      "type": "gap",
+      "prompt": "Reviewing a word just before it is forgotten is thought to strengthen ___.",
+      "answers": [
+        "long-term memory"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«which is thought to strengthen long-term memory». «long-term» bitta soʻz sanaladi — jami ikki soʻz."
+      },
+      "para": 3
+    },
+    {
+      "id": "b2-19-language-learning-q6",
+      "type": "gap",
+      "prompt": "Learners who have a clear ___ for studying often continue for longer.",
+      "answers": [
+        "personal reason",
+        "reason"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "5-xatboshi: «Learners who have a clear personal reason … often persist longer». «continue» = «persist»."
+      },
+      "para": 4
+    },
+    {
+      "id": "b2-19-language-learning-q7",
+      "type": "gap",
+      "prompt": "With ___ from a teacher or a friend, mistakes can become opportunities.",
+      "answers": [
+        "feedback"
+      ],
+      "maxWords": 1,
+      "explain": {
+        "uz": "6-xatboshi: «Feedback from a teacher or a patient friend turns those errors into opportunities»."
+      },
+      "para": 5
+    },
+    {
+      "id": "b2-19-language-learning-q8",
+      "type": "tfng",
+      "statement": "Researchers have identified one method that works best for all learners.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "1-xatboshi: «there is no single secret method» — yagona usul yoʻq."
+      },
+      "para": 0
+    },
+    {
+      "id": "b2-19-language-learning-q9",
+      "type": "tfng",
+      "statement": "Talking to yourself can be a useful way to practise a language.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "3-xatboshi: «even talking to oneself can all provide valuable output practice»."
+      },
+      "para": 2
+    },
+    {
+      "id": "b2-19-language-learning-q10",
+      "type": "tfng",
+      "statement": "Flashcards on paper are more effective than flashcards on a phone.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "4-xatboshida ikkalasi ham tilga olinadi («on paper or on a phone»), lekin solishtirilmagan."
+      },
+      "para": 3
+    },
+    {
+      "id": "b2-19-language-learning-q11",
+      "type": "choice",
+      "prompt": "According to the writer, mistakes are",
+      "options": [
+        "something to avoid in front of others.",
+        "a sign that a learner lacks talent.",
+        "a natural part of the learning process.",
+        "important only when writing."
+      ],
+      "answer": 2,
+      "explain": {
+        "uz": "6-xatboshi: «mistakes are a normal and even necessary part of learning». Xatolardan qochish — oʻquvchilarning odati, muallifning fikri emas."
+      },
+      "para": 5
+    }
+  ]
+}

@@ -1,0 +1,348 @@
+{
+  "id": "c1-11-decisions",
+  "title": {
+    "uz": "Qaror qabul qilish"
+  },
+  "en": "Shortcuts of the Mind",
+  "level": "C1",
+  "kind": "exam",
+  "tag": {
+    "uz": "Psixologiya",
+    "en": "Psychology"
+  },
+  "intro": {
+    "uz": "Akademik matn: inson qanday qaror qabul qilishi, «evristika» deb ataluvchi aqliy qisqa yoʻllar va ular keltirib chiqaradigan xatolar haqida. Topshiriqlar: Matching headings, True/False/Not Given, boʻshliq toʻldirish va test savollari. Taxminan 20 daqiqa ajrating. Maslahat: sarlavhalarni moslashda har bir xatboshining birinchi va oxirgi gapiga eʼtibor bering — asosiy fikr koʻpincha shu yerda boʻladi; matndagi bitta soʻzga oʻxshash sarlavha koʻpincha tuzoq."
+  },
+  "paragraphs": [
+    {
+      "en": "For much of the twentieth century, many economic models rested on a convenient assumption: that people weigh the available options carefully and choose whatever best serves their interests. Psychologists who studied real decisions, however, began to document a rather different picture. Rather than calculating every possibility, people appear to rely heavily on heuristics, mental shortcuts that allow a judgement to be reached quickly and with little effort. These shortcuts are often remarkably effective, yet under certain conditions they produce systematic and predictable errors, which researchers have come to call cognitive biases."
+    },
+    {
+      "en": "A useful, if simplified, way of thinking about this research distinguishes between two modes of thought. The first is fast, automatic and largely effortless; it is the mode that allows an experienced driver to brake before consciously noticing a hazard, or a reader to grasp the meaning of a familiar word instantly. The second is slow, deliberate and demanding, and it is called upon when we solve an unfamiliar problem or check an argument step by step. It should be stressed that these are descriptions of styles of processing rather than two physical systems located in separate parts of the brain. Most everyday judgements are handled by the fast mode, and the slower one frequently accepts its conclusions without serious scrutiny."
+    },
+    {
+      "en": "One of the most thoroughly documented biases is anchoring. When people are asked to estimate an uncertain quantity, an initial number, even one that is obviously irrelevant, tends to pull their answer towards it. In one well-known demonstration, participants watched what appeared to be a random number produced by a spinning wheel before estimating a quantity entirely unrelated to it; those who had seen a higher number generally gave higher estimates. Outside the laboratory, the same tendency may explain why the first offer in a negotiation so often shapes the final agreement, and why a reduced price looks attractive mainly in comparison with the original figure printed beside it."
+    },
+    {
+      "en": "A second shortcut, the availability heuristic, involves judging how frequent or likely an event is by how easily examples come to mind. Since memorable events are often genuinely common, this rule of thumb frequently works. The difficulty is that ease of recall is also influenced by how vivid, recent or emotionally charged an event is. Dramatic incidents such as plane crashes or shark attacks receive extensive media coverage and are easy to picture, so people may overestimate their likelihood while underestimating less spectacular but considerably more common risks. Judgements of risk, in other words, can reflect the news agenda as much as the underlying reality."
+    },
+    {
+      "en": "Perhaps the most consequential finding concerns the asymmetry between losses and gains. A loss, it seems, is generally felt more intensely than a gain of the same size, a tendency known as loss aversion. This helps to explain why many people decline a bet on the toss of a coin that offers an equal chance of winning or losing the same amount of money, even though such a bet is, in purely financial terms, perfectly fair. Closely related is the framing effect: the same option may be accepted when it is described in terms of what can be gained but rejected when it is presented in terms of what might be lost."
+    },
+    {
+      "en": "It would be a mistake, however, to conclude that human judgement is simply defective. Some researchers have argued that heuristics should be evaluated not against an abstract ideal of rationality but in relation to the environments in which they are used. From this perspective, a simple rule that ignores much of the available information can, under conditions of uncertainty, perform as well as or even better than an elaborate calculation. Biases, then, may be best understood as the occasional price paid for a system that is, for the most part, fast, economical and surprisingly accurate."
+    },
+    {
+      "en": "Under what conditions, then, can intuition be trusted? A considerable degree of consensus has emerged, even among researchers from rival traditions, that expert intuition is reliable mainly when two conditions are met: the environment must be sufficiently regular to contain learnable patterns, and the person must have had extensive practice with prompt and accurate feedback. Experienced firefighters, nurses and chess players often meet these conditions, and their rapid judgements can be impressively accurate. By contrast, those who make long-term forecasts about political events or financial markets operate in environments where feedback is delayed and patterns are unstable, and their confidence may far exceed their actual accuracy. Subjective certainty, in short, is a poor indicator of whether an intuition deserves to be believed."
+    },
+    {
+      "en": "Simply knowing about biases does not appear to make people immune to them. Were awareness alone sufficient, the researchers who study these effects would presumably be free of them, which does not seem to be the case. More promising are changes to the way decisions are structured: using checklists, deliberately considering why an initial judgement might be wrong, or seeking the views of others before committing to a conclusion. Such procedures cannot remove the shortcuts on which the mind depends, but they can create moments in which the slower mode of thinking has an opportunity to intervene."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "heuristic",
+      "uz": "evristika, aqliy qisqa yoʻl"
+    },
+    {
+      "en": "systematic",
+      "uz": "tizimli, muntazam takrorlanadigan"
+    },
+    {
+      "en": "deliberate",
+      "uz": "oʻylab qilingan, ongli"
+    },
+    {
+      "en": "scrutiny",
+      "uz": "sinchkov tekshiruv"
+    },
+    {
+      "en": "anchoring",
+      "uz": "«langar» effekti — boshlangʻich raqamga bogʻlanib qolish"
+    },
+    {
+      "en": "estimate",
+      "uz": "taxmin qilmoq; taxmin"
+    },
+    {
+      "en": "vivid",
+      "uz": "yorqin, jonli"
+    },
+    {
+      "en": "overestimate",
+      "uz": "oshirib baholamoq"
+    },
+    {
+      "en": "consequential",
+      "uz": "oqibati katta, muhim"
+    },
+    {
+      "en": "asymmetry",
+      "uz": "nosimmetriklik, notenglik"
+    },
+    {
+      "en": "loss aversion",
+      "uz": "yoʻqotishdan qochish moyilligi"
+    },
+    {
+      "en": "framing effect",
+      "uz": "taqdim etish (ramka) effekti"
+    },
+    {
+      "en": "elaborate",
+      "uz": "murakkab, puxta ishlangan"
+    },
+    {
+      "en": "consensus",
+      "uz": "umumiy kelishuv, yakdil fikr"
+    },
+    {
+      "en": "prompt feedback",
+      "uz": "tezkor qayta aloqa"
+    },
+    {
+      "en": "indicator",
+      "uz": "koʻrsatkich, belgi"
+    },
+    {
+      "en": "be immune to",
+      "uz": "… taʼsiriga berilmaslik, … dan himoyalangan boʻlmoq"
+    },
+    {
+      "en": "intervene",
+      "uz": "aralashmoq, oraga kirmoq"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "c50-inverted-conditionals",
+      "title": {
+        "uz": "Inversiyali shart gap: Were awareness alone sufficient, …"
+      },
+      "example": "Were awareness alone sufficient, the researchers who study these effects would presumably be free of them"
+    },
+    {
+      "topicId": "c39-it-there",
+      "title": {
+        "uz": "Kirish «it»: It would be a mistake … to conclude that …"
+      },
+      "example": "It would be a mistake, however, to conclude that human judgement is simply defective"
+    }
+  ],
+  "questions": [
+    {
+      "id": "c1-11-decisions-q1",
+      "type": "heading",
+      "para": 1,
+      "options": [
+        "Why knowing about errors is not enough to prevent them",
+        "Two contrasting styles of mental processing",
+        "How an arbitrary starting point distorts estimates",
+        "When memorability is mistaken for frequency",
+        "Why shortcuts deserve a fairer assessment",
+        "The circumstances in which experience produces reliable instincts",
+        "The brain regions responsible for rational thought",
+        "How advertisers exploit consumers' fears"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "Xatboshi B: fikrlashning ikki usuli — tez, avtomatik va sekin, ongli. «The brain regions …» chalgʻitadi: matnda aksincha «rather than two physical systems located in separate parts of the brain» deyilgan."
+      }
+    },
+    {
+      "id": "c1-11-decisions-q2",
+      "type": "heading",
+      "para": 2,
+      "options": [
+        "Why knowing about errors is not enough to prevent them",
+        "Two contrasting styles of mental processing",
+        "How an arbitrary starting point distorts estimates",
+        "When memorability is mistaken for frequency",
+        "Why shortcuts deserve a fairer assessment",
+        "The circumstances in which experience produces reliable instincts",
+        "The brain regions responsible for rational thought",
+        "How advertisers exploit consumers' fears"
+      ],
+      "answer": 2,
+      "explain": {
+        "uz": "Xatboshi C: «anchoring» — ahamiyatsiz boshlangʻich raqam ham taxminni oʻziga tortadi («an initial number, even one that is obviously irrelevant, tends to pull their answer towards it»)."
+      }
+    },
+    {
+      "id": "c1-11-decisions-q3",
+      "type": "heading",
+      "para": 3,
+      "options": [
+        "Why knowing about errors is not enough to prevent them",
+        "Two contrasting styles of mental processing",
+        "How an arbitrary starting point distorts estimates",
+        "When memorability is mistaken for frequency",
+        "Why shortcuts deserve a fairer assessment",
+        "The circumstances in which experience produces reliable instincts",
+        "The brain regions responsible for rational thought",
+        "How advertisers exploit consumers' fears"
+      ],
+      "answer": 3,
+      "explain": {
+        "uz": "Xatboshi D: hodisaning qanchalik tez-tez boʻlishini uning qanchalik oson esga tushishiga qarab baholash — «judging how frequent … by how easily examples come to mind»."
+      }
+    },
+    {
+      "id": "c1-11-decisions-q4",
+      "type": "heading",
+      "para": 5,
+      "options": [
+        "Why knowing about errors is not enough to prevent them",
+        "Two contrasting styles of mental processing",
+        "How an arbitrary starting point distorts estimates",
+        "When memorability is mistaken for frequency",
+        "Why shortcuts deserve a fairer assessment",
+        "The circumstances in which experience produces reliable instincts",
+        "The brain regions responsible for rational thought",
+        "How advertisers exploit consumers' fears"
+      ],
+      "answer": 4,
+      "explain": {
+        "uz": "Xatboshi F: evristikalarni «nuqson» deb emas, muhitga nisbatan baholash kerak — «It would be a mistake … to conclude that human judgement is simply defective»."
+      }
+    },
+    {
+      "id": "c1-11-decisions-q5",
+      "type": "heading",
+      "para": 6,
+      "options": [
+        "Why knowing about errors is not enough to prevent them",
+        "Two contrasting styles of mental processing",
+        "How an arbitrary starting point distorts estimates",
+        "When memorability is mistaken for frequency",
+        "Why shortcuts deserve a fairer assessment",
+        "The circumstances in which experience produces reliable instincts",
+        "The brain regions responsible for rational thought",
+        "How advertisers exploit consumers' fears"
+      ],
+      "answer": 5,
+      "explain": {
+        "uz": "Xatboshi G: intuitsiya qachon ishonchli — muhit muntazam va tezkor qayta aloqa boʻlganda. «instincts» = «intuition», «experience» = «extensive practice»."
+      }
+    },
+    {
+      "id": "c1-11-decisions-q6",
+      "type": "tfng",
+      "statement": "According to the passage, the two modes of thought correspond to separate physical structures in the brain.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "Matnda aksi: «these are descriptions of styles of processing rather than two physical systems located in separate parts of the brain»."
+      },
+      "para": 1
+    },
+    {
+      "id": "c1-11-decisions-q7",
+      "type": "tfng",
+      "statement": "People may misjudge certain risks partly because of the amount of media attention some events receive.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«Dramatic incidents … receive extensive media coverage … so people may overestimate their likelihood» — «misjudge» = «overestimate / underestimate»."
+      },
+      "para": 3
+    },
+    {
+      "id": "c1-11-decisions-q8",
+      "type": "tfng",
+      "statement": "Loss aversion tends to be stronger in older people than in younger people.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Loss aversion taʼriflangan, lekin yosh guruhlari solishtirilmagan — matnda bu haqda maʼlumot yoʻq."
+      },
+      "para": 4
+    },
+    {
+      "id": "c1-11-decisions-q9",
+      "type": "tfng",
+      "statement": "The writer suggests that expert intuition is reliable in any field where a person has many years of experience.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "Ikki shart kerak: «the environment must be sufficiently regular» va «prompt and accurate feedback». Siyosiy va moliyaviy prognozlarda tajriba boʻlsa ham intuitsiya ishonchsiz — demak «any field» notoʻgʻri."
+      },
+      "para": 6
+    },
+    {
+      "id": "c1-11-decisions-q10",
+      "type": "gap",
+      "prompt": "Researchers use the term ___ for the predictable errors that mental shortcuts can sometimes produce.",
+      "answers": [
+        "cognitive biases",
+        "biases"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«they produce systematic and predictable errors, which researchers have come to call cognitive biases»."
+      },
+      "para": 0
+    },
+    {
+      "id": "c1-11-decisions-q11",
+      "type": "gap",
+      "prompt": "Under the framing effect, an option may be rejected if it is described in terms of what might be ___.",
+      "answers": [
+        "lost"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«rejected when it is presented in terms of what might be lost» — «described» = «presented»."
+      },
+      "para": 4
+    },
+    {
+      "id": "c1-11-decisions-q12",
+      "type": "choice",
+      "prompt": "What is the writer's main purpose in paragraph F?",
+      "options": [
+        "To show that heuristics usually lead to serious mistakes",
+        "To challenge the view that mental shortcuts are simply a flaw",
+        "To argue that elaborate calculations are always preferable",
+        "To explain why economists rejected psychological research"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "Xatboshi F «It would be a mistake … to conclude that human judgement is simply defective» bilan boshlanadi va oddiy qoidalar ham yaxshi ishlashi mumkinligini aytadi — yaʼni evristikalarni oqlaydi. Qolgan variantlar matnga zid yoki yoʻq."
+      },
+      "para": 5
+    },
+    {
+      "id": "c1-11-decisions-q13",
+      "type": "choice",
+      "prompt": "Why does the writer mention the researchers who study biases in paragraph H?",
+      "options": [
+        "To praise their contribution to decision-making",
+        "To suggest that they are more biased than other people",
+        "To show that awareness of biases does not protect people from them",
+        "To recommend that everyone should study psychology"
+      ],
+      "answer": 2,
+      "explain": {
+        "uz": "«Were awareness alone sufficient, the researchers … would presumably be free of them, which does not seem to be the case» — bilish yetarli emasligini isbotlovchi misol."
+      },
+      "para": 7
+    },
+    {
+      "id": "c1-11-decisions-q14",
+      "type": "choice",
+      "prompt": "In paragraph C, the example of the reduced price is used to illustrate that",
+      "options": [
+        "shoppers rarely compare prices carefully",
+        "an earlier figure can influence how a later one is judged",
+        "negotiations usually end in agreement",
+        "discounts are generally a form of deception"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«a reduced price looks attractive mainly in comparison with the original figure printed beside it» — bu anchoring misoli: dastlabki raqam keyingi bahoga taʼsir qiladi."
+      },
+      "para": 2
+    }
+  ]
+}

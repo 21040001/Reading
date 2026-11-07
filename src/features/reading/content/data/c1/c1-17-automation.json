@@ -1,0 +1,294 @@
+{
+  "id": "c1-17-automation",
+  "title": {
+    "uz": "Avtomatlashtirish"
+  },
+  "en": "Will Machines Take Our Jobs?",
+  "level": "C1",
+  "kind": "exam",
+  "tag": {
+    "uz": "Texnologiya va iqtisod",
+    "en": "Technology and economy"
+  },
+  "intro": {
+    "uz": "Fikr-mulohaza matni (argumentativ esse): avtomatlashtirish mehnatni yoʻq qiladimi yoki oʻzgartiradimi — tarixiy oʻxshashliklar va oʻtish davrining narxi. Bu matnda True/False/Not Given savollari muallifning qarashlari haqida — IELTSdagi YES / NO / NOT GIVEN kabi: TRUE (YES) — muallif shu fikrni bildiradi; FALSE (NO) — muallif bunga zid fikrda; NOT GIVEN — muallif bu masalada fikr bildirmagan. Faktlarni emas, muallifning munosabatini koʻrsatuvchi soʻzlarni qidiring: I would argue, in my view, arguably, it seems to me, with some justification. Muallifning umumiy pozitsiyasini (ehtiyotkor optimizm) aniqlang — test savollari koʻpincha shunga tayanadi; xulosa (summary) boʻshliqlari uchun soʻzni matndan aynan koʻchiring. Taxminan 20 daqiqa ajrating."
+  },
+  "paragraphs": [
+    {
+      "en": "Every few decades, a new wave of technology prompts confident predictions that human work is about to become obsolete. Machines capable of driving vehicles, diagnosing illnesses and drafting documents have revived these fears with unusual intensity. It would be foolish to dismiss such concerns, but it would be equally unwise to accept them uncritically. The more useful question is not whether automation will change work, which it plainly will, but how that change is likely to unfold and who will bear its costs."
+    },
+    {
+      "en": "History offers some reassurance. When mechanised looms spread through the textile industry in the early nineteenth century, skilled textile workers protested, and some destroyed machinery, fearing for their livelihoods. Their fears were justified in the short term: many lost their trades. Over the longer term, however, industrialised economies created far more jobs than they destroyed, many of them in occupations that no one in 1810 could have imagined. Similarly, the steady decline of agricultural employment over the twentieth century did not produce permanent mass unemployment; workers moved, often reluctantly, into factories, offices and services."
+    },
+    {
+      "en": "Part of the reason is that automation rarely replaces whole jobs; it replaces tasks. A job is a bundle of activities, and when machines take over some of them, the remaining ones often become more valuable. Cash machines, for instance, did not eliminate the bank clerk overnight; instead, the role gradually shifted towards advising customers and selling services. Cheaper production also tends to lower prices, leaving consumers with more money to spend elsewhere, which in turn generates demand for new kinds of work. Spreadsheet software, similarly, changed the daily work of accountants without making the profession disappear."
+    },
+    {
+      "en": "Nevertheless, I am wary of treating these historical parallels as a guarantee. Earlier machines mainly substituted for physical strength and routine manual effort, whereas today's systems increasingly perform cognitive tasks, such as summarising reports or recognising patterns in data, that were once thought to require human judgement. It is possible that the pace of change will also be faster than in the past, leaving less time for workers and institutions to adjust. Optimism grounded in history is reasonable, but it should be held with a degree of humility."
+    },
+    {
+      "en": "Even if the long-term outcome proves broadly positive, the transition itself deserves far more attention than it typically receives. The familiar reassurance that everything will improve in the long run conceals a great deal of hardship. A fifty-year-old machine operator whose skills have suddenly become redundant cannot easily retrain as a software engineer, and the new jobs created by technology often appear in different cities, or even different countries, from the ones that disappear. Whole communities can be left behind, and the resentment this produces may have consequences that extend well beyond economics."
+    },
+    {
+      "en": "It follows that the central challenge is political rather than technological. Societies that wish to benefit from automation without abandoning those it displaces will need to invest seriously in adult education, make it easier for people to move between occupations, and provide adequate support during periods of unemployment. These measures are expensive and unglamorous, and they produce results slowly, which is precisely why they tend to be neglected. Yet without them, public hostility may grow strong enough to slow the adoption of genuinely useful technologies. More radical proposals, such as a guaranteed basic income, continue to divide opinion, but even the more modest measures described here would be a considerable improvement on simply hoping that markets will adjust by themselves."
+    },
+    {
+      "en": "On balance, then, I remain cautiously optimistic. The evidence of the past two centuries suggests that work is far more likely to be transformed than destroyed, and many of the tasks that machines absorb are ones that few people would choose to do. But the benefits of automation will not distribute themselves fairly by default. Whether this wave of change is remembered as a period of progress or of upheaval will depend less on the capabilities of the machines than on the choices we make about the people they affect."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "obsolete",
+      "uz": "eskirgan, keraksiz boʻlib qolgan"
+    },
+    {
+      "en": "prompt",
+      "uz": "sabab boʻlmoq, undamoq"
+    },
+    {
+      "en": "uncritically",
+      "uz": "tanqidiy fikrlamasdan"
+    },
+    {
+      "en": "unfold",
+      "uz": "kechmoq, asta-sekin yuz bermoq"
+    },
+    {
+      "en": "livelihood",
+      "uz": "tirikchilik manbai"
+    },
+    {
+      "en": "reluctantly",
+      "uz": "istar-istamas"
+    },
+    {
+      "en": "bundle",
+      "uz": "toʻplam, majmua"
+    },
+    {
+      "en": "eliminate",
+      "uz": "yoʻq qilmoq, bartaraf etmoq"
+    },
+    {
+      "en": "substitute for",
+      "uz": "… oʻrnini bosmoq"
+    },
+    {
+      "en": "cognitive",
+      "uz": "aqliy, kognitiv"
+    },
+    {
+      "en": "humility",
+      "uz": "kamtarlik, oʻz bilimining chegarasini tan olish"
+    },
+    {
+      "en": "redundant",
+      "uz": "keraksiz (ish oʻrni qisqargan)"
+    },
+    {
+      "en": "resentment",
+      "uz": "norozilik, alam"
+    },
+    {
+      "en": "displace",
+      "uz": "siqib chiqarmoq, oʻrnidan mahrum qilmoq"
+    },
+    {
+      "en": "hostility",
+      "uz": "dushmanlik, keskin qarshilik"
+    },
+    {
+      "en": "by default",
+      "uz": "oʻz-oʻzidan, hech narsa qilinmasa"
+    },
+    {
+      "en": "upheaval",
+      "uz": "keskin toʻntarilish, gʻalayon"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "c12-modal-perfect",
+      "title": {
+        "uz": "Modal + have + V3: could have imagined"
+      },
+      "example": "many of them in occupations that no one in 1810 could have imagined"
+    },
+    {
+      "topicId": "c46-contrast-concession",
+      "title": {
+        "uz": "Toʻsiqsizlik: Even if …"
+      },
+      "example": "Even if the long-term outcome proves broadly positive, the transition itself deserves far more attention"
+    }
+  ],
+  "questions": [
+    {
+      "id": "c1-17-automation-q1",
+      "type": "tfng",
+      "statement": "The writer believes that fears about automation can safely be ignored.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«It would be foolish to dismiss such concerns» — muallif bu xavotirlarni eʼtiborsiz qoldirmaslik kerak deydi (NO)."
+      },
+      "para": 0
+    },
+    {
+      "id": "c1-17-automation-q2",
+      "type": "tfng",
+      "statement": "The writer thinks that the textile workers who protested against new machinery were wrong to fear for their jobs.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«Their fears were justified in the short term: many lost their trades» — qisqa muddatda ular haq edi."
+      },
+      "para": 1
+    },
+    {
+      "id": "c1-17-automation-q3",
+      "type": "tfng",
+      "statement": "The writer claims that automation usually takes over particular activities rather than entire occupations.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«automation rarely replaces whole jobs; it replaces tasks» — whole jobs = entire occupations, tasks = particular activities."
+      },
+      "para": 2
+    },
+    {
+      "id": "c1-17-automation-q4",
+      "type": "tfng",
+      "statement": "The writer believes that companies which replace workers with machines should pay higher taxes.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Muallif kattalar taʼlimi, kasb almashtirish va ishsizlik davridagi yordamni taklif qiladi, lekin kompaniyalarga soliq haqida hech narsa demaydi."
+      }
+    },
+    {
+      "id": "c1-17-automation-q5",
+      "type": "tfng",
+      "statement": "According to the writer, new jobs created by technology are often located far from the jobs that are lost.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«the new jobs … often appear in different cities, or even different countries, from the ones that disappear»."
+      },
+      "para": 4
+    },
+    {
+      "id": "c1-17-automation-q6",
+      "type": "tfng",
+      "statement": "The writer believes that older workers should be given priority in retraining programmes.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "50 yoshli operator misol sifatida keltiriladi — unga qayta oʻqish qiyin deyiladi, lekin keksa ishchilarga ustuvorlik berish kerakmi — muallif fikr bildirmaydi."
+      }
+    },
+    {
+      "id": "c1-17-automation-q7",
+      "type": "choice",
+      "prompt": "What is the writer's view of the historical parallels described in paragraphs B and C?",
+      "options": [
+        "They prove that automation will create more jobs than it destroys.",
+        "They are useful evidence but cannot be relied on completely.",
+        "They are irrelevant because modern machines are entirely different.",
+        "They show that workers have always resisted change successfully."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«I am wary of treating these historical parallels as a guarantee» va «Optimism grounded in history is reasonable, but it should be held with a degree of humility» — foydali, lekin kafolat emas."
+      },
+      "para": 3
+    },
+    {
+      "id": "c1-17-automation-q8",
+      "type": "choice",
+      "prompt": "Why does the writer mention cash machines?",
+      "options": [
+        "To show that banks were the first industry to be automated.",
+        "To illustrate how a job can change when some of its tasks are automated.",
+        "To argue that bank clerks lost their jobs overnight.",
+        "To prove that automation always lowers prices."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "Bankomatlar «did not eliminate the bank clerk overnight; instead, the role gradually shifted towards advising customers» — «tasks, not jobs» gʻoyasining misoli. C javob matnga zid."
+      },
+      "para": 2
+    },
+    {
+      "id": "c1-17-automation-q9",
+      "type": "choice",
+      "prompt": "According to the writer, why are measures such as adult education often neglected?",
+      "options": [
+        "They are unpopular with workers.",
+        "They are costly and take a long time to show results.",
+        "They slow down the adoption of new technology.",
+        "They are the responsibility of private companies."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«These measures are expensive and unglamorous, and they produce results slowly, which is precisely why they tend to be neglected»."
+      },
+      "para": 5
+    },
+    {
+      "id": "c1-17-automation-q10",
+      "type": "choice",
+      "prompt": "Which of the following best summarises the writer's overall position?",
+      "options": [
+        "Automation will lead to permanent mass unemployment.",
+        "Automation poses no real threat, so no action is needed.",
+        "Work will probably be transformed rather than destroyed, but the costs of transition must be addressed.",
+        "Technological progress should be slowed down to protect existing jobs."
+      ],
+      "answer": 2,
+      "explain": {
+        "uz": "«I remain cautiously optimistic … work is far more likely to be transformed than destroyed», lekin «the benefits … will not distribute themselves fairly by default»."
+      },
+      "para": 6
+    },
+    {
+      "id": "c1-17-automation-q11",
+      "type": "gap",
+      "prompt": "Summary: The writer accepts that optimism based on history is reasonable but says it should be held with a degree of ___.",
+      "answers": [
+        "humility"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«it should be held with a degree of humility»."
+      },
+      "para": 3
+    },
+    {
+      "id": "c1-17-automation-q12",
+      "type": "gap",
+      "prompt": "Summary: Because new jobs may appear elsewhere, whole ___ can be left behind.",
+      "answers": [
+        "communities"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«Whole communities can be left behind»."
+      },
+      "para": 4
+    },
+    {
+      "id": "c1-17-automation-q13",
+      "type": "gap",
+      "prompt": "Summary: For the writer, the main challenge of automation is ___ rather than technological.",
+      "answers": [
+        "political"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«the central challenge is political rather than technological»."
+      },
+      "para": 5
+    }
+  ]
+}

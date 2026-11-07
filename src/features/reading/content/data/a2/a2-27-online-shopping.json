@@ -1,0 +1,206 @@
+{
+  "id": "a2-27-online-shopping",
+  "title": {
+    "uz": "Onlayn xarid"
+  },
+  "en": "Shopping Online",
+  "level": "A2",
+  "kind": "email",
+  "tag": {
+    "uz": "Texnologiya",
+    "en": "Technology"
+  },
+  "intro": {
+    "uz": "Kamola amakivachchasiga birinchi onlayn xaridi haqida xat yozadi. Oʻqishdan oldin: siz internet orqali biror narsa sotib olganmisiz?"
+  },
+  "paragraphs": [
+    {
+      "en": "Hi Shahnoza, how are you? I have some news. Last week I bought a jacket online for the first time! I used a shopping app on my phone. It was easier than I thought.",
+      "uz": "Salom, Shahnoza, qalaysan? Bir yangilik bor. Oʻtgan hafta birinchi marta internet orqali kurtka sotib oldim! Telefonimdagi xarid ilovasidan foydalandim. Bu men oʻylagandan osonroq boʻldi."
+    },
+    {
+      "en": "In the app, you can see thousands of clothes, and the prices are often lower than in the shops in Samarkand. I found a warm green jacket for 280,000 sum. At the market, the same jacket costs 350,000. The delivery took only three days, and the courier brought it to our door.",
+      "uz": "Ilovada minglab kiyimlarni koʻrish mumkin, narxlar esa koʻpincha Samarqanddagi doʻkonlardagidan arzonroq. Men 280 000 soʻmga issiq yashil kurtka topdim. Bozorda xuddi shu kurtka 350 000 soʻm turadi. Yetkazib berish atigi uch kun oldi, kuryer uni eshigimizgacha olib keldi."
+    },
+    {
+      "en": "But not everything was perfect. The jacket in the photo looked darker. Also, my brother has had a bad experience. He paid for headphones on an unknown website, and they never arrived. He has lost his money.",
+      "uz": "Lekin hammasi ham mukammal emas edi. Rasmdagi kurtka toʻqroq koʻringan edi. Bundan tashqari, akamning yomon tajribasi boʻlgan. U notanish bir saytda quloqchinlar uchun pul toʻlagan, ular esa hech qachon kelmadi. U pulidan ayrildi."
+    },
+    {
+      "en": "So here are my tips. Only use apps or sites that you know well. Read the comments from other buyers. Never send your card number or SMS codes in a message. If something is much cheaper than everywhere else, it might be a trick.",
+      "uz": "Xullas, mana mening maslahatlarim. Faqat yaxshi biladigan ilova yoki saytlardan foydalan. Boshqa xaridorlarning izohlarini oʻqi. Hech qachon karta raqamingni yoki SMS-kodlarni xabarda yuborma. Agar biror narsa boshqa joylardagidan ancha arzon boʻlsa, bu aldov boʻlishi mumkin."
+    },
+    {
+      "en": "Are you going to try online shopping? Write back soon! Love, Kamola",
+      "uz": "Sen ham onlayn xarid qilib koʻrmoqchimisan? Tezroq javob yoz! Mehr bilan, Kamola"
+    }
+  ],
+  "glossary": [
+    {
+      "en": "online",
+      "uz": "internet orqali, onlayn"
+    },
+    {
+      "en": "app",
+      "uz": "ilova (dastur)"
+    },
+    {
+      "en": "price",
+      "uz": "narx"
+    },
+    {
+      "en": "lower",
+      "uz": "pastroq, arzonroq"
+    },
+    {
+      "en": "delivery",
+      "uz": "yetkazib berish"
+    },
+    {
+      "en": "courier",
+      "uz": "kuryer"
+    },
+    {
+      "en": "perfect",
+      "uz": "mukammal, benuqson"
+    },
+    {
+      "en": "experience",
+      "uz": "tajriba"
+    },
+    {
+      "en": "headphones",
+      "uz": "quloqchinlar"
+    },
+    {
+      "en": "arrive",
+      "uz": "yetib kelmoq"
+    },
+    {
+      "en": "buyer",
+      "uz": "xaridor"
+    },
+    {
+      "en": "trick",
+      "uz": "aldov, hiyla"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "e45-comparatives",
+      "title": {
+        "uz": "Qiyosiy daraja: lower than, easier than"
+      },
+      "example": "the prices are often lower than in the shops"
+    },
+    {
+      "topicId": "e13-present-perfect",
+      "title": {
+        "uz": "Present Perfect: has lost"
+      },
+      "example": "He has lost his money."
+    }
+  ],
+  "questions": [
+    {
+      "id": "a2-27-online-shopping-q1",
+      "type": "tfng",
+      "statement": "Kamola bought her jacket in a shop in Samarkand.",
+      "answer": "F",
+      "explain": {
+        "uz": "U kurtkani ilova orqali olgan: «I used a shopping app on my phone.»"
+      },
+      "para": 0
+    },
+    {
+      "id": "a2-27-online-shopping-q2",
+      "type": "choice",
+      "prompt": "How much did Kamola pay for the jacket?",
+      "options": [
+        "350,000 sum",
+        "280,000 sum",
+        "300,000 sum"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«I found a warm green jacket for 280,000 sum.» 350 000 — bozordagi narx."
+      },
+      "para": 1
+    },
+    {
+      "id": "a2-27-online-shopping-q3",
+      "type": "gap",
+      "prompt": "The jacket arrived after ___ days.",
+      "answers": [
+        "three",
+        "3"
+      ],
+      "explain": {
+        "uz": "«The delivery took only three days»."
+      },
+      "para": 1
+    },
+    {
+      "id": "a2-27-online-shopping-q4",
+      "type": "tfng",
+      "statement": "The jacket looked exactly the same as in the photo.",
+      "answer": "F",
+      "explain": {
+        "uz": "«The jacket in the photo looked darker.»"
+      },
+      "para": 2
+    },
+    {
+      "id": "a2-27-online-shopping-q5",
+      "type": "choice",
+      "prompt": "What happened to Kamola's brother?",
+      "options": [
+        "His headphones never arrived.",
+        "He got the wrong headphones.",
+        "He got his money back."
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "«they never arrived. He has lost his money.»"
+      },
+      "para": 2
+    },
+    {
+      "id": "a2-27-online-shopping-q6",
+      "type": "tfng",
+      "statement": "Kamola thinks it is safe to send your card number in a message.",
+      "answer": "F",
+      "explain": {
+        "uz": "«Never send your card number or SMS codes in a message.»"
+      },
+      "para": 3
+    },
+    {
+      "id": "a2-27-online-shopping-q7",
+      "type": "choice",
+      "prompt": "According to Kamola, a very cheap price …",
+      "options": [
+        "is always a good chance",
+        "might be a trick",
+        "means the item is old"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«If something is much cheaper than everywhere else, it might be a trick.»"
+      },
+      "para": 3
+    },
+    {
+      "id": "a2-27-online-shopping-q8",
+      "type": "gap",
+      "prompt": "Read the comments from other ___.",
+      "answers": [
+        "buyers"
+      ],
+      "explain": {
+        "uz": "«Read the comments from other buyers.»"
+      },
+      "para": 3
+    }
+  ]
+}

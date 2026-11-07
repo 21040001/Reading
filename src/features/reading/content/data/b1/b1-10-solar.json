@@ -1,0 +1,225 @@
+{
+  "id": "b1-10-solar",
+  "title": {
+    "uz": "Quyosh energiyasi"
+  },
+  "en": "Power from the Sun",
+  "level": "B1",
+  "kind": "article",
+  "tag": {
+    "uz": "Texnologiya",
+    "en": "Technology"
+  },
+  "intro": {
+    "uz": "Bu maqola quyosh panellari qanday ishlashi, ularning afzalliklari va kamchiliklari haqida. Oʻqishdan oldin oʻylab koʻring: quyosh paneli kechasi ishlaydimi?"
+  },
+  "paragraphs": [
+    {
+      "en": "The Sun sends a huge amount of energy to the Earth every day, far more than people need. For a long time, people could only use a little of this energy directly, for example to dry fruit or to warm water. Today, solar panels allow us to turn sunlight straight into electricity, and they have become a common sight on roofs and in fields around the world."
+    },
+    {
+      "en": "How does a solar panel work? A panel is made of many small units called solar cells. Most of them are made from silicon, the same material that is used in computer chips. When light hits a cell, its energy knocks tiny particles called electrons loose from their atoms. The cell is designed so that these electrons can only move in one direction, and moving electrons are exactly what an electric current is. Wires collect the current, and a device called an inverter changes it into the kind of electricity that is used in our homes."
+    },
+    {
+      "en": "Solar power has many advantages. Once a panel has been installed, the sunlight it uses is free. Panels have no moving parts, so they are quiet and need little maintenance, and they do not produce smoke or harmful gases while they work. They are especially useful in sunny countries like Uzbekistan, where clear skies are common for much of the year. A panel on the roof of a village house or a school can provide electricity even far from the main power lines."
+    },
+    {
+      "en": "However, solar energy also has limits. Panels produce no electricity at night, and they produce much less on cloudy days. Dust can cover them and block the light, so in dry, windy places they need to be cleaned regularly. Surprisingly, very hot weather also reduces their efficiency a little, so a cool, bright spring day can be better for a panel than a very hot summer afternoon."
+    },
+    {
+      "en": "The biggest challenge is that people need electricity when the Sun is not shining. One solution is to store energy in batteries during the day and use it in the evening. Batteries are becoming cheaper and better, but they are still expensive, so many power systems combine solar energy with other sources, such as wind, water or gas. If engineers continue to improve panels and batteries, sunshine could become one of the most important sources of energy in the future."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "directly",
+      "uz": "bevosita, toʻgʻridan-toʻgʻri"
+    },
+    {
+      "en": "solar panel",
+      "uz": "quyosh paneli"
+    },
+    {
+      "en": "silicon",
+      "uz": "kremniy"
+    },
+    {
+      "en": "particle",
+      "uz": "zarracha"
+    },
+    {
+      "en": "knock loose",
+      "uz": "urib ajratib chiqarmoq"
+    },
+    {
+      "en": "current",
+      "uz": "elektr toki"
+    },
+    {
+      "en": "device",
+      "uz": "qurilma"
+    },
+    {
+      "en": "install",
+      "uz": "oʻrnatmoq"
+    },
+    {
+      "en": "maintenance",
+      "uz": "texnik xizmat, taʼmirlash"
+    },
+    {
+      "en": "harmful",
+      "uz": "zararli"
+    },
+    {
+      "en": "efficiency",
+      "uz": "samaradorlik, foydali ish koeffitsienti"
+    },
+    {
+      "en": "store",
+      "uz": "saqlamoq, toʻplab qoʻymoq"
+    },
+    {
+      "en": "combine",
+      "uz": "birlashtirmoq, qoʻshib ishlatmoq"
+    },
+    {
+      "en": "source",
+      "uz": "manba"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "i30-passive-tenses",
+      "title": {
+        "uz": "Majhul nisbat (Present Perfect): has been installed"
+      },
+      "example": "Once a panel has been installed, the sunlight it uses is free."
+    },
+    {
+      "topicId": "i53-who-which-that",
+      "title": {
+        "uz": "Aniqlovchi ergash gap: that is used …"
+      },
+      "example": "the same material that is used in computer chips"
+    }
+  ],
+  "questions": [
+    {
+      "id": "b1-10-solar-q1",
+      "type": "tfng",
+      "statement": "Most solar cells are made from silicon.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«Most of them are made from silicon»."
+      },
+      "para": 1
+    },
+    {
+      "id": "b1-10-solar-q2",
+      "type": "tfng",
+      "statement": "Solar panels are noisy because they have many moving parts.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«Panels have no moving parts, so they are quiet»."
+      },
+      "para": 2
+    },
+    {
+      "id": "b1-10-solar-q3",
+      "type": "tfng",
+      "statement": "Solar panels work best on the hottest days of summer.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«very hot weather also reduces their efficiency a little» — salqin, yorugʻ bahor kuni yaxshiroq boʻlishi mumkin."
+      },
+      "para": 3
+    },
+    {
+      "id": "b1-10-solar-q4",
+      "type": "tfng",
+      "statement": "Every school in Uzbekistan already has solar panels on its roof.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Matnda faqat panel maktab tomida ham elektr berishi «mumkin»ligi aytilgan; barcha maktablarda bor-yoʻqligi haqida maʼlumot yoʻq."
+      },
+      "para": 2
+    },
+    {
+      "id": "b1-10-solar-q5",
+      "type": "choice",
+      "prompt": "What does an inverter do?",
+      "options": [
+        "It changes the current into the kind of electricity used in homes.",
+        "It cleans dust from the panels.",
+        "It stores energy for the night."
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "«a device called an inverter changes it into the kind of electricity that is used in our homes»."
+      },
+      "para": 1
+    },
+    {
+      "id": "b1-10-solar-q6",
+      "type": "choice",
+      "prompt": "Why do panels in dry, windy places need regular cleaning?",
+      "options": [
+        "because rain damages them",
+        "because dust can block the light",
+        "because the wires get too hot"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«Dust can cover them and block the light, so in dry, windy places they need to be cleaned regularly.»"
+      },
+      "para": 3
+    },
+    {
+      "id": "b1-10-solar-q7",
+      "type": "choice",
+      "prompt": "What is the writer's opinion about the future of solar energy?",
+      "options": [
+        "It will never be useful because there is no sun at night.",
+        "It could become very important if panels and batteries keep improving.",
+        "It will soon replace all other sources of energy."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«If engineers continue to improve panels and batteries, sunshine could become one of the most important sources»."
+      },
+      "para": 4
+    },
+    {
+      "id": "b1-10-solar-q8",
+      "type": "heading",
+      "para": 3,
+      "options": [
+        "When panels work less well",
+        "How electrons move",
+        "Free electricity for schools"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "4-xatboshi quyosh energiyasining cheklovlari haqida: kecha, bulut, chang, issiq."
+      }
+    },
+    {
+      "id": "b1-10-solar-q9",
+      "type": "gap",
+      "prompt": "In the evening, people can use energy that was stored in ___ during the day.",
+      "answers": [
+        "batteries"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«store energy in batteries during the day and use it in the evening»."
+      },
+      "para": 4
+    }
+  ]
+}

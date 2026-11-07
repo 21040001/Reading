@@ -1,0 +1,308 @@
+{
+  "id": "c1-08-four-day-week",
+  "title": {
+    "uz": "Toʻrt kunlik ish haftasi"
+  },
+  "en": "The Four-Day Week",
+  "level": "C1",
+  "kind": "exam",
+  "tag": {
+    "uz": "Mehnat",
+    "en": "Work"
+  },
+  "intro": {
+    "uz": "Akademik matn: toʻrt kunlik ish haftasi boʻyicha tajribalar, unumdorlik, xodimlar farovonligi va bu tizim qiyin boʻlgan sohalar. Asosiy topshiriq: koʻp variantli test (multiple choice) — maqsad, munosabat, xulosa va asosiy gʻoya savollari; qoʻshimcha TFNG va boʻshliq. Har bir variantni matn bilan solishtiring: notoʻgʻri variantlar koʻpincha matndagi soʻzni takrorlaydi, lekin maʼnosini buzadi. Muallifning ehtiyotkor soʻzlariga («reportedly», «may», «appears») eʼtibor bering. Taxminan 20 daqiqa."
+  },
+  "paragraphs": [
+    {
+      "en": "The idea that people might one day work far fewer hours is hardly new. In the first half of the twentieth century, as the five-day week gradually became standard in many industrialised countries, some commentators predicted that technological progress would eventually allow working time to shrink much further. That prediction has largely failed to materialise: in much of the world, the standard full-time week has changed little for decades. In recent years, however, the four-day week has returned to public debate, encouraged by a series of experiments in which employers reduced working time while, crucially, keeping pay unchanged."
+    },
+    {
+      "en": "It is worth clarifying what the term actually means, since it is used to describe quite different arrangements. In some versions, employees compress their usual hours into four longer days, so that total working time stays the same. The model that has attracted most attention, by contrast, involves a genuine reduction in hours, with full pay offered on condition that productivity is maintained. Some trials have not involved a fixed day off at all, but rather a reduction in weekly hours distributed in whatever way suits the organisation. Comparisons between studies are inevitably complicated by these differences."
+    },
+    {
+      "en": "Trials of this kind have been conducted in several countries, including Iceland, where public-sector employees took part in widely publicised experiments with shorter hours, and the United Kingdom, where dozens of companies joined a coordinated pilot scheme. The results reported have been mixed but often encouraging. In many participating organisations, managers stated that output was largely maintained, and in some pilots a majority of firms reportedly chose to continue with the shorter week after the trial had ended. Employees frequently described lower levels of stress and fatigue, better sleep and more time for family and personal responsibilities."
+    },
+    {
+      "en": "How could the same work be done in less time? Advocates point to the familiar inefficiencies of the conventional working day: lengthy meetings, constant interruptions and tasks that expand to fill the time available. When hours are reduced, teams are often obliged to scrutinise their routines, cancelling unnecessary meetings and protecting periods of uninterrupted concentration. There may also be indirect gains. Rested employees may make fewer errors, take fewer sick days and be less inclined to resign, which in turn reduces the considerable cost of recruiting and training replacements."
+    },
+    {
+      "en": "Sceptics, however, urge caution in interpreting these findings. Organisations that volunteer for trials are unlikely to be typical: they tend to be enthusiastic about the idea and may be particularly well suited to it from the outset. Many studies rely heavily on self-reported measures of wellbeing and productivity, which may be coloured by participants' hopes that the experiment will succeed. Moreover, trials typically last months rather than years, and it remains unclear whether initial gains would persist once the novelty had worn off."
+    },
+    {
+      "en": "There is also the question of which jobs lend themselves to a shorter week. In office-based work, where output is difficult to measure precisely and much time is lost to inefficiency, reorganisation may well compensate for fewer hours. In sectors where services must be provided continuously, such as hospitals, care homes, public transport and retail, the situation is different. A nurse cannot treat patients more quickly simply because a shift has been shortened; maintaining the same level of service would require hiring additional staff, raising costs considerably. Similar difficulties arise in manufacturing processes that depend on machinery running for fixed periods. Staggered rotas can soften the problem, but they rarely eliminate it."
+    },
+    {
+      "en": "On balance, the evidence so far suggests that a four-day week can work well for certain organisations, particularly those in which the main obstacle to productivity is the organisation of time rather than its quantity. Whether it could become a universal standard is far less certain. Perhaps the most valuable lesson of the trials is not that every employer should adopt a particular model, but that the length of the working week is a matter of choice rather than a fixed law of economic life, and that the relationship between hours and output is more complicated than is often assumed."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "fail to materialise",
+      "uz": "roʻyobga chiqmaslik, amalga oshmaslik"
+    },
+    {
+      "en": "crucially",
+      "uz": "eng muhimi, hal qiluvchi jihati"
+    },
+    {
+      "en": "compress",
+      "uz": "siqmoq, qisqa muddatga jamlamoq"
+    },
+    {
+      "en": "genuine reduction",
+      "uz": "haqiqiy qisqarish"
+    },
+    {
+      "en": "on condition that",
+      "uz": "… sharti bilan"
+    },
+    {
+      "en": "pilot scheme",
+      "uz": "sinov loyihasi"
+    },
+    {
+      "en": "fatigue",
+      "uz": "charchoq, holsizlik"
+    },
+    {
+      "en": "scrutinise",
+      "uz": "sinchiklab tekshirmoq"
+    },
+    {
+      "en": "uninterrupted",
+      "uz": "uzluksiz, toʻxtovsiz"
+    },
+    {
+      "en": "be inclined to",
+      "uz": "… ga moyil boʻlmoq"
+    },
+    {
+      "en": "urge caution",
+      "uz": "ehtiyotkorlikka chaqirmoq"
+    },
+    {
+      "en": "from the outset",
+      "uz": "boshidanoq"
+    },
+    {
+      "en": "self-reported",
+      "uz": "ishtirokchining oʻzi xabar bergan (soʻrovnoma asosidagi)"
+    },
+    {
+      "en": "novelty",
+      "uz": "yangilik (zavqi)"
+    },
+    {
+      "en": "lend itself to",
+      "uz": "… ga mos kelmoq, qulay boʻlmoq"
+    },
+    {
+      "en": "compensate for",
+      "uz": "oʻrnini qoplamoq"
+    },
+    {
+      "en": "staggered rota",
+      "uz": "navbatma-navbat (surilgan) ish jadvali"
+    },
+    {
+      "en": "obstacle",
+      "uz": "toʻsiq"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "c09-probability-deduction",
+      "title": {
+        "uz": "Ehtimollik: be unlikely to …"
+      },
+      "example": "Organisations that volunteer for trials are unlikely to be typical"
+    },
+    {
+      "topicId": "c34-participle-clauses",
+      "title": {
+        "uz": "Sifatdosh (-ed) oborot: encouraged by …"
+      },
+      "example": "the four-day week has returned to public debate, encouraged by a series of experiments"
+    }
+  ],
+  "questions": [
+    {
+      "id": "c1-08-four-day-week-q1",
+      "type": "choice",
+      "prompt": "What does the writer say about past predictions of much shorter working hours?",
+      "options": [
+        "They were based on inaccurate economic data.",
+        "They have, for the most part, not come true.",
+        "They led directly to the recent trials.",
+        "They were rejected by most commentators at the time."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«That prediction has largely failed to materialise» — «largely» = «for the most part»."
+      },
+      "para": 0
+    },
+    {
+      "id": "c1-08-four-day-week-q2",
+      "type": "choice",
+      "prompt": "Why does the writer explain the different meanings of \"four-day week\" in paragraph B?",
+      "options": [
+        "to show that the compressed model is the most popular",
+        "to point out that varied arrangements make studies hard to compare",
+        "to criticise campaigners for using the term incorrectly",
+        "to argue that a fixed day off is essential"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "Xatboshi oxirida: «Comparisons between studies are inevitably complicated by these differences»."
+      },
+      "para": 1
+    },
+    {
+      "id": "c1-08-four-day-week-q3",
+      "type": "tfng",
+      "statement": "In the compressed version of the four-day week, employees work fewer hours in total.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«compress their usual hours into four longer days, so that total working time stays the same» — jami soat kamaymaydi."
+      },
+      "para": 1
+    },
+    {
+      "id": "c1-08-four-day-week-q4",
+      "type": "tfng",
+      "statement": "Every organisation that took part in the trials decided to keep the shorter week.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "Faqat «in some pilots a majority of firms reportedly chose to continue» — hammasi emas."
+      },
+      "para": 2
+    },
+    {
+      "id": "c1-08-four-day-week-q5",
+      "type": "tfng",
+      "statement": "Most of the trials described were organised by trade unions.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Sinovlarni kim tashkil qilgani haqida matnda maʼlumot yoʻq — NOT GIVEN."
+      },
+      "para": 2
+    },
+    {
+      "id": "c1-08-four-day-week-q6",
+      "type": "choice",
+      "prompt": "The phrase \"tasks that expand to fill the time available\" is given as an example of",
+      "options": [
+        "a reason why employees feel stressed.",
+        "inefficiency in the traditional working day.",
+        "a benefit of reducing working hours.",
+        "the cost of training new staff."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "U «the familiar inefficiencies of the conventional working day» roʻyxatining bir qismi."
+      },
+      "para": 3
+    },
+    {
+      "id": "c1-08-four-day-week-q7",
+      "type": "tfng",
+      "statement": "Lower staff turnover may reduce some of an employer's costs.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«be less inclined to resign, which in turn reduces the considerable cost of recruiting and training replacements» — «turnover» = ishdan ketish."
+      },
+      "para": 3
+    },
+    {
+      "id": "c1-08-four-day-week-q8",
+      "type": "gap",
+      "prompt": "With fewer hours, teams often try to protect periods of ___ concentration.",
+      "answers": [
+        "uninterrupted"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«protecting periods of uninterrupted concentration»."
+      },
+      "para": 3
+    },
+    {
+      "id": "c1-08-four-day-week-q9",
+      "type": "choice",
+      "prompt": "What is the sceptics' concern about organisations that volunteer for trials?",
+      "options": [
+        "They usually stop the trial early.",
+        "They may not represent employers in general.",
+        "They often hide negative results.",
+        "They tend to be large public institutions."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«are unlikely to be typical … may be particularly well suited to it from the outset» — umumiy holatni aks ettirmasligi mumkin."
+      },
+      "para": 4
+    },
+    {
+      "id": "c1-08-four-day-week-q10",
+      "type": "gap",
+      "prompt": "Sceptics note that many studies depend on ___ measures, which may reflect participants' hopes.",
+      "answers": [
+        "self-reported"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«rely heavily on self-reported measures of wellbeing and productivity, which may be coloured by participants' hopes»."
+      },
+      "para": 4
+    },
+    {
+      "id": "c1-08-four-day-week-q11",
+      "type": "choice",
+      "prompt": "Why does the writer mention a nurse in paragraph F?",
+      "options": [
+        "to show that some work cannot simply be done faster",
+        "to suggest that hospital staff are the most overworked",
+        "to prove that the four-day week has failed in health care",
+        "to recommend staggered rotas for all sectors"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "«A nurse cannot treat patients more quickly simply because a shift has been shortened» — uzluksiz xizmat sohalarida ishni tezlashtirib boʻlmaydi."
+      },
+      "para": 5
+    },
+    {
+      "id": "c1-08-four-day-week-q12",
+      "type": "tfng",
+      "statement": "Staggered rotas usually solve the staffing problems of continuous services completely.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«they rarely eliminate it» — kamdan-kam toʻliq hal qiladi."
+      },
+      "para": 5
+    },
+    {
+      "id": "c1-08-four-day-week-q13",
+      "type": "choice",
+      "prompt": "Which best describes the writer's attitude to the four-day week?",
+      "options": [
+        "enthusiastic support for making it universal",
+        "complete rejection based on weak evidence",
+        "cautious recognition of its potential in some settings",
+        "indifference to the results of the trials"
+      ],
+      "answer": 2,
+      "explain": {
+        "uz": "«can work well for certain organisations» lekin «Whether it could become a universal standard is far less certain» — ehtiyotkor, qisman ijobiy."
+      },
+      "para": 6
+    }
+  ]
+}

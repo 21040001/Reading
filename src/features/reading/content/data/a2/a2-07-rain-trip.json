@@ -1,0 +1,202 @@
+{
+  "id": "a2-07-rain-trip",
+  "title": {
+    "uz": "Yomgʻirdagi sayohat"
+  },
+  "en": "A Trip in the Rain",
+  "level": "A2",
+  "kind": "dialogue",
+  "tag": {
+    "uz": "Oʻtmishdan hikoyalar",
+    "en": "Stories from the past"
+  },
+  "intro": {
+    "uz": "Nilufar va Sherzod dam olish kunlari haqida gaplashadi. Oʻqishdan oldin: yomgʻir sizning rejalaringizni hech buzganmi?"
+  },
+  "paragraphs": [
+    {
+      "en": "Nilufar: Hi, Sherzod! How was your weekend? Did you go to Charvak Lake? Sherzod: Yes, we did, but it wasn't a perfect trip. It rained almost all day!",
+      "uz": "Nilufar: Salom, Sherzod! Dam olish kunlaring qanday oʻtdi? Chorvoqqa bordingmi? Sherzod: Ha, bordik, lekin sayohat unchalik yaxshi boʻlmadi. Deyarli kun boʻyi yomgʻir yogʻdi!"
+    },
+    {
+      "en": "Nilufar: Oh no! What happened? Sherzod: We left Tashkent early in the morning. The sky was blue, so we didn't take umbrellas or warm clothes. But when we arrived at the lake, it started to rain heavily.",
+      "uz": "Nilufar: Voy! Nima boʻldi? Sherzod: Toshkentdan erta tongda chiqdik. Osmon moviy edi, shuning uchun soyabon ham, issiq kiyim ham olmadik. Lekin koʻl boʻyiga yetib kelganimizda, kuchli yomgʻir yogʻa boshladi."
+    },
+    {
+      "en": "Nilufar: Did you go back home? Sherzod: No, we didn't. My father found a small teahouse near the water. We sat there for three hours. We drank hot tea and ate samsa while the rain was falling outside.",
+      "uz": "Nilufar: Uyga qaytdinglarmi? Sherzod: Yoʻq, qaytmadik. Otam suv yaqinida kichkina choyxona topdi. Biz u yerda uch soat oʻtirdik. Tashqarida yomgʻir yogʻayotganda issiq choy ichib, somsa yedik."
+    },
+    {
+      "en": "Nilufar: That sounds boring. Sherzod: Actually, it wasn't! An old man at the next table told us funny stories about the mountains. My little sister laughed so much that she forgot about the rain.",
+      "uz": "Nilufar: Zerikarli boʻlgan boʻlsa kerak. Sherzod: Aslida, unday emas! Qoʻshni stoldagi bir chol bizga togʻlar haqida kulgili hikoyalar aytib berdi. Singlim shunchalik koʻp kuldiki, yomgʻirni ham unutib qoʻydi."
+    },
+    {
+      "en": "Nilufar: And did you swim in the end? Sherzod: No, the water was too cold. But in the evening the rain stopped, and we saw a beautiful rainbow over the lake. I took lots of photos. I'll show you!",
+      "uz": "Nilufar: Oxiri choʻmildinglarmi? Sherzod: Yoʻq, suv juda sovuq edi. Lekin kechqurun yomgʻir toʻxtadi va koʻl ustida chiroyli kamalakni koʻrdik. Koʻp rasmga oldim. Senga koʻrsataman!"
+    }
+  ],
+  "glossary": [
+    {
+      "en": "perfect",
+      "uz": "mukammal, aʼlo"
+    },
+    {
+      "en": "rain",
+      "uz": "yomgʻir; yomgʻir yogʻmoq"
+    },
+    {
+      "en": "umbrella",
+      "uz": "soyabon"
+    },
+    {
+      "en": "arrive",
+      "uz": "yetib kelmoq"
+    },
+    {
+      "en": "heavily",
+      "uz": "kuchli, qattiq"
+    },
+    {
+      "en": "teahouse",
+      "uz": "choyxona"
+    },
+    {
+      "en": "boring",
+      "uz": "zerikarli"
+    },
+    {
+      "en": "funny",
+      "uz": "kulgili"
+    },
+    {
+      "en": "laugh",
+      "uz": "kulmoq"
+    },
+    {
+      "en": "rainbow",
+      "uz": "kamalak"
+    },
+    {
+      "en": "take photos",
+      "uz": "rasmga olmoq"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "e08-past-negative-question",
+      "title": {
+        "uz": "Oʻtgan zamon: soʻroq va inkor"
+      },
+      "example": "Did you go back home?"
+    },
+    {
+      "topicId": "e10-continuous-or-simple-past",
+      "title": {
+        "uz": "Past Simple va Past Continuous birga"
+      },
+      "example": "We drank hot tea and ate samsa while the rain was falling outside."
+    }
+  ],
+  "questions": [
+    {
+      "id": "a2-07-rain-trip-q1",
+      "type": "tfng",
+      "statement": "It rained for most of the day on Sherzod's trip.",
+      "answer": "T",
+      "explain": {
+        "uz": "Sherzod: «It rained almost all day!»"
+      },
+      "para": 0
+    },
+    {
+      "id": "a2-07-rain-trip-q2",
+      "type": "choice",
+      "prompt": "Why didn't the family take umbrellas?",
+      "options": [
+        "The sky was blue.",
+        "They forgot them in the car.",
+        "They didn't have any."
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "«The sky was blue, so we didn't take umbrellas or warm clothes.»"
+      },
+      "para": 1
+    },
+    {
+      "id": "a2-07-rain-trip-q3",
+      "type": "choice",
+      "prompt": "What happened when they arrived at the lake?",
+      "options": [
+        "The rain stopped.",
+        "It started to rain heavily.",
+        "They saw a rainbow."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«when we arrived at the lake, it started to rain heavily». Yomgʻir faqat kechqurun toʻxtadi."
+      },
+      "para": 1
+    },
+    {
+      "id": "a2-07-rain-trip-q4",
+      "type": "tfng",
+      "statement": "The family went back home because of the rain.",
+      "answer": "F",
+      "explain": {
+        "uz": "«Did you go back home?» — «No, we didn't.»"
+      },
+      "para": 2
+    },
+    {
+      "id": "a2-07-rain-trip-q5",
+      "type": "gap",
+      "prompt": "The family sat in the teahouse for ___ hours.",
+      "answers": [
+        "three",
+        "3"
+      ],
+      "explain": {
+        "uz": "«We sat there for three hours.»"
+      },
+      "para": 2
+    },
+    {
+      "id": "a2-07-rain-trip-q6",
+      "type": "choice",
+      "prompt": "Who told funny stories?",
+      "options": [
+        "Sherzod's father",
+        "an old man",
+        "Sherzod's sister"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«An old man at the next table told us funny stories». Singlisi esa kuldi."
+      },
+      "para": 3
+    },
+    {
+      "id": "a2-07-rain-trip-q7",
+      "type": "tfng",
+      "statement": "Sherzod swam in the lake in the evening.",
+      "answer": "F",
+      "explain": {
+        "uz": "Ular choʻmilmadi: «No, the water was too cold.»"
+      },
+      "para": 4
+    },
+    {
+      "id": "a2-07-rain-trip-q8",
+      "type": "gap",
+      "prompt": "In the evening, they saw a beautiful ___ over the lake.",
+      "answers": [
+        "rainbow"
+      ],
+      "explain": {
+        "uz": "«we saw a beautiful rainbow over the lake»."
+      },
+      "para": 4
+    }
+  ]
+}

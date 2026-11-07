@@ -1,0 +1,310 @@
+{
+  "id": "c1-06-remittances",
+  "title": {
+    "uz": "Pul oʻtkazmalari va iqtisod"
+  },
+  "en": "Remittances and the Economy",
+  "level": "C1",
+  "kind": "exam",
+  "tag": {
+    "uz": "Iqtisodiyot",
+    "en": "Economics"
+  },
+  "intro": {
+    "uz": "Akademik maqola: migrant ishchilar vataniga yuboradigan pul oʻtkazmalari — ularning oilalar va milliy iqtisod uchun foydasi hamda xavflari. Asosiy topshiriq: True / False / Not Given (savollarning koʻpchiligi), qoʻshimcha test va boʻshliq toʻldirish. Esda tuting: matn aksini aytsa — FALSE, umuman aytmasa yoki xulosa chiqarib boʻlmasa — NOT GIVEN. Oʻz bilimingizga emas, faqat matnga tayaning. Taxminan 20 daqiqa ajrating: har bir tasdiqdagi kalit soʻzning sinonimini matndan qidiring, TFNG tasdiqlari matn tartibida joylashgan."
+  },
+  "paragraphs": [
+    {
+      "en": "For millions of families across the developing world, the most important economic event of the month is not a change in interest rates or a government announcement but the arrival of money from a relative working abroad. These transfers, known as remittances, are typically modest sums sent by migrant workers to parents, spouses and children who remain at home. Taken together, however, they amount to an enormous flow of capital. International organisations have estimated that remittances to low- and middle-income countries now exceed official development aid by a wide margin, and in a number of smaller economies they are equivalent to a significant share of national output."
+    },
+    {
+      "en": "Central Asia offers a striking illustration. Since the 1990s, large numbers of workers from countries such as Tajikistan, Kyrgyzstan and Uzbekistan have sought employment abroad, with Russia historically serving as the principal destination because of a widely shared language, relatively easy entry and a persistent demand for labour in construction, trade and services. For some of these countries, money sent home has at times represented a very large share of national income, placing them among the most remittance-dependent economies in the world. In recent years, destinations appear to have become more varied, but the dominant pattern has proved remarkably persistent."
+    },
+    {
+      "en": "At the household level, the benefits are tangible. Studies in many countries suggest that families receiving remittances are better able to afford food, medicine and school fees, and are less likely to fall into poverty when a harvest fails or a breadwinner falls ill. In this sense, remittances act as a form of private insurance, and one that tends to be countercyclical: when the home economy suffers a downturn, migrants often send more rather than less. Unlike foreign aid, moreover, the money goes directly to recipients, bypassing bureaucracies and the risk of diversion by officials."
+    },
+    {
+      "en": "Whether remittances promote long-term development, however, is a more contested question. Critics have observed that a large proportion of the money is spent on everyday consumption, on lavish celebrations and on the construction of houses, rather than on productive enterprises. Defenders reply that the distinction is less clear than it appears. Spending on education and health is arguably an investment in human capital, and even house building creates work for local builders and suppliers. What appears to matter most is whether the surrounding economy offers opportunities for investment: where small businesses face burdensome regulation, unreliable credit and weak property rights, it is hardly surprising that families prefer to spend rather than invest."
+    },
+    {
+      "en": "There are also concerns about dependence. When a substantial proportion of working-age adults spends much of the year abroad, villages may face labour shortages, children may grow up with an absent parent, and elderly relatives may lose a source of everyday care. At the national level, a steady inflow of foreign currency can reduce the pressure on governments to undertake difficult reforms. Some economists have also argued that large inflows may push up the value of the domestic currency, making local exports less competitive, a phenomenon sometimes compared to the problems associated with sudden natural resource wealth."
+    },
+    {
+      "en": "Perhaps the most immediate risk, however, lies in the vulnerability of remittance flows to events in the host country. Because migrants are usually paid in the currency of the country where they work, a sharp depreciation of that currency reduces the value of what they send home, even if their wages remain unchanged. Central Asian economies experienced precisely this in the middle of the last decade, when a fall in oil prices and the weakening of the Russian rouble led to a marked decline in the dollar value of transfers. Households that had come to rely on regular payments suddenly found their incomes reduced, and the effects spread to shops, builders and banks."
+    },
+    {
+      "en": "None of this suggests that remittances are harmful in themselves; rather, it implies that their benefits depend heavily on the policies that surround them. Governments have experimented with lowering the cost of transfers, which can be considerable when money passes through expensive intermediaries, with encouraging migrants to use formal banking, and with schemes that channel savings into local businesses. Diversifying destinations and improving the skills of departing workers may also reduce exposure to a single foreign economy. Ultimately, remittances are perhaps best understood not as a substitute for domestic development but as a bridge, one that can support families through difficult years while more durable sources of growth are built."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "remittance",
+      "uz": "pul oʻtkazmasi (chet eldan oilaga yuboriladigan pul)"
+    },
+    {
+      "en": "exceed",
+      "uz": "oshib ketmoq, ortiq boʻlmoq"
+    },
+    {
+      "en": "by a wide margin",
+      "uz": "katta farq bilan"
+    },
+    {
+      "en": "equivalent to",
+      "uz": "… ga teng"
+    },
+    {
+      "en": "striking illustration",
+      "uz": "yorqin misol"
+    },
+    {
+      "en": "principal destination",
+      "uz": "asosiy yoʻnalish (boriladigan joy)"
+    },
+    {
+      "en": "tangible",
+      "uz": "aniq, sezilarli, moddiy"
+    },
+    {
+      "en": "breadwinner",
+      "uz": "oila boquvchisi"
+    },
+    {
+      "en": "countercyclical",
+      "uz": "iqtisodiy siklga qarshi (inqirozda kuchayadigan)"
+    },
+    {
+      "en": "bypass",
+      "uz": "chetlab oʻtmoq"
+    },
+    {
+      "en": "contested",
+      "uz": "bahsli, munozarali"
+    },
+    {
+      "en": "lavish",
+      "uz": "dabdabali, isrofgarona"
+    },
+    {
+      "en": "human capital",
+      "uz": "inson kapitali (bilim, sogʻliq, koʻnikma)"
+    },
+    {
+      "en": "burdensome regulation",
+      "uz": "ogʻir, ortiqcha tartibga solish"
+    },
+    {
+      "en": "inflow",
+      "uz": "kirib kelish, oqim"
+    },
+    {
+      "en": "depreciation",
+      "uz": "qadrsizlanish (valyuta)"
+    },
+    {
+      "en": "intermediary",
+      "uz": "vositachi"
+    },
+    {
+      "en": "durable",
+      "uz": "barqaror, uzoq muddatli"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "c57-cleft-sentences",
+      "title": {
+        "uz": "Pseudo-cleft: What … is … (fikrni urgʻu bilan ajratish)"
+      },
+      "example": "What appears to matter most is whether the surrounding economy offers opportunities for investment"
+    },
+    {
+      "topicId": "c34-participle-clauses",
+      "title": {
+        "uz": "Sifatdosh (-ing) oborot: bypassing …"
+      },
+      "example": "the money goes directly to recipients, bypassing bureaucracies"
+    }
+  ],
+  "questions": [
+    {
+      "id": "c1-06-remittances-q1",
+      "type": "tfng",
+      "statement": "Individual remittance payments are usually fairly small.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«typically modest sums» — «modest» = «fairly small». Yigʻindisi katta, lekin har bir toʻlov kichik."
+      },
+      "para": 0
+    },
+    {
+      "id": "c1-06-remittances-q2",
+      "type": "tfng",
+      "statement": "Remittances to poorer countries are now smaller than official development aid.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "Matnda aksi: remittances «now exceed official development aid by a wide margin» — kichik emas, ancha katta."
+      },
+      "para": 0
+    },
+    {
+      "id": "c1-06-remittances-q3",
+      "type": "tfng",
+      "statement": "Language was one of the reasons why Russia attracted workers from Central Asia.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«because of a widely shared language» — til sabablardan biri sifatida aniq keltirilgan."
+      },
+      "para": 1
+    },
+    {
+      "id": "c1-06-remittances-q4",
+      "type": "tfng",
+      "statement": "Migrants from Kyrgyzstan generally earn more in Russia than migrants from Tajikistan.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Matnda Tojikiston va Qirgʻiziston faqat migrant yuboruvchi mamlakatlar sifatida tilga olingan; ularning maoshlari solishtirilmagan — NOT GIVEN."
+      },
+      "para": 1
+    },
+    {
+      "id": "c1-06-remittances-q5",
+      "type": "tfng",
+      "statement": "Children in households receiving remittances perform better at school than other children.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Matnda pul maktab toʻlovlariga ishlatilishi aytilgan («school fees»), lekin bolalarning oʻqish natijalari solishtirilmagan — NOT GIVEN."
+      },
+      "para": 2
+    },
+    {
+      "id": "c1-06-remittances-q6",
+      "type": "tfng",
+      "statement": "Migrants tend to send more money home when their own country is going through economic difficulties.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«when the home economy suffers a downturn, migrants often send more rather than less» — parafraz."
+      },
+      "para": 2
+    },
+    {
+      "id": "c1-06-remittances-q7",
+      "type": "tfng",
+      "statement": "Remittances usually reach families only after passing through government agencies.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "Aksincha: «the money goes directly to recipients, bypassing bureaucracies» — davlat idoralarini chetlab oʻtadi."
+      },
+      "para": 2
+    },
+    {
+      "id": "c1-06-remittances-q8",
+      "type": "tfng",
+      "statement": "Supporters of remittances claim that spending on new houses brings no benefit to local communities.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "Himoyachilar aksini aytadi: «even house building creates work for local builders and suppliers»."
+      },
+      "para": 3
+    },
+    {
+      "id": "c1-06-remittances-q9",
+      "type": "choice",
+      "prompt": "According to paragraph D, what mainly determines whether families invest remittances productively?",
+      "options": [
+        "how much money each migrant is able to send",
+        "the wider conditions for doing business at home",
+        "the level of education of the family members",
+        "advice given by banks in the host country"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«What appears to matter most is whether the surrounding economy offers opportunities for investment» — tartibga solish, kredit, mulk huquqi, yaʼni biznes muhiti hal qiluvchi."
+      },
+      "para": 3
+    },
+    {
+      "id": "c1-06-remittances-q10",
+      "type": "choice",
+      "prompt": "Why does the writer compare the effect of remittances to the effect of natural resource wealth?",
+      "options": [
+        "to show that both can make a country's exports more expensive",
+        "to argue that remittances are a more reliable source of income",
+        "to suggest that migrants often work in the oil industry",
+        "to explain why governments prefer remittances to aid"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "Taqqoslash «push up the value of the domestic currency, making local exports less competitive» jumlasidan keyin keladi — ikkalasi ham eksportni qimmatlashtirishi mumkin."
+      },
+      "para": 4
+    },
+    {
+      "id": "c1-06-remittances-q11",
+      "type": "choice",
+      "prompt": "What caused the fall in the dollar value of remittances to Central Asia described in paragraph F?",
+      "options": [
+        "Migrants' wages in Russia were cut.",
+        "Many migrants returned home at the same time.",
+        "The Russian currency lost value.",
+        "Banks raised the fees for international transfers."
+      ],
+      "answer": 2,
+      "explain": {
+        "uz": "«the weakening of the Russian rouble led to a marked decline in the dollar value of transfers»; matnda maoshlar oʻzgarmasa ham qiymat tushishi taʼkidlangan — «even if their wages remain unchanged»."
+      },
+      "para": 5
+    },
+    {
+      "id": "c1-06-remittances-q12",
+      "type": "gap",
+      "prompt": "Because they help families cope with sudden losses, remittances can work as a kind of private ___.",
+      "answers": [
+        "insurance"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«remittances act as a form of private insurance» — «a form of» = «a kind of»."
+      },
+      "para": 2
+    },
+    {
+      "id": "c1-06-remittances-q13",
+      "type": "gap",
+      "prompt": "In the writer's view, remittances should be seen as a ___ rather than as a replacement for domestic development.",
+      "answers": [
+        "bridge",
+        "a bridge"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«not as a substitute for domestic development but as a bridge» — «substitute» = «replacement»."
+      },
+      "para": 6
+    },
+    {
+      "id": "c1-06-remittances-q14",
+      "type": "choice",
+      "prompt": "Which statement best summarises the writer's overall position?",
+      "options": [
+        "Remittances do more harm than good to developing economies.",
+        "The value of remittances depends largely on the policies around them.",
+        "Governments should discourage citizens from working abroad.",
+        "Remittances have replaced the need for foreign investment."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«their benefits depend heavily on the policies that surround them» — muallif zararli ham, mukammal ham demaydi."
+      },
+      "para": 6
+    }
+  ]
+}

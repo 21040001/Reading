@@ -1,0 +1,224 @@
+{
+  "id": "b1-02-mountain",
+  "title": {
+    "uz": "Chimyon togʻlarida bir kun"
+  },
+  "en": "A Day in the Chimgan Mountains",
+  "level": "B1",
+  "kind": "blog",
+  "tag": {
+    "uz": "Sayohat",
+    "en": "Travel"
+  },
+  "intro": {
+    "uz": "Bu blogda muallif doʻstlari bilan Toshkent yaqinidagi Chimyon togʻlariga qilgan piyoda sayohati haqida yozadi. Oʻqishdan oldin oʻylab koʻring: togʻga chiqish uchun nimalarni olib borish kerak?"
+  },
+  "paragraphs": [
+    {
+      "en": "Last Saturday, my friends and I finally did something we had planned for months: a hike in the Chimgan mountains. Chimgan is in the Tashkent region, less than two hours by car from the city, so it is a popular place for weekend trips. In winter, people go there to ski, but we wanted to see the mountains in late spring, when the slopes are green and covered with wild flowers."
+    },
+    {
+      "en": "We left Tashkent at six in the morning, because our guide, Bekzod, had warned us that the afternoon sun could be very strong. We started walking from the Beldersay area, where there are ski lifts. The path went up slowly at first, through small trees and fields of red poppies. Bekzod told us to walk at our own speed and to drink water often, even if we did not feel thirsty."
+    },
+    {
+      "en": "After about two hours, the path became steep and rocky, and I started to regret my heavy backpack. I had packed far too many things, including a big book that I never opened. My friend Laylo, who goes hiking almost every month, had brought only water, some bread, dried apricots and a warm jacket. She laughed at me, but she also carried my book for the last part of the climb."
+    },
+    {
+      "en": "When we reached the ridge, I forgot about my tired legs. Below us, we could see the valley, the small villages and, further away, the bright blue water of the Charvak reservoir. It was windy and much colder than in the city, so we were glad that Bekzod had made us bring jackets. We did not climb to the top of Big Chimgan, which is over three thousand metres high. Bekzod said that it should only be attempted by experienced hikers."
+    },
+    {
+      "en": "If you are planning a similar trip, here is my advice. Go with someone who knows the mountains well, start early, and check the weather before you leave, because it can change quickly. Wear good shoes, and pack light. And please take your rubbish home with you: the mountains are beautiful because people have looked after them. I am already planning my next hike, and this time my backpack will be much lighter!"
+    }
+  ],
+  "glossary": [
+    {
+      "en": "hike",
+      "uz": "piyoda sayohat (togʻda, tabiatda)"
+    },
+    {
+      "en": "slope",
+      "uz": "qiyalik, yonbagʻir"
+    },
+    {
+      "en": "guide",
+      "uz": "yoʻlboshlovchi, gid"
+    },
+    {
+      "en": "warn",
+      "uz": "ogohlantirmoq"
+    },
+    {
+      "en": "thirsty",
+      "uz": "chanqagan"
+    },
+    {
+      "en": "steep",
+      "uz": "tik"
+    },
+    {
+      "en": "regret",
+      "uz": "afsuslanmoq, pushaymon boʻlmoq"
+    },
+    {
+      "en": "backpack",
+      "uz": "ryukzak, orqa sumka"
+    },
+    {
+      "en": "ridge",
+      "uz": "togʻ tizmasi, qir"
+    },
+    {
+      "en": "valley",
+      "uz": "vodiy"
+    },
+    {
+      "en": "reservoir",
+      "uz": "suv ombori"
+    },
+    {
+      "en": "attempt",
+      "uz": "urinib koʻrmoq, harakat qilmoq"
+    },
+    {
+      "en": "experienced",
+      "uz": "tajribali"
+    },
+    {
+      "en": "rubbish",
+      "uz": "axlat, chiqindi"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "i55-non-defining",
+      "title": {
+        "uz": "Qoʻshimcha maʼlumot beruvchi ergash gap: Laylo, who …"
+      },
+      "example": "My friend Laylo, who goes hiking almost every month, had brought only water"
+    },
+    {
+      "topicId": "i30-passive-tenses",
+      "title": {
+        "uz": "Modal + majhul nisbat: should be attempted"
+      },
+      "example": "it should only be attempted by experienced hikers"
+    }
+  ],
+  "questions": [
+    {
+      "id": "b1-02-mountain-q1",
+      "type": "tfng",
+      "statement": "It takes less than two hours to drive from Tashkent to Chimgan.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«less than two hours by car from the city»."
+      },
+      "para": 0
+    },
+    {
+      "id": "b1-02-mountain-q2",
+      "type": "tfng",
+      "statement": "The group started their hike in the afternoon.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "Ular ertalab soat oltida yoʻlga chiqqan: «We left Tashkent at six in the morning»."
+      },
+      "para": 1
+    },
+    {
+      "id": "b1-02-mountain-q3",
+      "type": "tfng",
+      "statement": "Laylo had been to Chimgan many times before this trip.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "«goes hiking almost every month» deyilgan, lekin aynan Chimyonga necha marta borgani aytilmagan."
+      },
+      "para": 2
+    },
+    {
+      "id": "b1-02-mountain-q4",
+      "type": "tfng",
+      "statement": "The writer read the book during the trip.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "Muallif kitobni ochmagan ham: «a big book that I never opened»."
+      },
+      "para": 2
+    },
+    {
+      "id": "b1-02-mountain-q5",
+      "type": "choice",
+      "prompt": "Why did the group leave Tashkent early in the morning?",
+      "options": [
+        "to avoid the strong afternoon sun",
+        "to see the ski lifts working",
+        "to meet Laylo in Beldersay"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "Gid ogohlantirgan: «the afternoon sun could be very strong»."
+      },
+      "para": 1
+    },
+    {
+      "id": "b1-02-mountain-q6",
+      "type": "choice",
+      "prompt": "In paragraph 3, «regret» is closest in meaning to …",
+      "options": [
+        "feel sorry about",
+        "feel proud of",
+        "forget about"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "Ryukzak ogʻir boʻlgani uchun muallif uni olganidan afsuslangan — «regret» = afsuslanmoq."
+      },
+      "para": 2
+    },
+    {
+      "id": "b1-02-mountain-q7",
+      "type": "choice",
+      "prompt": "Why did the group not climb to the top of Big Chimgan?",
+      "options": [
+        "The weather was too bad.",
+        "Their guide said it was only for experienced hikers.",
+        "The path to the top was closed."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«Bekzod said that it should only be attempted by experienced hikers»."
+      },
+      "para": 3
+    },
+    {
+      "id": "b1-02-mountain-q8",
+      "type": "gap",
+      "prompt": "Laylo brought water, some bread, dried ___ and a warm jacket.",
+      "answers": [
+        "apricots"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«had brought only water, some bread, dried apricots and a warm jacket»."
+      },
+      "para": 2
+    },
+    {
+      "id": "b1-02-mountain-q9",
+      "type": "gap",
+      "prompt": "From the ridge, the writer could see the bright blue water of the Charvak ___.",
+      "answers": [
+        "reservoir"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«the bright blue water of the Charvak reservoir»."
+      },
+      "para": 3
+    }
+  ]
+}

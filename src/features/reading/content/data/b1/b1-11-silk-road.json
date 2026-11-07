@@ -1,0 +1,228 @@
+{
+  "id": "b1-11-silk-road",
+  "title": {
+    "uz": "Buyuk Ipak yoʻli"
+  },
+  "en": "The Great Silk Road",
+  "level": "B1",
+  "kind": "article",
+  "tag": {
+    "uz": "Tarix va madaniyat",
+    "en": "History and culture"
+  },
+  "intro": {
+    "uz": "Bu maqola Buyuk Ipak yoʻli va u orqali nafaqat mollar, balki gʻoyalar ham tarqalgani haqida. Oʻqishdan oldin oʻylab koʻring: savdo yoʻllari orqali yana nimalar sayohat qilishi mumkin edi?"
+  },
+  "paragraphs": [
+    {
+      "en": "For more than a thousand years, a network of trade routes connected China with the lands around the Mediterranean Sea. In the 19th century, a German geographer gave it the name the Silk Road, because Chinese silk was one of the most valuable goods that travelled along it. In fact, it was never a single road. It was a web of paths across deserts, mountains and grasslands."
+    },
+    {
+      "en": "Very few merchants ever travelled the whole way from one end to the other. Instead, goods were passed from hand to hand. A trader might carry silk from one city to the next, sell it there and buy something else to take home. Each time the goods changed hands, their price went up. By the time a piece of silk reached Rome or Constantinople, it had become extremely expensive."
+    },
+    {
+      "en": "Cities in Central Asia stood right in the middle of this network, and Samarkand and Bukhara became two of the most important. Their markets were full of goods from both East and West: silk and porcelain, spices, glass, horses and precious stones. Local craftsmen and traders grew rich, and the cities were filled with mosques, madrasas and busy bazaars."
+    },
+    {
+      "en": "However, the Silk Road carried much more than goods. Ideas, languages and religions travelled with the caravans. Buddhism spread from India into China along these routes, and later Islam reached many parts of Central Asia. Technologies moved too. Papermaking, which had been invented in China, reached Samarkand, and the city became famous for its paper. From there, the skill slowly spread to the Middle East and Europe."
+    },
+    {
+      "en": "Travelling with a caravan was slow and often dangerous. To make the journey safer, rest houses called caravanserais were built along the main routes, often about a day's journey apart. A typical caravanserai had a large courtyard where camels and horses could rest, with rooms for travellers around it. Here, merchants from different countries ate, slept and exchanged news. In Uzbekistan today, you can still see the remains of some of these buildings."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "trade route",
+      "uz": "savdo yoʻli"
+    },
+    {
+      "en": "network",
+      "uz": "tarmoq"
+    },
+    {
+      "en": "valuable",
+      "uz": "qimmatbaho, qadrli"
+    },
+    {
+      "en": "goods",
+      "uz": "mollar, tovarlar"
+    },
+    {
+      "en": "merchant",
+      "uz": "savdogar"
+    },
+    {
+      "en": "change hands",
+      "uz": "qoʻldan qoʻlga oʻtmoq, sotilmoq"
+    },
+    {
+      "en": "precious stones",
+      "uz": "qimmatbaho toshlar"
+    },
+    {
+      "en": "craftsman",
+      "uz": "hunarmand, usta"
+    },
+    {
+      "en": "spread",
+      "uz": "tarqalmoq"
+    },
+    {
+      "en": "invent",
+      "uz": "ixtiro qilmoq"
+    },
+    {
+      "en": "caravan",
+      "uz": "karvon"
+    },
+    {
+      "en": "caravanserai",
+      "uz": "karvonsaroy"
+    },
+    {
+      "en": "courtyard",
+      "uz": "hovli"
+    },
+    {
+      "en": "exchange news",
+      "uz": "yangiliklar bilan oʻrtoqlashmoq"
+    },
+    {
+      "en": "remains",
+      "uz": "qoldiqlar, xarobalar"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "i11-past-perfect",
+      "title": {
+        "uz": "Past Perfect: it had become"
+      },
+      "example": "By the time a piece of silk reached Rome or Constantinople, it had become extremely expensive."
+    },
+    {
+      "topicId": "i55-non-defining",
+      "title": {
+        "uz": "Qoʻshimcha maʼlumot beruvchi ergash gap: , which …"
+      },
+      "example": "Papermaking, which had been invented in China, reached Samarkand"
+    }
+  ],
+  "questions": [
+    {
+      "id": "b1-11-silk-road-q1",
+      "type": "tfng",
+      "statement": "The Silk Road was one long road from China to the Mediterranean.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "Aksincha: «it was never a single road. It was a web of paths» — bu yoʻllar tarmogʻi edi."
+      },
+      "para": 0
+    },
+    {
+      "id": "b1-11-silk-road-q2",
+      "type": "tfng",
+      "statement": "The price of silk rose every time it was sold to a new trader.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«Each time the goods changed hands, their price went up.»"
+      },
+      "para": 1
+    },
+    {
+      "id": "b1-11-silk-road-q3",
+      "type": "tfng",
+      "statement": "Traders in Samarkand had to pay a tax to the ruler of the city.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Matnda Samarqand bozorlari haqida gap bor, lekin soliq haqida hech narsa aytilmagan."
+      },
+      "para": 2
+    },
+    {
+      "id": "b1-11-silk-road-q4",
+      "type": "tfng",
+      "statement": "Islam reached Central Asia before Buddhism reached China.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«Buddhism spread from India into China … and later Islam reached many parts of Central Asia» — Islom keyinroq kelgan."
+      },
+      "para": 3
+    },
+    {
+      "id": "b1-11-silk-road-q5",
+      "type": "choice",
+      "prompt": "What is the main idea of paragraph 4?",
+      "options": [
+        "Silk was the most expensive product on the road.",
+        "The Silk Road spread ideas, religions and technologies, not only goods.",
+        "Samarkand produced more paper than any other city."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "Xatboshi «the Silk Road carried much more than goods» deb boshlanadi va gʻoyalar, dinlar, texnologiyalar haqida gapiradi."
+      },
+      "para": 3
+    },
+    {
+      "id": "b1-11-silk-road-q6",
+      "type": "choice",
+      "prompt": "In paragraph 2, \"the goods changed hands\" means that the goods …",
+      "options": [
+        "were sold to a new owner",
+        "were broken during the journey",
+        "were carried in both hands"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "Avvalgi gap: «sell it there and buy something else» — mol yangi egaga sotiladi, shuning uchun narx oshadi."
+      },
+      "para": 1
+    },
+    {
+      "id": "b1-11-silk-road-q7",
+      "type": "choice",
+      "prompt": "Why were caravanserais built?",
+      "options": [
+        "to sell silk to local people",
+        "to make the journey safer for travellers",
+        "to teach merchants new languages"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«To make the journey safer, rest houses called caravanserais were built»."
+      },
+      "para": 4
+    },
+    {
+      "id": "b1-11-silk-road-q8",
+      "type": "gap",
+      "prompt": "Papermaking was invented in ___ and later reached Samarkand.",
+      "answers": [
+        "China"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«Papermaking, which had been invented in China, reached Samarkand»."
+      },
+      "para": 3
+    },
+    {
+      "id": "b1-11-silk-road-q9",
+      "type": "gap",
+      "prompt": "In a caravanserai, camels and horses rested in a large ___.",
+      "answers": [
+        "courtyard"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«a large courtyard where camels and horses could rest»."
+      },
+      "para": 4
+    }
+  ]
+}

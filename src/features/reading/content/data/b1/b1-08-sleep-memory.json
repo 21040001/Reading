@@ -1,0 +1,228 @@
+{
+  "id": "b1-08-sleep-memory",
+  "title": {
+    "uz": "Uyqu va xotira"
+  },
+  "en": "Sleep and Memory",
+  "level": "B1",
+  "kind": "dialogue",
+  "tag": {
+    "uz": "Ilm-fan",
+    "en": "Science"
+  },
+  "intro": {
+    "uz": "Oʻquvchi Jasur va oʻqituvchisi imtihon oldidan uyqu haqida suhbatlashadi. Oʻqishdan oldin oʻylab koʻring: imtihon oldidan tun boʻyi oʻqish foydalimi?"
+  },
+  "paragraphs": [
+    {
+      "en": "Jasur: Ms Rahimova, I've got a big biology test on Friday, so I'm planning to stay up all night on Thursday and study. Do you think that's a good idea? Ms Rahimova: Honestly, Jasur, I don't. Many students believe that more hours of study always mean better results, but if you give up sleep, you may remember less, not more."
+    },
+    {
+      "en": "Jasur: Really? But how can sleeping help me remember? My brain is switched off when I'm asleep. Ms Rahimova: That's a common mistake. Your body rests, but your brain stays very busy. Scientists have found that during sleep, the brain goes over the things you learned during the day. It strengthens the important memories and makes them more stable, so they are less likely to be forgotten."
+    },
+    {
+      "en": "Jasur: So sleep is like pressing the save button on a computer? Ms Rahimova: That's a nice way to put it. New information is quite fragile at first. While you sleep, it is moved into longer-term storage and connected to things you already know. Researchers call this process memory consolidation. It happens in different stages of sleep, so a full night is better than a short nap."
+    },
+    {
+      "en": "Jasur: What happens if I don't sleep at all? Ms Rahimova: Then your brain doesn't get that chance. On top of that, after a sleepless night most people find it harder to concentrate, they react more slowly and they make more careless mistakes. You might know the answer to a question and still not be able to remember it in the exam."
+    },
+    {
+      "en": "Jasur: OK, but I really haven't studied much yet. What should I do instead? Ms Rahimova: Start today. Study a little every evening, test yourself without looking at your notes, and then go to bed at a sensible time. If you review the key points the next morning, you'll notice how much you remember."
+    },
+    {
+      "en": "Jasur: That sounds easier than staying up all night, to be honest. Ms Rahimova: It is, and it works better too. You'd never charge your phone for only ten minutes before a long trip, would you? Your brain needs proper time to recharge as well. Good luck on Friday, and sleep well on Thursday!"
+    }
+  ],
+  "glossary": [
+    {
+      "en": "stay up",
+      "uz": "uxlamay oʻtirmoq, kech yotmoq"
+    },
+    {
+      "en": "give up",
+      "uz": "voz kechmoq"
+    },
+    {
+      "en": "switch off",
+      "uz": "oʻchmoq, oʻchirmoq"
+    },
+    {
+      "en": "go over",
+      "uz": "qayta koʻrib chiqmoq"
+    },
+    {
+      "en": "strengthen",
+      "uz": "mustahkamlamoq, kuchaytirmoq"
+    },
+    {
+      "en": "stable",
+      "uz": "barqaror, mustahkam"
+    },
+    {
+      "en": "fragile",
+      "uz": "moʻrt, nozik"
+    },
+    {
+      "en": "storage",
+      "uz": "saqlash joyi, xotira ombori"
+    },
+    {
+      "en": "consolidation",
+      "uz": "mustahkamlanish"
+    },
+    {
+      "en": "nap",
+      "uz": "qisqa uyqu (kunduzgi)"
+    },
+    {
+      "en": "concentrate",
+      "uz": "diqqatni jamlamoq"
+    },
+    {
+      "en": "careless",
+      "uz": "eʼtiborsiz, beparvo"
+    },
+    {
+      "en": "sensible",
+      "uz": "oqilona, maʼqul"
+    },
+    {
+      "en": "recharge",
+      "uz": "quvvat yigʻmoq, qayta zaryadlanmoq"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "i25-if-i-do-if-i-did",
+      "title": {
+        "uz": "Birinchi shart gap: If you review …, you'll notice …"
+      },
+      "example": "If you review the key points the next morning, you'll notice how much you remember."
+    },
+    {
+      "topicId": "i29-passive-basics",
+      "title": {
+        "uz": "Majhul nisbat: to be forgotten, is moved"
+      },
+      "example": "they are less likely to be forgotten"
+    }
+  ],
+  "questions": [
+    {
+      "id": "b1-08-sleep-memory-q1",
+      "type": "tfng",
+      "statement": "Jasur has a history test on Friday.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "Jasur: «a big biology test on Friday» — tarix emas, biologiya."
+      },
+      "para": 0
+    },
+    {
+      "id": "b1-08-sleep-memory-q2",
+      "type": "tfng",
+      "statement": "According to the teacher, the brain is very active during sleep.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«Your body rests, but your brain stays very busy.»"
+      },
+      "para": 1
+    },
+    {
+      "id": "b1-08-sleep-memory-q3",
+      "type": "tfng",
+      "statement": "Ms Rahimova used to stay up all night before her own exams.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Oʻqituvchi oʻzining talabalik yillari haqida hech narsa aytmaydi — matnda maʼlumot yoʻq."
+      },
+      "para": 0
+    },
+    {
+      "id": "b1-08-sleep-memory-q4",
+      "type": "tfng",
+      "statement": "The teacher says a short nap is just as good as a full night of sleep.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "Aksincha: «a full night is better than a short nap»."
+      },
+      "para": 2
+    },
+    {
+      "id": "b1-08-sleep-memory-q5",
+      "type": "heading",
+      "para": 1,
+      "options": [
+        "The busy brain at night",
+        "Why biology is difficult",
+        "A plan for Friday"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "2-xatboshi: tana dam oladi, miya esa uyquda band — kun davomida oʻrganilganlarni qayta koʻradi."
+      }
+    },
+    {
+      "id": "b1-08-sleep-memory-q6",
+      "type": "choice",
+      "prompt": "What does Jasur mean when he compares sleep to \"pressing the save button\"?",
+      "options": [
+        "Sleep helps to keep new information safely in memory.",
+        "Sleep deletes information that is not important.",
+        "Computers need rest just like people."
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "Oʻqituvchi tasdiqlaydi: uyquda yangi maʼlumot «is moved into longer-term storage» — xotirada saqlanadi."
+      },
+      "para": 2
+    },
+    {
+      "id": "b1-08-sleep-memory-q7",
+      "type": "choice",
+      "prompt": "Which problem after a sleepless night is NOT mentioned by the teacher?",
+      "options": [
+        "finding it hard to concentrate",
+        "reacting more slowly",
+        "feeling hungry all day"
+      ],
+      "answer": 2,
+      "explain": {
+        "uz": "4-xatboshida faqat «harder to concentrate», «react more slowly», «careless mistakes» aytilgan; ochlik haqida gap yoʻq."
+      },
+      "para": 3
+    },
+    {
+      "id": "b1-08-sleep-memory-q8",
+      "type": "choice",
+      "prompt": "What is the teacher's main advice to Jasur?",
+      "options": [
+        "Study all night only before very hard tests.",
+        "Study a little every day and get enough sleep.",
+        "Study only on the morning of the test."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«Study a little every evening … and then go to bed at a sensible time.»"
+      },
+      "para": 4
+    },
+    {
+      "id": "b1-08-sleep-memory-q9",
+      "type": "gap",
+      "prompt": "Researchers call the process of storing new memories during sleep memory ___.",
+      "answers": [
+        "consolidation"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«Researchers call this process memory consolidation.»"
+      },
+      "para": 2
+    }
+  ]
+}

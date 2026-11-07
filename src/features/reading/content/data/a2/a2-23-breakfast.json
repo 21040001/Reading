@@ -1,0 +1,204 @@
+{
+  "id": "a2-23-breakfast",
+  "title": {
+    "uz": "Sogʻlom nonushta"
+  },
+  "en": "A Healthy Breakfast",
+  "level": "A2",
+  "kind": "email",
+  "tag": {
+    "uz": "Sogʻliq",
+    "en": "Health"
+  },
+  "intro": {
+    "uz": "Dilfuza nonushta qilmaydigan dugonasi Lolaga maslahat yozadi. Oʻqishdan oldin: siz bugun nonushtaga nima yedingiz?"
+  },
+  "paragraphs": [
+    {
+      "en": "Hi Lola, Thanks for your email. You said you often feel hungry and tired before lunch. I think I know why. You told me you never have breakfast! I had the same problem last year.",
+      "uz": "Salom, Lola! Xating uchun rahmat. Tushlikdan oldin tez-tez qorning ochib, charchab qolishingni yozibsan. Menimcha, sababini bilaman. Axir menga hech qachon nonushta qilmasligingni aytgansan! Oʻtgan yili menda ham xuddi shu muammo bor edi."
+    },
+    {
+      "en": "Our school doctor gave us some good advice. After a long night, your body needs energy. A good breakfast helps you think better in your morning lessons. If you skip breakfast, you may want sweet snacks later in the day.",
+      "uz": "Maktabimiz shifokori bizga yaxshi maslahat bergan edi. Uzun tundan keyin tanangga quvvat kerak. Yaxshi nonushta ertalabki darslarda yaxshiroq fikrlashingga yordam beradi. Agar nonushtani tashlab ketsang, kunning keyingi qismida shirin gazak yeging kelishi mumkin."
+    },
+    {
+      "en": "So what is a healthy breakfast? You don't need much time. My favourite is porridge with milk and some fruit. On other days I have an egg, some bread and a cucumber. My grandmother always says that a bowl of warm porridge is better than a plate of biscuits!",
+      "uz": "Xoʻsh, sogʻlom nonushta qanday boʻladi? Buning uchun koʻp vaqt kerak emas. Mening sevimli nonushtam — sutli boʻtqa va biroz meva. Boshqa kunlari tuxum, non va bodring yeyman. Buvim doim bir kosa issiq boʻtqa bir likopcha pechenyedan yaxshiroq, deydi!"
+    },
+    {
+      "en": "Try not to eat too much sugar in the morning. Sweet cakes and fizzy drinks give you energy for a short time, but soon you feel hungry again. A glass of water or a cup of tea without much sugar is a good choice.",
+      "uz": "Ertalab juda koʻp shakar yemaslikka harakat qil. Shirin pishiriqlar va gazli ichimliklar qisqa vaqtga quvvat beradi, lekin tez orada yana qorning ochadi. Bir stakan suv yoki kam shakarli bir piyola choy — yaxshi tanlov."
+    },
+    {
+      "en": "Why don't you try it for one week? Get up fifteen minutes earlier and eat something healthy. Then write and tell me how you feel! Love, Dilfuza",
+      "uz": "Nega bir hafta sinab koʻrmaysan? Oʻn besh daqiqa ertaroq tur va sogʻlom biror narsa ye. Keyin oʻzingni qanday his qilayotganingni yozib yubor! Mehr bilan, Dilfuza"
+    }
+  ],
+  "glossary": [
+    {
+      "en": "hungry",
+      "uz": "och, qorni och"
+    },
+    {
+      "en": "advice",
+      "uz": "maslahat"
+    },
+    {
+      "en": "energy",
+      "uz": "quvvat, energiya"
+    },
+    {
+      "en": "skip",
+      "uz": "tashlab ketmoq, oʻtkazib yubormoq"
+    },
+    {
+      "en": "snack",
+      "uz": "gazak, yengil tamaddi"
+    },
+    {
+      "en": "healthy",
+      "uz": "sogʻlom, foydali"
+    },
+    {
+      "en": "porridge",
+      "uz": "boʻtqa"
+    },
+    {
+      "en": "bowl",
+      "uz": "kosa"
+    },
+    {
+      "en": "sugar",
+      "uz": "shakar"
+    },
+    {
+      "en": "choice",
+      "uz": "tanlov"
+    },
+    {
+      "en": "earlier",
+      "uz": "ertaroq"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "e45-comparatives",
+      "title": {
+        "uz": "Qiyosiy daraja: better than"
+      },
+      "example": "a bowl of warm porridge is better than a plate of biscuits"
+    },
+    {
+      "topicId": "e42-much-many",
+      "title": {
+        "uz": "much — sanalmaydigan otlar bilan"
+      },
+      "example": "You don't need much time."
+    }
+  ],
+  "questions": [
+    {
+      "id": "a2-23-breakfast-q1",
+      "type": "tfng",
+      "statement": "Lola often feels hungry before lunch.",
+      "answer": "T",
+      "explain": {
+        "uz": "«You said you often feel hungry and tired before lunch.»"
+      },
+      "para": 0
+    },
+    {
+      "id": "a2-23-breakfast-q2",
+      "type": "tfng",
+      "statement": "Dilfuza never had a problem with breakfast.",
+      "answer": "F",
+      "explain": {
+        "uz": "«I had the same problem last year.»"
+      },
+      "para": 0
+    },
+    {
+      "id": "a2-23-breakfast-q3",
+      "type": "choice",
+      "prompt": "Who gave the students advice about breakfast at school?",
+      "options": [
+        "Dilfuza's grandmother",
+        "the school doctor",
+        "the English teacher"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«Our school doctor gave us some good advice.» Buvisi esa boʻtqa haqida gapiradi."
+      },
+      "para": 1
+    },
+    {
+      "id": "a2-23-breakfast-q4",
+      "type": "choice",
+      "prompt": "What can happen if you skip breakfast?",
+      "options": [
+        "You may want sweet snacks later.",
+        "You sleep better at night.",
+        "You think better in your lessons."
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "«If you skip breakfast, you may want sweet snacks later in the day.» Yaxshi fikrlashga esa nonushta yordam beradi."
+      },
+      "para": 1
+    },
+    {
+      "id": "a2-23-breakfast-q5",
+      "type": "gap",
+      "prompt": "Dilfuza's favourite breakfast is porridge with ___ and some fruit.",
+      "answers": [
+        "milk"
+      ],
+      "maxWords": 1,
+      "explain": {
+        "uz": "«My favourite is porridge with milk and some fruit.»"
+      },
+      "para": 2
+    },
+    {
+      "id": "a2-23-breakfast-q6",
+      "type": "tfng",
+      "statement": "Dilfuza's grandmother thinks biscuits are better than porridge.",
+      "answer": "F",
+      "explain": {
+        "uz": "Aksincha: «a bowl of warm porridge is better than a plate of biscuits»."
+      },
+      "para": 2
+    },
+    {
+      "id": "a2-23-breakfast-q7",
+      "type": "choice",
+      "prompt": "Which drink does Dilfuza suggest in the morning?",
+      "options": [
+        "a fizzy drink",
+        "water or tea without much sugar",
+        "sweet juice"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«A glass of water or a cup of tea without much sugar is a good choice.»"
+      },
+      "para": 3
+    },
+    {
+      "id": "a2-23-breakfast-q8",
+      "type": "gap",
+      "prompt": "Dilfuza tells Lola to get up ___ minutes earlier.",
+      "answers": [
+        "fifteen",
+        "15"
+      ],
+      "maxWords": 1,
+      "explain": {
+        "uz": "«Get up fifteen minutes earlier and eat something healthy.»"
+      },
+      "para": 4
+    }
+  ]
+}

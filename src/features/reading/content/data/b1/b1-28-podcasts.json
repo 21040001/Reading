@@ -1,0 +1,225 @@
+{
+  "id": "b1-28-podcasts",
+  "title": {
+    "uz": "Podkastlar"
+  },
+  "en": "Podcasts",
+  "level": "B1",
+  "kind": "blog",
+  "tag": {
+    "uz": "Audio va taʼlim",
+    "en": "Audio and learning"
+  },
+  "intro": {
+    "uz": "Ingliz tilini oʻrganayotgan talaba Jasur oʻz blogida podkastlar haqida yozadi. Oʻqishdan oldin oʻylab koʻring: siz biror marta podkast tinglaganmisiz?"
+  },
+  "paragraphs": [
+    {
+      "en": "Hi everyone, and welcome back to my blog about learning English. Today I want to write about something that has changed the way I study: podcasts. A year ago, I did not even know what a podcast was. Now I listen to at least one every day, usually on my way to university."
+    },
+    {
+      "en": "For anyone who is new to them, a podcast is a series of audio programmes that you can download or stream on your phone. Some podcasts are like radio shows, with one host talking about the news. Others are conversations between two or three people, and some tell long stories in many episodes. There are podcasts about almost everything: history, football, cooking, science and, of course, languages."
+    },
+    {
+      "en": "Why are they so popular? I think the main reason is freedom. You cannot read a book while you are driving or washing the dishes, but you can listen to a podcast. My mother, who never had time for reading, now listens to programmes about health while she cooks dinner. People also like the personal feeling of podcasts. When you have listened to the same hosts for months, they start to feel like friends."
+    },
+    {
+      "en": "For English learners, podcasts are a gift. When I started, I chose a podcast made especially for learners. The hosts spoke slowly and explained difficult words, and every episode came with a transcript, so I could read the text after listening. If I had started with a normal podcast for native speakers, I would probably have given up after one week."
+    },
+    {
+      "en": "Here is my advice. Choose a topic you really enjoy, because then you will listen more often. Start with short episodes of ten or fifteen minutes. Listen to each episode twice: the first time for the general idea, the second time for details. And do not worry if you do not understand everything. My listening has improved more this year than in three years of school lessons, and I am sure yours can too."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "on my way to",
+      "uz": "… ga ketayotib, yoʻlda"
+    },
+    {
+      "en": "series",
+      "uz": "turkum, seriya"
+    },
+    {
+      "en": "download",
+      "uz": "yuklab olmoq"
+    },
+    {
+      "en": "stream",
+      "uz": "onlayn (yuklamasdan) tinglamoq/koʻrmoq"
+    },
+    {
+      "en": "host",
+      "uz": "boshlovchi"
+    },
+    {
+      "en": "episode",
+      "uz": "son, qism"
+    },
+    {
+      "en": "freedom",
+      "uz": "erkinlik"
+    },
+    {
+      "en": "personal",
+      "uz": "shaxsiy, samimiy"
+    },
+    {
+      "en": "gift",
+      "uz": "sovgʻa; katta foyda"
+    },
+    {
+      "en": "transcript",
+      "uz": "yozma matn (aytilganlarning)"
+    },
+    {
+      "en": "native speaker",
+      "uz": "ona tili sifatida gapiruvchi"
+    },
+    {
+      "en": "give up",
+      "uz": "tashlab qoʻymoq, voz kechmoq"
+    },
+    {
+      "en": "advice",
+      "uz": "maslahat"
+    },
+    {
+      "en": "improve",
+      "uz": "yaxshilanmoq"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "i27-third-conditional",
+      "title": {
+        "uz": "Uchinchi shart gap: If I had started…, I would have…"
+      },
+      "example": "If I had started with a normal podcast for native speakers, I would probably have given up after one week."
+    },
+    {
+      "topicId": "i05-present-perfect",
+      "title": {
+        "uz": "Present Perfect: has changed, has improved"
+      },
+      "example": "something that has changed the way I study"
+    }
+  ],
+  "questions": [
+    {
+      "id": "b1-28-podcasts-q1",
+      "type": "tfng",
+      "statement": "The writer has listened to podcasts for many years.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«A year ago, I did not even know what a podcast was» — bir yil oldin podkastni bilmagan ham."
+      },
+      "para": 0
+    },
+    {
+      "id": "b1-28-podcasts-q2",
+      "type": "tfng",
+      "statement": "The writer usually listens to podcasts while travelling to university.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«usually on my way to university»."
+      },
+      "para": 0
+    },
+    {
+      "id": "b1-28-podcasts-q3",
+      "type": "tfng",
+      "statement": "The writer's favourite podcast is about football.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Futbol faqat mavzular roʻyxatida tilga olingan; muallifning eng yaxshi koʻrgan podkasti aytilmagan."
+      },
+      "para": 1
+    },
+    {
+      "id": "b1-28-podcasts-q4",
+      "type": "tfng",
+      "statement": "The first podcast the writer used had a transcript for every episode.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«every episode came with a transcript»."
+      },
+      "para": 3
+    },
+    {
+      "id": "b1-28-podcasts-q5",
+      "type": "choice",
+      "prompt": "According to the writer, what is the main reason why podcasts are popular?",
+      "options": [
+        "They cost nothing.",
+        "You can listen while doing other things.",
+        "They are shorter than radio shows."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«the main reason is freedom. You cannot read a book while you are driving… but you can listen to a podcast»."
+      },
+      "para": 2
+    },
+    {
+      "id": "b1-28-podcasts-q6",
+      "type": "choice",
+      "prompt": "What does the writer mean when saying that hosts «start to feel like friends»?",
+      "options": [
+        "Listeners often meet the hosts in real life.",
+        "Listeners feel close to hosts they hear regularly.",
+        "The hosts are the writer's classmates."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«When you have listened to the same hosts for months» — oylab tinglagach, ular yaqin kishidek tuyuladi."
+      },
+      "para": 2
+    },
+    {
+      "id": "b1-28-podcasts-q7",
+      "type": "choice",
+      "prompt": "Why does the writer suggest listening to each episode twice?",
+      "options": [
+        "to understand the general idea first and then the details",
+        "to learn the episode by heart",
+        "because the episodes are very short"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "«the first time for the general idea, the second time for details»."
+      },
+      "para": 4
+    },
+    {
+      "id": "b1-28-podcasts-q8",
+      "type": "gap",
+      "prompt": "The writer advises beginners to start with short ___.",
+      "answers": [
+        "episodes"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«Start with short episodes of ten or fifteen minutes»."
+      },
+      "para": 4
+    },
+    {
+      "id": "b1-28-podcasts-q9",
+      "type": "heading",
+      "para": 1,
+      "options": [
+        "What a podcast is",
+        "How to record your own podcast",
+        "The history of radio"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "2-xatboshi podkast nima ekanini tushuntiradi: «a podcast is a series of audio programmes…»."
+      }
+    }
+  ]
+}

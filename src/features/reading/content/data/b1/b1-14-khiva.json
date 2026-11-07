@@ -1,0 +1,227 @@
+{
+  "id": "b1-14-khiva",
+  "title": {
+    "uz": "Xiva — ochiq osmon ostidagi muzey"
+  },
+  "en": "Khiva: A Museum Under the Open Sky",
+  "level": "B1",
+  "kind": "blog",
+  "tag": {
+    "uz": "Tarix va madaniyat",
+    "en": "History and culture"
+  },
+  "intro": {
+    "uz": "Bu — Xivaga borgan sayyohning blogidagi yozuv. Oʻqishdan oldin oʻylab koʻring: nega Xivani «ochiq osmon ostidagi muzey» deb atashadi?"
+  },
+  "paragraphs": [
+    {
+      "en": "Day 3 of my trip around Uzbekistan, and I think I have found my favourite place. After a long drive across the desert from Bukhara, we arrived in Khiva late in the afternoon. The sun was going down, and the old city walls were glowing orange. I had seen photos before, of course, but nothing had prepared me for how beautiful it looked in real life."
+    },
+    {
+      "en": "The old part of Khiva is called Itchan Kala, which means the inner town. It is surrounded by thick mud-brick walls, and you enter it through one of four gates. Inside, there are almost no modern buildings, just narrow streets, madrasas, mosques, minarets and palaces. In 1990, Itchan Kala became the first place in Uzbekistan to be added to the UNESCO World Heritage List. Walking around, I could easily see why people call Khiva a museum under the open sky."
+    },
+    {
+      "en": "The first thing I noticed was a short, wide tower covered in blue and green tiles. This is Kalta Minor, which means the short minaret. Our guide told us that the khan had planned it to be much taller, but he had died before it was finished, and the work was never completed. Even unfinished, it has become a symbol of the city."
+    },
+    {
+      "en": "The next morning, I visited the Juma Mosque. From the outside it looks quite simple, but inside there is a huge hall with more than two hundred carved wooden columns. Light comes in through openings in the roof, and the hall feels calm and cool, even on a hot day. I sat there for twenty minutes without saying a word."
+    },
+    {
+      "en": "In the evening, I climbed the Islam Khoja Minaret, the tallest in Khiva. The stairs were dark and steep, so I had to hold the wall all the way up. But the view from the top was worth it: the whole old town lay below me, with its domes and towers, and the flat land stretched to the horizon."
+    },
+    {
+      "en": "My advice? If you go to Khiva, stay at least two nights. Explore early in the morning or late in the afternoon, when it is cooler and there are fewer tourists. And wear comfortable shoes, because you will walk a lot!"
+    }
+  ],
+  "glossary": [
+    {
+      "en": "glow",
+      "uz": "nur taratmoq, tovlanmoq"
+    },
+    {
+      "en": "prepare somebody for",
+      "uz": "kimnidir … ga tayyorlamoq"
+    },
+    {
+      "en": "surrounded by",
+      "uz": "… bilan oʻralgan"
+    },
+    {
+      "en": "mud-brick",
+      "uz": "xom gʻisht, paxsa"
+    },
+    {
+      "en": "gate",
+      "uz": "darvoza"
+    },
+    {
+      "en": "World Heritage List",
+      "uz": "Jahon merosi roʻyxati"
+    },
+    {
+      "en": "tile",
+      "uz": "koshin, sopol plitka"
+    },
+    {
+      "en": "unfinished",
+      "uz": "tugallanmagan"
+    },
+    {
+      "en": "symbol",
+      "uz": "ramz"
+    },
+    {
+      "en": "carved",
+      "uz": "oʻymakor, oʻyib ishlangan"
+    },
+    {
+      "en": "column",
+      "uz": "ustun"
+    },
+    {
+      "en": "steep",
+      "uz": "tik"
+    },
+    {
+      "en": "be worth it",
+      "uz": "arzimoq, bunga arziydi"
+    },
+    {
+      "en": "horizon",
+      "uz": "ufq"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "i33-reported-speech",
+      "title": {
+        "uz": "Koʻchirma gap: told us that … had planned"
+      },
+      "example": "Our guide told us that the khan had planned it to be much taller"
+    },
+    {
+      "topicId": "i25-if-i-do-if-i-did",
+      "title": {
+        "uz": "Shart gap: If you go …, stay …"
+      },
+      "example": "If you go to Khiva, stay at least two nights."
+    }
+  ],
+  "questions": [
+    {
+      "id": "b1-14-khiva-q1",
+      "type": "tfng",
+      "statement": "The writer travelled to Khiva from Bukhara.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«After a long drive across the desert from Bukhara, we arrived in Khiva»."
+      },
+      "para": 0
+    },
+    {
+      "id": "b1-14-khiva-q2",
+      "type": "tfng",
+      "statement": "There are five gates in the walls of Itchan Kala.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«you enter it through one of four gates» — toʻrtta darvoza."
+      },
+      "para": 1
+    },
+    {
+      "id": "b1-14-khiva-q3",
+      "type": "tfng",
+      "statement": "The writer had to pay to climb the Islam Khoja Minaret.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Muallif minoraga chiqqanini aytadi, lekin buning uchun pul toʻlagan-toʻlamagani yozilmagan."
+      },
+      "para": 4
+    },
+    {
+      "id": "b1-14-khiva-q4",
+      "type": "tfng",
+      "statement": "Work on Kalta Minor continued after the khan died.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«he had died before it was finished, and the work was never completed»."
+      },
+      "para": 2
+    },
+    {
+      "id": "b1-14-khiva-q5",
+      "type": "choice",
+      "prompt": "Why is Kalta Minor so short?",
+      "options": [
+        "The khan wanted a small minaret.",
+        "It was never finished because the khan died.",
+        "The top fell down in an earthquake."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«the khan had planned it to be much taller, but he had died before it was finished»."
+      },
+      "para": 2
+    },
+    {
+      "id": "b1-14-khiva-q6",
+      "type": "choice",
+      "prompt": "How did the writer feel inside the Juma Mosque?",
+      "options": [
+        "bored and tired",
+        "calm and quiet",
+        "nervous because it was dark"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«the hall feels calm and cool» va «I sat there for twenty minutes without saying a word»."
+      },
+      "para": 3
+    },
+    {
+      "id": "b1-14-khiva-q7",
+      "type": "choice",
+      "prompt": "Why does the writer suggest exploring early or late in the day?",
+      "options": [
+        "because the museums are free then",
+        "because it is cooler and less crowded",
+        "because the light is better for photos"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«when it is cooler and there are fewer tourists»."
+      },
+      "para": 5
+    },
+    {
+      "id": "b1-14-khiva-q8",
+      "type": "gap",
+      "prompt": "The name Itchan Kala means the ___.",
+      "answers": [
+        "inner town"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«Itchan Kala, which means the inner town»."
+      },
+      "para": 1
+    },
+    {
+      "id": "b1-14-khiva-q9",
+      "type": "gap",
+      "prompt": "The stairs of the Islam Khoja Minaret were dark and ___.",
+      "answers": [
+        "steep"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«The stairs were dark and steep»."
+      },
+      "para": 4
+    }
+  ]
+}

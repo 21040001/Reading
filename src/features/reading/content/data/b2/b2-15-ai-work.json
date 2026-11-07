@@ -1,0 +1,309 @@
+{
+  "id": "b2-15-ai-work",
+  "title": {
+    "uz": "Sunʼiy intellekt va ish"
+  },
+  "en": "Artificial Intelligence and Work",
+  "level": "B2",
+  "kind": "exam",
+  "tag": {
+    "uz": "Texnologiya",
+    "en": "Technology"
+  },
+  "intro": {
+    "uz": "Topshiriq: Matching headings, True/False/Not Given va gap. Javobni yakunlashdan oldin tekshiring: sarlavha butun xatboshini qamrab oladimi yoki faqat bitta misol yoki jumlanimi? Misollar — tafsilot, asosiy gʻoya emas."
+  },
+  "paragraphs": [
+    {
+      "en": "Few technologies have produced as much discussion in such a short time as artificial intelligence. Tools that can draft letters, summarise long reports, translate texts and recognise images are now used in offices, hospitals and classrooms. Opinions about what this means for employment vary enormously. Some commentators expect dramatic job losses, while others believe the changes will be gradual. The honest answer is that nobody knows for certain, and confident predictions in either direction should be treated with caution."
+    },
+    {
+      "en": "History offers some perspective, although it cannot tell us exactly what will happen. When machines first appeared in factories during the Industrial Revolution, many workers feared, with good reason, that their skills would no longer be needed. Some occupations did largely disappear. Over the following decades, however, entirely new industries and types of work emerged, many of which earlier generations could not have imagined. Whether the same pattern will repeat itself is one of the central questions of the debate."
+    },
+    {
+      "en": "One useful way to think about the issue is to look at tasks rather than whole jobs. Most jobs consist of many different activities, some routine and some requiring judgement, creativity or personal contact. AI tools are generally best at the routine part: sorting documents, filling in forms, checking data or producing a first draft. As a result, in many professions the technology may change what people spend their time on rather than replace them entirely."
+    },
+    {
+      "en": "At the same time, new roles are appearing. Organisations need people to design, test and maintain AI systems, to prepare the data they learn from and to make sure they are used fairly and safely. Other positions involve explaining the technology to customers or combining it with expert knowledge in fields such as medicine, law or education. Some of the jobs that will be common in twenty years may not even have names yet."
+    },
+    {
+      "en": "This does not mean the transition will be painless. Workers whose jobs consist mainly of routine tasks may find their positions under real pressure, and there is no guarantee that the benefits will be shared evenly. There are also practical concerns. AI systems can produce answers that sound convincing but are simply wrong, which means that human checking remains essential, especially where mistakes could be costly or dangerous."
+    },
+    {
+      "en": "For individuals, the most widely shared advice concerns skills. Being able to use digital tools confidently is increasingly important, but so are abilities that machines find difficult, such as critical thinking, communication, teamwork and adaptability. Perhaps the most valuable skill of all is the willingness to keep learning throughout one's career, since the tools themselves are likely to keep changing."
+    },
+    {
+      "en": "In the end, the effect of artificial intelligence on work will depend not only on the technology but also on the decisions people make about how to use it. Governments, companies and workers will all shape the outcome. For a country like Uzbekistan, with a large and young population, investing in education, languages and digital skills could help to ensure that the changes bring new opportunities rather than new problems."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "summarise",
+      "uz": "qisqacha bayon qilmoq"
+    },
+    {
+      "en": "employment",
+      "uz": "bandlik, ish bilan taʼminlanish"
+    },
+    {
+      "en": "dramatic",
+      "uz": "keskin, katta"
+    },
+    {
+      "en": "gradual",
+      "uz": "asta-sekin boʻladigan"
+    },
+    {
+      "en": "caution",
+      "uz": "ehtiyotkorlik"
+    },
+    {
+      "en": "perspective",
+      "uz": "nuqtai nazar, kengroq qarash"
+    },
+    {
+      "en": "occupation",
+      "uz": "kasb"
+    },
+    {
+      "en": "emerge",
+      "uz": "paydo boʻlmoq"
+    },
+    {
+      "en": "routine",
+      "uz": "bir xil takrorlanadigan, odatiy"
+    },
+    {
+      "en": "judgement",
+      "uz": "mulohaza, toʻgʻri baho bera olish"
+    },
+    {
+      "en": "maintain",
+      "uz": "xizmat koʻrsatmoq, saqlab turmoq"
+    },
+    {
+      "en": "transition",
+      "uz": "oʻtish davri"
+    },
+    {
+      "en": "convincing",
+      "uz": "ishonarli"
+    },
+    {
+      "en": "essential",
+      "uz": "zarur, muhim"
+    },
+    {
+      "en": "adaptability",
+      "uz": "moslashuvchanlik"
+    },
+    {
+      "en": "willingness",
+      "uz": "tayyorlik, xohish"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "c33-relative-advanced",
+      "title": {
+        "uz": "many of which — murakkab nisbiy gap"
+      },
+      "example": "many of which earlier generations could not have imagined"
+    },
+    {
+      "topicId": "i30-passive-tenses",
+      "title": {
+        "uz": "Modal + majhul: should be treated"
+      },
+      "example": "confident predictions in either direction should be treated with caution"
+    }
+  ],
+  "questions": [
+    {
+      "id": "b2-15-ai-work-q1",
+      "type": "heading",
+      "para": 0,
+      "options": [
+        "Machines that never make mistakes",
+        "Uncertain forecasts",
+        "What the past can and cannot teach",
+        "Parts of a job, not the whole",
+        "Jobs that have already vanished",
+        "Opportunities that did not exist before",
+        "Risks and limits",
+        "Preparing to keep up",
+        "An outcome shaped by human choices"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "Xatboshi A: fikrlar juda xilma-xil, «nobody knows for certain» — bashoratlar noaniq."
+      }
+    },
+    {
+      "id": "b2-15-ai-work-q2",
+      "type": "heading",
+      "para": 1,
+      "options": [
+        "Machines that never make mistakes",
+        "Uncertain forecasts",
+        "What the past can and cannot teach",
+        "Parts of a job, not the whole",
+        "Jobs that have already vanished",
+        "Opportunities that did not exist before",
+        "Risks and limits",
+        "Preparing to keep up",
+        "An outcome shaped by human choices"
+      ],
+      "answer": 2,
+      "explain": {
+        "uz": "Xatboshi B: sanoat inqilobi tajribasi — tarix «some perspective» beradi, lekin aniq javob bermaydi. «Jobs that have already vanished» — bir jumla, butun xatboshi emas."
+      }
+    },
+    {
+      "id": "b2-15-ai-work-q3",
+      "type": "heading",
+      "para": 2,
+      "options": [
+        "Machines that never make mistakes",
+        "Uncertain forecasts",
+        "What the past can and cannot teach",
+        "Parts of a job, not the whole",
+        "Jobs that have already vanished",
+        "Opportunities that did not exist before",
+        "Risks and limits",
+        "Preparing to keep up",
+        "An outcome shaped by human choices"
+      ],
+      "answer": 3,
+      "explain": {
+        "uz": "Xatboshi C: butun ish emas, uning ayrim vazifalari (routine part) avtomatlashadi."
+      }
+    },
+    {
+      "id": "b2-15-ai-work-q4",
+      "type": "heading",
+      "para": 3,
+      "options": [
+        "Machines that never make mistakes",
+        "Uncertain forecasts",
+        "What the past can and cannot teach",
+        "Parts of a job, not the whole",
+        "Jobs that have already vanished",
+        "Opportunities that did not exist before",
+        "Risks and limits",
+        "Preparing to keep up",
+        "An outcome shaped by human choices"
+      ],
+      "answer": 5,
+      "explain": {
+        "uz": "Xatboshi D: yangi rollar paydo boʻlmoqda, baʼzilarining hali nomi ham yoʻq."
+      }
+    },
+    {
+      "id": "b2-15-ai-work-q5",
+      "type": "heading",
+      "para": 4,
+      "options": [
+        "Machines that never make mistakes",
+        "Uncertain forecasts",
+        "What the past can and cannot teach",
+        "Parts of a job, not the whole",
+        "Jobs that have already vanished",
+        "Opportunities that did not exist before",
+        "Risks and limits",
+        "Preparing to keep up",
+        "An outcome shaped by human choices"
+      ],
+      "answer": 6,
+      "explain": {
+        "uz": "Xatboshi E: oʻtish davri xavflari va SI xatolari. «Machines that never make mistakes» — matn aksini aytadi: SI xato qilishi mumkin."
+      }
+    },
+    {
+      "id": "b2-15-ai-work-q6",
+      "type": "heading",
+      "para": 5,
+      "options": [
+        "Machines that never make mistakes",
+        "Uncertain forecasts",
+        "What the past can and cannot teach",
+        "Parts of a job, not the whole",
+        "Jobs that have already vanished",
+        "Opportunities that did not exist before",
+        "Risks and limits",
+        "Preparing to keep up",
+        "An outcome shaped by human choices"
+      ],
+      "answer": 7,
+      "explain": {
+        "uz": "Xatboshi F: koʻnikmalar va umr boʻyi oʻrganish — oʻzgarishlarga moslashish uchun tayyorgarlik."
+      }
+    },
+    {
+      "id": "b2-15-ai-work-q7",
+      "type": "heading",
+      "para": 6,
+      "options": [
+        "Machines that never make mistakes",
+        "Uncertain forecasts",
+        "What the past can and cannot teach",
+        "Parts of a job, not the whole",
+        "Jobs that have already vanished",
+        "Opportunities that did not exist before",
+        "Risks and limits",
+        "Preparing to keep up",
+        "An outcome shaped by human choices"
+      ],
+      "answer": 8,
+      "explain": {
+        "uz": "Xatboshi G: natija texnologiyaga emas, odamlarning qarorlariga ham bogʻliq."
+      }
+    },
+    {
+      "id": "b2-15-ai-work-q8",
+      "type": "tfng",
+      "statement": "The writer states that AI will certainly lead to large-scale unemployment.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«nobody knows for certain» — muallif aniq bashorat qilmaydi, aksincha ehtiyotkorlikka chaqiradi."
+      },
+      "para": 0
+    },
+    {
+      "id": "b2-15-ai-work-q9",
+      "type": "gap",
+      "prompt": "AI tools tend to be most effective at the ___ part of a job.",
+      "answers": [
+        "routine"
+      ],
+      "maxWords": 1,
+      "explain": {
+        "uz": "«AI tools are generally best at the routine part»."
+      },
+      "para": 2
+    },
+    {
+      "id": "b2-15-ai-work-q10",
+      "type": "tfng",
+      "statement": "AI systems sometimes give answers that seem believable but are incorrect.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«answers that sound convincing but are simply wrong»."
+      },
+      "para": 4
+    },
+    {
+      "id": "b2-15-ai-work-q11",
+      "type": "tfng",
+      "statement": "Most companies in Uzbekistan already use AI tools in their daily work.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Oʻzbekiston haqida faqat yosh aholi va taʼlimga sarmoya aytilgan; kompaniyalar haqida maʼlumot yoʻq."
+      },
+      "para": 6
+    }
+  ]
+}

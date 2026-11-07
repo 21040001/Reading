@@ -1,0 +1,191 @@
+{
+  "id": "a1-07-bazaar",
+  "title": {
+    "uz": "Bozorda"
+  },
+  "en": "At the Bazaar",
+  "level": "A1",
+  "kind": "dialogue",
+  "tag": {
+    "uz": "Xarid",
+    "en": "Shopping"
+  },
+  "intro": {
+    "uz": "Malika Chorsu bozorida meva va sabzavot sotib oladi. Oʻqishdan oldin: bozorda narxni inglizcha qanday soʻraysiz?"
+  },
+  "paragraphs": [
+    {
+      "en": "Malika: Good morning! I want some apples, please. Seller: Good morning! These red apples are very sweet. They are 15,000 sum a kilo.",
+      "uz": "Malika: Xayrli tong! Menga olma kerak edi. Sotuvchi: Xayrli tong! Mana bu qizil olmalar juda shirin. Ularning kilosi 15 000 soʻm."
+    },
+    {
+      "en": "Malika: Good. Two kilos, please. Do you have any grapes? Seller: Sorry, I don't have any grapes today. But I have some nice pears.",
+      "uz": "Malika: Yaxshi. Ikki kilo bering, iltimos. Uzumingiz bormi? Sotuvchi: Kechirasiz, bugun uzum yoʻq. Lekin yaxshi noklarim bor."
+    },
+    {
+      "en": "Malika: No, thank you. How much are the tomatoes? Seller: They are 10,000 sum a kilo.",
+      "uz": "Malika: Yoʻq, rahmat. Pomidor necha pul? Sotuvchi: Kilosi 10 000 soʻm."
+    },
+    {
+      "en": "Malika: One kilo, please. How much is that all together? Seller: That is 40,000 sum.",
+      "uz": "Malika: Bir kilo bering, iltimos. Hammasi boʻlib qancha boʻldi? Sotuvchi: 40 000 soʻm."
+    },
+    {
+      "en": "Malika: Here you are. Thank you! Seller: Thank you. Come again!",
+      "uz": "Malika: Mana, oling. Rahmat! Sotuvchi: Sizga ham rahmat. Yana keling!"
+    }
+  ],
+  "glossary": [
+    {
+      "en": "seller",
+      "uz": "sotuvchi"
+    },
+    {
+      "en": "sweet",
+      "uz": "shirin"
+    },
+    {
+      "en": "kilo",
+      "uz": "kilogramm"
+    },
+    {
+      "en": "grapes",
+      "uz": "uzum"
+    },
+    {
+      "en": "pear",
+      "uz": "nok"
+    },
+    {
+      "en": "tomato",
+      "uz": "pomidor"
+    },
+    {
+      "en": "How much …?",
+      "uz": "Qancha turadi? Necha pul?"
+    },
+    {
+      "en": "all together",
+      "uz": "hammasi boʻlib"
+    },
+    {
+      "en": "Here you are.",
+      "uz": "Mana, oling."
+    },
+    {
+      "en": "Come again!",
+      "uz": "Yana keling!"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "b33-some-any",
+      "title": {
+        "uz": "some / any"
+      },
+      "example": "Do you have any grapes?"
+    },
+    {
+      "topicId": "b31-countable",
+      "title": {
+        "uz": "Sanaladigan otlar: apple → apples"
+      },
+      "example": "These red apples are very sweet."
+    }
+  ],
+  "questions": [
+    {
+      "id": "a1-07-bazaar-q1",
+      "type": "choice",
+      "prompt": "What does Malika ask for first?",
+      "options": [
+        "apples",
+        "grapes",
+        "pears"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "«I want some apples, please.»"
+      },
+      "para": 0
+    },
+    {
+      "id": "a1-07-bazaar-q2",
+      "type": "tfng",
+      "statement": "The red apples are sweet.",
+      "answer": "T",
+      "explain": {
+        "uz": "Sotuvchi aytadi: «These red apples are very sweet.»"
+      },
+      "para": 0
+    },
+    {
+      "id": "a1-07-bazaar-q3",
+      "type": "gap",
+      "prompt": "The apples are ___ sum a kilo.",
+      "answers": [
+        "15,000",
+        "15000",
+        "15 000"
+      ],
+      "explain": {
+        "uz": "«They are 15,000 sum a kilo.»"
+      },
+      "para": 0
+    },
+    {
+      "id": "a1-07-bazaar-q4",
+      "type": "tfng",
+      "statement": "The seller has grapes today.",
+      "answer": "F",
+      "explain": {
+        "uz": "«Sorry, I don't have any grapes today.» — bugun uzum yoʻq."
+      },
+      "para": 1
+    },
+    {
+      "id": "a1-07-bazaar-q5",
+      "type": "choice",
+      "prompt": "What does the seller offer instead of grapes?",
+      "options": [
+        "tomatoes",
+        "pears",
+        "melons"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«But I have some nice pears.» Lekin Malika nok olmaydi."
+      },
+      "para": 1
+    },
+    {
+      "id": "a1-07-bazaar-q6",
+      "type": "choice",
+      "prompt": "How many kilos of tomatoes does Malika buy?",
+      "options": [
+        "one",
+        "two",
+        "three"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "«One kilo, please.» Ikki kilo — bu olma."
+      },
+      "para": 3
+    },
+    {
+      "id": "a1-07-bazaar-q7",
+      "type": "gap",
+      "prompt": "All together, Malika pays ___ sum.",
+      "answers": [
+        "40,000",
+        "40000",
+        "40 000"
+      ],
+      "explain": {
+        "uz": "«That is 40,000 sum.» — 2 kilo olma 30 000 + 1 kilo pomidor 10 000."
+      },
+      "para": 3
+    }
+  ]
+}

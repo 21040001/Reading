@@ -1,0 +1,182 @@
+{
+  "id": "a1-19-birthday",
+  "title": {
+    "uz": "Tugʻilgan kun taklifnomasi"
+  },
+  "en": "A Birthday Invitation",
+  "level": "A1",
+  "kind": "email",
+  "tag": {
+    "uz": "Bayramlar",
+    "en": "Celebrations"
+  },
+  "intro": {
+    "uz": "Bu — Nilufarning dugonasiga yozgan xati. Oʻqishdan oldin: taklifnomada qanday maʼlumotlar boʻladi?"
+  },
+  "paragraphs": [
+    {
+      "en": "Hi Aziza, how are you? I have good news. My birthday is on Saturday, 20 May, and I would like to invite you to my party!",
+      "uz": "Salom, Aziza! Qalaysan? Menda yaxshi xabar bor. Mening tugʻilgan kunim 20-may, shanba kuni, va seni bazmimga taklif qilmoqchiman!"
+    },
+    {
+      "en": "The party is at our house in Yunusobod. It starts at 4 o'clock in the afternoon and finishes at 8. Our address is 12 Lola Street.",
+      "uz": "Bazm Yunusoboddagi uyimizda boʻladi. U tushdan keyin soat 4 da boshlanib, 8 da tugaydi. Manzilimiz: Lola koʻchasi, 12-uy."
+    },
+    {
+      "en": "There is a big birthday cake and plov for everyone. We can play games and dance in the garden. My cousin Bekzod can play the guitar.",
+      "uz": "Hamma uchun katta tugʻilgan kun torti va palov boʻladi. Biz bogʻda oʻyinlar oʻynashimiz va raqsga tushishimiz mumkin. Amakivachcham Bekzod gitara chala oladi."
+    },
+    {
+      "en": "Please don't bring a big present. A card is fine! Can you come? Please write back by Thursday. Love, Nilufar",
+      "uz": "Iltimos, katta sovgʻa olib kelma. Bitta otkritka ham yetarli! Kela olasanmi? Iltimos, payshanbagacha javob yoz. Mehr bilan, Nilufar"
+    }
+  ],
+  "glossary": [
+    {
+      "en": "good news",
+      "uz": "yaxshi xabar"
+    },
+    {
+      "en": "birthday",
+      "uz": "tugʻilgan kun"
+    },
+    {
+      "en": "invite",
+      "uz": "taklif qilmoq"
+    },
+    {
+      "en": "party",
+      "uz": "bazm, ziyofat"
+    },
+    {
+      "en": "afternoon",
+      "uz": "tushdan keyin, kunduzi"
+    },
+    {
+      "en": "finish",
+      "uz": "tugamoq"
+    },
+    {
+      "en": "address",
+      "uz": "manzil"
+    },
+    {
+      "en": "cake",
+      "uz": "tort"
+    },
+    {
+      "en": "cousin",
+      "uz": "amakivachcha, xolavachcha"
+    },
+    {
+      "en": "present",
+      "uz": "sovgʻa"
+    },
+    {
+      "en": "write back",
+      "uz": "javob yozmoq"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "b44-would-like",
+      "title": {
+        "uz": "would like — xohlamoq"
+      },
+      "example": "I would like to invite you to my party!"
+    },
+    {
+      "topicId": "b23-days-dates",
+      "title": {
+        "uz": "Sanalar: on Saturday, 20 May"
+      },
+      "example": "My birthday is on Saturday, 20 May"
+    }
+  ],
+  "questions": [
+    {
+      "id": "a1-19-birthday-q1",
+      "type": "choice",
+      "prompt": "When is Nilufar's birthday?",
+      "options": [
+        "on Thursday, 20 May",
+        "on Saturday, 20 May",
+        "on Saturday, 12 May"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«My birthday is on Saturday, 20 May». Payshanba — javob berish muddati, 12 — uy raqami."
+      },
+      "para": 0
+    },
+    {
+      "id": "a1-19-birthday-q2",
+      "type": "tfng",
+      "statement": "The party is at a cafe.",
+      "answer": "F",
+      "explain": {
+        "uz": "Bazm uyda boʻladi: «The party is at our house in Yunusobod.»"
+      },
+      "para": 1
+    },
+    {
+      "id": "a1-19-birthday-q3",
+      "type": "choice",
+      "prompt": "What time does the party start?",
+      "options": [
+        "at 4 o'clock",
+        "at 8 o'clock",
+        "at 12 o'clock"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "«It starts at 4… and finishes at 8.» Soat 8 da bazm tugaydi."
+      },
+      "para": 1
+    },
+    {
+      "id": "a1-19-birthday-q4",
+      "type": "gap",
+      "prompt": "Nilufar's address is 12 ___ Street.",
+      "answers": [
+        "Lola"
+      ],
+      "explain": {
+        "uz": "«Our address is 12 Lola Street.»"
+      },
+      "para": 1
+    },
+    {
+      "id": "a1-19-birthday-q5",
+      "type": "tfng",
+      "statement": "There is a cake at the party.",
+      "answer": "T",
+      "explain": {
+        "uz": "«There is a big birthday cake and plov for everyone.»"
+      },
+      "para": 2
+    },
+    {
+      "id": "a1-19-birthday-q6",
+      "type": "gap",
+      "prompt": "Bekzod can play the ___.",
+      "answers": [
+        "guitar"
+      ],
+      "explain": {
+        "uz": "«My cousin Bekzod can play the guitar.»"
+      },
+      "para": 2
+    },
+    {
+      "id": "a1-19-birthday-q7",
+      "type": "tfng",
+      "statement": "Aziza must bring a big present.",
+      "answer": "F",
+      "explain": {
+        "uz": "Nilufar yozadi: «Please don’t bring a big present. A card is fine!»"
+      },
+      "para": 3
+    }
+  ]
+}

@@ -1,0 +1,321 @@
+{
+  "id": "c1-16-free-museums",
+  "title": {
+    "uz": "Muzeylar bepul boʻlishi kerakmi?"
+  },
+  "en": "Should Museums Be Free?",
+  "level": "C1",
+  "kind": "exam",
+  "tag": {
+    "uz": "Madaniyat va jamiyat",
+    "en": "Culture and society"
+  },
+  "intro": {
+    "uz": "Fikr-mulohaza matni (argumentativ esse): muzeylarga kirish bepul boʻlishi yoki pullik boʻlishi haqida — imkoniyat va moliyalashtirish oʻrtasidagi bahs. Bu matnda True/False/Not Given savollari muallifning qarashlari haqida — IELTSdagi YES / NO / NOT GIVEN kabi: TRUE (YES) — muallif shu fikrni bildiradi; FALSE (NO) — muallif bunga zid fikrda; NOT GIVEN — muallif bu masalada fikr bildirmagan. Faktlarni emas, muallifning munosabatini koʻrsatuvchi soʻzlarni qidiring: I would argue, in my view, arguably, it seems to me, with some justification. Avval sarlavhalarni moslang: har bir xatboshining birinchi va oxirgi jumlasi muallif fikrining yoʻnalishini koʻrsatadi. Taxminan 20 daqiqa ajrating."
+  },
+  "paragraphs": [
+    {
+      "en": "Few questions in cultural policy provoke as much quiet disagreement as whether public museums should charge visitors for admission. On one side stand those who regard a museum as a civic institution, comparable to a public library, whose collections belong in some meaningful sense to everyone. On the other are those who point out that collections must be conserved, buildings heated and staff paid, and that someone has to bear these costs. My own view is that both camps are right about something important, and that the debate is often conducted as if a single answer must apply to every institution."
+    },
+    {
+      "en": "The case for free entry rests largely on the principle of access. A charge that seems trivial to a comfortably off tourist may be a genuine deterrent to a family on a low income, or to a teenager who simply wants to wander in out of curiosity. Free admission removes not only a financial barrier but also a psychological one: it signals that the building is a place where anyone is welcome, rather than a venue reserved for those who already feel at home in it. Where entry has been made free, attendance has generally been reported to rise, although it is less clear whether the new visitors come from groups that previously stayed away."
+    },
+    {
+      "en": "That last point deserves more attention than campaigners usually give it. Abolishing a ticket price does not automatically change who feels entitled to walk through the door. People who grew up visiting galleries are likely to make the most of free entry, visiting more often and staying longer, while those for whom museums seemed distant and formal may continue to stay away. In other words, free admission may be a necessary condition for wider participation, but it is unlikely to be a sufficient one. Outreach work with schools and local communities, and exhibitions that speak to a broad range of experiences, arguably matter at least as much as the price at the door."
+    },
+    {
+      "en": "The case for charging is usually presented as a matter of hard necessity. Public funding for culture is rarely generous and is often among the first budgets to be cut when governments face difficult choices. Ticket income can give a museum a degree of independence from such political pressures, allowing it to plan exhibitions years in advance. Critics of free entry also note, with some justification, that when admission is free, the cost does not disappear; it is simply transferred to taxpayers, many of whom may never visit at all."
+    },
+    {
+      "en": "Yet the revenue argument is weaker than it first appears. Admission charges at many institutions cover only a modest share of running costs, and the expense of collecting fees, staffing ticket desks and handling payments eats into whatever is raised. Moreover, visitors who enter without paying frequently spend money in cafes and shops, and a busy building may make it easier to attract private donors and sponsors. None of this proves that free entry pays for itself, but it does suggest that the financial gap is smaller than the headline price would imply."
+    },
+    {
+      "en": "What, then, should be done? I would argue that permanent collections, particularly those acquired with public money or through donations made in the public interest, should as a rule be free to see. Temporary exhibitions are a different matter. They are expensive to organise, often involve borrowing works from abroad, and are visited by people who have actively chosen to attend; a reasonable charge for these seems entirely defensible. Many institutions already operate along these lines, and the arrangement strikes me as a sensible compromise rather than a failure of principle."
+    },
+    {
+      "en": "Finally, it is worth remembering that the price of a ticket is only one of the costs of a visit. Transport, time off work and the simple matter of whether a museum is open when people are free all shape who comes. A museum that is free but closes at five o'clock on weekdays may be less accessible to working people than one that charges a small fee but stays open late. Debates about admission would be more productive if they treated price as one part of a wider question: not simply whether a museum costs money, but for whom it is genuinely open."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "provoke",
+      "uz": "qoʻzgʻatmoq, keltirib chiqarmoq"
+    },
+    {
+      "en": "civic institution",
+      "uz": "jamoat muassasasi"
+    },
+    {
+      "en": "conserve",
+      "uz": "asrab-avaylamoq, saqlamoq (restavratsiya qilib)"
+    },
+    {
+      "en": "deterrent",
+      "uz": "toʻsiq, qaytaruvchi omil"
+    },
+    {
+      "en": "feel entitled to",
+      "uz": "… ga haqli deb his qilmoq"
+    },
+    {
+      "en": "make the most of",
+      "uz": "imkoniyatdan toʻliq foydalanmoq"
+    },
+    {
+      "en": "sufficient condition",
+      "uz": "yetarli shart"
+    },
+    {
+      "en": "outreach",
+      "uz": "aholi bilan ishlash, keng qatlamga yetib borish"
+    },
+    {
+      "en": "with some justification",
+      "uz": "maʼlum darajada asosli ravishda"
+    },
+    {
+      "en": "revenue",
+      "uz": "daromad, tushum"
+    },
+    {
+      "en": "modest share",
+      "uz": "kichik ulush"
+    },
+    {
+      "en": "eat into",
+      "uz": "(pul, vaqtni) asta-sekin yeb qoʻymoq"
+    },
+    {
+      "en": "sponsor",
+      "uz": "homiy"
+    },
+    {
+      "en": "acquire",
+      "uz": "qoʻlga kiritmoq, sotib olmoq"
+    },
+    {
+      "en": "defensible",
+      "uz": "oqlab boʻladigan, himoya qilsa boʻladigan"
+    },
+    {
+      "en": "compromise",
+      "uz": "murosa, kelishuv"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "c39-it-there",
+      "title": {
+        "uz": "Oldindan keluvchi it: it is worth remembering that …"
+      },
+      "example": "it is worth remembering that the price of a ticket is only one of the costs of a visit"
+    },
+    {
+      "topicId": "c61-linking-adverbials",
+      "title": {
+        "uz": "Bogʻlovchi ravishlar: Moreover, Yet, In other words"
+      },
+      "example": "Moreover, visitors who enter without paying frequently spend money in cafes and shops"
+    }
+  ],
+  "questions": [
+    {
+      "id": "c1-16-free-museums-q1",
+      "type": "heading",
+      "para": 1,
+      "options": [
+        "Why removing a fee may not change who visits",
+        "The principle of open doors",
+        "An argument from financial necessity",
+        "Why the income argument is overstated",
+        "A practical middle way",
+        "Barriers beyond the ticket price",
+        "How museums decide what to display",
+        "The history of public collections"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "Xatboshi B: bepul kirish tarafdorlari «the principle of access» ga tayanadi — moliyaviy va psixologik toʻsiq olib tashlanadi, hamma xush kelibsiz. «Ochiq eshiklar tamoyili»."
+      }
+    },
+    {
+      "id": "c1-16-free-museums-q2",
+      "type": "heading",
+      "para": 2,
+      "options": [
+        "Why removing a fee may not change who visits",
+        "The principle of open doors",
+        "An argument from financial necessity",
+        "Why the income argument is overstated",
+        "A practical middle way",
+        "Barriers beyond the ticket price",
+        "How museums decide what to display",
+        "The history of public collections"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "Xatboshi C: narxni olib tashlash «does not automatically change who feels entitled to walk through the door» — tashrif buyuruvchilar tarkibi oʻzgarmasligi mumkin."
+      }
+    },
+    {
+      "id": "c1-16-free-museums-q3",
+      "type": "heading",
+      "para": 4,
+      "options": [
+        "Why removing a fee may not change who visits",
+        "The principle of open doors",
+        "An argument from financial necessity",
+        "Why the income argument is overstated",
+        "A practical middle way",
+        "Barriers beyond the ticket price",
+        "How museums decide what to display",
+        "The history of public collections"
+      ],
+      "answer": 3,
+      "explain": {
+        "uz": "Xatboshi E: «the revenue argument is weaker than it first appears» — chipta daromadi kichik ulush, yigʻish xarajati bor. «Overstated» = boʻrttirilgan."
+      }
+    },
+    {
+      "id": "c1-16-free-museums-q4",
+      "type": "heading",
+      "para": 6,
+      "options": [
+        "Why removing a fee may not change who visits",
+        "The principle of open doors",
+        "An argument from financial necessity",
+        "Why the income argument is overstated",
+        "A practical middle way",
+        "Barriers beyond the ticket price",
+        "How museums decide what to display",
+        "The history of public collections"
+      ],
+      "answer": 5,
+      "explain": {
+        "uz": "Xatboshi G: transport, ish vaqti, muzeyning ochiq soatlari — narxdan tashqari toʻsiqlar. «How museums decide what to display» chalgʻitadi: koʻrgazma tanlovi haqida gap yoʻq."
+      }
+    },
+    {
+      "id": "c1-16-free-museums-q5",
+      "type": "tfng",
+      "statement": "The writer believes that one admission policy should be applied to all museums.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "Muallif bahsni tanqid qiladi: «the debate is often conducted as if a single answer must apply to every institution» — yaʼni bitta javob hammaga mos degan yondashuvga qarshi. Bundan tashqari F xatboshida doimiy va vaqtinchalik koʻrgazmalarni farqlaydi."
+      },
+      "para": 0
+    },
+    {
+      "id": "c1-16-free-museums-q6",
+      "type": "tfng",
+      "statement": "According to the writer, free entry by itself is unlikely to attract people who have previously felt excluded from museums.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«free admission may be a necessary condition … but it is unlikely to be a sufficient one»; muzeyni begona his qilganlar «may continue to stay away». Bu YES."
+      },
+      "para": 2
+    },
+    {
+      "id": "c1-16-free-museums-q7",
+      "type": "tfng",
+      "statement": "The writer considers outreach work to be less important than the price of admission.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "Aksincha: outreach «arguably matter at least as much as the price at the door» — kamida narx darajasida muhim."
+      },
+      "para": 2
+    },
+    {
+      "id": "c1-16-free-museums-q8",
+      "type": "tfng",
+      "statement": "The writer believes that museums in small towns need free entry more than those in large cities.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Muallif kichik shahar va yirik shahar muzeylarini umuman solishtirmaydi — NOT GIVEN."
+      }
+    },
+    {
+      "id": "c1-16-free-museums-q9",
+      "type": "tfng",
+      "statement": "The writer thinks it is reasonable to charge visitors for temporary exhibitions.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«a reasonable charge for these seems entirely defensible» — muallif rozi (YES)."
+      },
+      "para": 5
+    },
+    {
+      "id": "c1-16-free-museums-q10",
+      "type": "tfng",
+      "statement": "The writer believes that museum employees should be consulted before admission policies are changed.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Xodimlar faqat xarajat sifatida tilga olinadi («staff paid»); ularning fikrini soʻrash haqida muallif hech narsa demaydi."
+      }
+    },
+    {
+      "id": "c1-16-free-museums-q11",
+      "type": "choice",
+      "prompt": "In paragraph D, what is the writer's attitude to the claim that free entry shifts costs to taxpayers?",
+      "options": [
+        "The writer dismisses it as unfounded.",
+        "The writer accepts that there is some truth in it.",
+        "The writer regards it as the strongest argument in the debate.",
+        "The writer believes it applies only to temporary exhibitions."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«Critics of free entry also note, with some justification, that …» — «with some justification» = qisman asosli deb tan oladi. Eng kuchli dalil deb aytmaydi; keyingi xatboshida daromad dalilini zaif deydi."
+      },
+      "para": 3
+    },
+    {
+      "id": "c1-16-free-museums-q12",
+      "type": "choice",
+      "prompt": "What is the main purpose of paragraph E?",
+      "options": [
+        "To show that free museums cost taxpayers nothing.",
+        "To suggest that the financial loss from free entry is smaller than it seems.",
+        "To argue that museums should depend entirely on private donors.",
+        "To explain why cafes and shops are important to visitors."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«the financial gap is smaller than the headline price would imply». A notoʻgʻri: «None of this proves that free entry pays for itself». Kafe va homiylar faqat dalil sifatida keltirilgan."
+      },
+      "para": 4
+    },
+    {
+      "id": "c1-16-free-museums-q13",
+      "type": "gap",
+      "prompt": "According to the writer, free admission removes a financial barrier and also a ___ one.",
+      "answers": [
+        "psychological"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«removes not only a financial barrier but also a psychological one»."
+      },
+      "para": 1
+    },
+    {
+      "id": "c1-16-free-museums-q14",
+      "type": "gap",
+      "prompt": "The writer describes charging for temporary exhibitions while keeping permanent collections free as a sensible ___.",
+      "answers": [
+        "compromise"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«the arrangement strikes me as a sensible compromise rather than a failure of principle»."
+      },
+      "para": 5
+    }
+  ]
+}

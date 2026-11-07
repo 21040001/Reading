@@ -1,0 +1,197 @@
+{
+  "id": "a2-11-navruz",
+  "title": {
+    "uz": "Navroʻz"
+  },
+  "en": "Navruz",
+  "level": "A2",
+  "kind": "article",
+  "tag": {
+    "uz": "Bayramlar",
+    "en": "Holidays"
+  },
+  "intro": {
+    "uz": "Bu maqola Navroʻz bayrami va uning anʼanalari haqida. Oʻqishdan oldin oʻylab koʻring: sizning oilangiz Navroʻzda nima qiladi?"
+  },
+  "paragraphs": [
+    {
+      "en": "Navruz is one of the oldest holidays in Central Asia. People celebrate it on 21 March, at the start of spring. In Uzbekistan, it is a public holiday, so schools and many offices are closed. For many families, it is the beginning of a new year.",
+      "uz": "Navroʻz — Markaziy Osiyodagi eng qadimiy bayramlardan biri. Odamlar uni 21-martda, bahor boshlanishida nishonlaydi. Oʻzbekistonda bu dam olish kuni, shuning uchun maktablar va koʻplab idoralar yopiq boʻladi. Koʻp oilalar uchun bu yangi yilning boshlanishidir."
+    },
+    {
+      "en": "Before the holiday, people clean their houses and streets. They plant trees and flowers. Many people buy new clothes. They want to start the new year with a clean home and a happy heart.",
+      "uz": "Bayramdan oldin odamlar uylari va koʻchalarini tozalaydi. Ular daraxt va gul ekadi. Koʻpchilik yangi kiyim sotib oladi. Ular yangi yilni toza uy va quvnoq koʻngil bilan boshlashni xohlaydi."
+    },
+    {
+      "en": "The most famous Navruz dish is sumalak. It is made from sprouted wheat. It is cooked in a very big pot for many hours, often all night. Neighbours and relatives come and stir it in turns. They talk, sing songs and make wishes.",
+      "uz": "Navroʻzning eng mashhur taomi — sumalak. U undirilgan bugʻdoydan tayyorlanadi. U juda katta qozonda koʻp soat, koʻpincha tun boʻyi pishiriladi. Qoʻni-qoʻshnilar va qarindoshlar kelib, uni navbat bilan kavlashadi. Ular suhbatlashadi, qoʻshiq aytadi va niyat qiladi."
+    },
+    {
+      "en": "On the day of Navruz, people visit their relatives and friends. They also cook halim, a dish of wheat and meat. In the parks, there are concerts, games and traditional sports.",
+      "uz": "Navroʻz kuni odamlar qarindosh va doʻstlarinikiga boradi. Ular halim ham pishiradi — bu bugʻdoy va goʻshtdan qilinadigan taom. Bogʻlarda konsertlar, oʻyinlar va milliy sport musobaqalari boʻladi."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "celebrate",
+      "uz": "nishonlamoq"
+    },
+    {
+      "en": "public holiday",
+      "uz": "rasmiy dam olish kuni, bayram"
+    },
+    {
+      "en": "beginning",
+      "uz": "boshlanish"
+    },
+    {
+      "en": "plant",
+      "uz": "ekmoq"
+    },
+    {
+      "en": "dish",
+      "uz": "taom; idish"
+    },
+    {
+      "en": "sprouted wheat",
+      "uz": "undirilgan bugʻdoy"
+    },
+    {
+      "en": "pot",
+      "uz": "qozon"
+    },
+    {
+      "en": "stir",
+      "uz": "kavlamoq, aralashtirmoq"
+    },
+    {
+      "en": "in turns",
+      "uz": "navbat bilan"
+    },
+    {
+      "en": "make a wish",
+      "uz": "niyat qilmoq"
+    },
+    {
+      "en": "relatives",
+      "uz": "qarindoshlar"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "e19-passive",
+      "title": {
+        "uz": "Majhul nisbat: It is made from …"
+      },
+      "example": "It is made from sprouted wheat."
+    },
+    {
+      "topicId": "e49-at-on-in-time",
+      "title": {
+        "uz": "Vaqt predloglari: on 21 March, at the start"
+      },
+      "example": "People celebrate it on 21 March"
+    }
+  ],
+  "questions": [
+    {
+      "id": "a2-11-navruz-q1",
+      "type": "tfng",
+      "statement": "People celebrate Navruz on 21 March.",
+      "answer": "T",
+      "explain": {
+        "uz": "1-xatboshi: «People celebrate it on 21 March»."
+      },
+      "para": 0
+    },
+    {
+      "id": "a2-11-navruz-q2",
+      "type": "tfng",
+      "statement": "Schools are open on Navruz in Uzbekistan.",
+      "answer": "F",
+      "explain": {
+        "uz": "Bu dam olish kuni: «so schools and many offices are closed»."
+      },
+      "para": 0
+    },
+    {
+      "id": "a2-11-navruz-q3",
+      "type": "choice",
+      "prompt": "What do people do before the holiday?",
+      "options": [
+        "They clean their houses.",
+        "They cook halim.",
+        "They go to concerts."
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "«Before the holiday, people clean their houses and streets.» Halim va konsertlar — bayram kunining oʻzida."
+      },
+      "para": 1
+    },
+    {
+      "id": "a2-11-navruz-q4",
+      "type": "gap",
+      "prompt": "Sumalak is made from sprouted ___.",
+      "answers": [
+        "wheat"
+      ],
+      "explain": {
+        "uz": "«It is made from sprouted wheat.»"
+      },
+      "para": 2
+    },
+    {
+      "id": "a2-11-navruz-q5",
+      "type": "choice",
+      "prompt": "Why do neighbours and relatives come to the sumalak pot?",
+      "options": [
+        "to buy sumalak",
+        "to stir it in turns",
+        "to clean the pot"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«Neighbours and relatives come and stir it in turns.»"
+      },
+      "para": 2
+    },
+    {
+      "id": "a2-11-navruz-q6",
+      "type": "tfng",
+      "statement": "Sumalak is cooked quickly, in one hour.",
+      "answer": "F",
+      "explain": {
+        "uz": "U uzoq pishiriladi: «for many hours, often all night» — koʻp soat, koʻpincha tun boʻyi."
+      },
+      "para": 2
+    },
+    {
+      "id": "a2-11-navruz-q7",
+      "type": "gap",
+      "prompt": "Halim is a dish of wheat and ___.",
+      "answers": [
+        "meat"
+      ],
+      "explain": {
+        "uz": "«halim, a dish of wheat and meat»."
+      },
+      "para": 3
+    },
+    {
+      "id": "a2-11-navruz-q8",
+      "type": "choice",
+      "prompt": "Where are there concerts and games?",
+      "options": [
+        "at schools",
+        "in the parks",
+        "in offices"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«In the parks, there are concerts, games and traditional sports.»"
+      },
+      "para": 3
+    }
+  ]
+}

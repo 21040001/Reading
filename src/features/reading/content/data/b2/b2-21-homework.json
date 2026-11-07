@@ -1,0 +1,253 @@
+{
+  "id": "b2-21-homework",
+  "title": {
+    "uz": "Uy vazifasi kerakmi?"
+  },
+  "en": "Is Homework Necessary?",
+  "level": "B2",
+  "kind": "exam",
+  "tag": {
+    "uz": "Taʼlim",
+    "en": "Education"
+  },
+  "intro": {
+    "uz": "Topshiriq: Multiple choice (muallif fikri). Muallifning oʻz fikrini u keltirgan boshqalarning fikridan ajrating: «supporters argue», «critics point out» — bu boshqalar; «In my view», «I believe» — muallifning oʻzi. Savolda «the writer» soʻzi boʻlsa, javobni aynan shu jumlalardan qidiring. Ikkinchi qism: True / False / Not Given — bu matnda TRUE = muallif shu fikrga qoʻshiladi (YES), FALSE = muallif fikri bunga zid (NO), NOT GIVEN = muallif bu haqda oʻz fikrini bildirmagan."
+  },
+  "paragraphs": [
+    {
+      "en": "Few topics divide parents, teachers and pupils as reliably as homework. For some families, the evening routine of exercise books spread across the kitchen table is a sign of a serious education. For others, it is a source of tears, arguments and lost sleep. In recent years, some schools have reduced homework or abandoned it altogether in the early grades, while others have increased it. Which side is right?"
+    },
+    {
+      "en": "Supporters of homework make a reasonable case. Learning, they argue, does not stop when the bell rings. A skill that is practised only in the classroom is easily forgotten, and short, regular practice at home helps new knowledge to settle. Homework is also said to build habits that matter later in life: planning time, working without supervision and taking responsibility for one's own progress."
+    },
+    {
+      "en": "Critics, however, point out that these benefits depend heavily on the kind of task and the age of the child. A young pupil copying out the same sentence twenty times is not developing independence; the child is simply learning to dislike school. Moreover, homework assumes that every child goes home to a quiet room and an adult who can help. Many do not. A child who looks after younger brothers and sisters, or whose parents work late, may be punished for circumstances that have nothing to do with effort."
+    },
+    {
+      "en": "In my view, both sides are partly right, and the real question is not whether homework should exist but what it should look like. The best homework I have seen is short, has a clear purpose and could not easily be done in class: reading a chapter of a novel, interviewing a grandparent about the past, or measuring the shadows in the yard at different times of day. Such tasks connect school with the world outside it. Pages of repetitive exercises, on the other hand, mostly measure how patient a family is."
+    },
+    {
+      "en": "Teachers also deserve some sympathy. Under pressure to cover a long curriculum, many feel that homework is the only way to finish the programme on time. Yet if a topic has been taught too quickly for pupils to understand it, sending it home rarely solves the problem; it simply moves the difficulty from the teacher to the parents."
+    },
+    {
+      "en": "Abolishing homework completely would probably be a mistake, especially for older students preparing for important examinations, who genuinely need time for independent revision. But schools would do well to ask themselves a simple question before setting any task: what will a child learn from this that they could not learn in the classroom? If there is no good answer, the evening might be better spent on reading, sport or simply rest."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "divide",
+      "uz": "(fikrlarni) ikkiga boʻlmoq"
+    },
+    {
+      "en": "reliably",
+      "uz": "har doim, ishonchli tarzda"
+    },
+    {
+      "en": "routine",
+      "uz": "kundalik tartib"
+    },
+    {
+      "en": "abandon",
+      "uz": "voz kechmoq, tashlamoq"
+    },
+    {
+      "en": "settle",
+      "uz": "oʻrnashmoq, mustahkamlanmoq"
+    },
+    {
+      "en": "supervision",
+      "uz": "nazorat"
+    },
+    {
+      "en": "independence",
+      "uz": "mustaqillik"
+    },
+    {
+      "en": "circumstances",
+      "uz": "sharoit, vaziyat"
+    },
+    {
+      "en": "purpose",
+      "uz": "maqsad"
+    },
+    {
+      "en": "repetitive",
+      "uz": "takroriy, bir xil"
+    },
+    {
+      "en": "sympathy",
+      "uz": "hamdardlik"
+    },
+    {
+      "en": "curriculum",
+      "uz": "oʻquv dasturi"
+    },
+    {
+      "en": "abolish",
+      "uz": "bekor qilmoq"
+    },
+    {
+      "en": "genuinely",
+      "uz": "chindan ham"
+    },
+    {
+      "en": "revision",
+      "uz": "takrorlash (imtihonga)"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "i31-it-is-said",
+      "title": {
+        "uz": "is said to: …ligi aytiladi"
+      },
+      "example": "Homework is also said to build habits that matter later in life"
+    },
+    {
+      "topicId": "c61-linking-adverbials",
+      "title": {
+        "uz": "Bogʻlovchi soʻzlar: Moreover"
+      },
+      "example": "Moreover, homework assumes that every child goes home to a quiet room"
+    }
+  ],
+  "questions": [
+    {
+      "id": "b2-21-homework-q1",
+      "type": "choice",
+      "prompt": "What is the writer's main argument?",
+      "options": [
+        "Homework should be abolished in all schools.",
+        "Homework should be better designed rather than removed.",
+        "Teachers do not give pupils enough homework.",
+        "Parents should spend more time helping with homework."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "4-xatboshi: «the real question is not whether homework should exist but what it should look like». Muallif bekor qilishga qarshi (6-xatboshi: «would probably be a mistake»), lekin koʻproq vazifa ham talab qilmaydi."
+      },
+      "para": 3
+    },
+    {
+      "id": "b2-21-homework-q2",
+      "type": "choice",
+      "prompt": "What is the main purpose of paragraph C?",
+      "options": [
+        "to explain why homework can be unfair to some children",
+        "to describe a typical evening in a family home",
+        "to show that homework builds independence"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "C xatboshi tanqidchilar fikri: uyda tinch xona va yordam beradigan kattalar hammada yoʻq. «builds independence» — bu B xatboshidagi tarafdorlar fikri."
+      },
+      "para": 2
+    },
+    {
+      "id": "b2-21-homework-q3",
+      "type": "choice",
+      "prompt": "What does the writer mean by «Pages of repetitive exercises … mostly measure how patient a family is»?",
+      "options": [
+        "Such homework tests the family's endurance more than the child's learning.",
+        "Families should be more patient with their children.",
+        "Repetitive exercises are a good way to test character."
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "Muallif bunday vazifani tanqid qiladi: u bilimni emas, oilaning sabrini «oʻlchaydi». Bu kinoya — maqtov emas."
+      },
+      "para": 3
+    },
+    {
+      "id": "b2-21-homework-q4",
+      "type": "choice",
+      "prompt": "What is the writer's attitude towards teachers in paragraph E?",
+      "options": [
+        "completely hostile",
+        "understanding, but critical of one common practice",
+        "unconcerned",
+        "full of admiration for their methods"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«Teachers also deserve some sympathy» — tushunadi; lekin «sending it home rarely solves the problem» — shoshib oʻtilgan mavzuni uyga berish odatini tanqid qiladi."
+      },
+      "para": 4
+    },
+    {
+      "id": "b2-21-homework-q5",
+      "type": "choice",
+      "prompt": "Which task would the writer most probably approve of?",
+      "options": [
+        "copying a list of spelling words ten times",
+        "finishing fifty sums from the textbook",
+        "asking an older neighbour how the town has changed and reporting back",
+        "rewriting the day's lesson notes neatly"
+      ],
+      "answer": 2,
+      "explain": {
+        "uz": "Muallif yoqtirgan misollar: «interviewing a grandparent about the past» — maktabni tashqi dunyo bilan bogʻlaydi. Qolganlari «repetitive exercises»."
+      },
+      "para": 3
+    },
+    {
+      "id": "b2-21-homework-q6",
+      "type": "choice",
+      "prompt": "Which statement would the writer most likely agree with?",
+      "options": [
+        "The value of homework depends on the purpose of the task.",
+        "Homework is useful only for young children.",
+        "Pupils who do not finish homework are lazy."
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "«short, has a clear purpose» va 6-xatboshidagi savol: «what will a child learn from this…?». Kichik bolalar haqida muallif aksincha, katta oʻquvchilarga vazifa kerak deydi."
+      },
+      "para": 5
+    },
+    {
+      "id": "b2-21-homework-q7",
+      "type": "tfng",
+      "statement": "Good homework tasks link what is learned at school with life outside it.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "TRUE (muallif qoʻshiladi): «Such tasks connect school with the world outside it» — muallif buni yaxshi vazifa sifatida keltiradi."
+      },
+      "para": 3
+    },
+    {
+      "id": "b2-21-homework-q8",
+      "type": "tfng",
+      "statement": "Long sets of repetitive exercises are the most useful kind of homework.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "FALSE: muallif ularni tanqid qiladi — «mostly measure how patient a family is»."
+      },
+      "para": 3
+    },
+    {
+      "id": "b2-21-homework-q9",
+      "type": "tfng",
+      "statement": "Teachers who set homework do not care about their pupils.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "FALSE: «Teachers also deserve some sympathy» — muallif ularni dasturni tugatish bosimi ostida deb tushunadi."
+      },
+      "para": 4
+    },
+    {
+      "id": "b2-21-homework-q10",
+      "type": "tfng",
+      "statement": "Homework should be checked by the teacher on the same day it is handed in.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "NOT GIVEN: vazifani tekshirish haqida muallif hech qanday fikr bildirmagan."
+      },
+      "para": 4
+    }
+  ]
+}

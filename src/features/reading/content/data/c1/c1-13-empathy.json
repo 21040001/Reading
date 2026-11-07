@@ -1,0 +1,320 @@
+{
+  "id": "c1-13-empathy",
+  "title": {
+    "uz": "Empatiya"
+  },
+  "en": "The Limits of Empathy",
+  "level": "C1",
+  "kind": "exam",
+  "tag": {
+    "uz": "Psixologiya",
+    "en": "Psychology"
+  },
+  "intro": {
+    "uz": "Fikr-mulohaza matni (opinion essay): muallif empatiyaning foydasi va chegaralari haqida oʻz pozitsiyasini bildiradi. Bu yerda True/False/Not Given savollari aslida YES / NO / NOT GIVEN vazifasini bajaradi: TRUE = muallif shu fikrda (YES), FALSE = muallif aksini aytadi (NO), NOT GIVEN = muallifning bu haqdagi fikri nomaʼlum. Shuningdek, Matching headings, boʻshliq toʻldirish va test savollari bor. Taxminan 20 daqiqa. Maslahat: «I would argue», «I do not intend», «None of this is to deny» kabi iboralarni belgilab boring — muallif pozitsiyasi aynan shu yerda koʻrinadi."
+  },
+  "paragraphs": [
+    {
+      "en": "Empathy enjoys an almost unrivalled reputation. Politicians call for more of it, educators design programmes to cultivate it, and its absence is often treated as the root of cruelty and indifference. It is difficult to object to such enthusiasm, and I do not intend to argue that empathy is worthless. I do want to suggest, however, that the word conceals important distinctions, and that once these are recognised, empathy begins to look like a less dependable moral guide than its admirers assume."
+    },
+    {
+      "en": "Psychologists commonly distinguish between two capacities that the single word tends to blur. Cognitive empathy is the ability to understand what another person is thinking or feeling, to grasp a situation from their point of view. Emotional empathy, by contrast, involves actually sharing that feeling, so that another person's distress produces a corresponding distress in oneself. The two do not necessarily go together. A skilled negotiator or, more troublingly, a manipulative fraudster may read other people's emotions with great accuracy while remaining entirely unmoved by them; conversely, someone may be overwhelmed by another's pain without understanding its causes."
+    },
+    {
+      "en": "None of this is to deny that empathy has real value. Understanding others' perspectives makes cooperation, teaching and the resolution of conflict possible, and feeling moved by another person's suffering can prompt acts of genuine kindness. In close relationships, the sense of being understood is widely regarded as one of the foundations of trust. The difficulty arises when empathy, and emotional empathy in particular, is asked to serve as the basis of moral judgement on a larger scale."
+    },
+    {
+      "en": "Here its limitations become apparent. Empathy behaves much like a spotlight: it illuminates whoever happens to fall within its beam and leaves everyone else in darkness. Research on what has been called the identifiable victim effect suggests that people are often more willing to help a single named individual whose story they know than a large group whose suffering is described only in statistical terms. Moreover, empathy appears to flow more readily towards those who resemble us, whether in appearance, nationality or opinions, and less readily towards strangers or members of groups we regard as different. A moral guide that is so easily steered by familiarity and vividness can hardly be described as impartial."
+    },
+    {
+      "en": "There is also a cost to the empathiser. Those who work in caring professions such as nursing, medicine and social work are exposed daily to suffering, and if they were to share fully in every patient's distress, the result would probably be exhaustion rather than better care. The condition often described as compassion fatigue may, some researchers have suggested, be more accurately termed empathic distress, since it seems to arise from absorbing others' pain rather than from caring about them."
+    },
+    {
+      "en": "This distinction points towards an alternative. Compassion, as the term is increasingly used by researchers, refers to feelings of warmth and concern for another person, combined with a motivation to help, without the requirement to mirror their suffering. Some studies of brief training programmes have reported that practising compassion was associated with more positive feelings, whereas training focused on sharing others' pain tended to increase negative ones. These findings come from relatively small samples and should be interpreted cautiously, yet they are consistent with the intuition that one can care deeply about another person without being consumed by their distress."
+    },
+    {
+      "en": "What this suggests, I would argue, is that sound moral reasoning draws on three elements rather than one. Cognitive empathy helps us to understand what others actually need; compassion supplies the motivation to act; and deliberate reflection on fairness corrects for the narrowness of the spotlight. It is this third element that allows us to ask whether people who have not caught our attention, distant strangers among them, deserve our concern just as much as those who have."
+    },
+    {
+      "en": "To question empathy is not to recommend coldness. Rather, it is to acknowledge that a capacity which may well have developed to strengthen bonds within close communities may need supplementing when we make decisions that affect many people we will never meet. Feeling with others is valuable; caring for them wisely may require something more."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "unrivalled",
+      "uz": "tengsiz, raqibsiz"
+    },
+    {
+      "en": "cultivate",
+      "uz": "tarbiyalamoq, rivojlantirmoq"
+    },
+    {
+      "en": "indifference",
+      "uz": "befarqlik"
+    },
+    {
+      "en": "conceal",
+      "uz": "yashirmoq, berkitmoq"
+    },
+    {
+      "en": "blur",
+      "uz": "xiralashtirmoq, farqini yoʻqotmoq"
+    },
+    {
+      "en": "corresponding",
+      "uz": "mos keladigan, tegishli"
+    },
+    {
+      "en": "manipulative",
+      "uz": "manipulyatsiya qiluvchi, ayyor"
+    },
+    {
+      "en": "unmoved",
+      "uz": "taʼsirlanmagan, befarq"
+    },
+    {
+      "en": "conversely",
+      "uz": "aksincha, teskari holda"
+    },
+    {
+      "en": "illuminate",
+      "uz": "yoritmoq"
+    },
+    {
+      "en": "resemble",
+      "uz": "… ga oʻxshamoq"
+    },
+    {
+      "en": "impartial",
+      "uz": "xolis, betaraf"
+    },
+    {
+      "en": "exhaustion",
+      "uz": "holdan toyish, charchoq"
+    },
+    {
+      "en": "compassion",
+      "uz": "shafqat, mehr-hamdardlik"
+    },
+    {
+      "en": "mirror",
+      "uz": "aks ettirmoq, takrorlamoq"
+    },
+    {
+      "en": "be consumed by",
+      "uz": "… ga butunlay berilib ketmoq, yutilmoq"
+    },
+    {
+      "en": "supplement",
+      "uz": "toʻldirmoq, qoʻshimcha qilmoq"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "c57-cleft-sentences",
+      "title": {
+        "uz": "Cleft gaplar: What this suggests … is that …; It is this third element that …"
+      },
+      "example": "It is this third element that allows us to ask"
+    },
+    {
+      "topicId": "c36-whoever-whatever",
+      "title": {
+        "uz": "«whoever» bilan ergash gap: it illuminates whoever happens to …"
+      },
+      "example": "it illuminates whoever happens to fall within its beam"
+    }
+  ],
+  "questions": [
+    {
+      "id": "c1-13-empathy-q1",
+      "type": "heading",
+      "para": 1,
+      "options": [
+        "A single word covering two different abilities",
+        "A narrow beam that favours the familiar",
+        "The toll on those who care for others",
+        "Caring without sharing the pain",
+        "Why empathy should be taught to every child",
+        "The inherited basis of empathy",
+        "Empathy as the main cause of conflict"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "Xatboshi B: «empathy» soʻzi ikki xil qobiliyatni — cognitive va emotional empathy — qamrab oladi: «two capacities that the single word tends to blur»."
+      }
+    },
+    {
+      "id": "c1-13-empathy-q2",
+      "type": "heading",
+      "para": 3,
+      "options": [
+        "A single word covering two different abilities",
+        "A narrow beam that favours the familiar",
+        "The toll on those who care for others",
+        "Caring without sharing the pain",
+        "Why empathy should be taught to every child",
+        "The inherited basis of empathy",
+        "Empathy as the main cause of conflict"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "Xatboshi D: empatiya «spotlight» kabi faqat nur tushgan joyni yoritadi va oʻzimizga oʻxshaganlarga koʻproq yoʻnaladi — «narrow beam that favours the familiar»."
+      }
+    },
+    {
+      "id": "c1-13-empathy-q3",
+      "type": "heading",
+      "para": 4,
+      "options": [
+        "A single word covering two different abilities",
+        "A narrow beam that favours the familiar",
+        "The toll on those who care for others",
+        "Caring without sharing the pain",
+        "Why empathy should be taught to every child",
+        "The inherited basis of empathy",
+        "Empathy as the main cause of conflict"
+      ],
+      "answer": 2,
+      "explain": {
+        "uz": "Xatboshi E: gʻamxoʻrlik kasblaridagilar uchun narx — «There is also a cost to the empathiser», «exhaustion». «toll» = zarar, yoʻqotish."
+      }
+    },
+    {
+      "id": "c1-13-empathy-q4",
+      "type": "heading",
+      "para": 5,
+      "options": [
+        "A single word covering two different abilities",
+        "A narrow beam that favours the familiar",
+        "The toll on those who care for others",
+        "Caring without sharing the pain",
+        "Why empathy should be taught to every child",
+        "The inherited basis of empathy",
+        "Empathy as the main cause of conflict"
+      ],
+      "answer": 3,
+      "explain": {
+        "uz": "Xatboshi F: compassion — gʻamxoʻrlik va yordam istagi, lekin azobni «mirror» qilmasdan. «without the requirement to mirror their suffering»."
+      }
+    },
+    {
+      "id": "c1-13-empathy-q5",
+      "type": "tfng",
+      "statement": "Empathy has no genuine value.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "NO: «I do not intend to argue that empathy is worthless» va «None of this is to deny that empathy has real value»."
+      },
+      "para": 0
+    },
+    {
+      "id": "c1-13-empathy-q6",
+      "type": "tfng",
+      "statement": "Cognitive and emotional empathy always occur together.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "NO: «The two do not necessarily go together» — firibgar misoli buni koʻrsatadi."
+      },
+      "para": 1
+    },
+    {
+      "id": "c1-13-empathy-q7",
+      "type": "tfng",
+      "statement": "Moral decisions that affect large groups should not be based mainly on emotional empathy.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "YES: «The difficulty arises when … emotional empathy in particular, is asked to serve as the basis of moral judgement on a larger scale», keyin esa uning xolis emasligi isbotlanadi."
+      },
+      "para": 2
+    },
+    {
+      "id": "c1-13-empathy-q8",
+      "type": "tfng",
+      "statement": "Empathy training programmes in schools should be made compulsory.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "NOT GIVEN: kirish qismida pedagoglar empatiyani rivojlantirish dasturlarini tuzishi aytilgan, lekin muallif ularni majburiy qilish haqida hech qanday fikr bildirmaydi."
+      },
+      "para": 0
+    },
+    {
+      "id": "c1-13-empathy-q9",
+      "type": "gap",
+      "prompt": "People are often more generous towards one named person than towards many victims described in ___ terms.",
+      "answers": [
+        "statistical"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«a large group whose suffering is described only in statistical terms»."
+      },
+      "para": 3
+    },
+    {
+      "id": "c1-13-empathy-q10",
+      "type": "gap",
+      "prompt": "According to some researchers, the exhaustion experienced by carers comes from absorbing others' pain rather than from ___ them.",
+      "answers": [
+        "caring about"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«since it seems to arise from absorbing others' pain rather than from caring about them»."
+      },
+      "para": 4
+    },
+    {
+      "id": "c1-13-empathy-q11",
+      "type": "choice",
+      "prompt": "What does the writer use the example of the fraudster to show?",
+      "options": [
+        "That most people misunderstand the emotions of others",
+        "That understanding someone's feelings does not guarantee concern for them",
+        "That emotional empathy is more dangerous than cognitive empathy",
+        "That negotiators should be trained in empathy"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "Firibgar boshqalarning his-tuygʻularini aniq oʻqiydi «while remaining entirely unmoved by them» — yaʼni cognitive empathy bor, lekin gʻamxoʻrlik yoʻq."
+      },
+      "para": 1
+    },
+    {
+      "id": "c1-13-empathy-q12",
+      "type": "choice",
+      "prompt": "How does the writer regard the findings on compassion training?",
+      "options": [
+        "As conclusive proof that compassion is superior",
+        "As irrelevant to the argument",
+        "As encouraging but limited because of small samples",
+        "As contradicting the idea of empathic distress"
+      ],
+      "answer": 2,
+      "explain": {
+        "uz": "«These findings come from relatively small samples and should be interpreted cautiously, yet they are consistent with …» — ehtiyotkor, lekin ijobiy baho."
+      },
+      "para": 5
+    },
+    {
+      "id": "c1-13-empathy-q13",
+      "type": "choice",
+      "prompt": "Which of the following best describes the writer's overall position in the final paragraph?",
+      "options": [
+        "Empathy should be replaced by strict rules.",
+        "Empathy is harmful and should be discouraged.",
+        "Empathy is valuable but not sufficient on its own for wise decisions.",
+        "Empathy is only useful within close communities."
+      ],
+      "answer": 2,
+      "explain": {
+        "uz": "«To question empathy is not to recommend coldness … Feeling with others is valuable; caring for them wisely may require something more»."
+      },
+      "para": 7
+    }
+  ]
+}

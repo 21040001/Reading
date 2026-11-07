@@ -1,0 +1,201 @@
+{
+  "id": "a2-13-hayit",
+  "title": {
+    "uz": "Hayit"
+  },
+  "en": "Hayit",
+  "level": "A2",
+  "kind": "blog",
+  "tag": {
+    "uz": "Bayramlar",
+    "en": "Holidays"
+  },
+  "intro": {
+    "uz": "Aziza oʻz blogida oilasi Hayitni qanday oʻtkazishini yozadi. Oʻqishdan oldin oʻylab koʻring: bayram kunlari kimlarnikiga borasiz?"
+  },
+  "paragraphs": [
+    {
+      "en": "Hi everyone! My name is Aziza, and today I want to write about Hayit. In Uzbekistan, there are two Hayit holidays every year. Ramazon Hayiti is at the end of Ramadan, the month of fasting. Qurbon Hayiti comes later in the year. Both days are public holidays.",
+      "uz": "Hammaga salom! Mening ismim Aziza, bugun Hayit haqida yozmoqchiman. Oʻzbekistonda har yili ikkita hayit bayrami boʻladi. Ramazon hayiti roʻza oyi boʻlgan Ramazonning oxirida keladi. Qurbon hayiti esa yilning keyinroq qismida keladi. Ikkala kun ham dam olish kuni."
+    },
+    {
+      "en": "The day before Hayit, my mother and grandmother are always busy in the kitchen. They make sweets, fried pastries and plov. I help them, and my brother cleans the yard. Our home smells of fresh bread and sweets.",
+      "uz": "Hayitdan bir kun oldin onam va buvim doim oshxonada band boʻlishadi. Ular shirinliklar, yogʻda pishirilgan pishiriqlar va osh tayyorlashadi. Men ularga yordam beraman, akam esa hovlini tozalaydi. Uyimizdan yangi non va shirinliklarning hidi kelib turadi."
+    },
+    {
+      "en": "On the morning of Hayit, we wear our best clothes. Then we visit our relatives and neighbours. Children greet the elders, and the elders give them sweets or a little money. We also visit old people who live alone.",
+      "uz": "Hayit kuni ertalab biz eng yaxshi kiyimlarimizni kiyamiz. Keyin qarindoshlarimiz va qoʻshnilarimiznikiga boramiz. Bolalar kattalar bilan salomlashib, ularni bayram bilan tabriklaydi, kattalar esa ularga shirinlik yoki ozgina pul beradi. Biz yolgʻiz yashaydigan keksalarni ham yoʻqlaymiz."
+    },
+    {
+      "en": "Hayit is also a time to help people in need. Many families share food with poor neighbours. My grandfather says this is the most important part of the holiday.",
+      "uz": "Hayit — muhtojlarga yordam berish vaqti hamdir. Koʻp oilalar kambagʻal qoʻshnilari bilan taom baham koʻradi. Bobomning aytishicha, bu bayramning eng muhim qismi."
+    },
+    {
+      "en": "What do you do on holidays? Write in the comments!",
+      "uz": "Siz bayramlarda nima qilasiz? Izohlarda yozing!"
+    }
+  ],
+  "glossary": [
+    {
+      "en": "fasting",
+      "uz": "roʻza tutish"
+    },
+    {
+      "en": "both",
+      "uz": "ikkalasi ham"
+    },
+    {
+      "en": "busy",
+      "uz": "band"
+    },
+    {
+      "en": "fried pastries",
+      "uz": "yogʻda pishirilgan pishiriqlar (masalan, bugʻirsoq)"
+    },
+    {
+      "en": "yard",
+      "uz": "hovli"
+    },
+    {
+      "en": "smell of",
+      "uz": "… hidi kelmoq"
+    },
+    {
+      "en": "greet",
+      "uz": "salomlashmoq"
+    },
+    {
+      "en": "elders",
+      "uz": "kattalar, yoshi ulugʻlar"
+    },
+    {
+      "en": "alone",
+      "uz": "yolgʻiz"
+    },
+    {
+      "en": "people in need",
+      "uz": "muhtojlar"
+    },
+    {
+      "en": "share",
+      "uz": "baham koʻrmoq, boʻlishmoq"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "e43-all-every-both",
+      "title": {
+        "uz": "both — ikkalasi ham"
+      },
+      "example": "Both days are public holidays."
+    },
+    {
+      "topicId": "e46-superlatives",
+      "title": {
+        "uz": "Orttirma daraja: the most important"
+      },
+      "example": "this is the most important part of the holiday"
+    }
+  ],
+  "questions": [
+    {
+      "id": "a2-13-hayit-q1",
+      "type": "tfng",
+      "statement": "There are two Hayit holidays every year in Uzbekistan.",
+      "answer": "T",
+      "explain": {
+        "uz": "«In Uzbekistan, there are two Hayit holidays every year.»"
+      },
+      "para": 0
+    },
+    {
+      "id": "a2-13-hayit-q2",
+      "type": "choice",
+      "prompt": "When is Ramazon Hayiti?",
+      "options": [
+        "at the start of Ramadan",
+        "at the end of Ramadan",
+        "on 21 March"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«Ramazon Hayiti is at the end of Ramadan»."
+      },
+      "para": 0
+    },
+    {
+      "id": "a2-13-hayit-q3",
+      "type": "tfng",
+      "statement": "Aziza's brother cooks plov the day before Hayit.",
+      "answer": "F",
+      "explain": {
+        "uz": "Akasi hovlini tozalaydi: «my brother cleans the yard». Oshni onasi va buvisi tayyorlaydi."
+      },
+      "para": 1
+    },
+    {
+      "id": "a2-13-hayit-q4",
+      "type": "gap",
+      "prompt": "On the morning of Hayit, the family wears their best ___.",
+      "answers": [
+        "clothes"
+      ],
+      "explain": {
+        "uz": "«we wear our best clothes»."
+      },
+      "para": 2
+    },
+    {
+      "id": "a2-13-hayit-q5",
+      "type": "choice",
+      "prompt": "What do the elders give to children?",
+      "options": [
+        "books",
+        "sweets or a little money",
+        "new clothes"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«the elders give them sweets or a little money»."
+      },
+      "para": 2
+    },
+    {
+      "id": "a2-13-hayit-q6",
+      "type": "tfng",
+      "statement": "The family visits old people who live alone.",
+      "answer": "T",
+      "explain": {
+        "uz": "«We also visit old people who live alone.»"
+      },
+      "para": 2
+    },
+    {
+      "id": "a2-13-hayit-q7",
+      "type": "gap",
+      "prompt": "Many families share ___ with poor neighbours.",
+      "answers": [
+        "food"
+      ],
+      "explain": {
+        "uz": "«Many families share food with poor neighbours.»"
+      },
+      "para": 3
+    },
+    {
+      "id": "a2-13-hayit-q8",
+      "type": "choice",
+      "prompt": "What is the most important part of the holiday for the grandfather?",
+      "options": [
+        "eating sweets",
+        "wearing new clothes",
+        "helping people in need"
+      ],
+      "answer": 2,
+      "explain": {
+        "uz": "Bobosi muhtojlarga yordamni nazarda tutadi: «this is the most important part of the holiday»."
+      },
+      "para": 3
+    }
+  ]
+}

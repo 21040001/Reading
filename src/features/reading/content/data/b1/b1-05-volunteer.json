@@ -1,0 +1,226 @@
+{
+  "id": "b1-05-volunteer",
+  "title": {
+    "uz": "Koʻngilli boʻlish"
+  },
+  "en": "My Summer as a Volunteer",
+  "level": "B1",
+  "kind": "email",
+  "tag": {
+    "uz": "Jamiyat",
+    "en": "Community"
+  },
+  "intro": {
+    "uz": "Jasur doʻsti Azizaga yozda kutubxonada koʻngilli boʻlib ishlagani haqida xat yozadi. Oʻqishdan oldin oʻylab koʻring: siz qayerda koʻngilli boʻlib yordam bera olardingiz?"
+  },
+  "paragraphs": [
+    {
+      "en": "Hi Aziza, I am sorry I have not written for so long, but I have been really busy this summer, and for a good reason! You know that I had planned to spend the holidays playing football and sleeping late. Well, that plan changed in June, when our neighbour, who works at the district library, told me that they were looking for volunteers for a summer reading club for children."
+    },
+    {
+      "en": "At first I was not sure. I had never worked with children, and I thought it would be boring. But my mother said that it would look good on my university applications, so I agreed to try it for one week. That was two months ago, and I am still going there three mornings a week!"
+    },
+    {
+      "en": "The club is for children aged seven to ten. Most of them can read, but they do not enjoy it. My job is to read stories aloud to them, help them choose books and organise small games. Last week we made masks of the characters from a fairy tale, and the children acted out the story for their parents. One shy boy, Sanjar, who had hardly said a word in July, played the wolf and was brilliant. I was so proud of him."
+    },
+    {
+      "en": "I have learned a lot too. I have become much more patient, and I have discovered that I am good at explaining things. I have also realised that volunteering is not only about helping others. The children have taught me to enjoy simple things, and the other volunteers have become good friends."
+    },
+    {
+      "en": "The club needs more volunteers in September, when the children go back to school and the club meets only on Saturdays. You should join us! You love books more than anyone I know, and I am sure the children would love you. If you are interested, write back and I will give you the librarian's phone number. Hope to hear from you soon. Best wishes, Jasur"
+    }
+  ],
+  "glossary": [
+    {
+      "en": "volunteer",
+      "uz": "koʻngilli; koʻngilli boʻlib ishlamoq"
+    },
+    {
+      "en": "district",
+      "uz": "tuman"
+    },
+    {
+      "en": "application",
+      "uz": "ariza (oʻqishga, ishga)"
+    },
+    {
+      "en": "aloud",
+      "uz": "ovoz chiqarib"
+    },
+    {
+      "en": "organise",
+      "uz": "tashkil qilmoq"
+    },
+    {
+      "en": "character",
+      "uz": "qahramon, personaj"
+    },
+    {
+      "en": "fairy tale",
+      "uz": "ertak"
+    },
+    {
+      "en": "act out",
+      "uz": "sahnalashtirmoq, rolda ijro etmoq"
+    },
+    {
+      "en": "shy",
+      "uz": "uyatchan, tortinchoq"
+    },
+    {
+      "en": "hardly",
+      "uz": "deyarli … emas"
+    },
+    {
+      "en": "brilliant",
+      "uz": "ajoyib, zoʻr"
+    },
+    {
+      "en": "patient",
+      "uz": "sabrli"
+    },
+    {
+      "en": "realise",
+      "uz": "anglamoq, tushunib yetmoq"
+    },
+    {
+      "en": "librarian",
+      "uz": "kutubxonachi"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "i05-present-perfect",
+      "title": {
+        "uz": "Present Perfect: have become, have discovered"
+      },
+      "example": "I have become much more patient, and I have discovered that I am good at explaining things"
+    },
+    {
+      "topicId": "i20-should-ought-better",
+      "title": {
+        "uz": "Maslahat: should"
+      },
+      "example": "You should join us!"
+    }
+  ],
+  "questions": [
+    {
+      "id": "b1-05-volunteer-q1",
+      "type": "tfng",
+      "statement": "Jasur had planned to spend his summer holidays as a volunteer.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "Uning rejasi boshqa edi: «playing football and sleeping late»."
+      },
+      "para": 0
+    },
+    {
+      "id": "b1-05-volunteer-q2",
+      "type": "tfng",
+      "statement": "Jasur now goes to the library three mornings a week.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«I am still going there three mornings a week!»"
+      },
+      "para": 1
+    },
+    {
+      "id": "b1-05-volunteer-q3",
+      "type": "tfng",
+      "statement": "Most of the other volunteers are university students.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Boshqa koʻngillilar doʻst boʻlgani aytilgan, lekin ular kimligi haqida maʼlumot yoʻq."
+      },
+      "para": 3
+    },
+    {
+      "id": "b1-05-volunteer-q4",
+      "type": "tfng",
+      "statement": "In September, the club will meet only on Saturdays.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«the club meets only on Saturdays» — sentyabrda, bolalar maktabga qaytganda."
+      },
+      "para": 4
+    },
+    {
+      "id": "b1-05-volunteer-q5",
+      "type": "choice",
+      "prompt": "Why did Jasur agree to try volunteering?",
+      "options": [
+        "He had always loved working with children.",
+        "His mother said it would help his university applications.",
+        "The library offered to pay him."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«my mother said that it would look good on my university applications, so I agreed»."
+      },
+      "para": 1
+    },
+    {
+      "id": "b1-05-volunteer-q6",
+      "type": "gap",
+      "prompt": "The reading club is for children aged seven to ___.",
+      "answers": [
+        "ten",
+        "10"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«The club is for children aged seven to ten»."
+      },
+      "para": 2
+    },
+    {
+      "id": "b1-05-volunteer-q7",
+      "type": "choice",
+      "prompt": "What does Jasur say about Sanjar?",
+      "options": [
+        "He was quiet at first but played the wolf very well.",
+        "He could not read at all.",
+        "He was the loudest child in the club."
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "«who had hardly said a word in July, played the wolf and was brilliant»."
+      },
+      "para": 2
+    },
+    {
+      "id": "b1-05-volunteer-q8",
+      "type": "gap",
+      "prompt": "Jasur has discovered that he is good at ___.",
+      "answers": [
+        "explaining things",
+        "explaining"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«I have discovered that I am good at explaining things»."
+      },
+      "para": 3
+    },
+    {
+      "id": "b1-05-volunteer-q9",
+      "type": "choice",
+      "prompt": "What is the main purpose of the last paragraph?",
+      "options": [
+        "to invite Aziza to become a volunteer",
+        "to ask Aziza for some books",
+        "to say sorry for not writing"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "«You should join us!» va kutubxonachining raqamini berishni taklif qiladi — Azizani koʻngillilikka chaqiradi."
+      },
+      "para": 4
+    }
+  ]
+}

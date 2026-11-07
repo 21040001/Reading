@@ -1,0 +1,204 @@
+{
+  "id": "a2-21-doctor-advice",
+  "title": {
+    "uz": "Shifokor maslahati"
+  },
+  "en": "The Doctor's Advice",
+  "level": "A2",
+  "kind": "dialogue",
+  "tag": {
+    "uz": "Sogʻliq",
+    "en": "Health"
+  },
+  "intro": {
+    "uz": "Jasur charchoq va bosh ogʻrigʻidan shikoyat qilib shifokorga boradi. Oʻqishdan oldin oʻylab koʻring: siz kuniga necha soat uxlaysiz va qancha suv ichasiz?"
+  },
+  "paragraphs": [
+    {
+      "en": "Jasur is sixteen years old. Last week he felt tired all the time and often had headaches, so his mother took him to the local clinic.",
+      "uz": "Jasur oʻn olti yoshda. Oʻtgan hafta u doim oʻzini charchagan his qildi va tez-tez boshi ogʻridi, shuning uchun onasi uni mahalladagi poliklinikaga olib bordi."
+    },
+    {
+      "en": "Doctor: Hello, Jasur. What's the matter? Jasur: I feel tired every day, and my head hurts in the afternoon. I can't study well at school.",
+      "uz": "Shifokor: Salom, Jasur. Nima boʻldi? Jasur: Har kuni charchayman, tushdan keyin boshim ogʻriydi. Maktabda yaxshi oʻqiy olmayapman."
+    },
+    {
+      "en": "Doctor: How many hours do you sleep at night? Jasur: About six hours. I usually play games on my phone until midnight.",
+      "uz": "Shifokor: Kechasi necha soat uxlaysiz? Jasur: Taxminan olti soat. Odatda yarim tungacha telefonimda oʻyin oʻynayman."
+    },
+    {
+      "en": "Doctor: That isn't enough. Teenagers need about eight to ten hours of sleep. You should put your phone away an hour before bed. How much water do you drink? Jasur: Not much. I usually drink sweet fizzy drinks.",
+      "uz": "Shifokor: Bu yetarli emas. Oʻsmirlarga taxminan sakkiz-oʻn soat uyqu kerak. Uxlashdan bir soat oldin telefoningizni olib qoʻyishingiz kerak. Qancha suv ichasiz? Jasur: Koʻp emas. Odatda shirin gazli ichimliklar ichaman."
+    },
+    {
+      "en": "Doctor: You should drink more water and eat more fruit and vegetables. You mustn't skip breakfast, and you should walk or do sport every day. Come back in two weeks if you still have headaches. Jasur: Thank you, doctor. I'll try.",
+      "uz": "Shifokor: Koʻproq suv ichishingiz, koʻproq meva va sabzavot yeyishingiz kerak. Nonushtani tashlab ketmasligingiz kerak, har kuni piyoda yurishingiz yoki sport bilan shugʻullanishingiz lozim. Agar boshingiz hali ham ogʻrisa, ikki haftadan keyin yana keling. Jasur: Rahmat, doktor. Harakat qilaman."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "tired",
+      "uz": "charchagan"
+    },
+    {
+      "en": "headache",
+      "uz": "bosh ogʻrigʻi"
+    },
+    {
+      "en": "clinic",
+      "uz": "poliklinika, shifoxona"
+    },
+    {
+      "en": "What's the matter?",
+      "uz": "Nima boʻldi? Nimadan shikoyat qilyapsiz?"
+    },
+    {
+      "en": "hurt",
+      "uz": "ogʻrimoq"
+    },
+    {
+      "en": "teenager",
+      "uz": "oʻsmir"
+    },
+    {
+      "en": "enough",
+      "uz": "yetarli"
+    },
+    {
+      "en": "put away",
+      "uz": "olib qoʻymoq, yigʻishtirmoq"
+    },
+    {
+      "en": "fizzy drink",
+      "uz": "gazli ichimlik"
+    },
+    {
+      "en": "skip",
+      "uz": "tashlab ketmoq, oʻtkazib yubormoq"
+    },
+    {
+      "en": "vegetables",
+      "uz": "sabzavotlar"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "e29-should",
+      "title": {
+        "uz": "should — maslahat berish"
+      },
+      "example": "You should drink more water"
+    },
+    {
+      "topicId": "e48-enough-too",
+      "title": {
+        "uz": "enough — yetarli"
+      },
+      "example": "That isn't enough."
+    }
+  ],
+  "questions": [
+    {
+      "id": "a2-21-doctor-advice-q1",
+      "type": "tfng",
+      "statement": "Jasur is sixteen years old.",
+      "answer": "T",
+      "explain": {
+        "uz": "1-xatboshi: «Jasur is sixteen years old.»"
+      },
+      "para": 0
+    },
+    {
+      "id": "a2-21-doctor-advice-q2",
+      "type": "tfng",
+      "statement": "Jasur's head hurts in the morning.",
+      "answer": "F",
+      "explain": {
+        "uz": "Boshi tushdan keyin ogʻriydi: «my head hurts in the afternoon»."
+      },
+      "para": 1
+    },
+    {
+      "id": "a2-21-doctor-advice-q3",
+      "type": "choice",
+      "prompt": "How many hours does Jasur sleep at night?",
+      "options": [
+        "about six",
+        "about eight",
+        "about ten"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "«About six hours.» Sakkiz-oʻn soat — oʻsmirlarga kerak boʻlgan uyqu."
+      },
+      "para": 2
+    },
+    {
+      "id": "a2-21-doctor-advice-q4",
+      "type": "choice",
+      "prompt": "What does Jasur usually do until midnight?",
+      "options": [
+        "He does his homework.",
+        "He plays games on his phone.",
+        "He watches TV."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«I usually play games on my phone until midnight.»"
+      },
+      "para": 2
+    },
+    {
+      "id": "a2-21-doctor-advice-q5",
+      "type": "tfng",
+      "statement": "The doctor says teenagers need about eight to ten hours of sleep.",
+      "answer": "T",
+      "explain": {
+        "uz": "«Teenagers need about eight to ten hours of sleep.»"
+      },
+      "para": 3
+    },
+    {
+      "id": "a2-21-doctor-advice-q6",
+      "type": "gap",
+      "prompt": "Jasur usually drinks sweet fizzy ___.",
+      "answers": [
+        "drinks"
+      ],
+      "maxWords": 1,
+      "explain": {
+        "uz": "«I usually drink sweet fizzy drinks.»"
+      },
+      "para": 3
+    },
+    {
+      "id": "a2-21-doctor-advice-q7",
+      "type": "choice",
+      "prompt": "What does the doctor say about breakfast?",
+      "options": [
+        "Jasur mustn't skip it.",
+        "Jasur should eat it at school.",
+        "It is not important."
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "«You mustn't skip breakfast» — nonushtani tashlab ketmaslik kerak."
+      },
+      "para": 4
+    },
+    {
+      "id": "a2-21-doctor-advice-q8",
+      "type": "gap",
+      "prompt": "The doctor tells Jasur to come back in ___ weeks if he still has headaches.",
+      "answers": [
+        "two",
+        "2"
+      ],
+      "maxWords": 1,
+      "explain": {
+        "uz": "«Come back in two weeks if you still have headaches.»"
+      },
+      "para": 4
+    }
+  ]
+}

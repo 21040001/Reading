@@ -1,0 +1,206 @@
+{
+  "id": "a2-20-interview",
+  "title": {
+    "uz": "Ish suhbatidan keyin"
+  },
+  "en": "After the Interview",
+  "level": "A2",
+  "kind": "blog",
+  "tag": {
+    "uz": "Ish va oʻqish",
+    "en": "Work and study"
+  },
+  "intro": {
+    "uz": "Zarina birinchi ish suhbatidan keyin blogiga yozadi. Oʻqishdan oldin: ish suhbatida qanday savollar berilishi mumkin?"
+  },
+  "paragraphs": [
+    {
+      "en": "Today I had my first job interview! I want to be a tour guide, and a small travel company in Samarkand needs a new guide for English-speaking tourists. The interview was at ten o'clock this morning.",
+      "uz": "Bugun birinchi ish suhbatimga bordim! Men gid boʻlishni xohlayman, Samarqanddagi kichik sayyohlik kompaniyasiga esa ingliz tilida soʻzlashuvchi sayyohlar uchun yangi gid kerak. Suhbat bugun ertalab soat oʻnda boʻldi."
+    },
+    {
+      "en": "I was very nervous. I woke up at six and I couldn't eat breakfast. I put on my best white shirt and took a taxi, because I didn't want to be late. I arrived twenty minutes early.",
+      "uz": "Juda hayajonlandim. Soat oltida uygʻondim va nonushta qila olmadim. Eng yaxshi oq koʻylagimni kiydim va taksiga oʻtirdim, chunki kechikishni istamadim. Yigirma daqiqa erta yetib keldim."
+    },
+    {
+      "en": "There were two people at the interview: the manager and an older guide. First, they asked me questions in Uzbek. Then the guide started to speak English, and I had to tell them about the Registan. I think I did it well, because they smiled a lot.",
+      "uz": "Suhbatda ikki kishi bor edi: menejer va yoshi kattaroq bir gid. Avval ular menga oʻzbek tilida savollar berishdi. Keyin gid inglizcha gapira boshladi va men ularga Registon haqida gapirib berishim kerak edi. Menimcha, yaxshi uddaladim, chunki ular koʻp jilmayishdi."
+    },
+    {
+      "en": "They also asked me a difficult question: \"What will you do if a tourist gets lost?\" I answered, \"I will phone the tourist and wait at the meeting place.\" I'm not sure it was the best answer.",
+      "uz": "Ular yana bir qiyin savol ham berishdi: «Agar sayyoh adashib qolsa, nima qilasiz?» Men: «Sayyohga qoʻngʻiroq qilaman va uchrashuv joyida kutaman», — deb javob berdim. Bu eng yaxshi javob boʻldimi, bilmayman."
+    },
+    {
+      "en": "The manager said, \"We are going to call you on Friday.\" I haven't heard anything yet, of course, but I feel hopeful. If I get the job, I will start in June. Wish me luck!",
+      "uz": "Menejer: «Juma kuni sizga qoʻngʻiroq qilamiz», — dedi. Albatta, hali hech narsa eshitmadim, lekin umidim bor. Agar ishga olishsa, iyunda ish boshlayman. Menga omad tilang!"
+    }
+  ],
+  "glossary": [
+    {
+      "en": "job interview",
+      "uz": "ish suhbati"
+    },
+    {
+      "en": "tour guide",
+      "uz": "gid"
+    },
+    {
+      "en": "travel company",
+      "uz": "sayyohlik kompaniyasi"
+    },
+    {
+      "en": "nervous",
+      "uz": "hayajonlangan, asabiy"
+    },
+    {
+      "en": "put on",
+      "uz": "kiymoq"
+    },
+    {
+      "en": "arrive",
+      "uz": "yetib kelmoq"
+    },
+    {
+      "en": "manager",
+      "uz": "menejer, rahbar"
+    },
+    {
+      "en": "smile",
+      "uz": "jilmaymoq"
+    },
+    {
+      "en": "get lost",
+      "uz": "adashib qolmoq"
+    },
+    {
+      "en": "meeting place",
+      "uz": "uchrashuv joyi"
+    },
+    {
+      "en": "hopeful",
+      "uz": "umidvor"
+    },
+    {
+      "en": "wish",
+      "uz": "tilamoq"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "e54-when-if",
+      "title": {
+        "uz": "if + Present Simple, … will"
+      },
+      "example": "If I get the job, I will start in June."
+    },
+    {
+      "topicId": "e22-going-to",
+      "title": {
+        "uz": "going to — reja"
+      },
+      "example": "We are going to call you on Friday."
+    }
+  ],
+  "questions": [
+    {
+      "id": "a2-20-interview-q1",
+      "type": "tfng",
+      "statement": "Zarina wants to work as a tour guide.",
+      "answer": "T",
+      "explain": {
+        "uz": "«I want to be a tour guide»."
+      },
+      "para": 0
+    },
+    {
+      "id": "a2-20-interview-q2",
+      "type": "tfng",
+      "statement": "The interview was in the afternoon.",
+      "answer": "F",
+      "explain": {
+        "uz": "Ertalab: «The interview was at ten o'clock this morning.»"
+      },
+      "para": 0
+    },
+    {
+      "id": "a2-20-interview-q3",
+      "type": "choice",
+      "prompt": "Why did Zarina take a taxi?",
+      "options": [
+        "because it was raining",
+        "because she didn't want to be late",
+        "because the company paid for it"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«took a taxi, because I didn't want to be late»."
+      },
+      "para": 1
+    },
+    {
+      "id": "a2-20-interview-q4",
+      "type": "gap",
+      "prompt": "Zarina arrived ___ minutes early.",
+      "answers": [
+        "twenty",
+        "20"
+      ],
+      "explain": {
+        "uz": "«I arrived twenty minutes early.»"
+      },
+      "para": 1
+    },
+    {
+      "id": "a2-20-interview-q5",
+      "type": "choice",
+      "prompt": "Why does Zarina think she spoke well about the Registan?",
+      "options": [
+        "because the manager told her so",
+        "because they smiled a lot",
+        "because they gave her the job"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«I think I did it well, because they smiled a lot.»"
+      },
+      "para": 2
+    },
+    {
+      "id": "a2-20-interview-q6",
+      "type": "tfng",
+      "statement": "Zarina is sure that her answer about the lost tourist was the best.",
+      "answer": "F",
+      "explain": {
+        "uz": "«I'm not sure it was the best answer.»"
+      },
+      "para": 3
+    },
+    {
+      "id": "a2-20-interview-q7",
+      "type": "choice",
+      "prompt": "When is the company going to call Zarina?",
+      "options": [
+        "on Monday",
+        "on Friday",
+        "in June"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«We are going to call you on Friday.» Iyun — ish boshlanadigan oy."
+      },
+      "para": 4
+    },
+    {
+      "id": "a2-20-interview-q8",
+      "type": "gap",
+      "prompt": "If Zarina gets the job, she will start in ___.",
+      "answers": [
+        "June"
+      ],
+      "explain": {
+        "uz": "«If I get the job, I will start in June.»"
+      },
+      "para": 4
+    }
+  ]
+}

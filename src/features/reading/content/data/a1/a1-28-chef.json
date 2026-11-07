@@ -1,0 +1,187 @@
+{
+  "id": "a1-28-chef",
+  "title": {
+    "uz": "Oshpaz"
+  },
+  "en": "The Chef",
+  "level": "A1",
+  "kind": "dialogue",
+  "tag": {
+    "uz": "Kasblar",
+    "en": "Jobs"
+  },
+  "intro": {
+    "uz": "Maktab gazetasi uchun Malika oshpaz Bekzod bilan suhbatlashadi. Oʻqishdan oldin: oshpazning ishi oson deb oʻylaysizmi?"
+  },
+  "paragraphs": [
+    {
+      "en": "Malika: Hello, Bekzod! What is your job? Bekzod: I am a chef. I work in a big restaurant in Tashkent.",
+      "uz": "Malika: Salom, Bekzod! Kasbingiz nima? Bekzod: Men oshpazman. Toshkentdagi katta restoranda ishlayman."
+    },
+    {
+      "en": "Malika: What do you cook? Bekzod: I cook Uzbek food, like plov, lagman and shashlik. Our plov is very popular. Every day we cook plov for two hundred people.",
+      "uz": "Malika: Nima pishirasiz? Bekzod: Men oʻzbek taomlarini pishiraman: palov, lagʻmon, shashlik. Bizning palovimiz juda mashhur. Har kuni ikki yuz kishiga palov pishiramiz."
+    },
+    {
+      "en": "Malika: Is your job hard? Bekzod: Yes, sometimes. I work twelve hours a day, and the kitchen is very hot. But I love my job.",
+      "uz": "Malika: Ishingiz ogʻirmi? Bekzod: Ha, baʼzan. Kuniga oʻn ikki soat ishlayman, oshxona esa juda issiq. Lekin men ishimni yaxshi koʻraman."
+    },
+    {
+      "en": "Malika: Do you cook at home too? Bekzod: Never! At home my wife cooks. She makes the best mastava in the world.",
+      "uz": "Malika: Uyda ham ovqat pishirasizmi? Bekzod: Hech qachon! Uyda xotinim ovqat pishiradi. U dunyodagi eng mazali mastavani tayyorlaydi."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "chef",
+      "uz": "oshpaz"
+    },
+    {
+      "en": "restaurant",
+      "uz": "restoran"
+    },
+    {
+      "en": "popular",
+      "uz": "mashhur"
+    },
+    {
+      "en": "hundred",
+      "uz": "yuz (100)"
+    },
+    {
+      "en": "hard",
+      "uz": "ogʻir, qiyin"
+    },
+    {
+      "en": "sometimes",
+      "uz": "baʼzan"
+    },
+    {
+      "en": "kitchen",
+      "uz": "oshxona"
+    },
+    {
+      "en": "hot",
+      "uz": "issiq"
+    },
+    {
+      "en": "never",
+      "uz": "hech qachon"
+    },
+    {
+      "en": "wife",
+      "uz": "xotin, rafiqa"
+    },
+    {
+      "en": "the best",
+      "uz": "eng yaxshi, eng mazali"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "b06-jobs",
+      "title": {
+        "uz": "Kasb haqida soʻrash: What is your job?"
+      },
+      "example": "What is your job? … I am a chef."
+    },
+    {
+      "topicId": "b07-a-an",
+      "title": {
+        "uz": "a / an — kasb oldidan"
+      },
+      "example": "I am a chef."
+    }
+  ],
+  "questions": [
+    {
+      "id": "a1-28-chef-q1",
+      "type": "tfng",
+      "statement": "Bekzod works in a small cafe.",
+      "answer": "F",
+      "explain": {
+        "uz": "U katta restoranda ishlaydi: «I work in a big restaurant in Tashkent.»"
+      },
+      "para": 0
+    },
+    {
+      "id": "a1-28-chef-q2",
+      "type": "choice",
+      "prompt": "Which food is very popular in Bekzod's restaurant?",
+      "options": [
+        "lagman",
+        "plov",
+        "shashlik"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«Our plov is very popular.»"
+      },
+      "para": 1
+    },
+    {
+      "id": "a1-28-chef-q3",
+      "type": "gap",
+      "prompt": "Every day they cook plov for two ___ people.",
+      "answers": [
+        "hundred"
+      ],
+      "explain": {
+        "uz": "«Every day we cook plov for two hundred people.»"
+      },
+      "para": 1
+    },
+    {
+      "id": "a1-28-chef-q4",
+      "type": "choice",
+      "prompt": "How many hours does Bekzod work a day?",
+      "options": [
+        "eight",
+        "ten",
+        "twelve"
+      ],
+      "answer": 2,
+      "explain": {
+        "uz": "«I work twelve hours a day»."
+      },
+      "para": 2
+    },
+    {
+      "id": "a1-28-chef-q5",
+      "type": "gap",
+      "prompt": "The kitchen is very ___.",
+      "answers": [
+        "hot"
+      ],
+      "explain": {
+        "uz": "«the kitchen is very hot»."
+      },
+      "para": 2
+    },
+    {
+      "id": "a1-28-chef-q6",
+      "type": "tfng",
+      "statement": "Bekzod cooks at home every day.",
+      "answer": "F",
+      "explain": {
+        "uz": "Uyda u hech qachon pishirmaydi: «Never! At home my wife cooks.»"
+      },
+      "para": 3
+    },
+    {
+      "id": "a1-28-chef-q7",
+      "type": "choice",
+      "prompt": "Who cooks at home?",
+      "options": [
+        "Bekzod",
+        "his wife",
+        "his mother"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«At home my wife cooks.»"
+      },
+      "para": 3
+    }
+  ]
+}

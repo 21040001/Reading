@@ -1,0 +1,187 @@
+{
+  "id": "a1-24-letter",
+  "title": {
+    "uz": "Doʻstimga xat"
+  },
+  "en": "A Letter to My Friend",
+  "level": "A1",
+  "kind": "email",
+  "tag": {
+    "uz": "Xat",
+    "en": "Letter"
+  },
+  "intro": {
+    "uz": "Kamola Xivadan dugonasi Layloga xat yozadi. Oʻqishdan oldin: siz Xiva haqida nimalarni bilasiz?"
+  },
+  "paragraphs": [
+    {
+      "en": "Dear Laylo, how are you? I am in Khiva with my parents! I am sitting in a small café now, and I am writing to you.",
+      "uz": "Qadrli Laylo, qalaysan? Men ota-onam bilan Xivadaman! Hozir kichkina kafeda oʻtiribman va senga xat yozyapman."
+    },
+    {
+      "en": "Khiva is an old city. There are high walls around the old part of the city. Inside, there are mosques, madrasas and a lot of little shops.",
+      "uz": "Xiva — qadimiy shahar. Shaharning eski qismi atrofida baland devorlar bor. Ichkarida masjidlar, madrasalar va juda koʻp kichkina doʻkonlar bor."
+    },
+    {
+      "en": "The weather is very hot, so I wear a hat every day. The food is great. I like the green noodles here. They are called shivit oshi.",
+      "uz": "Havo juda issiq, shuning uchun har kuni shlyapa kiyaman. Ovqatlar zoʻr. Menga bu yerdagi yashil ugra yoqadi. Uning nomi — shivit oshi."
+    },
+    {
+      "en": "We go home on Sunday. I would like to show you my photos. See you soon! Love, Kamola",
+      "uz": "Biz yakshanba kuni uyga qaytamiz. Senga suratlarimni koʻrsatmoqchiman. Tez orada koʻrishguncha! Mehr bilan, Kamola"
+    }
+  ],
+  "glossary": [
+    {
+      "en": "dear",
+      "uz": "qadrli, aziz (xat boshida)"
+    },
+    {
+      "en": "parents",
+      "uz": "ota-ona"
+    },
+    {
+      "en": "wall",
+      "uz": "devor"
+    },
+    {
+      "en": "around",
+      "uz": "atrofida"
+    },
+    {
+      "en": "mosque",
+      "uz": "masjid"
+    },
+    {
+      "en": "inside",
+      "uz": "ichkarida"
+    },
+    {
+      "en": "hat",
+      "uz": "shlyapa, qalpoq"
+    },
+    {
+      "en": "noodles",
+      "uz": "ugra, lagʻmon"
+    },
+    {
+      "en": "show",
+      "uz": "koʻrsatmoq"
+    },
+    {
+      "en": "photo",
+      "uz": "surat"
+    },
+    {
+      "en": "See you soon!",
+      "uz": "Tez orada koʻrishguncha!"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "b14-there-is",
+      "title": {
+        "uz": "there is / there are"
+      },
+      "example": "There are high walls around the old part of the city."
+    },
+    {
+      "topicId": "b44-would-like",
+      "title": {
+        "uz": "would like to … — … ni xohlamoq"
+      },
+      "example": "I would like to show you my photos."
+    }
+  ],
+  "questions": [
+    {
+      "id": "a1-24-letter-q1",
+      "type": "tfng",
+      "statement": "Kamola is in Khiva with her friends.",
+      "answer": "F",
+      "explain": {
+        "uz": "U ota-onasi bilan: «I am in Khiva with my parents!»"
+      },
+      "para": 0
+    },
+    {
+      "id": "a1-24-letter-q2",
+      "type": "choice",
+      "prompt": "Where is Kamola now?",
+      "options": [
+        "in a hotel room",
+        "in a small café",
+        "in a mosque"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«I am sitting in a small café now»."
+      },
+      "para": 0
+    },
+    {
+      "id": "a1-24-letter-q3",
+      "type": "gap",
+      "prompt": "There are high ___ around the old part of the city.",
+      "answers": [
+        "walls"
+      ],
+      "explain": {
+        "uz": "«There are high walls around the old part of the city.»"
+      },
+      "para": 1
+    },
+    {
+      "id": "a1-24-letter-q4",
+      "type": "tfng",
+      "statement": "There are a lot of little shops in the old city.",
+      "answer": "T",
+      "explain": {
+        "uz": "«Inside, there are mosques, madrasas and a lot of little shops.»"
+      },
+      "para": 1
+    },
+    {
+      "id": "a1-24-letter-q5",
+      "type": "choice",
+      "prompt": "Why does Kamola wear a hat?",
+      "options": [
+        "It is very hot.",
+        "It is cold.",
+        "It is windy."
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "«The weather is very hot, so I wear a hat every day.»"
+      },
+      "para": 2
+    },
+    {
+      "id": "a1-24-letter-q6",
+      "type": "gap",
+      "prompt": "Kamola likes the green ___ in Khiva.",
+      "answers": [
+        "noodles"
+      ],
+      "explain": {
+        "uz": "«I like the green noodles here.»"
+      },
+      "para": 2
+    },
+    {
+      "id": "a1-24-letter-q7",
+      "type": "choice",
+      "prompt": "When does the family go home?",
+      "options": [
+        "on Friday",
+        "on Saturday",
+        "on Sunday"
+      ],
+      "answer": 2,
+      "explain": {
+        "uz": "«We go home on Sunday.»"
+      },
+      "para": 3
+    }
+  ]
+}

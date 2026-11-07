@@ -1,0 +1,348 @@
+{
+  "id": "c1-27-test2",
+  "title": {
+    "uz": "2-test: Til va fikrlash"
+  },
+  "en": "Does Language Shape the Way We Think?",
+  "level": "C1",
+  "kind": "exam",
+  "tag": {
+    "uz": "Tilshunoslik",
+    "en": "Linguistics"
+  },
+  "intro": {
+    "uz": "Toʻliq mashq testi (C1): til fikrlashga taʼsir qiladimi degan savol — rang va makon haqidagi tadqiqotlar. Haqiqiy IELTS Academic imtihonidagidek bitta matnga 14 ta savol beriladi: Matching headings, True/False/Not Given, summary completion (NO MORE THAN TWO WORDS) va 4 variantli test savollari. Taxminan 20 daqiqa ajrating. Tavsiya etiladigan tartib: avval 2–3 daqiqada matnga koʻz yugurtirib, har bir xatboshining asosiy gʻoyasini belgilang va sarlavhalarni moslang; soʻng TFNG savollarini matn tartibida bajaring; keyin xulosadagi boʻshliqlarni matndagi soʻzlar bilan aynan toʻldiring; test savollarini esa oxiriga qoldiring."
+  },
+  "paragraphs": [
+    {
+      "en": "It is a claim that appears regularly in popular articles and conversations: speakers of different languages, we are told, see the world in fundamentally different ways. One language is said to lack a word for a particular emotion, so its speakers supposedly cannot feel it; another is said to have dozens of words for snow, implying that its speakers perceive winter landscapes in ways outsiders never could. Such stories are appealing, but many of them are exaggerated or simply inaccurate. The serious question behind them is nevertheless a genuine one, and it has occupied linguists, psychologists and philosophers for more than a century: does the language we speak influence the way we think, and if so, how far?"
+    },
+    {
+      "en": "The idea is often referred to as linguistic relativity, and in its strongest form it holds that language determines thought, so that concepts absent from a language are effectively unavailable to its speakers. This version, associated in particular with American linguists of the first half of the twentieth century, attracted considerable attention but proved difficult to support. Speakers routinely understand ideas for which their language has no single word, and translation, although imperfect, is clearly possible. By the middle of the century, many researchers had turned towards the view that human thought rests on shared foundations, and the strong hypothesis fell largely out of favour. Interest later returned in a more modest form: the question became not whether language imprisons thought but whether it nudges it in particular directions."
+    },
+    {
+      "en": "Colour has long been a favourite testing ground, because the physical spectrum is continuous while languages divide it in strikingly different ways. Some languages have only a handful of basic colour terms, whereas others have a dozen or more. Influential cross-cultural surveys in the second half of the twentieth century suggested that this variation is not unlimited, since the ways in which languages divide the spectrum appear to follow broad regularities. Later work has questioned how strict these patterns are, but the debate shows why colour vocabulary offers a convenient point at which language and perception can be compared."
+    },
+    {
+      "en": "One frequently discussed line of research concerns Russian, which treats lighter and darker blue as two distinct basic colours rather than shades of a single one. In laboratory tasks, Russian speakers have been found to distinguish two blues slightly faster when the shades fall on different sides of this linguistic boundary, an advantage not shown by English speakers. Interestingly, the effect has been reported to weaken when participants are simultaneously asked to perform a verbal task, which occupies the language system. Results of this kind suggest that language may influence perception in the moment, rather than permanently reshaping what people are able to see. The differences, it should be stressed, are measured in fractions of a second."
+    },
+    {
+      "en": "Spatial language provides perhaps the most striking evidence. Speakers of English and Uzbek habitually describe locations relative to their own bodies, saying that a cup is to the left of a plate. Some communities, however, including speakers of certain Aboriginal languages in Australia, rely largely on fixed compass directions, so that the cup might be described as north of the plate regardless of where the speaker is facing. Researchers have reported that such speakers tend to keep track of their orientation with remarkable accuracy, and that in non-verbal tasks they are inclined to reproduce arrangements according to compass directions rather than left and right. Critics point out, though, that the habit of attending to direction may arise from the landscape and culture as much as from language itself."
+    },
+    {
+      "en": "Grammar has been investigated too. In languages with grammatical gender, nouns meaning bridge or key are classed as masculine or feminine, and some studies suggested that speakers describe objects in ways that echo their grammatical gender. Subsequent attempts to repeat these findings, however, have produced mixed results. Uzbek offers an interesting contrast, since, like other Turkic languages, it has no grammatical gender and uses the single pronoun u for both he and she. Whether this affects how its speakers think about gender remains an open question, and it would be unwise to draw conclusions without careful evidence."
+    },
+    {
+      "en": "Part of the difficulty is methodological. Language is inseparable from the culture in which it is used, so it is rarely possible to show that a difference in thinking stems from language rather than from education, environment or everyday practices. Nor is the direction of influence always clear: a community may develop a rich vocabulary for something precisely because it already pays close attention to it. Studies with bilingual speakers, who sometimes respond differently depending on the language in which a task is presented, offer one way around this problem, although they introduce complications of their own."
+    },
+    {
+      "en": "Where, then, does the evidence leave us? Most researchers now reject the notion that language is a prison which confines thought. At the same time, few would claim that it has no influence whatsoever. A widely held middle position is that each language makes certain distinctions obligatory or habitual, and that its speakers consequently become practised at noticing them. Language, on this view, functions less like a pair of tinted glasses that colours everything we see than like a set of well-worn paths, which we follow most easily but are not forced to take."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "exaggerated",
+      "uz": "boʻrttirilgan, oshirib yuborilgan"
+    },
+    {
+      "en": "linguistic relativity",
+      "uz": "lingvistik nisbiylik"
+    },
+    {
+      "en": "determine",
+      "uz": "belgilamoq, hal qilmoq"
+    },
+    {
+      "en": "fall out of favour",
+      "uz": "eʼtibordan qolmoq, obroʻsini yoʻqotmoq"
+    },
+    {
+      "en": "nudge",
+      "uz": "sekin turtmoq, ozgina yoʻnaltirmoq"
+    },
+    {
+      "en": "strikingly",
+      "uz": "yaqqol, hayratlanarli darajada"
+    },
+    {
+      "en": "regularity",
+      "uz": "qonuniyat, muntazamlik"
+    },
+    {
+      "en": "distinguish",
+      "uz": "farqlamoq"
+    },
+    {
+      "en": "simultaneously",
+      "uz": "bir vaqtning oʻzida"
+    },
+    {
+      "en": "habitually",
+      "uz": "odatiy ravishda"
+    },
+    {
+      "en": "orientation",
+      "uz": "yoʻnalishni bilish, moʻljal"
+    },
+    {
+      "en": "subsequent",
+      "uz": "keyingi, undan soʻnggi"
+    },
+    {
+      "en": "inseparable from",
+      "uz": "… dan ajralmas"
+    },
+    {
+      "en": "stem from",
+      "uz": "… dan kelib chiqmoq"
+    },
+    {
+      "en": "obligatory",
+      "uz": "majburiy"
+    },
+    {
+      "en": "confine",
+      "uz": "cheklamoq, qamab qoʻymoq"
+    },
+    {
+      "en": "whatsoever",
+      "uz": "hech qanday, mutlaqo"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "c14-complex-passive",
+      "title": {
+        "uz": "Murakkab majhul nisbat: is said to lack / have been found to distinguish"
+      },
+      "example": "One language is said to lack a word for a particular emotion"
+    },
+    {
+      "topicId": "c58-inversion",
+      "title": {
+        "uz": "Inversiya: Nor is the direction … clear"
+      },
+      "example": "Nor is the direction of influence always clear"
+    }
+  ],
+  "questions": [
+    {
+      "id": "c1-27-test2-q1",
+      "type": "heading",
+      "para": 1,
+      "options": [
+        "From a bold claim to a more modest question",
+        "Evidence that an effect may be temporary",
+        "Describing location without left and right",
+        "Findings that have proved hard to repeat",
+        "Why cause and effect are hard to separate",
+        "A compromise view of language and mind",
+        "A spectrum divided in many ways",
+        "Why some languages borrow more words than others",
+        "The decline of minority languages"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "Xatboshi B: «language determines thought» degan kuchli daʼvo qoʻllab-quvvatlanmadi va keyin «in a more modest form» qaytdi — dadil daʼvodan kamtarroq savolga oʻtish."
+      }
+    },
+    {
+      "id": "c1-27-test2-q2",
+      "type": "heading",
+      "para": 3,
+      "options": [
+        "From a bold claim to a more modest question",
+        "Evidence that an effect may be temporary",
+        "Describing location without left and right",
+        "Findings that have proved hard to repeat",
+        "Why cause and effect are hard to separate",
+        "A compromise view of language and mind",
+        "A spectrum divided in many ways",
+        "Why some languages borrow more words than others",
+        "The decline of minority languages"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "Xatboshi D: ogʻzaki topshiriq bajarilganda effekt zaiflashadi — til idrokka «in the moment» taʼsir qiladi, «rather than permanently» — yaʼni effekt vaqtinchalik boʻlishi mumkin."
+      }
+    },
+    {
+      "id": "c1-27-test2-q3",
+      "type": "heading",
+      "para": 4,
+      "options": [
+        "From a bold claim to a more modest question",
+        "Evidence that an effect may be temporary",
+        "Describing location without left and right",
+        "Findings that have proved hard to repeat",
+        "Why cause and effect are hard to separate",
+        "A compromise view of language and mind",
+        "A spectrum divided in many ways",
+        "Why some languages borrow more words than others",
+        "The decline of minority languages"
+      ],
+      "answer": 2,
+      "explain": {
+        "uz": "Xatboshi E: baʼzi jamoalar chap-oʻng oʻrniga «fixed compass directions» dan foydalanadi."
+      }
+    },
+    {
+      "id": "c1-27-test2-q4",
+      "type": "heading",
+      "para": 6,
+      "options": [
+        "From a bold claim to a more modest question",
+        "Evidence that an effect may be temporary",
+        "Describing location without left and right",
+        "Findings that have proved hard to repeat",
+        "Why cause and effect are hard to separate",
+        "A compromise view of language and mind",
+        "A spectrum divided in many ways",
+        "Why some languages borrow more words than others",
+        "The decline of minority languages"
+      ],
+      "answer": 4,
+      "explain": {
+        "uz": "Xatboshi G: farq tildanmi yoki madaniyatdanmi — ajratish qiyin; «Nor is the direction of influence always clear» — sabab va oqibatni ajratish muammosi."
+      }
+    },
+    {
+      "id": "c1-27-test2-q5",
+      "type": "heading",
+      "para": 7,
+      "options": [
+        "From a bold claim to a more modest question",
+        "Evidence that an effect may be temporary",
+        "Describing location without left and right",
+        "Findings that have proved hard to repeat",
+        "Why cause and effect are hard to separate",
+        "A compromise view of language and mind",
+        "A spectrum divided in many ways",
+        "Why some languages borrow more words than others",
+        "The decline of minority languages"
+      ],
+      "answer": 5,
+      "explain": {
+        "uz": "Xatboshi H: «A widely held middle position» — til fikrni qamamaydi, lekin taʼsirsiz ham emas; bu murosali qarash."
+      }
+    },
+    {
+      "id": "c1-27-test2-q6",
+      "type": "tfng",
+      "statement": "The writer suggests that most popular stories about language and thought are entirely accurate.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«many of them are exaggerated or simply inaccurate» — muallif bunga qarama-qarshi fikrda."
+      },
+      "para": 0
+    },
+    {
+      "id": "c1-27-test2-q7",
+      "type": "tfng",
+      "statement": "One reason the strong form of linguistic relativity lost support is that translation between languages is possible.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«proved difficult to support. … translation, although imperfect, is clearly possible» — bu dalil kuchli versiyaga qarshi."
+      },
+      "para": 1
+    },
+    {
+      "id": "c1-27-test2-q8",
+      "type": "tfng",
+      "statement": "The Russian speakers in the experiments were also faster at distinguishing shades of green.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Matnda faqat koʻk rang tuslari haqida gap boradi; yashil rang haqida hech narsa aytilmagan."
+      },
+      "para": 3
+    },
+    {
+      "id": "c1-27-test2-q9",
+      "type": "tfng",
+      "statement": "Speakers who rely on compass directions are less accurate at tracking their orientation than other speakers.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«such speakers tend to keep track of their orientation with remarkable accuracy» — aksincha, juda aniq."
+      },
+      "para": 4
+    },
+    {
+      "id": "c1-27-test2-q10",
+      "type": "gap",
+      "prompt": "Summary: Russian treats lighter and darker blue as two separate ___ rather than shades of one colour.",
+      "answers": [
+        "basic colours",
+        "basic colors",
+        "colours",
+        "colors"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«treats lighter and darker blue as two distinct basic colours rather than shades of a single one»."
+      },
+      "para": 3
+    },
+    {
+      "id": "c1-27-test2-q11",
+      "type": "gap",
+      "prompt": "Summary: The Russian speakers' advantage weakened when they had to carry out a ___ at the same time.",
+      "answers": [
+        "verbal task"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«asked to perform a verbal task» — simultaneously = at the same time."
+      },
+      "para": 3
+    },
+    {
+      "id": "c1-27-test2-q12",
+      "type": "gap",
+      "prompt": "Summary: Uzbek has no grammatical gender and uses one ___ to refer to both men and women.",
+      "answers": [
+        "pronoun"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«uses the single pronoun u for both he and she»."
+      },
+      "para": 5
+    },
+    {
+      "id": "c1-27-test2-q13",
+      "type": "choice",
+      "prompt": "What does the writer say about studies with bilingual speakers?",
+      "options": [
+        "They have completely solved the methodological problem.",
+        "They offer a partial solution but raise new difficulties.",
+        "They prove that culture has no effect on thinking.",
+        "They show that bilingual people think more clearly."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«offer one way around this problem, although they introduce complications of their own» — qisman yechim, lekin yangi qiyinchiliklar."
+      },
+      "para": 6
+    },
+    {
+      "id": "c1-27-test2-q14",
+      "type": "choice",
+      "prompt": "What is the purpose of the comparison with well-worn paths in the final paragraph?",
+      "options": [
+        "to argue that language completely controls perception",
+        "to suggest that language guides thinking without restricting it",
+        "to show that languages gradually change over time",
+        "to explain why some people learn languages more easily"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«which we follow most easily but are not forced to take» — til yoʻnaltiradi, lekin majburlamaydi. «tinted glasses» oʻxshatishi esa rad etiladi."
+      },
+      "para": 7
+    }
+  ]
+}

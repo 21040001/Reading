@@ -1,0 +1,208 @@
+{
+  "id": "a2-04-new-school",
+  "title": {
+    "uz": "Yangi maktab"
+  },
+  "en": "A New School",
+  "level": "A2",
+  "kind": "email",
+  "tag": {
+    "uz": "Maktab",
+    "en": "School"
+  },
+  "intro": {
+    "uz": "Aziz yangi maktabi haqida xolavachchasi Layloga xat yozadi. Oʻqishdan oldin: yangi joyda birinchi kun sizga qanday boʻlgan?"
+  },
+  "paragraphs": [
+    {
+      "en": "Hi Laylo, How are you? Sorry for my late answer. We moved to Andijan three weeks ago because my dad got a new job here, and I started at a new school. I've been very busy!",
+      "uz": "Salom, Laylo! Qalaysan? Kech javob berganim uchun uzr. Dadam bu yerda yangi ish topgani uchun uch hafta oldin Andijonga koʻchib keldik va men yangi maktabda oʻqiy boshladim. Juda band boʻlib qoldim!"
+    },
+    {
+      "en": "My new school is bigger than my old school in Jizzakh. It has three floors, a big library and a modern computer room. But the classes are larger too. There are thirty-two students in my class, and at first I didn't know anyone.",
+      "uz": "Yangi maktabim Jizzaxdagi eski maktabimdan kattaroq. Unda uch qavat, katta kutubxona va zamonaviy kompyuter xonasi bor. Lekin sinflar ham kattaroq. Sinfimda oʻttiz ikki oʻquvchi bor, avvaliga hech kimni tanimasdim."
+    },
+    {
+      "en": "The first day was hard. I couldn't find the chemistry room, and I sat alone at lunch. But on the second day, a boy called Doniyor asked me to play football with his friends after school. Now we walk home together every day.",
+      "uz": "Birinchi kun qiyin boʻldi. Kimyo xonasini topa olmadim, tushlikda yolgʻiz oʻtirdim. Lekin ikkinchi kuni Doniyor ismli bola meni darsdan keyin doʻstlari bilan futbol oʻynashga chaqirdi. Endi har kuni uyga birga qaytamiz."
+    },
+    {
+      "en": "The lessons are more difficult here, especially maths. I have to do a lot of homework, and I've already had two tests. I got a good mark in English, but my maths test wasn't great.",
+      "uz": "Bu yerda darslar qiyinroq, ayniqsa matematika. Koʻp uy vazifasi bajarishim kerak, allaqachon ikkita nazorat ishi yozdim. Ingliz tilidan yaxshi baho oldim, lekin matematikadan nazorat ishim unchalik yaxshi boʻlmadi."
+    },
+    {
+      "en": "Next month our school is going to have a sports festival, and I'm going to run in the 400-metre race. Wish me luck! Write soon and tell me about your school. Your cousin, Aziz",
+      "uz": "Kelasi oy maktabimizda sport bayrami boʻladi, men 400 metrga yugurish musobaqasida qatnashaman. Menga omad tila! Tezroq yoz, maktabing haqida aytib ber. Xolavachchang Aziz"
+    }
+  ],
+  "glossary": [
+    {
+      "en": "move",
+      "uz": "koʻchmoq"
+    },
+    {
+      "en": "floor",
+      "uz": "qavat"
+    },
+    {
+      "en": "library",
+      "uz": "kutubxona"
+    },
+    {
+      "en": "modern",
+      "uz": "zamonaviy"
+    },
+    {
+      "en": "at first",
+      "uz": "avvaliga, dastlab"
+    },
+    {
+      "en": "alone",
+      "uz": "yolgʻiz"
+    },
+    {
+      "en": "together",
+      "uz": "birga"
+    },
+    {
+      "en": "especially",
+      "uz": "ayniqsa"
+    },
+    {
+      "en": "homework",
+      "uz": "uy vazifasi"
+    },
+    {
+      "en": "test",
+      "uz": "nazorat ishi, test"
+    },
+    {
+      "en": "race",
+      "uz": "poyga, yugurish musobaqasi"
+    },
+    {
+      "en": "luck",
+      "uz": "omad"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "e45-comparatives",
+      "title": {
+        "uz": "Qiyosiy daraja: bigger than"
+      },
+      "example": "My new school is bigger than my old school in Jizzakh."
+    },
+    {
+      "topicId": "e28-have-to",
+      "title": {
+        "uz": "have to — majbur boʻlmoq"
+      },
+      "example": "I have to do a lot of homework"
+    }
+  ],
+  "questions": [
+    {
+      "id": "a2-04-new-school-q1",
+      "type": "choice",
+      "prompt": "Why did Aziz's family move to Andijan?",
+      "options": [
+        "His dad got a new job.",
+        "His grandparents live there.",
+        "He wanted a better school."
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "«because my dad got a new job here»."
+      },
+      "para": 0
+    },
+    {
+      "id": "a2-04-new-school-q2",
+      "type": "gap",
+      "prompt": "Aziz's family moved to Andijan ___ weeks ago.",
+      "answers": [
+        "three",
+        "3"
+      ],
+      "explain": {
+        "uz": "«We moved to Andijan three weeks ago»."
+      },
+      "para": 0
+    },
+    {
+      "id": "a2-04-new-school-q3",
+      "type": "tfng",
+      "statement": "Aziz's old school was in Jizzakh.",
+      "answer": "T",
+      "explain": {
+        "uz": "«my old school in Jizzakh»."
+      },
+      "para": 1
+    },
+    {
+      "id": "a2-04-new-school-q4",
+      "type": "tfng",
+      "statement": "Aziz's new school is smaller than his old one.",
+      "answer": "F",
+      "explain": {
+        "uz": "Yangi maktab kattaroq: «bigger than my old school»."
+      },
+      "para": 1
+    },
+    {
+      "id": "a2-04-new-school-q5",
+      "type": "gap",
+      "prompt": "There are ___ students in Aziz's class.",
+      "answers": [
+        "thirty-two",
+        "32",
+        "thirty two"
+      ],
+      "explain": {
+        "uz": "«There are thirty-two students in my class»."
+      },
+      "para": 1
+    },
+    {
+      "id": "a2-04-new-school-q6",
+      "type": "choice",
+      "prompt": "How did Aziz meet Doniyor?",
+      "options": [
+        "They sat together at lunch.",
+        "Doniyor invited him to play football.",
+        "They were in the same chemistry class."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«a boy called Doniyor asked me to play football with his friends». Tushlikda Aziz yolgʻiz oʻtirgan."
+      },
+      "para": 2
+    },
+    {
+      "id": "a2-04-new-school-q7",
+      "type": "tfng",
+      "statement": "Aziz got a good mark in his maths test.",
+      "answer": "F",
+      "explain": {
+        "uz": "«my maths test wasn't great». Yaxshi baho — ingliz tilidan."
+      },
+      "para": 3
+    },
+    {
+      "id": "a2-04-new-school-q8",
+      "type": "choice",
+      "prompt": "What is Aziz going to do next month?",
+      "options": [
+        "take a maths test",
+        "run in a race",
+        "visit Laylo"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«I'm going to run in the 400-metre race»."
+      },
+      "para": 4
+    }
+  ]
+}

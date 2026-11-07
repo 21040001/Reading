@@ -1,0 +1,227 @@
+{
+  "id": "b1-27-advertising",
+  "title": {
+    "uz": "Reklama siri"
+  },
+  "en": "The Secret of Advertising",
+  "level": "B1",
+  "kind": "story",
+  "tag": {
+    "uz": "Reklama",
+    "en": "Advertising"
+  },
+  "intro": {
+    "uz": "Bu hikoyada oʻn besh yoshli Malika bir hafta davomida reklamalardagi «hiyla»larni yozib boradi. Oʻqishdan oldin oʻylab koʻring: siz biror narsani reklama sababli sotib olganmisiz?"
+  },
+  "paragraphs": [
+    {
+      "en": "Malika is fifteen, and until last month she had never thought much about advertisements. They were simply there: on the bus stop near her school, between videos on her phone and on the television in the evening. Then her teacher, Mr Karimov, gave the class an unusual piece of homework. 'For one week,' he said, 'I want you to collect adverts and write down every trick you notice.'"
+    },
+    {
+      "en": "On the first day, Malika saw a poster for a new sports drink. A famous footballer was holding the bottle and smiling. 'He probably doesn't even drink it,' she thought. In her notebook she wrote: famous faces. Advertisers use well-known people because we trust them and want to be like them, so we connect the product with their success."
+    },
+    {
+      "en": "The next evening, a television advert for a phone said that the special price was available for three days only. Her older brother had almost bought a phone the week before for exactly the same reason. Malika realised that a limited offer makes people hurry. If you have no time to think, you are less likely to ask whether you really need the thing."
+    },
+    {
+      "en": "She also started listening to adverts instead of only watching them. Almost every one had cheerful, catchy music, and one song stayed in her head for two whole days. Music, she wrote, makes us feel happy, and the advert hopes that we will remember that feeling when we see the product in a shop."
+    },
+    {
+      "en": "The strangest discovery came on her phone. After she had searched for running shoes once, adverts for trainers appeared everywhere: in her games, on websites and in her social media feed. Malika asked her teacher about it. He explained that many companies collect information about what we search for and show us adverts that are targeted at our interests."
+    },
+    {
+      "en": "At the end of the week, Malika presented her list to the class. 'I am not saying that all adverts are bad,' she said. 'Some of them tell us useful things. But now, when I see one, I ask myself what trick it is using.' Mr Karimov gave her the highest mark in the class."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "advertisement",
+      "uz": "reklama (qisqasi: advert)"
+    },
+    {
+      "en": "trick",
+      "uz": "hiyla, nayrang"
+    },
+    {
+      "en": "poster",
+      "uz": "plakat, afisha"
+    },
+    {
+      "en": "advertiser",
+      "uz": "reklama beruvchi"
+    },
+    {
+      "en": "connect",
+      "uz": "bogʻlamoq"
+    },
+    {
+      "en": "available",
+      "uz": "mavjud, olish mumkin"
+    },
+    {
+      "en": "limited offer",
+      "uz": "cheklangan taklif"
+    },
+    {
+      "en": "hurry",
+      "uz": "shoshilmoq"
+    },
+    {
+      "en": "be likely to",
+      "uz": "ehtimoli bor"
+    },
+    {
+      "en": "catchy",
+      "uz": "tez yodda qoladigan (kuy)"
+    },
+    {
+      "en": "discovery",
+      "uz": "kashfiyot, topilma"
+    },
+    {
+      "en": "targeted at",
+      "uz": "… ga moʻljallangan, yoʻnaltirilgan"
+    },
+    {
+      "en": "feed",
+      "uz": "lenta (ijtimoiy tarmoqda)"
+    },
+    {
+      "en": "mark",
+      "uz": "baho"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "i11-past-perfect",
+      "title": {
+        "uz": "Past Perfect: had searched, had never thought"
+      },
+      "example": "After she had searched for running shoes once, adverts for trainers appeared everywhere"
+    },
+    {
+      "topicId": "i29-passive-basics",
+      "title": {
+        "uz": "Majhul nisbat: are targeted at"
+      },
+      "example": "adverts that are targeted at our interests"
+    }
+  ],
+  "questions": [
+    {
+      "id": "b1-27-advertising-q1",
+      "type": "tfng",
+      "statement": "Mr Karimov asked the students to collect adverts for one week.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«For one week, I want you to collect adverts»."
+      },
+      "para": 0
+    },
+    {
+      "id": "b1-27-advertising-q2",
+      "type": "tfng",
+      "statement": "The footballer on the poster plays for an Uzbek team.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Futbolchi mashhur ekani aytilgan, lekin qaysi jamoada oʻynashi haqida maʼlumot yoʻq."
+      },
+      "para": 1
+    },
+    {
+      "id": "b1-27-advertising-q3",
+      "type": "tfng",
+      "statement": "Malika's brother bought a phone because of a special price.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«had almost bought a phone» — «almost» sotib olishiga oz qolgan, lekin olmaganini bildiradi."
+      },
+      "para": 2
+    },
+    {
+      "id": "b1-27-advertising-q4",
+      "type": "tfng",
+      "statement": "A song from an advert stayed in Malika's head for two days.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«one song stayed in her head for two whole days»."
+      },
+      "para": 3
+    },
+    {
+      "id": "b1-27-advertising-q5",
+      "type": "choice",
+      "prompt": "According to Malika, why do adverts say that an offer is for a short time only?",
+      "options": [
+        "to make people hurry and not think too much",
+        "because the shop will close soon",
+        "because the product is old"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "«a limited offer makes people hurry. If you have no time to think…»."
+      },
+      "para": 2
+    },
+    {
+      "id": "b1-27-advertising-q6",
+      "type": "choice",
+      "prompt": "Why did Malika see adverts for trainers everywhere?",
+      "options": [
+        "Her brother had bought trainers.",
+        "She had searched for running shoes.",
+        "Her teacher had sent them to her."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«After she had searched for running shoes once, adverts for trainers appeared everywhere»."
+      },
+      "para": 4
+    },
+    {
+      "id": "b1-27-advertising-q7",
+      "type": "choice",
+      "prompt": "What is Malika's final opinion about adverts?",
+      "options": [
+        "All adverts are dangerous and should be stopped.",
+        "Adverts can be useful, but it is important to notice their tricks.",
+        "Only adverts with music are honest."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«I am not saying that all adverts are bad… But now… I ask myself what trick it is using»."
+      },
+      "para": 5
+    },
+    {
+      "id": "b1-27-advertising-q8",
+      "type": "gap",
+      "prompt": "Advertisers use famous people because we ___ them and want to be like them.",
+      "answers": [
+        "trust"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«because we trust them and want to be like them»."
+      },
+      "para": 1
+    },
+    {
+      "id": "b1-27-advertising-q9",
+      "type": "gap",
+      "prompt": "At the end, Mr Karimov gave Malika the ___ in the class.",
+      "answers": [
+        "highest mark"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«Mr Karimov gave her the highest mark in the class»."
+      },
+      "para": 5
+    }
+  ]
+}

@@ -1,0 +1,319 @@
+{
+  "id": "c1-05-placebo",
+  "title": {
+    "uz": "Platsebo effekti"
+  },
+  "en": "The Placebo Effect",
+  "level": "C1",
+  "kind": "exam",
+  "tag": {
+    "uz": "Tibbiyot",
+    "en": "Medicine"
+  },
+  "intro": {
+    "uz": "Ilmiy-ommabop matn: platsebo va nocebo effektlari, kutish omili, tibbiyot etikasi va «ochiq platsebo» tadqiqotlari. Aralash topshiriqlar: Matching headings, True/False/Not Given, test va boʻshliq toʻldirish — haqiqiy imtihondagi kabi. Sarlavhalardan boshlang (matnning tuzilishini tushunib olasiz), keyin qolgan savollarga oʻting. Taxminan 20 daqiqa ajrating."
+  },
+  "paragraphs": [
+    {
+      "en": "In a typical clinical trial, a new drug is compared not only with no treatment but with a placebo: a tablet, injection or procedure that looks identical to the real thing but contains no active ingredient. If patients receiving the drug improve more than those receiving the placebo, the difference can reasonably be attributed to the drug. This design has become a cornerstone of modern medicine. Yet it has also drawn attention to a curious fact. Patients in the placebo group frequently improve too, sometimes to a striking degree, and explaining why has occupied researchers for decades."
+    },
+    {
+      "en": "Not all of this improvement, however, reflects a genuine placebo effect. Many conditions fluctuate or resolve on their own, so some patients would have recovered regardless of what they were given. A statistical phenomenon known as regression to the mean also plays a part: people tend to seek treatment, or to enrol in trials, when their symptoms are at their worst, and symptoms that are unusually severe are likely to be less severe on a later occasion simply by chance. Participants may also report feeling better because they wish to please the researchers. Disentangling these influences requires trials that include a third group receiving no treatment at all, and when such comparisons have been made, the true placebo effect has often proved smaller than the raw figures implied."
+    },
+    {
+      "en": "Where genuine placebo effects do occur, expectation appears to be central. When patients anticipate relief, the brain may alter the way it processes signals from the body. Research on pain has been particularly revealing. In some experiments, the pain relief produced by a placebo was reduced by a drug that blocks the action of opioids, suggesting that the placebo had triggered the release of the body's own pain-relieving chemicals. Learning also seems to contribute: a person who has repeatedly experienced relief after taking a particular pill may come to respond to the pill itself. It is worth stressing, though, that placebo effects are most consistently observed for subjective symptoms such as pain, nausea and fatigue. There is little evidence that a placebo can shrink a tumour or cure an infection."
+    },
+    {
+      "en": "Context, too, seems to matter. Some studies have suggested that the same inactive substance can produce stronger effects when it is given by injection rather than as a tablet, when it is described as expensive, or when it is delivered by a clinician who is warm and attentive. Results of this kind should be interpreted cautiously, since individual studies are often small, but they hint that the ritual of treatment, and not merely its chemical content, can influence how patients feel."
+    },
+    {
+      "en": "The same mechanisms can also work in the opposite direction. The nocebo effect refers to the harmful consequences of negative expectations. In clinical trials, participants who receive a placebo commonly report side effects, often resembling those listed for the active drug they believe they may be taking. Patients who have read long lists of possible side effects may be more likely to experience them. This poses a genuine dilemma for doctors, who are obliged to inform patients of risks but who may, by the manner in which they do so, inadvertently contribute to the very symptoms they describe."
+    },
+    {
+      "en": "Deliberately exploiting placebo effects in ordinary medical practice raises serious ethical questions. Giving a patient an inert pill while claiming that it is an active medicine involves deception, which is difficult to reconcile with the principle of informed consent and could erode trust if discovered. Surveys in several countries have nonetheless indicated that a proportion of doctors sometimes prescribe treatments they do not expect to have a specific effect on the condition, such as vitamins, partly for their psychological value."
+    },
+    {
+      "en": "An intriguing possible way out of this dilemma is the open-label placebo, in which patients are told explicitly that they are receiving a pill with no active ingredient, often along with an explanation of how placebo effects may work. Small trials in conditions such as irritable bowel syndrome and chronic back pain have reported improvements in symptoms among those taking such pills. Were these results to be confirmed in larger and more rigorous studies, they would suggest that deception is not essential to the placebo response. For now, though, caution is warranted: the trials have mostly been modest in size, the outcomes were largely self-reported, and it is inherently difficult to design an appropriate comparison for a treatment whose nature the patient already knows. Whatever their ultimate verdict, such studies underline a broader lesson, namely that the experience of being cared for may itself be part of how treatment works."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "attribute to",
+      "uz": "… ga nisbat bermoq, … ning natijasi deb bilmoq"
+    },
+    {
+      "en": "cornerstone",
+      "uz": "asos, tamal toshi"
+    },
+    {
+      "en": "fluctuate",
+      "uz": "oʻzgarib turmoq, tebranmoq"
+    },
+    {
+      "en": "regression to the mean",
+      "uz": "oʻrtachaga qaytish (statistik hodisa)"
+    },
+    {
+      "en": "enrol",
+      "uz": "roʻyxatdan oʻtmoq, qatnashmoq"
+    },
+    {
+      "en": "disentangle",
+      "uz": "ajratib olmoq, chigalini yechmoq"
+    },
+    {
+      "en": "anticipate",
+      "uz": "kutmoq, oldindan sezmoq"
+    },
+    {
+      "en": "trigger",
+      "uz": "qoʻzgʻatmoq, ishga tushirmoq"
+    },
+    {
+      "en": "subjective",
+      "uz": "subyektiv, shaxsiy his-tuygʻuga asoslangan"
+    },
+    {
+      "en": "attentive",
+      "uz": "eʼtiborli"
+    },
+    {
+      "en": "inadvertently",
+      "uz": "bilmagan holda, beixtiyor"
+    },
+    {
+      "en": "inert",
+      "uz": "nofaol, taʼsirsiz"
+    },
+    {
+      "en": "reconcile with",
+      "uz": "… bilan muvofiqlashtirmoq"
+    },
+    {
+      "en": "informed consent",
+      "uz": "xabardor qilingan rozilik"
+    },
+    {
+      "en": "erode trust",
+      "uz": "ishonchni yemirmoq"
+    },
+    {
+      "en": "rigorous",
+      "uz": "qatʼiy, puxta"
+    },
+    {
+      "en": "warranted",
+      "uz": "oʻrinli, asosli"
+    },
+    {
+      "en": "verdict",
+      "uz": "xulosa, hukm"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "c50-inverted-conditionals",
+      "title": {
+        "uz": "Inversiyali shart gap: Were these results to be confirmed …"
+      },
+      "example": "Were these results to be confirmed in larger and more rigorous studies, they would suggest that deception is not essential to the placebo response"
+    },
+    {
+      "topicId": "c33-relative-advanced",
+      "title": {
+        "uz": "Murakkab nisbiy gap: a treatment whose nature …"
+      },
+      "example": "a treatment whose nature the patient already knows"
+    }
+  ],
+  "questions": [
+    {
+      "id": "c1-05-placebo-q1",
+      "type": "heading",
+      "para": 1,
+      "options": [
+        "A standard method that revealed a puzzle",
+        "When expectations cause harm",
+        "Reasons for improvement that have nothing to do with the placebo itself",
+        "Evidence that placebos can cure serious disease",
+        "Why misleading patients is hard to justify",
+        "How expectation and learning affect the body",
+        "Honesty that may still help",
+        "The setting and style of treatment"
+      ],
+      "answer": 2,
+      "explain": {
+        "uz": "B xatboshi: platsebo guruhidagi yaxshilanishning bir qismi kasallikning oʻz-oʻzidan oʻtishi, «regression to the mean» va tadqiqotchilarni xursand qilish istagi bilan bogʻliq — platsebodan mustaqil sabablar."
+      }
+    },
+    {
+      "id": "c1-05-placebo-q2",
+      "type": "heading",
+      "para": 3,
+      "options": [
+        "A standard method that revealed a puzzle",
+        "When expectations cause harm",
+        "Reasons for improvement that have nothing to do with the placebo itself",
+        "Evidence that placebos can cure serious disease",
+        "Why misleading patients is hard to justify",
+        "How expectation and learning affect the body",
+        "Honesty that may still help",
+        "The setting and style of treatment"
+      ],
+      "answer": 7,
+      "explain": {
+        "uz": "D xatboshi: inyeksiya yoki tabletka, «expensive», «warm and attentive» shifokor — davolanish muhiti va uslubi («the ritual of treatment») taʼsir qiladi."
+      }
+    },
+    {
+      "id": "c1-05-placebo-q3",
+      "type": "heading",
+      "para": 5,
+      "options": [
+        "A standard method that revealed a puzzle",
+        "When expectations cause harm",
+        "Reasons for improvement that have nothing to do with the placebo itself",
+        "Evidence that placebos can cure serious disease",
+        "Why misleading patients is hard to justify",
+        "How expectation and learning affect the body",
+        "Honesty that may still help",
+        "The setting and style of treatment"
+      ],
+      "answer": 4,
+      "explain": {
+        "uz": "F xatboshi: bemorni aldash «difficult to reconcile with the principle of informed consent» — nega bunday aldashni oqlash qiyin."
+      }
+    },
+    {
+      "id": "c1-05-placebo-q4",
+      "type": "tfng",
+      "statement": "Some patients in placebo groups would have got better without receiving anything.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«some patients would have recovered regardless of what they were given»."
+      },
+      "para": 1
+    },
+    {
+      "id": "c1-05-placebo-q5",
+      "type": "tfng",
+      "statement": "Placebos have been shown to shrink tumours in some patients.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«There is little evidence that a placebo can shrink a tumour» — isbotlangan emas."
+      },
+      "para": 2
+    },
+    {
+      "id": "c1-05-placebo-q6",
+      "type": "tfng",
+      "statement": "Patients who experience nocebo effects are usually older than average.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Matnda nocebo effektini boshdan kechiradiganlarning yoshi haqida hech narsa aytilmagan."
+      },
+      "para": 4
+    },
+    {
+      "id": "c1-05-placebo-q7",
+      "type": "tfng",
+      "statement": "In open-label placebo studies, patients know that their pill contains no active ingredient.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«patients are told explicitly that they are receiving a pill with no active ingredient»."
+      },
+      "para": 6
+    },
+    {
+      "id": "c1-05-placebo-q8",
+      "type": "choice",
+      "prompt": "Why do some trials include a third group that receives no treatment?",
+      "options": [
+        "To make the trial larger and therefore cheaper",
+        "To test whether patients wish to please the researchers",
+        "To find out which drug has the fewest side effects",
+        "To separate the true placebo effect from other causes of improvement"
+      ],
+      "answer": 3,
+      "explain": {
+        "uz": "«Disentangling these influences requires trials that include a third group receiving no treatment» — haqiqiy platsebo effektini boshqa omillardan ajratish uchun."
+      },
+      "para": 1
+    },
+    {
+      "id": "c1-05-placebo-q9",
+      "type": "choice",
+      "prompt": "What dilemma does the writer describe in paragraph E?",
+      "options": [
+        "Patients refuse to take placebos once they know about them",
+        "Doctors are not allowed to tell patients about risks",
+        "Informing patients about side effects may itself help to cause them",
+        "Active drugs and placebos cause exactly the same side effects"
+      ],
+      "answer": 2,
+      "explain": {
+        "uz": "Shifokorlar xavflar haqida aytishga majbur, lekin «inadvertently contribute to the very symptoms they describe»."
+      },
+      "para": 4
+    },
+    {
+      "id": "c1-05-placebo-q10",
+      "type": "choice",
+      "prompt": "What is the writer's attitude to research on open-label placebos?",
+      "options": [
+        "Convinced that it proves deception is unnecessary",
+        "Interested, but cautious about how strong the evidence is",
+        "Dismissive, because the trials were badly designed",
+        "Uninterested, since it concerns only rare conditions"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«An intriguing possible way out» — qiziqish; «For now, though, caution is warranted» — ehtiyotkorlik."
+      },
+      "para": 6
+    },
+    {
+      "id": "c1-05-placebo-q11",
+      "type": "gap",
+      "prompt": "People often enrol in trials when their symptoms are at their worst, which produces an effect called regression to the ___.",
+      "answers": [
+        "mean"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«A statistical phenomenon known as regression to the mean… when their symptoms are at their worst»."
+      },
+      "para": 1
+    },
+    {
+      "id": "c1-05-placebo-q12",
+      "type": "gap",
+      "prompt": "In some pain experiments, a drug that blocks the action of ___ reduced the relief produced by a placebo.",
+      "answers": [
+        "opioids"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«reduced by a drug that blocks the action of opioids»."
+      },
+      "para": 2
+    },
+    {
+      "id": "c1-05-placebo-q13",
+      "type": "gap",
+      "prompt": "Placebo effects are most consistently seen for ___ such as pain, nausea and fatigue.",
+      "answers": [
+        "subjective symptoms"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«most consistently observed for subjective symptoms such as pain, nausea and fatigue»."
+      },
+      "para": 2
+    }
+  ]
+}

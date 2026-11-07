@@ -1,0 +1,248 @@
+{
+  "id": "b2-03-silkworm",
+  "title": {
+    "uz": "Ipak qurti"
+  },
+  "en": "The Silkworm: From Leaf to Fabric",
+  "level": "B2",
+  "kind": "exam",
+  "tag": {
+    "uz": "Hunarmandchilik",
+    "en": "Crafts"
+  },
+  "intro": {
+    "uz": "Topshiriq: Summary completion (xulosani toʻldirish). Boʻshliqlarga matndan aynan olingan soʻz yozing — NO MORE THAN ONE / TWO WORDS. Maslahat: avval boʻshliq atrofidagi soʻzlarga qarab qanday soʻz kerakligini (ot, feʼl, sifat) aniqlang; xulosadagi jumlalar odatda matn tartibida keladi."
+  },
+  "paragraphs": [
+    {
+      "en": "Few fabrics have a history as long or as glamorous as silk. For thousands of years it has been associated with wealth and beauty, and the trade routes that once linked China with the Mediterranean are known today as the Silk Road. What many people do not realise, however, is that this luxurious material begins its life inside a small and rather unremarkable insect."
+    },
+    {
+      "en": "The silkworm is not actually a worm but the caterpillar of a moth. It has an extremely limited diet: it feeds almost exclusively on the leaves of the mulberry tree. After hatching from tiny eggs, the caterpillars eat almost constantly and grow remarkably fast. Over roughly a month, they increase in size many times over, shedding their skin several times as they grow."
+    },
+    {
+      "en": "When it is fully grown, the caterpillar stops eating and begins to spin a cocoon around itself. It produces a liquid in special glands which hardens into a fine thread as it leaves the insect's body. Moving its head in a repeated figure-of-eight pattern, the insect wraps itself in a single continuous filament that may be hundreds of metres long. Inside this protective shell, it slowly transforms into a moth."
+    },
+    {
+      "en": "If the moth were allowed to emerge, it would break the thread, so silk producers do not wait. Instead, the cocoons are heated, typically with steam, hot air or boiling water. The heat also softens the natural gum that holds the filament together, making it possible to find the end of the thread and unwind it. Because a single filament is too thin to use on its own, several are reeled together to form one strong thread, which can then be dyed and woven."
+    },
+    {
+      "en": "In Uzbekistan, this craft has deep roots. The Fergana Valley has been a centre of silk production for centuries, and in many villages families still raise silkworms each spring, collecting fresh mulberry leaves several times a day. The work is demanding, but the cocoons provide a valuable source of income, and the country is often described as one of the world's major cocoon producers."
+    },
+    {
+      "en": "The town of Margilan is particularly famous for its weavers. Here, craftspeople produce khan-atlas, a shiny silk fabric decorated with bold, slightly blurred patterns. The effect is created using a technique in which bundles of threads are tied and dyed before weaving, so the design appears gradually as the cloth is made. Visitors can watch every stage of the process in local workshops, and the fabric remains popular for traditional dresses as well as modern fashion."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "glamorous",
+      "uz": "jozibali, hashamatli"
+    },
+    {
+      "en": "luxurious",
+      "uz": "hashamatli, qimmatbaho"
+    },
+    {
+      "en": "caterpillar",
+      "uz": "kapalak qurti, lichinka"
+    },
+    {
+      "en": "diet",
+      "uz": "ozuqa, ratsion"
+    },
+    {
+      "en": "exclusively",
+      "uz": "faqat, mutlaqo"
+    },
+    {
+      "en": "hatch",
+      "uz": "(tuxumdan) chiqmoq"
+    },
+    {
+      "en": "shed (skin)",
+      "uz": "poʻst tashlamoq"
+    },
+    {
+      "en": "gland",
+      "uz": "bez"
+    },
+    {
+      "en": "filament",
+      "uz": "ingichka tola"
+    },
+    {
+      "en": "transform into",
+      "uz": "… ga aylanmoq"
+    },
+    {
+      "en": "emerge",
+      "uz": "chiqmoq, paydo boʻlmoq"
+    },
+    {
+      "en": "unwind",
+      "uz": "(ipni) yechmoq, chuvamoq"
+    },
+    {
+      "en": "reel",
+      "uz": "gʻaltakka oʻramoq; pilla chuvamoq"
+    },
+    {
+      "en": "demanding",
+      "uz": "mashaqqatli, koʻp kuch talab qiladigan"
+    },
+    {
+      "en": "bundle",
+      "uz": "dasta, toʻp"
+    },
+    {
+      "en": "dye",
+      "uz": "boʻyamoq"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "i26-second-conditional",
+      "title": {
+        "uz": "Ikkinchi shart: If … were …, it would …"
+      },
+      "example": "If the moth were allowed to emerge, it would break the thread"
+    },
+    {
+      "topicId": "i29-passive-basics",
+      "title": {
+        "uz": "Majhul nisbat: are heated, are reeled"
+      },
+      "example": "the cocoons are heated"
+    }
+  ],
+  "questions": [
+    {
+      "id": "b2-03-silkworm-q1",
+      "type": "gap",
+      "prompt": "Summary: The silkworm is in fact the caterpillar of a ___.",
+      "answers": [
+        "moth"
+      ],
+      "maxWords": 1,
+      "explain": {
+        "uz": "2-xatboshi: «not actually a worm but the caterpillar of a moth»."
+      },
+      "para": 1
+    },
+    {
+      "id": "b2-03-silkworm-q2",
+      "type": "gap",
+      "prompt": "It eats almost nothing except the leaves of the ___.",
+      "answers": [
+        "mulberry tree",
+        "mulberry"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«feeds almost exclusively on the leaves of the mulberry tree» — «almost nothing except» = «almost exclusively»."
+      },
+      "para": 1
+    },
+    {
+      "id": "b2-03-silkworm-q3",
+      "type": "gap",
+      "prompt": "When it has finished growing, it spins a ___ around its body.",
+      "answers": [
+        "cocoon"
+      ],
+      "maxWords": 1,
+      "explain": {
+        "uz": "3-xatboshi: «begins to spin a cocoon around itself»."
+      },
+      "para": 2
+    },
+    {
+      "id": "b2-03-silkworm-q4",
+      "type": "gap",
+      "prompt": "This shell consists of one ___ filament, which can be hundreds of metres long.",
+      "answers": [
+        "continuous"
+      ],
+      "maxWords": 1,
+      "explain": {
+        "uz": "«a single continuous filament that may be hundreds of metres long». Xulosadagi «one» matndagi «single» oʻrnida turibdi, shuning uchun boʻshliqqa «continuous» kerak."
+      },
+      "para": 2
+    },
+    {
+      "id": "b2-03-silkworm-q5",
+      "type": "gap",
+      "prompt": "Producers heat the cocoons, which also softens the natural ___ holding the filament together.",
+      "answers": [
+        "gum"
+      ],
+      "maxWords": 1,
+      "explain": {
+        "uz": "4-xatboshi: «softens the natural gum that holds the filament together»."
+      },
+      "para": 3
+    },
+    {
+      "id": "b2-03-silkworm-q6",
+      "type": "gap",
+      "prompt": "Since one filament is too thin, several are ___ together to make a strong thread.",
+      "answers": [
+        "reeled"
+      ],
+      "maxWords": 1,
+      "explain": {
+        "uz": "«several are reeled together to form one strong thread». «dyed» va «woven» keyingi bosqichlarga tegishli."
+      },
+      "para": 3
+    },
+    {
+      "id": "b2-03-silkworm-q7",
+      "type": "tfng",
+      "statement": "The liquid produced by the silkworm turns solid once it is outside the insect's body.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "3-xatboshi: «hardens into a fine thread as it leaves the insect's body» — «hardens» = «turns solid»."
+      },
+      "para": 2
+    },
+    {
+      "id": "b2-03-silkworm-q8",
+      "type": "tfng",
+      "statement": "Raising silkworms requires little effort from village families.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "5-xatboshi: «The work is demanding» — mehnat talab qiladi, demak «little effort» notoʻgʻri."
+      },
+      "para": 4
+    },
+    {
+      "id": "b2-03-silkworm-q9",
+      "type": "tfng",
+      "statement": "Most of the silk woven in Margilan is sold to other countries.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "6-xatboshida Margʻilon toʻquvchilari va xon-atlas haqida gap bor, lekin mato qayerga sotilishi aytilmagan."
+      },
+      "para": 5
+    },
+    {
+      "id": "b2-03-silkworm-q10",
+      "type": "choice",
+      "prompt": "How are the patterns of khan-atlas created?",
+      "options": [
+        "by painting designs onto the finished cloth",
+        "by tying and dyeing bundles of thread before weaving",
+        "by weaving threads of different thickness",
+        "by heating the cloth in boiling water"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "6-xatboshi: «bundles of threads are tied and dyed before weaving». Qaynoq suv pillaga ishlatiladi, matoga emas; naqsh tayyor matoga chizilmaydi."
+      },
+      "para": 5
+    }
+  ]
+}

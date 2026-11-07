@@ -1,0 +1,226 @@
+{
+  "id": "b1-19-snow-leopard",
+  "title": {
+    "uz": "Qor qoplonlari"
+  },
+  "en": "Ghosts of the Mountains",
+  "level": "B1",
+  "kind": "article",
+  "tag": {
+    "uz": "Atrof-muhit",
+    "en": "Environment"
+  },
+  "intro": {
+    "uz": "Baland togʻlarda yashaydigan noyob mushuk — qor qoploni (irbis) haqida maqola. Oʻqishdan oldin oʻylab koʻring: nima uchun bu hayvonni koʻrish juda qiyin deb oʻylaysiz?"
+  },
+  "paragraphs": [
+    {
+      "en": "High in the mountains of Central Asia, where winters are long and the air is thin, lives one of the most mysterious animals in the world: the snow leopard. Its thick grey fur with dark spots helps it hide among the rocks and snow so well that people who have lived in the mountains all their lives may never see one. That is why it is sometimes called the ghost of the mountains."
+    },
+    {
+      "en": "The snow leopard is well adapted to its cold, steep home. Its wide paws work like snowshoes, so it does not sink into deep snow. Its tail is very long and thick. It helps the cat keep its balance on narrow rocks, and when the animal rests, it can wrap the tail around its body and face to stay warm. Unlike lions and tigers, snow leopards cannot roar."
+    },
+    {
+      "en": "Snow leopards live in the high mountains of several Asian countries, from the Himalayas to Mongolia. In Uzbekistan, they have been recorded in mountain areas such as the Gissar and Chatkal ranges, where some of the land is protected as nature reserves. They mainly hunt wild goats and sheep, for example the Siberian ibex, and they usually live and hunt alone."
+    },
+    {
+      "en": "Because the animals are so rare and shy, scientists rarely study them face to face. Instead, they use camera traps. These are small cameras that are fixed to rocks or trees and take a photo automatically when an animal walks past. Every snow leopard has its own pattern of spots, so researchers can tell individual cats apart. Photos like these have helped scientists learn where the cats travel and how many may live in an area."
+    },
+    {
+      "en": "Snow leopards face serious threats. Some are killed illegally by poachers who want their beautiful fur or their bones. When people hunt too many wild goats and sheep, the leopards lose their natural food, and hungry cats may attack farm animals. Herders may then kill them to protect their flocks. Climate change could also affect their mountain habitat in the future."
+    },
+    {
+      "en": "Protecting the snow leopard means protecting the whole mountain world. Rangers patrol nature reserves to stop poaching, and conservation groups work with local communities, for example by helping herders build safer shelters for their animals at night. If these efforts continue, people may still be able to see this rare cat, even if only in a camera trap photo, many years from now."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "mysterious",
+      "uz": "sirli"
+    },
+    {
+      "en": "hide",
+      "uz": "yashirinmoq"
+    },
+    {
+      "en": "be adapted to",
+      "uz": "… ga moslashgan boʻlmoq"
+    },
+    {
+      "en": "steep",
+      "uz": "tik, qiya"
+    },
+    {
+      "en": "paw",
+      "uz": "panja"
+    },
+    {
+      "en": "sink",
+      "uz": "botib ketmoq"
+    },
+    {
+      "en": "wrap",
+      "uz": "oʻramoq"
+    },
+    {
+      "en": "range",
+      "uz": "togʻ tizmasi"
+    },
+    {
+      "en": "camera trap",
+      "uz": "fotoqopqon, avtomatik kamera"
+    },
+    {
+      "en": "tell apart",
+      "uz": "farqlamoq, ajrata olmoq"
+    },
+    {
+      "en": "poacher",
+      "uz": "brakoner, noqonuniy ovchi"
+    },
+    {
+      "en": "herder",
+      "uz": "choʻpon, podachi"
+    },
+    {
+      "en": "flock",
+      "uz": "suruv, poda"
+    },
+    {
+      "en": "habitat",
+      "uz": "yashash muhiti"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "i54-whose-whom-where",
+      "title": {
+        "uz": "Nisbiy soʻz: where"
+      },
+      "example": "High in the mountains of Central Asia, where winters are long and the air is thin"
+    },
+    {
+      "topicId": "i30-passive-tenses",
+      "title": {
+        "uz": "Present Perfect majhul nisbat: have been recorded"
+      },
+      "example": "they have been recorded in mountain areas such as the Gissar and Chatkal ranges"
+    }
+  ],
+  "questions": [
+    {
+      "id": "b1-19-snow-leopard-q1",
+      "type": "tfng",
+      "statement": "Even people who live in the mountains may never see a snow leopard.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "1-xatboshi: «people who have lived in the mountains all their lives may never see one»."
+      },
+      "para": 0
+    },
+    {
+      "id": "b1-19-snow-leopard-q2",
+      "type": "tfng",
+      "statement": "Snow leopards can roar like lions and tigers.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "2-xatboshi: «Unlike lions and tigers, snow leopards cannot roar»."
+      },
+      "para": 1
+    },
+    {
+      "id": "b1-19-snow-leopard-q3",
+      "type": "tfng",
+      "statement": "Snow leopards in Uzbekistan are bigger than those in Mongolia.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Matnda turli mamlakatlardagi qoplonlarning kattaligi solishtirilmagan — Not Given."
+      },
+      "para": 2
+    },
+    {
+      "id": "b1-19-snow-leopard-q4",
+      "type": "tfng",
+      "statement": "Snow leopards usually hunt in groups.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "3-xatboshi: «they usually live and hunt alone» — yolgʻiz ov qiladi."
+      },
+      "para": 2
+    },
+    {
+      "id": "b1-19-snow-leopard-q5",
+      "type": "gap",
+      "prompt": "The snow leopard is sometimes called the ___ of the mountains.",
+      "answers": [
+        "ghost"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "1-xatboshi: «it is sometimes called the ghost of the mountains»."
+      },
+      "para": 0
+    },
+    {
+      "id": "b1-19-snow-leopard-q6",
+      "type": "gap",
+      "prompt": "Its wide paws work like ___, so it does not sink into deep snow.",
+      "answers": [
+        "snowshoes"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "2-xatboshi: «Its wide paws work like snowshoes»."
+      },
+      "para": 1
+    },
+    {
+      "id": "b1-19-snow-leopard-q7",
+      "type": "choice",
+      "prompt": "How can researchers tell individual snow leopards apart?",
+      "options": [
+        "Each cat has its own pattern of spots.",
+        "Each cat has a different tail length.",
+        "Each cat wears a number."
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "4-xatboshi: «Every snow leopard has its own pattern of spots, so researchers can tell individual cats apart»."
+      },
+      "para": 3
+    },
+    {
+      "id": "b1-19-snow-leopard-q8",
+      "type": "choice",
+      "prompt": "According to the text, why may herders kill snow leopards?",
+      "options": [
+        "to sell their fur",
+        "to protect their flocks",
+        "because the cats attack people"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "5-xatboshi: «Herders may then kill them to protect their flocks». Moʻyna uchun esa brakonerlar oʻldiradi."
+      },
+      "para": 4
+    },
+    {
+      "id": "b1-19-snow-leopard-q9",
+      "type": "heading",
+      "para": 4,
+      "options": [
+        "Dangers for the snow leopard",
+        "How snow leopards hunt",
+        "A new nature reserve"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "5-xatboshi tahdidlar haqida: «Snow leopards face serious threats» — brakonerlik, oziqning kamayishi, iqlim oʻzgarishi."
+      }
+    }
+  ]
+}

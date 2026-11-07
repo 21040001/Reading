@@ -1,0 +1,210 @@
+{
+  "id": "a2-08-lost-key",
+  "title": {
+    "uz": "Yoʻqolgan kalit"
+  },
+  "en": "The Lost Key",
+  "level": "A2",
+  "kind": "story",
+  "tag": {
+    "uz": "Oʻtmishdan hikoyalar",
+    "en": "Stories from the past"
+  },
+  "intro": {
+    "uz": "Bu — kalitini yoʻqotib qoʻygan Bobur haqidagi hikoya. Oʻqishdan oldin: siz biror narsani yoʻqotib, keyin kutilmagan joydan topganmisiz?"
+  },
+  "paragraphs": [
+    {
+      "en": "Last Tuesday, Bobur came home from school at two o'clock. He was hungry and tired. His parents were at work, so the flat was empty. He put his hand in his pocket, but the key wasn't there!",
+      "uz": "Oʻtgan seshanba kuni Bobur maktabdan soat ikkida uyga keldi. U och va charchagan edi. Ota-onasi ishda edi, shuning uchun kvartirada hech kim yoʻq edi. U qoʻlini choʻntagiga soldi, lekin kalit yoʻq edi!"
+    },
+    {
+      "en": "Bobur looked in his bag carefully. He took out all his books and notebooks, but he couldn't find the key. Then he walked back to school slowly and looked at the ground all the way. He didn't find anything.",
+      "uz": "Bobur sumkasini diqqat bilan koʻzdan kechirdi. Barcha kitob va daftarlarini chiqardi, lekin kalitni topa olmadi. Keyin u maktabga sekin qaytib bordi va butun yoʻl boʻyi yerga qarab ketdi. Hech narsa topmadi."
+    },
+    {
+      "en": "When he came back, his neighbour, Aunt Hamida, was sitting on a bench near the building. 'You look worried, Bobur,' she said. He told her about the key. 'Come and have some tea. Your mother comes home at six,' she said.",
+      "uz": "U qaytib kelganda, qoʻshnisi Hamida xola bino yonidagi skameykada oʻtirgan edi. «Xavotirda koʻrinasan, Bobur», — dedi u. Bobur unga kalit haqida aytib berdi. «Yur, choy ichamiz. Onang soat oltida keladi», — dedi xola."
+    },
+    {
+      "en": "Bobur drank tea and ate some bread with jam. While he was eating, Aunt Hamida's grandson, Doniyor, ran into the kitchen. 'Grandma, look! I found a key on the stairs this morning!' he shouted. It was Bobur's key with a small red football on it.",
+      "uz": "Bobur choy ichib, murabbo bilan non yedi. U ovqatlanayotganda Hamida xolaning nevarasi Doniyor oshxonaga yugurib kirdi. «Buvi, qarang! Bugun ertalab zinadan kalit topib oldim!» — deb qichqirdi u. Bu Boburning kaliti edi, unda kichkina qizil futbol toʻpi osilgan edi."
+    },
+    {
+      "en": "Bobur laughed. Now he remembered: in the morning he was in a hurry, so he locked the door quickly and dropped the key. He thanked Doniyor and gave him a chocolate. Now Bobur always keeps his key on a string around his neck.",
+      "uz": "Bobur kulib yubordi. Endi esladi: ertalab u shoshayotgan edi, shuning uchun eshikni tez qulflab, kalitni tushirib qoldirgan. U Doniyorga rahmat aytdi va unga shokolad berdi. Endi Bobur kalitini doim boʻyniga ipga taqib yuradi."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "hungry",
+      "uz": "och (qorni och)"
+    },
+    {
+      "en": "empty",
+      "uz": "boʻsh"
+    },
+    {
+      "en": "pocket",
+      "uz": "choʻntak"
+    },
+    {
+      "en": "carefully",
+      "uz": "diqqat bilan, ehtiyotlab"
+    },
+    {
+      "en": "ground",
+      "uz": "yer (oyoq ostidagi)"
+    },
+    {
+      "en": "neighbour",
+      "uz": "qoʻshni"
+    },
+    {
+      "en": "bench",
+      "uz": "skameyka, oʻrindiq"
+    },
+    {
+      "en": "worried",
+      "uz": "xavotirli"
+    },
+    {
+      "en": "stairs",
+      "uz": "zina"
+    },
+    {
+      "en": "be in a hurry",
+      "uz": "shoshilmoq"
+    },
+    {
+      "en": "lock",
+      "uz": "qulflamoq"
+    },
+    {
+      "en": "string",
+      "uz": "ip"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "e09-past-continuous",
+      "title": {
+        "uz": "Past Continuous: while he was eating"
+      },
+      "example": "While he was eating, Aunt Hamida's grandson, Doniyor, ran into the kitchen."
+    },
+    {
+      "topicId": "e44-adjectives-adverbs",
+      "title": {
+        "uz": "Ravish: careful → carefully"
+      },
+      "example": "Bobur looked in his bag carefully."
+    }
+  ],
+  "questions": [
+    {
+      "id": "a2-08-lost-key-q1",
+      "type": "tfng",
+      "statement": "Bobur's parents were at home when he came back from school.",
+      "answer": "F",
+      "explain": {
+        "uz": "Ular ishda edi: «His parents were at work, so the flat was empty.»"
+      },
+      "para": 0
+    },
+    {
+      "id": "a2-08-lost-key-q2",
+      "type": "choice",
+      "prompt": "What did Bobur do first?",
+      "options": [
+        "He looked in his bag.",
+        "He went to Aunt Hamida.",
+        "He walked back to school."
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "Avval sumkasini koʻrdi: «Bobur looked in his bag carefully.» Keyin («Then») maktabga qaytdi."
+      },
+      "para": 1
+    },
+    {
+      "id": "a2-08-lost-key-q3",
+      "type": "tfng",
+      "statement": "Bobur found the key on the way to school.",
+      "answer": "F",
+      "explain": {
+        "uz": "«He didn't find anything.»"
+      },
+      "para": 1
+    },
+    {
+      "id": "a2-08-lost-key-q4",
+      "type": "gap",
+      "prompt": "Aunt Hamida was sitting on a ___ near the building.",
+      "answers": [
+        "bench"
+      ],
+      "explain": {
+        "uz": "«Aunt Hamida, was sitting on a bench near the building»."
+      },
+      "para": 2
+    },
+    {
+      "id": "a2-08-lost-key-q5",
+      "type": "choice",
+      "prompt": "When does Bobur's mother come home?",
+      "options": [
+        "at two",
+        "at six",
+        "at seven"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«Your mother comes home at six». Soat ikkida Bobur maktabdan kelgan."
+      },
+      "para": 2
+    },
+    {
+      "id": "a2-08-lost-key-q6",
+      "type": "choice",
+      "prompt": "Who found the key?",
+      "options": [
+        "Aunt Hamida",
+        "Bobur's mother",
+        "Doniyor"
+      ],
+      "answer": 2,
+      "explain": {
+        "uz": "Doniyor: «I found a key on the stairs this morning!»"
+      },
+      "para": 3
+    },
+    {
+      "id": "a2-08-lost-key-q7",
+      "type": "gap",
+      "prompt": "There was a small red ___ on the key.",
+      "answers": [
+        "football"
+      ],
+      "explain": {
+        "uz": "«Bobur's key with a small red football on it»."
+      },
+      "para": 3
+    },
+    {
+      "id": "a2-08-lost-key-q8",
+      "type": "choice",
+      "prompt": "Why did Bobur drop the key?",
+      "options": [
+        "He was in a hurry.",
+        "He was playing football.",
+        "His bag was open."
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "«in the morning he was in a hurry, so he locked the door quickly and dropped the key»."
+      },
+      "para": 4
+    }
+  ]
+}

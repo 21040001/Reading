@@ -1,0 +1,258 @@
+{
+  "id": "b2-08-desert-plants",
+  "title": {
+    "uz": "Choʻl oʻsimliklari"
+  },
+  "en": "Plants of the Desert",
+  "level": "B2",
+  "kind": "exam",
+  "tag": {
+    "uz": "Tabiat",
+    "en": "Nature"
+  },
+  "intro": {
+    "uz": "Topshiriq: True / False / Not Given. Savoldagi «cheklovchi» soʻzlarga eʼtibor bering: all, only, never, always, most. Matnda «some» deyilib, qolganlari boshqacha ekani ham koʻrsatilgan boʻlsa, savoldagi «all» FALSE boʻladi; boshqalar haqida hech narsa deyilmagan boʻlsa — NOT GIVEN."
+  },
+  "paragraphs": [
+    {
+      "en": "Deserts are among the harshest environments on Earth. Rain is rare and unpredictable, summer temperatures can be extreme, and the soil is often sandy or salty. Yet many plants not only survive in such conditions but thrive, thanks to adaptations that have developed over a very long time. Broadly, these plants face three challenges: finding water, keeping it and protecting it."
+    },
+    {
+      "en": "One of the most common strategies is to reach water that other plants cannot. Some desert shrubs send their roots deep underground, sometimes many metres down, until they find moisture far below the surface. Others take the opposite approach, spreading a wide network of shallow roots just beneath the ground so that they can absorb rain quickly before it evaporates."
+    },
+    {
+      "en": "Leaves present a particular problem, because plants lose water through them. Many desert species therefore have very small leaves, or almost none at all, and carry out much of their photosynthesis in green stems instead. Leaves that do exist are often covered with a waxy layer that slows the loss of water, and some plants close the tiny openings on their leaves during the hottest part of the day."
+    },
+    {
+      "en": "Another group of plants stores water when it is available. Cacti, which are native to the Americas, are the best-known example: their thick, fleshy stems can hold large amounts of water, which the plant uses slowly during dry periods. Sharp spines, rather than ordinary leaves, help to protect this precious supply from thirsty animals. Their roots, by contrast, are usually shallow and spread widely, ready to catch even light rain."
+    },
+    {
+      "en": "In the Kyzylkum desert, which lies mainly in Uzbekistan and Kazakhstan, two plants are particularly well adapted. The saxaul, a small tree with very hard wood, has tiny scale-like leaves and long roots, which allow it to grow on shifting sand. Because its roots bind the sand together, it has been planted to slow the movement of dunes. Its wood burns slowly and has traditionally been used as fuel. Tamarisk, a shrub with feathery branches and pink flowers, can tolerate salty soil and is common along rivers and dry riverbeds."
+    },
+    {
+      "en": "Some desert plants avoid drought altogether. Their seeds can lie in the soil for long periods, sometimes for years, waiting for enough rain. When a heavy shower finally arrives, they germinate, grow, flower and produce new seeds within a few weeks, before the ground dries out again. After a rare wet spring, a desert that looked empty can suddenly be covered in flowers."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "harsh",
+      "uz": "ogʻir, qattiq"
+    },
+    {
+      "en": "unpredictable",
+      "uz": "oldindan aytib boʻlmaydigan"
+    },
+    {
+      "en": "thrive",
+      "uz": "yaxshi oʻsmoq, gullab-yashnamoq"
+    },
+    {
+      "en": "adaptation",
+      "uz": "moslashuv"
+    },
+    {
+      "en": "shrub",
+      "uz": "buta"
+    },
+    {
+      "en": "moisture",
+      "uz": "namlik"
+    },
+    {
+      "en": "shallow",
+      "uz": "sayoz, chuqur boʻlmagan"
+    },
+    {
+      "en": "absorb",
+      "uz": "shimmoq"
+    },
+    {
+      "en": "evaporate",
+      "uz": "bugʻlanmoq"
+    },
+    {
+      "en": "waxy",
+      "uz": "mumsimon"
+    },
+    {
+      "en": "fleshy",
+      "uz": "etdor, sersuv"
+    },
+    {
+      "en": "spine",
+      "uz": "tikan"
+    },
+    {
+      "en": "shifting",
+      "uz": "koʻchib yuradigan"
+    },
+    {
+      "en": "bind",
+      "uz": "bogʻlab turmoq"
+    },
+    {
+      "en": "saxaul",
+      "uz": "saksovul"
+    },
+    {
+      "en": "tamarisk",
+      "uz": "yulgʻun"
+    },
+    {
+      "en": "tolerate",
+      "uz": "chidamoq"
+    },
+    {
+      "en": "germinate",
+      "uz": "unib chiqmoq"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "i55-non-defining",
+      "title": {
+        "uz": "Qoʻshimcha aniqlovchi ergash gap: which are …"
+      },
+      "example": "Cacti, which are native to the Americas, are the best-known example"
+    },
+    {
+      "topicId": "c46-contrast-concession",
+      "title": {
+        "uz": "Qarama-qarshilik: by contrast"
+      },
+      "example": "Their roots, by contrast, are usually shallow"
+    }
+  ],
+  "questions": [
+    {
+      "id": "b2-08-desert-plants-q1",
+      "type": "tfng",
+      "statement": "Rain in the desert is both infrequent and difficult to forecast.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«Rain is rare and unpredictable» — infrequent = rare, difficult to forecast = unpredictable."
+      },
+      "para": 0
+    },
+    {
+      "id": "b2-08-desert-plants-q2",
+      "type": "tfng",
+      "statement": "All desert plants depend on deep roots to find water.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«Some … send their roots deep … Others … shallow roots» — hammasi emas, baʼzilari sayoz ildizli."
+      },
+      "para": 1
+    },
+    {
+      "id": "b2-08-desert-plants-q3",
+      "type": "tfng",
+      "statement": "Shallow roots help some plants collect rainwater before it disappears into the air.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«absorb rain quickly before it evaporates» — evaporate = havoga bugʻlanib ketmoq."
+      },
+      "para": 1
+    },
+    {
+      "id": "b2-08-desert-plants-q4",
+      "type": "tfng",
+      "statement": "Desert plants that have leaves have no way of reducing the water lost through them.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«covered with a waxy layer that slows the loss of water» va «close the tiny openings … during the hottest part of the day» — suv yoʻqotishni kamaytirish usullari bor."
+      },
+      "para": 2
+    },
+    {
+      "id": "b2-08-desert-plants-q5",
+      "type": "tfng",
+      "statement": "The spines of cacti contain a substance that is poisonous to animals.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Tikanlar suvni hayvonlardan himoya qiladi, deyilgan; zahar haqida hech narsa yoʻq."
+      },
+      "para": 3
+    },
+    {
+      "id": "b2-08-desert-plants-q6",
+      "type": "tfng",
+      "statement": "Saxaul was first planted on sand dunes by foreign scientists.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "«it has been planted to slow the movement of dunes» — kim va qachon birinchi ekkani aytilmagan."
+      },
+      "para": 4
+    },
+    {
+      "id": "b2-08-desert-plants-q7",
+      "type": "tfng",
+      "statement": "Tamarisk is unable to grow in soil that contains salt.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«can tolerate salty soil» — shoʻr tuproqqa chidaydi."
+      },
+      "para": 4
+    },
+    {
+      "id": "b2-08-desert-plants-q8",
+      "type": "tfng",
+      "statement": "The seeds of some desert plants can survive in the ground for several years.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«Their seeds can lie in the soil for long periods, sometimes for years»."
+      },
+      "para": 5
+    },
+    {
+      "id": "b2-08-desert-plants-q9",
+      "type": "gap",
+      "prompt": "Desert leaves are often protected by a ___ layer that reduces water loss.",
+      "answers": [
+        "waxy"
+      ],
+      "maxWords": 1,
+      "explain": {
+        "uz": "«covered with a waxy layer that slows the loss of water»."
+      },
+      "para": 2
+    },
+    {
+      "id": "b2-08-desert-plants-q10",
+      "type": "gap",
+      "prompt": "The saxaul has tiny ___ leaves.",
+      "answers": [
+        "scale-like"
+      ],
+      "maxWords": 1,
+      "explain": {
+        "uz": "«has tiny scale-like leaves»."
+      },
+      "para": 4
+    },
+    {
+      "id": "b2-08-desert-plants-q11",
+      "type": "choice",
+      "prompt": "What is the main point of the last paragraph?",
+      "options": [
+        "Desert flowers last for many months.",
+        "Some plants survive drought by waiting as seeds for rain.",
+        "Heavy showers often destroy desert plants.",
+        "Deserts are completely empty in spring."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«Some desert plants avoid drought altogether … seeds … waiting for enough rain». Gullar bir necha hafta ichida paydo boʻladi, oylab emas; choʻl faqat «looked empty» — boʻsh koʻringan."
+      },
+      "para": 5
+    }
+  ]
+}

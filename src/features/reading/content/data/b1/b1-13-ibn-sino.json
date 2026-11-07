@@ -1,0 +1,227 @@
+{
+  "id": "b1-13-ibn-sino",
+  "title": {
+    "uz": "Ibn Sino"
+  },
+  "en": "Ibn Sino: A Visit to Afshona",
+  "level": "B1",
+  "kind": "dialogue",
+  "tag": {
+    "uz": "Tarix va madaniyat",
+    "en": "History and culture"
+  },
+  "intro": {
+    "uz": "Bu dialogda gid Afshona qishlogʻida sayyohlarga, jumladan maktab oʻquvchisi Jasurga, Ibn Sino haqida hikoya qiladi. Oʻqishdan oldin oʻylab koʻring: Ibn Sino qaysi sohalarda mashhur boʻlgan?"
+  },
+  "paragraphs": [
+    {
+      "en": "Guide: Welcome to Afshona, everyone. Ibn Sino, who is known in Europe as Avicenna, was born in this village near Bukhara around the year 980. At that time, Bukhara was the capital of the Samanid state and a great centre of learning. Jasur: Did he go to school in Bukhara, then?"
+    },
+    {
+      "en": "Guide: Yes, his family moved to Bukhara when he was a child. He was an amazingly fast learner. By the age of about ten, he had learned the whole Quran by heart, and then he studied logic, mathematics and philosophy. When he became interested in medicine, he found it quite easy. Jasur: Easy? Medicine is the hardest subject I can imagine!"
+    },
+    {
+      "en": "Guide: Many people would agree with you. But Ibn Sino was already treating patients when he was still a teenager. Once, the ruler of Bukhara became seriously ill, and the young doctor was invited to help him. The ruler recovered, and as a reward Ibn Sino was allowed to use the royal library. Jasur: That sounds like a better prize than gold!"
+    },
+    {
+      "en": "Guide: He thought so too, and he spent many hours reading there. Later, political problems forced him to leave Bukhara, and he spent the rest of his life moving from city to city, first in Khorezm and later in Persia. He worked as a doctor and adviser to different rulers, and he never stopped writing, even while he was travelling. Jasur: How many books did he write?"
+    },
+    {
+      "en": "Guide: Historians are not sure of the exact number, but there were a lot, on subjects from astronomy to music. His most famous work is The Canon of Medicine. It brought together the knowledge of earlier doctors and his own experience. It was translated into Latin and used in European universities for centuries. Jasur: If I wrote a book like that, I would be very proud!"
+    },
+    {
+      "en": "Guide: I'm sure he was proud of it. Today, his name can be seen on hospitals, schools and streets all over Uzbekistan. Now, let's go inside and look at the exhibition. Jasur: Great! Who knows, maybe I'll become a doctor too."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "be known as",
+      "uz": "… nomi bilan tanilgan"
+    },
+    {
+      "en": "centre of learning",
+      "uz": "ilm markazi"
+    },
+    {
+      "en": "fast learner",
+      "uz": "tez oʻrganadigan odam"
+    },
+    {
+      "en": "learn by heart",
+      "uz": "yod olmoq"
+    },
+    {
+      "en": "treat patients",
+      "uz": "bemorlarni davolamoq"
+    },
+    {
+      "en": "seriously ill",
+      "uz": "ogʻir kasal"
+    },
+    {
+      "en": "recover",
+      "uz": "tuzalmoq, sogʻaymoq"
+    },
+    {
+      "en": "reward",
+      "uz": "mukofot"
+    },
+    {
+      "en": "royal",
+      "uz": "shohona, podshohga tegishli"
+    },
+    {
+      "en": "force",
+      "uz": "majbur qilmoq"
+    },
+    {
+      "en": "adviser",
+      "uz": "maslahatchi"
+    },
+    {
+      "en": "exact",
+      "uz": "aniq"
+    },
+    {
+      "en": "translate",
+      "uz": "tarjima qilmoq"
+    },
+    {
+      "en": "exhibition",
+      "uz": "koʻrgazma"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "i26-second-conditional",
+      "title": {
+        "uz": "Ikkinchi tur shart gap: If I wrote …, I would …"
+      },
+      "example": "If I wrote a book like that, I would be very proud!"
+    },
+    {
+      "topicId": "i30-passive-tenses",
+      "title": {
+        "uz": "Majhul nisbat: was invited, was allowed, was translated"
+      },
+      "example": "It was translated into Latin and used in European universities for centuries."
+    }
+  ],
+  "questions": [
+    {
+      "id": "b1-13-ibn-sino-q1",
+      "type": "tfng",
+      "statement": "Ibn Sino was born in the city of Bukhara.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "U Buxoro yaqinidagi qishloqda tugʻilgan: «was born in this village near Bukhara», oilasi keyin Buxoroga koʻchgan."
+      },
+      "para": 0
+    },
+    {
+      "id": "b1-13-ibn-sino-q2",
+      "type": "tfng",
+      "statement": "Jasur thinks that medicine is an easy subject.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "Jasur aksincha deydi: «Medicine is the hardest subject I can imagine!»"
+      },
+      "para": 1
+    },
+    {
+      "id": "b1-13-ibn-sino-q3",
+      "type": "tfng",
+      "statement": "Ibn Sino's father worked as a doctor.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Matnda faqat oilasi Buxoroga koʻchgani aytilgan; otasining kasbi haqida maʼlumot yoʻq."
+      },
+      "para": 1
+    },
+    {
+      "id": "b1-13-ibn-sino-q4",
+      "type": "tfng",
+      "statement": "The Canon of Medicine was studied in European universities.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«It was translated into Latin and used in European universities for centuries.»"
+      },
+      "para": 4
+    },
+    {
+      "id": "b1-13-ibn-sino-q5",
+      "type": "choice",
+      "prompt": "Why was Ibn Sino allowed to use the royal library?",
+      "options": [
+        "He had bought many books for it.",
+        "He had helped the ill ruler to recover.",
+        "He was the son of the librarian."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«The ruler recovered, and as a reward Ibn Sino was allowed to use the royal library.»"
+      },
+      "para": 2
+    },
+    {
+      "id": "b1-13-ibn-sino-q6",
+      "type": "choice",
+      "prompt": "Why did Ibn Sino leave Bukhara?",
+      "options": [
+        "because of political problems",
+        "because he wanted to study in Europe",
+        "because the library was closed"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "«political problems forced him to leave Bukhara»."
+      },
+      "para": 3
+    },
+    {
+      "id": "b1-13-ibn-sino-q7",
+      "type": "choice",
+      "prompt": "What does the guide say about the number of books Ibn Sino wrote?",
+      "options": [
+        "He wrote only one important book.",
+        "Nobody knows exactly how many he wrote.",
+        "He wrote exactly one hundred books."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«Historians are not sure of the exact number, but there were a lot»."
+      },
+      "para": 4
+    },
+    {
+      "id": "b1-13-ibn-sino-q8",
+      "type": "gap",
+      "prompt": "In Europe, Ibn Sino is known as ___.",
+      "answers": [
+        "Avicenna"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«Ibn Sino, who is known in Europe as Avicenna»."
+      },
+      "para": 0
+    },
+    {
+      "id": "b1-13-ibn-sino-q9",
+      "type": "gap",
+      "prompt": "The Canon of Medicine was translated into ___.",
+      "answers": [
+        "Latin"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«It was translated into Latin»."
+      },
+      "para": 4
+    }
+  ]
+}

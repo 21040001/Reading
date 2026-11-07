@@ -1,0 +1,185 @@
+{
+  "id": "a1-05-trip",
+  "title": {
+    "uz": "Muzeyga sayohat"
+  },
+  "en": "School Trip to the Museum",
+  "level": "A1",
+  "kind": "notice",
+  "tag": {
+    "uz": "Maktab",
+    "en": "School"
+  },
+  "intro": {
+    "uz": "Bu — maktabdagi eʼlon. Eʼlonlarda vaqt, joy va narx muhim. Oʻqiyotganda raqamlarga eʼtibor bering."
+  },
+  "paragraphs": [
+    {
+      "en": "School trip for Class 7B! On Friday, 14 March, we go to the History Museum in Tashkent.",
+      "uz": "7B sinfi uchun maktab sayohati! 14-mart, juma kuni biz Toshkentdagi Tarix muzeyiga boramiz."
+    },
+    {
+      "en": "The bus leaves the school at 8:30 in the morning. Please come to school at 8:15. Don't be late! We come back at 3 o'clock.",
+      "uz": "Avtobus maktabdan ertalab soat 8:30 da joʻnaydi. Iltimos, maktabga 8:15 da keling. Kechikmang! Soat 3 da qaytamiz."
+    },
+    {
+      "en": "The ticket costs 20,000 sum. Bring your lunch and a bottle of water. You can't eat in the museum, but there is a small park next to it.",
+      "uz": "Chipta 20 000 soʻm turadi. Tushlik va bir shisha suv olib keling. Muzey ichida ovqatlanish mumkin emas, lekin uning yonida kichik bogʻ bor."
+    },
+    {
+      "en": "Please give this paper to your parents. They must sign it. Bring it back to Ms Karimova by Wednesday.",
+      "uz": "Iltimos, bu qogʻozni ota-onangizga bering. Ular uni imzolashi kerak. Uni chorshanbagacha oʻqituvchi Karimovaga qaytaring."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "trip",
+      "uz": "sayohat, ekskursiya"
+    },
+    {
+      "en": "museum",
+      "uz": "muzey"
+    },
+    {
+      "en": "leave",
+      "uz": "joʻnab ketmoq"
+    },
+    {
+      "en": "late",
+      "uz": "kech; kechikkan"
+    },
+    {
+      "en": "come back",
+      "uz": "qaytib kelmoq"
+    },
+    {
+      "en": "cost",
+      "uz": "(narxi) … turmoq"
+    },
+    {
+      "en": "bring",
+      "uz": "olib kelmoq"
+    },
+    {
+      "en": "bottle",
+      "uz": "shisha (idish)"
+    },
+    {
+      "en": "sign",
+      "uz": "imzolamoq"
+    },
+    {
+      "en": "parents",
+      "uz": "ota-ona"
+    },
+    {
+      "en": "by Wednesday",
+      "uz": "chorshanbagacha"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "b20-telling-time",
+      "title": {
+        "uz": "Vaqt: at 8:30, at 3 o'clock"
+      },
+      "example": "The bus leaves the school at 8:30."
+    },
+    {
+      "topicId": "b48-health",
+      "title": {
+        "uz": "must — majburiyat"
+      },
+      "example": "They must sign it."
+    }
+  ],
+  "questions": [
+    {
+      "id": "a1-05-trip-q1",
+      "type": "choice",
+      "prompt": "When is the trip?",
+      "options": [
+        "on Wednesday",
+        "on Friday",
+        "on Monday"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«On Friday, 14 March». Chorshanba — qogʻozni qaytarish kuni."
+      },
+      "para": 0
+    },
+    {
+      "id": "a1-05-trip-q2",
+      "type": "tfng",
+      "statement": "Students must come to school at 8:30.",
+      "answer": "F",
+      "explain": {
+        "uz": "Kelish vaqti 8:15; 8:30 da avtobus joʻnaydi."
+      },
+      "para": 1
+    },
+    {
+      "id": "a1-05-trip-q3",
+      "type": "tfng",
+      "statement": "The class comes back at 3 o'clock.",
+      "answer": "T",
+      "explain": {
+        "uz": "«We come back at 3 o'clock.»"
+      },
+      "para": 1
+    },
+    {
+      "id": "a1-05-trip-q4",
+      "type": "choice",
+      "prompt": "How much is the ticket?",
+      "options": [
+        "20,000 sum",
+        "2,000 sum",
+        "It is free."
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "«The ticket costs 20,000 sum.»"
+      },
+      "para": 2
+    },
+    {
+      "id": "a1-05-trip-q5",
+      "type": "tfng",
+      "statement": "Students can eat their lunch in the museum.",
+      "answer": "F",
+      "explain": {
+        "uz": "«You can't eat in the museum» — yonidagi bogʻda yeyish mumkin."
+      },
+      "para": 2
+    },
+    {
+      "id": "a1-05-trip-q6",
+      "type": "choice",
+      "prompt": "Who must sign the paper?",
+      "options": [
+        "the teacher",
+        "the students' parents",
+        "the museum"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«Please give this paper to your parents. They must sign it.»"
+      },
+      "para": 3
+    },
+    {
+      "id": "a1-05-trip-q7",
+      "type": "gap",
+      "prompt": "Students give the paper back to Ms ___.",
+      "answers": [
+        "Karimova"
+      ],
+      "explain": {
+        "uz": "«Bring it back to Ms Karimova by Wednesday.»"
+      },
+      "para": 3
+    }
+  ]
+}

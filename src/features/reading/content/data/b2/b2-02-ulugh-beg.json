@@ -1,0 +1,255 @@
+{
+  "id": "b2-02-ulugh-beg",
+  "title": {
+    "uz": "Ulugʻbek rasadxonasi"
+  },
+  "en": "Ulugh Beg's Observatory",
+  "level": "B2",
+  "kind": "exam",
+  "tag": {
+    "uz": "Tarix va fan",
+    "en": "History and science"
+  },
+  "intro": {
+    "uz": "Topshiriq: Matching headings. Har bir xatboshi uchun eng mos sarlavhani tanlang. Avval xatboshining asosiy gʻoyasini bitta jumlada oʻzingizga ayting, keyin sarlavhalarni oʻqing. Bitta soʻz mos kelgani yetarli emas!"
+  },
+  "paragraphs": [
+    {
+      "en": "In the 1420s, the governor of Samarkand did something unusual for a ruler: he built a scientific institution. Mirzo Ulugh Beg, the grandson of Amir Temur, was more interested in the stars than in war. On a hill outside the city, he constructed an observatory that was one of the most advanced in the world at that time."
+    },
+    {
+      "en": "The heart of the building was an enormous instrument, a curved structure cut partly into the rock, with a radius of around forty metres. Using it, astronomers could measure the position of the Sun and other celestial bodies with remarkable accuracy. Because there were no telescopes yet, size was the key to precision: the bigger the instrument, the smaller the errors."
+    },
+    {
+      "en": "The most famous result of this work was a star catalogue listing the positions of about a thousand stars. It was the most accurate star catalogue made since ancient times, and scholars continued to study it for centuries. Ulugh Beg and his team also calculated the length of the year with an error of only about a minute."
+    },
+    {
+      "en": "Sadly, the observatory did not survive its creator for long. After Ulugh Beg was killed in 1449, the building was abandoned and gradually destroyed. For more than four centuries, its exact location was forgotten."
+    },
+    {
+      "en": "In 1908, the archaeologist Vasily Vyatkin found the remains of the great instrument underground. Today, visitors to Samarkand can walk down into the surviving part of it and visit a small museum nearby, which tells the story of a ruler who chose science."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "ruler",
+      "uz": "hukmdor"
+    },
+    {
+      "en": "institution",
+      "uz": "muassasa"
+    },
+    {
+      "en": "observatory",
+      "uz": "rasadxona"
+    },
+    {
+      "en": "enormous",
+      "uz": "ulkan"
+    },
+    {
+      "en": "curved",
+      "uz": "egri, yoysimon"
+    },
+    {
+      "en": "radius",
+      "uz": "radius"
+    },
+    {
+      "en": "accuracy / precision",
+      "uz": "aniqlik"
+    },
+    {
+      "en": "catalogue",
+      "uz": "katalog, roʻyxat"
+    },
+    {
+      "en": "scholar",
+      "uz": "olim"
+    },
+    {
+      "en": "survive",
+      "uz": "saqlanib qolmoq; omon qolmoq"
+    },
+    {
+      "en": "abandon",
+      "uz": "tashlab ketmoq"
+    },
+    {
+      "en": "gradually",
+      "uz": "asta-sekin"
+    },
+    {
+      "en": "remains",
+      "uz": "qoldiqlar"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "i60-the-more",
+      "title": {
+        "uz": "the bigger …, the smaller …"
+      },
+      "example": "the bigger the instrument, the smaller the errors"
+    },
+    {
+      "topicId": "i30-passive-tenses",
+      "title": {
+        "uz": "Majhul nisbat: was killed, was abandoned"
+      },
+      "example": "the building was abandoned and gradually destroyed"
+    }
+  ],
+  "questions": [
+    {
+      "id": "b2-02-ulugh-beg-q1",
+      "type": "heading",
+      "para": 0,
+      "options": [
+        "A rediscovery",
+        "A ruler who preferred science",
+        "Bigger meant more accurate",
+        "A lasting scientific achievement",
+        "The end of a great project",
+        "Teaching astronomy to children"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "Xatboshi A: Ulugʻbek urushdan koʻra yulduzlarga qiziqqan hukmdor."
+      }
+    },
+    {
+      "id": "b2-02-ulugh-beg-q2",
+      "type": "heading",
+      "para": 1,
+      "options": [
+        "A rediscovery",
+        "A ruler who preferred science",
+        "Bigger meant more accurate",
+        "A lasting scientific achievement",
+        "The end of a great project",
+        "Teaching astronomy to children"
+      ],
+      "answer": 2,
+      "explain": {
+        "uz": "Xatboshi B: asbob qancha katta boʻlsa, xato shuncha kam."
+      }
+    },
+    {
+      "id": "b2-02-ulugh-beg-q3",
+      "type": "heading",
+      "para": 2,
+      "options": [
+        "A rediscovery",
+        "A ruler who preferred science",
+        "Bigger meant more accurate",
+        "A lasting scientific achievement",
+        "The end of a great project",
+        "Teaching astronomy to children"
+      ],
+      "answer": 3,
+      "explain": {
+        "uz": "Xatboshi C: yulduzlar katalogi asrlar davomida oʻrganilgan — ahamiyatini yoʻqotmagan yutuq."
+      }
+    },
+    {
+      "id": "b2-02-ulugh-beg-q4",
+      "type": "heading",
+      "para": 3,
+      "options": [
+        "A rediscovery",
+        "A ruler who preferred science",
+        "Bigger meant more accurate",
+        "A lasting scientific achievement",
+        "The end of a great project",
+        "Teaching astronomy to children"
+      ],
+      "answer": 4,
+      "explain": {
+        "uz": "Xatboshi D: Ulugʻbek oʻlimidan keyin rasadxona tashlab ketilgan va buzilgan."
+      }
+    },
+    {
+      "id": "b2-02-ulugh-beg-q5",
+      "type": "heading",
+      "para": 4,
+      "options": [
+        "A rediscovery",
+        "A ruler who preferred science",
+        "Bigger meant more accurate",
+        "A lasting scientific achievement",
+        "The end of a great project",
+        "Teaching astronomy to children"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "Xatboshi E: 1908-yilda Vyatkin qoldiqlarni topgan — qayta kashfiyot."
+      }
+    },
+    {
+      "id": "b2-02-ulugh-beg-q6",
+      "type": "choice",
+      "prompt": "Why was the main instrument so large?",
+      "options": [
+        "to impress visitors to Samarkand",
+        "because a larger instrument gave more accurate results",
+        "because it had to be cut into the rock"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«size was the key to precision: the bigger the instrument, the smaller the errors»."
+      },
+      "para": 1
+    },
+    {
+      "id": "b2-02-ulugh-beg-q7",
+      "type": "tfng",
+      "statement": "Ulugh Beg used telescopes to observe the stars.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«there were no telescopes yet» — teleskop hali yoʻq edi."
+      },
+      "para": 1
+    },
+    {
+      "id": "b2-02-ulugh-beg-q8",
+      "type": "tfng",
+      "statement": "Ulugh Beg's team included more than a hundred astronomers.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Matnda «his team» deyilgan, lekin necha kishi ekani aytilmagan."
+      },
+      "para": 2
+    },
+    {
+      "id": "b2-02-ulugh-beg-q9",
+      "type": "choice",
+      "prompt": "What happened after Ulugh Beg died?",
+      "options": [
+        "The observatory was moved to Bukhara.",
+        "The building was left and slowly destroyed.",
+        "His students built a new observatory."
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«the building was abandoned and gradually destroyed»."
+      },
+      "para": 3
+    },
+    {
+      "id": "b2-02-ulugh-beg-q10",
+      "type": "gap",
+      "prompt": "Near the remains of the instrument, visitors can also see a small ___.",
+      "answers": [
+        "museum"
+      ],
+      "maxWords": 1,
+      "explain": {
+        "uz": "«visit a small museum nearby»."
+      },
+      "para": 4
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "id": "a2-05-grandpa",
+  "title": {
+    "uz": "Bobomning yoshligi"
+  },
+  "en": "My Grandfather's Youth",
+  "level": "A2",
+  "kind": "biography",
+  "tag": {
+    "uz": "Oila tarixi",
+    "en": "Family history"
+  },
+  "intro": {
+    "uz": "Nevara bobosining yoshligi haqida yozadi. Oʻqishdan oldin: bobongiz yoki buvingiz yoshligida qanday yashagan?"
+  },
+  "paragraphs": [
+    {
+      "en": "My grandfather, Rustam, is seventy-eight years old. He was born in a small village near Kokand. Last weekend I asked him about his youth, and he talked for two hours. Here is his story.",
+      "uz": "Bobom Rustam yetmish sakkiz yoshda. U Qoʻqon yaqinidagi kichik qishloqda tugʻilgan. Oʻtgan dam olish kuni undan yoshligi haqida soʻradim, u ikki soat gapirib berdi. Mana uning hikoyasi."
+    },
+    {
+      "en": "When he was a boy, life was much harder than today. There was no television in the village, and only a few families had a radio. My grandfather had to walk five kilometres to school every morning, even in winter.",
+      "uz": "U bolaligida hayot bugungidan ancha ogʻir edi. Qishloqda televizor yoʻq edi, faqat bir nechta oilada radio bor edi. Bobom har kuni ertalab, hatto qishda ham, maktabga besh kilometr piyoda borishi kerak edi."
+    },
+    {
+      "en": "After school, he used to help his father with the sheep. In summer, he and his friends swam in the river and climbed apricot trees. They didn't have many toys, but they made balls from old cloth and played until dark.",
+      "uz": "Darsdan keyin u otasiga qoʻylarni boqishda yordam berardi. Yozda doʻstlari bilan daryoda suzib, oʻrik daraxtlariga chiqishardi. Ularning oʻyinchoqlari koʻp emas edi, lekin eski matodan toʻp yasab, qorongʻi tushguncha oʻynashardi."
+    },
+    {
+      "en": "At eighteen, he moved to Tashkent and studied to be an engineer. He worked at a factory for almost forty years and built machines. He met my grandmother at the factory, and he says she was the best worker there.",
+      "uz": "Oʻn sakkiz yoshida u Toshkentga koʻchib bordi va muhandislikka oʻqidi. U qariyb qirq yil zavodda ishlab, mashinalar yasadi. Buvim bilan oʻsha zavodda tanishgan va uning aytishicha, buvim u yerdagi eng yaxshi ishchi boʻlgan."
+    },
+    {
+      "en": "Today my grandfather lives with us. He still gets up early and walks in the park every morning. I think his life was harder than mine, but he was happy. I'm going to write his story in a notebook so I never forget it.",
+      "uz": "Hozir bobom biz bilan yashaydi. U hali ham erta turadi va har kuni ertalab bogʻda sayr qiladi. Menimcha, uning hayoti menikidan ogʻirroq boʻlgan, lekin u baxtli edi. Uning hikoyasini hech qachon unutmaslik uchun daftarga yozib qoʻymoqchiman."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "youth",
+      "uz": "yoshlik"
+    },
+    {
+      "en": "be born",
+      "uz": "tugʻilmoq"
+    },
+    {
+      "en": "village",
+      "uz": "qishloq"
+    },
+    {
+      "en": "even",
+      "uz": "hatto"
+    },
+    {
+      "en": "sheep",
+      "uz": "qoʻy"
+    },
+    {
+      "en": "climb",
+      "uz": "chiqmoq, tirmashmoq"
+    },
+    {
+      "en": "apricot",
+      "uz": "oʻrik"
+    },
+    {
+      "en": "cloth",
+      "uz": "mato, latta"
+    },
+    {
+      "en": "engineer",
+      "uz": "muhandis"
+    },
+    {
+      "en": "factory",
+      "uz": "zavod, fabrika"
+    },
+    {
+      "en": "notebook",
+      "uz": "daftar"
+    },
+    {
+      "en": "forget",
+      "uz": "unutmoq"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "e28-have-to",
+      "title": {
+        "uz": "had to — majbur edi"
+      },
+      "example": "My grandfather had to walk five kilometres to school every morning"
+    },
+    {
+      "topicId": "e11-used-to",
+      "title": {
+        "uz": "used to — ilgari qilardi"
+      },
+      "example": "After school, he used to help his father with the sheep."
+    }
+  ],
+  "questions": [
+    {
+      "id": "a2-05-grandpa-q1",
+      "type": "gap",
+      "prompt": "Rustam is ___ years old.",
+      "answers": [
+        "seventy-eight",
+        "78",
+        "seventy eight"
+      ],
+      "explain": {
+        "uz": "«is seventy-eight years old»."
+      },
+      "para": 0
+    },
+    {
+      "id": "a2-05-grandpa-q2",
+      "type": "tfng",
+      "statement": "Rustam was born in Tashkent.",
+      "answer": "F",
+      "explain": {
+        "uz": "U Qoʻqon yaqinidagi qishloqda tugʻilgan: «born in a small village near Kokand»."
+      },
+      "para": 0
+    },
+    {
+      "id": "a2-05-grandpa-q3",
+      "type": "choice",
+      "prompt": "How did Rustam go to school?",
+      "options": [
+        "by bus",
+        "on foot",
+        "by horse"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«had to walk five kilometres to school» — piyoda borgan."
+      },
+      "para": 1
+    },
+    {
+      "id": "a2-05-grandpa-q4",
+      "type": "tfng",
+      "statement": "Every family in the village had a radio.",
+      "answer": "F",
+      "explain": {
+        "uz": "«only a few families had a radio»."
+      },
+      "para": 1
+    },
+    {
+      "id": "a2-05-grandpa-q5",
+      "type": "choice",
+      "prompt": "What did the children make their balls from?",
+      "options": [
+        "old cloth",
+        "apricots",
+        "paper"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "«they made balls from old cloth»."
+      },
+      "para": 2
+    },
+    {
+      "id": "a2-05-grandpa-q6",
+      "type": "tfng",
+      "statement": "Rustam met his wife at the factory.",
+      "answer": "T",
+      "explain": {
+        "uz": "«He met my grandmother at the factory»."
+      },
+      "para": 3
+    },
+    {
+      "id": "a2-05-grandpa-q7",
+      "type": "gap",
+      "prompt": "Rustam worked at a factory for almost ___ years.",
+      "answers": [
+        "forty",
+        "40"
+      ],
+      "explain": {
+        "uz": "«He worked at a factory for almost forty years»."
+      },
+      "para": 3
+    },
+    {
+      "id": "a2-05-grandpa-q8",
+      "type": "choice",
+      "prompt": "Why is the writer going to write the story in a notebook?",
+      "options": [
+        "for a school project",
+        "so the story is never forgotten",
+        "because the grandfather asked for it"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«I'm going to write his story in a notebook so I never forget it»."
+      },
+      "para": 4
+    }
+  ]
+}

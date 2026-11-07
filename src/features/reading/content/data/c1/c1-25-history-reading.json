@@ -1,0 +1,302 @@
+{
+  "id": "c1-25-history-reading",
+  "title": {
+    "uz": "Kitobxonlik tarixi"
+  },
+  "en": "A Short History of Reading",
+  "level": "C1",
+  "kind": "exam",
+  "tag": {
+    "uz": "Madaniyat tarixi",
+    "en": "Cultural history"
+  },
+  "intro": {
+    "uz": "Akademik matn: ovoz chiqarib oʻqishdan ichida oʻqishgacha, kitob bosish, ommaviy savodxonlik va ekrandan oʻqish. Asosiy topshiriq — Summary completion (NO MORE THAN TWO WORDS): xulosadagi boʻshliqlarni matndagi soʻzlar bilan aynan toʻldiring. Taxminan 20 daqiqa: avval xulosani oʻqib, har bir boʻshliqqa qanday soʻz turkumi (ot, sifat) kerakligini aniqlang, soʻngra matnda sinonim va parafrazlarni qidiring — xulosa gaplari matn tartibida keladi."
+  },
+  "paragraphs": [
+    {
+      "en": "Reading is so deeply embedded in modern life that it is easy to assume it has always been practised in much the same way. Historians of the book have shown, however, that the act itself has undergone a series of profound transformations. Who read, what they read, how they held and handled texts, and even whether they read aloud or in silence have all varied considerably across time and place. Recognising these changes can help to place current anxieties about reading in a longer perspective."
+    },
+    {
+      "en": "For much of antiquity, reading appears to have been a predominantly oral activity. Greek and Latin texts were often written without spaces between words, a practice that made it difficult to decipher a line without sounding it out. Reading was also frequently social: a literate person might read to a household, and wealthy Romans sometimes employed slaves to read aloud to them. Scholars have cautioned against exaggerating this picture, since there is evidence that silent reading was not unknown in the ancient world. Nevertheless, the voice seems to have been far more central to the experience of a text than it is for most readers today."
+    },
+    {
+      "en": "A frequently cited passage in the Confessions of Augustine, written around the end of the fourth century, records his surprise at observing Ambrose, the bishop of Milan, reading with his eyes moving over the page while his voice remained silent. Whether this reaction reflects genuine rarity or merely Augustine's interest in the bishop's personal habits is disputed. What is clearer is that, over the course of the Middle Ages, scribes increasingly separated words and introduced punctuation, changes that are thought to have made silent reading easier. Private reading, in turn, opened the way for more personal and reflective engagement with texts."
+    },
+    {
+      "en": "The introduction of printing with movable type in Europe in the mid-fifteenth century, associated above all with Johannes Gutenberg in Mainz, transformed the economics of the written word, although similar techniques had been developed considerably earlier in East Asia. Books that had once been copied laboriously by hand could now be produced in hundreds of identical copies, and prices gradually fell. Printing also encouraged the standardisation of spelling and texts, since large numbers of readers could now consult exactly the same edition. It would be wrong, however, to imagine that printing immediately created a mass reading public; for several centuries, literacy remained confined largely to a minority."
+    },
+    {
+      "en": "Mass literacy is, in most societies, a relatively recent achievement. In parts of Europe and North America, the nineteenth century brought compulsory schooling, cheap newspapers and public libraries, and by the early twentieth century the ability to read had become an expectation rather than a privilege in many countries. This expansion was not universally welcomed. Already in the eighteenth century, some commentators had warned of a reading mania, fearing that novels would overheat the imagination of young readers, particularly women, and distract them from their duties. Such warnings now seem quaint, but they reveal a recurring pattern in which new forms of reading provoke moral concern."
+    },
+    {
+      "en": "The latest transformation is the move to screens. Reading online tends to be fragmented: readers skim, follow links and switch between texts, often while receiving notifications. A number of studies comparing comprehension on paper and on screen have found a modest advantage for paper, particularly for long or complex texts, though the results are not entirely consistent and may change as readers grow more accustomed to digital formats. Some researchers have suggested that the habit of skimming may gradually erode the capacity for sustained, deep reading, while others argue that readers can learn to switch deliberately between modes."
+    },
+    {
+      "en": "Seen in historical perspective, the present moment is less unprecedented than it may appear. Each major shift, from voice to silence, from manuscript to print and from elite to mass readership, prompted fears that something valuable was being lost, and each was accompanied by real gains as well as real costs. The lesson is perhaps not that worries about screens are misplaced, but that the kind of reading a society values must be deliberately cultivated rather than taken for granted."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "embedded",
+      "uz": "singib ketgan, chuqur oʻrnashgan"
+    },
+    {
+      "en": "undergo",
+      "uz": "boshdan kechirmoq"
+    },
+    {
+      "en": "predominantly",
+      "uz": "asosan, koʻproq"
+    },
+    {
+      "en": "decipher",
+      "uz": "oʻqib tushunmoq, sirini ochmoq"
+    },
+    {
+      "en": "caution against",
+      "uz": "… dan ogohlantirmoq"
+    },
+    {
+      "en": "scribe",
+      "uz": "kotib, xattot-koʻchiruvchi"
+    },
+    {
+      "en": "engagement with",
+      "uz": "… bilan chuqur ishlash, muloqot"
+    },
+    {
+      "en": "movable type",
+      "uz": "koʻchma harf (bosmaxonada)"
+    },
+    {
+      "en": "laboriously",
+      "uz": "mashaqqat bilan"
+    },
+    {
+      "en": "standardisation",
+      "uz": "bir xillashtirish, standartlashtirish"
+    },
+    {
+      "en": "confined to",
+      "uz": "… bilan cheklangan"
+    },
+    {
+      "en": "compulsory",
+      "uz": "majburiy"
+    },
+    {
+      "en": "quaint",
+      "uz": "gʻalati-eskicha, kulgili koʻrinadigan"
+    },
+    {
+      "en": "fragmented",
+      "uz": "parchalangan, uzuq-yuluq"
+    },
+    {
+      "en": "skim",
+      "uz": "koʻz yugurtirib oʻqimoq"
+    },
+    {
+      "en": "erode",
+      "uz": "asta-sekin yemirmoq"
+    },
+    {
+      "en": "unprecedented",
+      "uz": "misli koʻrilmagan"
+    },
+    {
+      "en": "cultivate",
+      "uz": "tarbiyalamoq, rivojlantirmoq"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "c14-complex-passive",
+      "title": {
+        "uz": "Murakkab majhul nisbat: are thought to have made"
+      },
+      "example": "changes that are thought to have made silent reading easier"
+    },
+    {
+      "topicId": "c60-nominalisation",
+      "title": {
+        "uz": "Nominalizatsiya: The introduction of printing …"
+      },
+      "example": "The introduction of printing with movable type in Europe in the mid-fifteenth century"
+    }
+  ],
+  "questions": [
+    {
+      "id": "c1-25-history-reading-q1",
+      "type": "gap",
+      "prompt": "Summary: In antiquity, Greek and Latin texts were often written without ___ between words, which made reading aloud almost necessary.",
+      "answers": [
+        "spaces"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«often written without spaces between words, a practice that made it difficult to decipher a line without sounding it out»."
+      },
+      "para": 1
+    },
+    {
+      "id": "c1-25-history-reading-q2",
+      "type": "gap",
+      "prompt": "Summary: Reading was often a social activity, and wealthy Romans sometimes had ___ read to them.",
+      "answers": [
+        "slaves"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«wealthy Romans sometimes employed slaves to read aloud to them»."
+      },
+      "para": 1
+    },
+    {
+      "id": "c1-25-history-reading-q3",
+      "type": "gap",
+      "prompt": "Summary: During the Middle Ages, scribes separated words and added ___, which probably made silent reading easier.",
+      "answers": [
+        "punctuation"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«scribes increasingly separated words and introduced punctuation» — «added» = «introduced»."
+      },
+      "para": 2
+    },
+    {
+      "id": "c1-25-history-reading-q4",
+      "type": "gap",
+      "prompt": "Summary: Printing reduced the price of books and encouraged the ___ of spelling and texts.",
+      "answers": [
+        "standardisation",
+        "standardization"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«Printing also encouraged the standardisation of spelling and texts»."
+      },
+      "para": 3
+    },
+    {
+      "id": "c1-25-history-reading-q5",
+      "type": "gap",
+      "prompt": "Summary: In the nineteenth century, compulsory schooling, cheap newspapers and ___ helped to spread literacy.",
+      "answers": [
+        "public libraries"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«the nineteenth century brought compulsory schooling, cheap newspapers and public libraries»."
+      },
+      "para": 4
+    },
+    {
+      "id": "c1-25-history-reading-q6",
+      "type": "gap",
+      "prompt": "Summary: Even earlier, some critics had warned of a ___ that might overheat the imagination of the young.",
+      "answers": [
+        "reading mania"
+      ],
+      "maxWords": 2,
+      "explain": {
+        "uz": "«some commentators had warned of a reading mania, fearing that novels would overheat the imagination»."
+      },
+      "para": 4
+    },
+    {
+      "id": "c1-25-history-reading-q7",
+      "type": "tfng",
+      "statement": "Historians agree that silent reading was completely unknown in the ancient world.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«there is evidence that silent reading was not unknown in the ancient world» — butunlay nomaʼlum boʻlmagan."
+      },
+      "para": 1
+    },
+    {
+      "id": "c1-25-history-reading-q8",
+      "type": "tfng",
+      "statement": "Augustine himself preferred reading aloud to reading silently.",
+      "answer": "NG",
+      "ng": true,
+      "explain": {
+        "uz": "Matnda Avgustinning Ambroziyni koʻrib hayron boʻlgani aytilgan, lekin uning oʻzi qanday oʻqishni afzal koʻrgani haqida maʼlumot yoʻq."
+      },
+      "para": 2
+    },
+    {
+      "id": "c1-25-history-reading-q9",
+      "type": "tfng",
+      "statement": "Printing with movable type was developed in Europe before anywhere else.",
+      "answer": "F",
+      "ng": true,
+      "explain": {
+        "uz": "«similar techniques had been developed considerably earlier in East Asia»."
+      },
+      "para": 3
+    },
+    {
+      "id": "c1-25-history-reading-q10",
+      "type": "tfng",
+      "statement": "The arrival of printing did not immediately make reading a widespread skill.",
+      "answer": "T",
+      "ng": true,
+      "explain": {
+        "uz": "«It would be wrong … to imagine that printing immediately created a mass reading public; for several centuries, literacy remained confined largely to a minority»."
+      },
+      "para": 3
+    },
+    {
+      "id": "c1-25-history-reading-q11",
+      "type": "choice",
+      "prompt": "Why does the writer mention eighteenth-century warnings about a reading mania?",
+      "options": [
+        "to prove that novels were harmful to young readers",
+        "to show that new forms of reading have repeatedly caused moral anxiety",
+        "to explain why women were discouraged from going to school",
+        "to argue that modern concerns about screens are foolish"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«they reveal a recurring pattern in which new forms of reading provoke moral concern». D variant notoʻgʻri: G xatboshida muallif ekran haqidagi xavotirlar «misplaced» emas deydi."
+      },
+      "para": 4
+    },
+    {
+      "id": "c1-25-history-reading-q12",
+      "type": "choice",
+      "prompt": "According to paragraph F, what do researchers disagree about?",
+      "options": [
+        "whether people read more on screens than on paper",
+        "whether skimming gradually weakens deep reading or can be managed by readers",
+        "whether notifications should be switched off while reading",
+        "whether long texts should be published only on paper"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«Some researchers have suggested that the habit of skimming may gradually erode the capacity for sustained, deep reading, while others argue that readers can learn to switch deliberately between modes»."
+      },
+      "para": 5
+    },
+    {
+      "id": "c1-25-history-reading-q13",
+      "type": "choice",
+      "prompt": "What is the writer's main conclusion?",
+      "options": [
+        "Concerns about reading on screens are completely unjustified.",
+        "Every change in reading has brought only losses.",
+        "The kind of reading a society values needs to be actively developed.",
+        "Society should return to reading printed books only."
+      ],
+      "answer": 2,
+      "explain": {
+        "uz": "«the kind of reading a society values must be deliberately cultivated rather than taken for granted». Har bir oʻzgarish «real gains as well as real costs» olib kelgan — B variant notoʻgʻri."
+      },
+      "para": 6
+    }
+  ]
+}

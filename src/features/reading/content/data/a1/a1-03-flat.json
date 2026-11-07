@@ -1,0 +1,178 @@
+{
+  "id": "a1-03-flat",
+  "title": {
+    "uz": "Bizning kvartiramiz"
+  },
+  "en": "Our Flat",
+  "level": "A1",
+  "kind": "story",
+  "tag": {
+    "uz": "Uy",
+    "en": "Home"
+  },
+  "intro": {
+    "uz": "Bir bola uyini tasvirlaydi. Oʻqishdan oldin: sizning xonangizda nimalar bor?"
+  },
+  "paragraphs": [
+    {
+      "en": "We live in a flat in Chilonzor. It is on the fourth floor. The building has a lift, but it is often broken!",
+      "uz": "Biz Chilonzordagi kvartirada yashaymiz. U toʻrtinchi qavatda. Binoda lift bor, lekin u tez-tez buzilib qoladi!"
+    },
+    {
+      "en": "Our flat has three rooms, a kitchen and a bathroom. The living room is big. There is a sofa, a TV and a big carpet on the floor. My grandmother's room is next to the kitchen.",
+      "uz": "Kvartiramizda uchta xona, oshxona va hammom bor. Mehmonxona katta. U yerda divan, televizor va polda katta gilam bor. Buvimning xonasi oshxonaning yonida."
+    },
+    {
+      "en": "My room is small, but I love it. There is a bed, a desk and a bookshelf. My computer is on the desk. From my window I can see a park.",
+      "uz": "Mening xonam kichkina, lekin men uni yaxshi koʻraman. Unda karavot, yozuv stoli va kitob javoni bor. Kompyuterim stol ustida. Derazamdan bogʻni koʻra olaman."
+    }
+  ],
+  "glossary": [
+    {
+      "en": "flat",
+      "uz": "kvartira"
+    },
+    {
+      "en": "floor",
+      "uz": "qavat; pol"
+    },
+    {
+      "en": "building",
+      "uz": "bino"
+    },
+    {
+      "en": "often",
+      "uz": "tez-tez, koʻpincha"
+    },
+    {
+      "en": "broken",
+      "uz": "buzilgan, singan"
+    },
+    {
+      "en": "living room",
+      "uz": "mehmonxona (uydagi xona)"
+    },
+    {
+      "en": "carpet",
+      "uz": "gilam"
+    },
+    {
+      "en": "next to",
+      "uz": "yonida"
+    },
+    {
+      "en": "desk",
+      "uz": "yozuv stoli"
+    },
+    {
+      "en": "bookshelf",
+      "uz": "kitob javoni"
+    },
+    {
+      "en": "window",
+      "uz": "deraza"
+    }
+  ],
+  "grammar": [
+    {
+      "topicId": "b14-there-is",
+      "title": {
+        "uz": "there is / there are"
+      },
+      "example": "There is a bed, a desk and a bookshelf."
+    },
+    {
+      "topicId": "b16-prepositions-place",
+      "title": {
+        "uz": "Joy predloglari: on, next to"
+      },
+      "example": "My computer is on the desk."
+    }
+  ],
+  "questions": [
+    {
+      "id": "a1-03-flat-q1",
+      "type": "tfng",
+      "statement": "The family lives in a house.",
+      "answer": "F",
+      "explain": {
+        "uz": "Ular kvartirada yashaydi: «We live in a flat»."
+      },
+      "para": 0
+    },
+    {
+      "id": "a1-03-flat-q2",
+      "type": "choice",
+      "prompt": "Which floor is the flat on?",
+      "options": [
+        "the second",
+        "the fourth",
+        "the fifth"
+      ],
+      "answer": 1,
+      "explain": {
+        "uz": "«It is on the fourth floor.»"
+      },
+      "para": 0
+    },
+    {
+      "id": "a1-03-flat-q3",
+      "type": "tfng",
+      "statement": "The lift always works.",
+      "answer": "F",
+      "explain": {
+        "uz": "Lift tez-tez buziladi: «it is often broken»."
+      },
+      "para": 0
+    },
+    {
+      "id": "a1-03-flat-q4",
+      "type": "choice",
+      "prompt": "What is on the floor in the living room?",
+      "options": [
+        "a carpet",
+        "a bed",
+        "a desk"
+      ],
+      "answer": 0,
+      "explain": {
+        "uz": "«a big carpet on the floor» — bu yerda floor = pol."
+      },
+      "para": 1
+    },
+    {
+      "id": "a1-03-flat-q5",
+      "type": "tfng",
+      "statement": "The grandmother's room is next to the bathroom.",
+      "answer": "F",
+      "explain": {
+        "uz": "Buvining xonasi oshxona yonida: «next to the kitchen»."
+      },
+      "para": 1
+    },
+    {
+      "id": "a1-03-flat-q6",
+      "type": "gap",
+      "prompt": "The computer is on the ___.",
+      "answers": [
+        "desk"
+      ],
+      "explain": {
+        "uz": "«My computer is on the desk.»"
+      },
+      "para": 2
+    },
+    {
+      "id": "a1-03-flat-q7",
+      "type": "gap",
+      "prompt": "From the window you can see a ___.",
+      "answers": [
+        "park"
+      ],
+      "explain": {
+        "uz": "«From my window I can see a park.»"
+      },
+      "para": 2
+    }
+  ]
+}
