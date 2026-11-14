@@ -2,7 +2,7 @@ import { useEffect } from 'react';
 import { AppState } from 'react-native';
 import { computeStreak, getActivity } from '../../core/progress/activity';
 import { dueTexts, getAllProgress } from '../../features/reading/services/progress';
-import { scheduleReminders } from '../../services/notifications/reminders';
+import { askPermissionOnce, scheduleReminders } from '../../services/notifications/reminders';
 import { useSettings } from './SettingsContext';
 
 /** Uygulama açılınca, arka plana geçince ve ayar değişince hatırlatmaları yeniden planlar */
@@ -23,7 +23,8 @@ export default function useReminderScheduler() {
         t,
       });
     };
-    run().catch(e => console.warn('[reminders]', e));
+    // İzin sadece ilk açılışta bir kez sorulur; sonraki planlamalar izin penceresi açmaz
+    askPermissionOnce().finally(() => run().catch(e => console.warn('[reminders]', e)));
     const sub = AppState.addEventListener('change', st => {
       if (st === 'background' || st === 'active') {
         run().catch(() => undefined);
